@@ -20,7 +20,9 @@ Cada canción debe seguir este orden:
 1. **Entender el tema educativo** — ¿Qué aprende el niño?
 2. **Definir el objetivo pedagógico** — Concepto específico a reforzar (colores, números, emociones, etc.)
 3. **Definir edad objetivo** — Dentro del rango 2–6 años, ajustar complejidad
-4. **Revisar feedback-learning-loop.md** — Si existe historial previo, aplicar aprendizajes ya registrados y evitar errores detectados
+4. **Consultar feedback-learning-loop.md automáticamente** — Buscar en dos secciones:
+   - **"Reglas activas aprendidas"** — Aplicar reglas generales registradas
+   - **"Histórico de Generaciones por Tema+Edad"** — Consultar histórico específico de tema+edad. Si existen generaciones previas del mismo tema/edad, revisar: qué estructuras se usaron, qué problemas ocurrieron, qué ajustes los arreglaron. Aplicar proactivamente esos ajustes para evitar errores conocidos.
 5. **Definir energía y tempo** — Activa, tranquila, de movimiento, de rutina
 6. **Analizar referencias de competencia** — Si el usuario aporta links, títulos o canciones de referencia, extraer:
    - Estructura de secciones
@@ -98,23 +100,48 @@ Cada entrega debe incluir los siguientes bloques, en este orden:
 
 ## Aprendizaje continuo
 
-Esta skill mejora a lo largo del tiempo mediante un **sistema de retroalimentación y registro**:
+Esta skill mejora a lo largo del tiempo mediante un **sistema de auto-logging y retroalimentación**:
 
-- **Cada corrección aprobada** por el usuario se puede registrar en `feedback-learning-loop.md`
-- **Cada patrón efectivo** descubierto en Mureka se documenta para futuras canciones
-- **Cada error evitado** se registra para no repetirlo
-- **Cada decisión creativa aprobada** queda como referencia de marca
+### Auto-logging automático (Opción 1: Pre-flight Check + Iteración interna)
 
-### Cómo funciona el aprendizaje
+Después de generar cada canción:
 
-1. El usuario corrige una letra, prompt o estructura
-2. Claude propone registrar el aprendizaje en `feedback-learning-loop.md`
-3. Se clasifica como: corrección, ajuste, patrón aprobado, error a evitar, etc.
-4. En futuras canciones, Claude revisa los aprendizajes previos y los aplica automáticamente
+1. **Claude evalúa automáticamente** contra los 9 Must-Have sin mostrar al usuario versiones fallidas
+2. **Si hay fallos**, Claude **itera internamente** ajustando letra y/o Style Prompt hasta pasar MH
+3. **Solo muestra la versión aprobada** (9/9 Must-Have)
+4. **Automáticamente registra** en `feedback-learning-loop.md > Histórico de Generaciones`:
+   - Tema + edad
+   - Estructura utilizada
+   - BPM elegido
+   - Problemas detectados (si los hubiera)
+   - Ajustes aplicados (si los hubiera)
+   - Número de iteraciones internas (invisible para usuario)
+   - Resultado final (✅ Aprobado)
+
+### Aprendizaje por patrón (Opción 2: Histórico por Tema+Edad)
+
+- **Cada generación se registra** en la tabla correspondiente de `feedback-learning-loop.md`
+- **Al acumular 2–3 generaciones del mismo tema+edad**, Claude detecta patrones automáticamente
+- **Ejemplo:** Si 3 canciones de "Números 3–4 años" fallan por "coro tardío", Claude:
+  1. Extrae el patrón: "Para Números 3–4, el coro tardío es un problema recurrente"
+  2. Actualiza "Reglas activas aprendidas": "Para Números 3–4, mover coro a segundo 10 máximo"
+  3. En futuras canciones de Números 3–4, aplica esta regla automáticamente
+
+### Integración en el flujo
+
+1. **Claude consulta automáticamente** en Paso 4 el histórico tema+edad
+2. **Aplica proactivamente** ajustes basados en generaciones previas
+3. **Genera la canción** con esos ajustes pre-aplicados
+4. **Evalúa internamente** contra MH
+5. **Si pasa:** Entrega + registra automáticamente en histórico
+6. **Si falla:** Itera internamente hasta pasar, luego entrega + registra
 
 ### Resultado
 
-La skill no olvida. Cada sesión contribuye a que las próximas canciones sean más precisas, menos propensas a errores y más alineadas con lo que el usuario ha aprobado.
+- **Sin esfuerzo del usuario** — No hay que decir "registra esto" o "esto falló"
+- **Mejoría automática** — Cada tema/edad/estructura se optimiza con el uso
+- **Memoria acumulativa** — La skill nunca comete dos veces el mismo error en un contexto dado
+- **Transparencia** — Al final de cada sesión, Claude resume patrones detectados y mejoras aplicadas
 
 ---
 

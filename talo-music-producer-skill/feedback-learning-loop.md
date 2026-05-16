@@ -910,3 +910,215 @@ Style Prompt completo = [Title] + [Style] + [Mood] + [BPM] + [Instruments] + [Pr
 4. **En duda sobre un patrón** — buscar en "Decisiones creativas aprobadas" si hay precedentes
 
 Este archivo crece con cada sesión; es el **historial de experiencia** de Talo Music Producer.
+
+---
+
+## Histórico de Generaciones por Tema + Edad
+
+**NUEVO:** Este registro automático se llena cada vez que generamos una canción. Permite detectar patrones y evitar errores recurrentes en futuras canciones del mismo tema/edad.
+
+### Números (1–10)
+
+**Edad 2–3 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 3–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 5–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Colores
+
+**Edad 2–3 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 3–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 5–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Letras / Alfabeto
+
+**Edad 3–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 5–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Animales
+
+**Edad 2–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Emociones
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Movimiento / Acciones
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Rutinas (Comer, bañarse, dormir)
+
+**Edad 2–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Emociones / Comportamiento
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Inglés Básico
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Familia / Relaciones
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Comida
+
+**Edad 2–4 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Transporte
+
+**Edad 3–5 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+**Edad 4–6 años**
+| Generación | Estructura | BPM | Problemas detectados | Ajustes aplicados | Resultado |
+|---|---|---|---|---|---|
+| Pendiente | — | — | — | — | — |
+
+---
+
+### Cómo se llena este histórico
+
+**Automáticamente (Claude):**
+1. Después de generar una canción y evaluarla contra los 9 Must-Have
+2. Claude registra automáticamente: tema + edad + estructura + BPM + problemas + ajustes + resultado
+3. Esta información se integra en el histórico correspondiente
+4. En futuras canciones del mismo tema/edad, Claude consulta automáticamente este histórico y evita patrones conocidos
+
+**Consolidación:**
+- El histórico crece con cada generación
+- Al final de cada sesión (o cuando lo pidas), Claude extrae patrones y actualiza "Reglas activas aprendidas"
+- Ejemplo: Si 3 generaciones de "Números 3–4 años" fallan por "coro tardío", se agrega regla: "Para Números 3–4, mover coro a segundo 10 máximo"
