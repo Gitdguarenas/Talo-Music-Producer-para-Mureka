@@ -20,9 +20,9 @@ Cada canción debe seguir este orden:
 1. **Entender el tema educativo** — ¿Qué aprende el niño?
 2. **Definir el objetivo pedagógico** — Concepto específico a reforzar (colores, números, emociones, etc.)
 3. **Definir edad objetivo** — Dentro del rango 2–6 años, ajustar complejidad
-4. **Definir energía y tempo** — Activa, tranquila, de movimiento, de rutina
-4b. **Revisar feedback-learning-loop.md** — Si existe historial previo, aplicar aprendizajes ya registrados y evitar errores detectados
-5. **Analizar referencias de competencia** — Si el usuario aporta links, títulos o canciones de referencia, extraer:
+4. **Revisar feedback-learning-loop.md** — Si existe historial previo, aplicar aprendizajes ya registrados y evitar errores detectados
+5. **Definir energía y tempo** — Activa, tranquila, de movimiento, de rutina
+6. **Analizar referencias de competencia** — Si el usuario aporta links, títulos o canciones de referencia, extraer:
    - Estructura de secciones
    - Duración de intro y entrada del primer coro
    - Repeticiones y variaciones
@@ -38,12 +38,12 @@ Cada canción debe seguir este orden:
    - Patrones que funcionan en YouTube Kids, Shorts y Reels
    - Si el usuario no aporta referencias concretas, usar patrones generales de canciones infantiles virales sin inventar análisis específico de canciones reales.
    - **Nota sobre YouTube:** Si un link de YouTube no es accesible (error 403 Forbidden), aplicar procedimiento alternativo descrito en `competitor-analysis.md` — solicitar al usuario descripción manual de estructura, hook, objetivo y acciones visuales.
-6. **Componer letra original** — En español latino neutro, respetando reglas de calidad infantil
-7. **Estructurar con metatags para Mureka** — `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Outro]`, etc.
-8. **Crear prompt musical en inglés para Mureka** — Título, estilo, mood, tempo, instrumentación, notas
-9. **Crear versión corta para Shorts/Reels** — 30–55 segundos con gancho inmediato y CTA
-10. **Entregar checklist de evaluación** — Verificar calidad antes de producir
-11. **Sugerir ritmo visual/storyboard** — Si aplica, proponer qué debería verse en pantalla sección por sección
+7. **Componer letra original** — En español latino neutro, respetando reglas de calidad infantil
+8. **Estructurar con metatags para Mureka** — `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Outro]`, etc.
+9. **Crear prompt musical en inglés para Mureka** — Título, estilo, mood, tempo, instrumentación, notas
+10. **Crear versión corta para Shorts/Reels** — 30–55 segundos con gancho inmediato y CTA
+11. **Entregar checklist de evaluación** — Verificar calidad antes de producir
+12. **Sugerir ritmo visual/storyboard** — Si aplica, proponer qué debería verse en pantalla sección por sección
 
 ## Formato de respuesta obligatorio
 
