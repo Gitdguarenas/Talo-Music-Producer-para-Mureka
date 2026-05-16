@@ -46,6 +46,169 @@ Los siguientes canales se analizan como **referencias de mercado**, no como mode
 
 ---
 
+## Matriz: Canales Recomendados por Tema Educativo
+
+Use esta matriz para elegir **rápidamente** qué canal analizar como referencia según su tema de canción.
+
+| Tema Educativo | Canal Primario | Por Qué | Riesgo de Copia | Canal Alternativo | Notas |
+|---|---|---|---|---|---|
+| **Colores y formas** | CoComelon | Colores muy saturados, ritmo pegajoso, repetición clara | Estructura de canción es demasiado similar; variar BPM y hook | Pocoyo | Pocoyo usa formas geométricas con humor visual; menos riesgo melódico |
+| **Números y conteo** | Super Simple Songs | Conteo lineal claro, pausas entre números, edad 2-4 | El conteo 1-10 es muy estándar; agregar acción visual única de Talo | Baby Shark | Baby Shark tiene call-and-response fuerte; riesgo de copia alta en estructura |
+| **Animales y sonidos** | Canticuentos | Onomatopeyas naturales, sonidos de animales, narrativa suave | Las historias de Canticuentos son narrativas; Talo debe ser más directo/lúdico | Pocoyo | Pocoyo enfatiza exploración visual; menor énfasis en sonidos |
+| **Emociones** | Smile and Learn | Validación emocional clara, estructura sencilla, edad 3-5 | Smile and Learn es muy educativo/escolar; Talo debe sentir más lúdico | Peppa Pig | Peppa Pig maneja emociones con humor; riesgo de similitud baja |
+| **Movimiento corporal** | Baby Shark | Movimientos coreografiados, ritmo marcado, participación | RIESGO ALTO: Baby Shark es ultra-reconocible; aumentar distancia creativa en estructura y BPM | Oli y sus canciones | Oli enfatiza danza suave; menos coreografía prescrita |
+| **Rutinas diarias** | Peppa Pig | Contexto familiar, secuencia lógica, situaciones cotidianas | Peppa Pig es muy reconocible en narrativa; mantener brevedad y cambiar orden de eventos | Lunacreciente | Lunacreciente es tranquila; riesgo bajo pero menos energía |
+| **Amistad y cooperación** | CoComelon | Interacción grupal, dinámicas positivas, celebración | CoComelon tiene familia nuclear; Talo puede incluir amigos de cualquier forma | Super Simple Songs | Super Simple Songs enfatiza participación; riesgo bajo en narrativa |
+| **Naturaleza** | Mundo Mirò | Exploración visual de plantas/agua/cielo, animales en hábitat | Mundo Mirò es muy artístico; el contenido educativo es implícito; Talo debe ser más directo | Smile and Learn | Smile and Learn tiene lecciones de ciencia; riesgo de sonar muy educativo |
+| **Primeras palabras** | Super Simple Songs | Vocabulario básico repetido, palabras aisladas, edad 2-3 | Palabras básicas son universales; diferenciar en entonación y personaje | Oli y sus canciones | Oli canta palabras con movimiento; riesgo bajo |
+| **Inglés básico** | Super Simple Songs | Estructura English-Spanish bilingüe clara, repetición | Si incluyes inglés: RIESGO ALTO de sonar como Super Simple Songs; asegurar acento y ritmo latino propio | Baby Shark | Baby Shark "Baby Shark" es un hook bilingüe, pero estructura diferente |
+
+**Cómo usar esta matriz:**
+
+1. **Identifica el tema** de tu canción en la columna izquierda
+2. **Elige el canal primario** (recomendado para ese tema)
+3. **Lee el riesgo específico** para saber qué evitar en tu composición
+4. **Considera el alternativo** si ya conoces el primario o necesitas perspectiva diferente
+5. **Aplica la distancia creativa** indicada en la columna "Notas"
+
+**Regla de oro:** Si tu análisis de la referencia genera una canción que suena como el canal, **descartalo y usa patrones generales** en su lugar.
+
+---
+
+## Dos Velocidades de Análisis: Rápido vs Profundo
+
+### Decision Tree — ¿Cuándo usar cada uno?
+
+```
+¿Cuántas referencias aporta el usuario?
+├─ 1 referencia → ANÁLISIS RÁPIDO
+├─ 2 referencias → RÁPIDO o PROFUNDO (usuario elige, pero recomendado PROFUNDO)
+└─ 3+ referencias → PROFUNDO (obligatorio)
+
+¿Cuál es el acceso a la referencia?
+├─ Acceso fácil (YouTube, Spotify, link directo) → PROFUNDO
+├─ Acceso limitado (YouTube 403, video bloqueado, descripción manual) → RÁPIDO
+└─ Sin acceso directo (solo nombre/descripción usuario) → RÁPIDO
+
+¿Cuál es la complejidad del patrón?
+├─ Simple (un tema, una estructura clara, acción visual obvia) → RÁPIDO
+├─ Compleja (trama narrativa, múltiples secciones, patrones sutiles) → PROFUNDO
+└─ Crítica (riesgo alto de copia, competidor directo) → PROFUNDO OBLIGATORIO
+```
+
+**Resumen rápido:**
+- **Rápido = 2-3 minutos:** usuario tiene prisa, 1 referencia, o acceso limitado
+- **Profundo = 10-15 minutos:** análisis riguroso, múltiples referencias, resultado crítico
+
+---
+
+### ANÁLISIS RÁPIDO (2-3 minutos)
+
+Use cuando:
+- El usuario aporta solo 1 referencia
+- Acceso limitado a la referencia (YouTube bloqueado, descripción manual)
+- Tema simple y acción visual obvia
+- Usuario necesita resultado rápido
+
+**Plantilla de Análisis Rápido:**
+
+```
+Canción / referencia:
+Canal / fuente:
+URL o descripción:
+
+--- ESTRUCTURA TIMING ---
+Hook principal (¿en qué seg?):
+Estructura general: [intro XX seg] → [verso XX seg] → [coro XX seg] → [outro XX seg]
+Total duración:
+
+--- ACCIÓN VISUAL CLAVE ---
+Acciones principales (máximo 3):
+1. [acción 1]
+2. [acción 2]
+3. [acción 3]
+
+Cambio de escena o visual: Sí / No / Cada cuántos seg
+
+--- PATTERN INSIGHTS ---
+Patrón educativo: [1 línea]
+Repetición clave: [qué se repite y cuántas veces]
+
+--- DIFERENCIACIÓN PARA TALO ---
+Distancia creativa recomendada: [cómo diferenciar]
+```
+
+**Salida esperada del Análisis Rápido:**
+- 5-7 líneas de insights clave
+- No es análisis exhaustivo; es "lo que importa" para empezar
+- Usuario puede pedir Profundo si necesita más detalle
+
+---
+
+### ANÁLISIS PROFUNDO (10-15 minutos)
+
+Use cuando:
+- Usuario aporta 2+ referencias
+- Acceso fácil a la referencia
+- Tema complejo o narrativo
+- Resultado crítico (riesgo alto de copia)
+
+**Plantilla de Análisis Profundo:**
+
+```
+Canción / referencia:
+Canal / fuente:
+URL:
+Duración total:
+Tema educativo:
+Edad estimada del público:
+
+--- TIMING ---
+Entrada del hook:           seg
+Entrada del primer coro:    seg
+BPM estimado:
+Estructura por timestamps:
+  0:00 –
+  0:XX –
+  ...
+
+--- LETRA ---
+Palabras clave repetidas:
+Onomatopeyas presentes:
+Preguntas al niño:
+Instrucciones de movimiento corporal:
+
+--- ENERGÍA ---
+Cambios de energía detectados:
+Cortes o pausas dramáticas:
+
+--- RECURSOS VISUALES ---
+Acción principal en intro:
+Acción principal en coro:
+Momentos interactivos:
+
+--- PATRONES Y RIESGOS ---
+Patrones útiles para Talo:
+Riesgos de copia (elementos a evitar):
+Cómo transformarlo para Talo (distancia creativa):
+
+--- PRODUCCIÓN ---
+Prompt de Mureka inspirado en patrones generales:
+  Title:
+  Style:
+  Mood:
+  Tempo:
+  Notes:
+```
+
+**Salida esperada del Análisis Profundo:**
+- 15-20 líneas de insights detallados
+- Evaluación por cada variable (timing, letra, energía, visual)
+- Riesgos específicos de copia identificados
+- Prompt Mureka propuesto basado en patrones
+
+---
+
 ## Análisis de retención por segundos
 
 La retención del espectador infantil sigue ventanas críticas muy cortas. Cada canción de referencia debe mapearse contra esta estructura:

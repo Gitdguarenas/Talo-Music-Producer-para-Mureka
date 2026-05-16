@@ -58,24 +58,50 @@ Debe ser:
 
 ---
 
-### D. Canción con análisis de competencia
+### D1. Canción con Análisis RÁPIDO de competencia (2-3 min)
 
 ```
 Usa talo-music-producer-skill.
 Crea una canción para Mureka sobre [TEMA].
-Analiza estas referencias como patrones generales
-(estructura, timing, energía, interacción),
-sin copiar letras, melodías, estructuras reconocibles ni identidad:
-[PEGAR LINKS/TÍTULOS DE REFERENCIAS]
+Análisis RÁPIDO de referencia (no tengo tiempo para análisis profundo):
+
+Referencia: [NOMBRE / LINK / DESCRIPCIÓN]
+Canción: [TÍTULO o DESCRIPCIÓN]
 
 Entrega:
-- Análisis de patrones observados
-- Riesgos de copia identificados
-- Estructura original para Talo
+- Análisis rápido (estructura timing, hook, acciones clave)
+- Canción original sin copiar
+- Prompt Mureka en inglés
+- Versión Short/Reel
+- Mini checklist
+```
+
+---
+
+### D2. Canción con Análisis PROFUNDO de competencia (10-15 min)
+
+```
+Usa talo-music-producer-skill.
+Crea una canción para Mureka sobre [TEMA].
+Análisis PROFUNDO de múltiples referencias
+(estructura, timing, letra, energía, visual, música, riesgos de copia):
+
+Referencias: [PEGAR 2-5 LINKS/TÍTULOS]
+
+Para cada referencia entrega:
+- Timing y estructura completa
+- Análisis de letra, energía, visual
+- Patrones a aprovechar
+- Riesgos específicos de copia
+
+Entrega final:
+- Análisis profundo por referencia
+- Síntesis de patrones comunes
+- Estructura original para Talo (diferenciada de referencias)
 - Letra en español latino
 - Prompt Mureka en inglés
 - Versión Short/Reel
-- Checklist
+- Checklist completo
 ```
 
 ---
@@ -216,6 +242,24 @@ Acciones visuales:
 
 Entrega: análisis de patrones + recomendaciones para canción de Talo.
 ```
+
+---
+
+## ¿Cuándo usar Análisis Rápido vs Profundo?
+
+| Situación | Elige | Por qué |
+|---|---|---|
+| Tengo **1 sola referencia** | D1 Rápido | Suficiente para extraer 1-2 patrones |
+| Tengo **2-3 referencias** | D2 Profundo | Múltiples patrones requieren rigor |
+| Tengo **4+ referencias** | D2 Profundo | Obligatorio para síntesis de patrones |
+| **YouTube bloqueado / sin acceso** | D1 Rápido | Con descripción manual es suficiente |
+| Tengo **acceso fácil** (YouTube, Spotify) | D2 Profundo | Aprovecha acceso para análisis completo |
+| **Tengo prisa** (resultado urgente) | D1 Rápido | 2-3 min vs 10-15 min |
+| **Riesgo alto de copia** (competidor directo) | D2 Profundo | Necesita rigor para diferenciación |
+| **Tema simple** (colores, números) | D1 Rápido | Patrones obvios, no requiere profundidad |
+| **Tema complejo** (narrativa, emociones) | D2 Profundo | Múltiples capas requieren análisis |
+
+**Regla de oro:** Cuando en duda, elige D2 Profundo. Es más tiempo pero resultado superior.
 
 ---
 
