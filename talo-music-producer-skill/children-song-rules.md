@@ -81,11 +81,210 @@ El hook es la frase más memorable. Debe ser prácticamente imbatible:
 
 ---
 
-## Densidad de palabras
+## Hook Design by Platform — Optimización por Contexto
 
-Las palabras deben distribuirse con espacio y ritmo claros:
+El mismo hook funciona diferente según **dónde** se escucha. Optimizar el timing y formato del hook según la plataforma:
 
-### Reglas de densidad
+### YouTube Kids — Hook en seg 3-5 (Niño YA está viendo)
+
+**Contexto:** El niño seleccionó el video deliberadamente. El hook no necesita ser ultra-rápido, pero debe aparecer antes de perder atención inicial.
+
+**Regla:** Hook debe entrar entre seg 3-5 (después de intro breve).
+
+**Métrica de éxito:** 40-50% de niños sigue viendo después del primer coro (seg 20).
+
+| Antes (Hook débil) | Después (Hook optimizado) |
+|---|---|
+| `[Intro música] 0:00-0:08` <br> `[Verso 1] 0:08-0:22` <br> `[Hook en coro] 0:22` | `[Intro + hook] 0:00-0:05` <br> "¡Hola, soy Talo!" <br> `[Coro con hook] 0:05-0:18` |
+| Hook aparece en seg 22 | Hook aparece en seg 5 |
+| Riesgo: Niño se aburre antes | Ganancia: Niño está enganchado al coro |
+
+**Ejemplo práctico:**
+```
+YouTube Kids — "Diez Saltitos de Color"
+0:00-0:04 — Intro musical + voz Talo: "¡Hola, hola, soy Talo!"
+0:04-0:18 — Coro: "Uno, dos, Talo saltó..." ← HOOK AQUÍ (seg 4)
+Métrica: 45% de niños completa primer coro
+```
+
+---
+
+### Shorts (TikTok / Instagram Reels) — Hook en seg 0-2 (Scroll Inmediato)
+
+**Contexto:** El usuario está scrolleando. Sin hook en primeros 2 seg, se va. El gancho DEBE ser audiovisual simultáneo.
+
+**Regla:** Hook MUST entrar en seg 0-2. No intro instrumental.
+
+**Métrica de éxito:** 60%+ de usuarios ven hasta seg 10 (evitan scroll).
+
+| Antes (Hook débil) | Después (Hook optimizado) |
+|---|---|
+| `[Intro instrumental] 0:00-0:03` <br> `[Voz entra] 0:03` | `[Música + voz simultáneo] 0:00` <br> "¡Uno, dos, Talo saltó!" |
+| Hook aparece en seg 3 | Hook aparece en seg 0 |
+| Riesgo: User scrollea antes | Ganancia: User sigue viendo |
+
+**Ejemplo práctico:**
+```
+Short de 38 seg — "Diez Saltitos de Color"
+0:00-0:01 — Música + voz SIMULTÁNEO: "¡Uno, dos, Talo saltó!"
+0:01-0:15 — Coro completo ← GANCHO PEGAJOSO AQUÍ
+0:15-0:38 — Verso + coro repetido
+Métrica: 65% of users watch hasta fin (no scroll)
+```
+
+---
+
+### Spotify / Audio Plataformas — Hook en seg 0-3 (Sin Visual)
+
+**Contexto:** CERO visual. El hook debe ser puramente SONORO y memorable. La voz debe distinguirse inmediatamente.
+
+**Regla:** Hook debe ser solo SONIDO + VOZ (sin dependencia visual). Debe tener "firma sonora" única.
+
+**Métrica de éxito:** 35-45% skip reduction (menos usuarios saltan antes de seg 20).
+
+| Antes (Hook débil) | Después (Hook optimizado) |
+|---|---|
+| `[Intro instrumental genérica] 0:00-0:04` <br> `[Verso sin identidad] 0:04` | `[Sonido de identidad] 0:00 (ej: sonido de xilófono único)` <br> `[Voz Talo con tone único] 0:01` <br> "¡Saltitos de color!" |
+| Sin identificación de marca | Identificación sonora instant |
+| Riesgo: Usuario skips | Ganancia: Usuario reconoce marca |
+
+**Ejemplo práctico:**
+```
+Spotify — "Diez Saltitos de Color"
+0:00 — Efecto de xilófono reconocible (firma Talo)
+0:01 — Voz Talo: "¡Diez saltitos de color!" (hook puramente sonoro)
+0:03-0:15 — Coro con repetición clara
+Métrica: 38% skip reduction en playlist infantil
+```
+
+---
+
+## Resumen: Hook Timing por Plataforma
+
+| Plataforma | Hook Timing | Carácterística Clave | Métrica |
+|---|---|---|---|
+| **YouTube Kids** | seg 3-5 | Intro breve, hook en coro | 40-50% retención seg 20 |
+| **Shorts** | seg 0-2 | Música + voz simultáneo, SIN intro | 60%+ evita scroll |
+| **Spotify** | seg 0-3 | Firma sonora única, hook auditivo | 35-45% skip reduction |
+
+**Regla de oro:** Si tu canción MUST funcionar en todas 3 plataformas, optimiza para **Shorts** (seg 0-2). Si funciona para Shorts, funciona para todas.
+
+---
+
+## Densidad de Palabras por Función de Línea
+
+Las palabras deben distribuirse según **QUÉ HACE la línea**, no solo en general:
+
+### Matriz: Densidad por Tipo de Línea
+
+| Tipo de Línea | Función | Rango Óptimo | Sweet Spot | Edad 2-3 | Edad 5-6 | Ejemplo |
+|---|---|---|---|---|---|---|
+| **Pregunta** | Activar atención, esperar respuesta | 2-4 pals | 3 pals | 2-3 | 4-5 | "¿Dónde está Talo?" |
+| **Acción/Movimiento** | Describir movimiento visible | 3-6 pals | 4 pals | 3-4 | 5-7 | "Talo salta rápido" |
+| **Descripción/Imagen** | Pintar imagen mental o visual | 4-7 pals | 5 pals | 4-5 | 6-8 | "El cielo es azul brillante" |
+| **Lista/Enumeración** | Enumerar items (números, colores, etc.) | 3-5 items | 4 items | 3 items | 5 items | "Rojo, azul, amarillo, verde" |
+| **Transición/Puente** | Conectar secciones, cambio de energy | 4-8 pals | 6 pals | 4-5 | 7-9 | "Ahora cerramos los ojos y descansamos" |
+
+### Regla General
+
+- **Edad 2-3 años:** Usar rango mínimo (ej: Pregunta 2-3 pals)
+- **Edad 4-5 años:** Usar rango medio (ej: Pregunta 3-4 pals)
+- **Edad 5-6 años:** Pueden tolerar rango máximo +1-2 pals
+
+### BONUS: Densidad por Tempo
+
+El **MISMO** texto se siente diferente según **BPM**:
+
+```
+Texto: "Talo salta rápido hacia la montaña" (6 palabras)
+
+A 80 BPM (tranquilo): DEMASIADO RÁPIDO, no cabe cómodo
+A 110 BPM (normal): PERFECTO, se siente natural
+A 130 BPM (rápido): IMPOSIBLE, demasiado apretado
+
+REGLA: A mayor BPM, menor densidad. A menor BPM, puede soportar más palabras.
+
+Tabla de Densidad por Tempo:
+  60-80 BPM (tranquilo): +1-2 palabras toleradas
+  90-110 BPM (normal): densidad recomendada
+  120-130 BPM (rápido): -1-2 palabras requeridas
+```
+
+---
+
+### Contraejemplos: Antes y Después
+
+#### ❌ MAL: Pregunta con densidad alta
+```
+"¿Sabes cuál es el color favorito de Talo entre todos los que vemos?" (12 palabras)
+```
+**Problema:** Demasiadas palabras, el niño pierde la pregunta principal
+
+#### ✅ BIEN: Pregunta optimizada
+```
+"¿Qué color ves?" (3 palabras)
+```
+**Ganancia:** Clara, concisa, espacio para respuesta del niño
+
+---
+
+#### ❌ MAL: Acción poco clara
+```
+"Ahora Talo comienza a ejecutar una serie de movimientos corporales muy rápidos en la dirección contraria" (16 palabras)
+```
+**Problema:** El niño no sabe qué hacer, demasiada información
+
+#### ✅ BIEN: Acción precisa
+```
+"Talo salta rápido" (3 palabras)
+```
+**Ganancia:** Acción clara, imitable inmediatamente
+
+---
+
+#### ❌ MAL: Descripción genérica
+```
+"En la naturaleza que nos rodea hay muchas manifestaciones de diferentes fenómenos visuales que llamamos colores" (15 palabras)
+```
+**Problema:** Educativa pero no pegajosa, no visual
+
+#### ✅ BIEN: Descripción con imagen
+```
+"El cielo es azul" (4 palabras)
+```
+**Ganancia:** Crea imagen mental concreta
+
+---
+
+#### ❌ MAL: Lista confusa
+```
+"Primero el número uno, luego el dos, después el tres, entonces el cuatro, y finalmente el cinco" (15 palabras)
+```
+**Problema:** Demasiadas palabras, pierde el número
+
+#### ✅ BIEN: Lista clara
+```
+"Uno, dos, tres, cuatro, cinco" (5 palabras)
+```
+**Ganancia:** Conteo claro, el niño sigue
+
+---
+
+#### ❌ MAL: Transición forzada
+```
+"Hemos terminado con los movimientos rápidos y ahora vamos a cambiar completamente la energía para entrar en un estado de relajación profunda" (20 palabras)
+```
+**Problema:** Transición que confunde más que ayuda
+
+#### ✅ BIEN: Transición clara
+```
+"Ahora descansamos con Talo" (4 palabras)
+```
+**Ganancia:** Cambio de energía evidente
+
+---
+
+## Reglas de Densidad (Simplificadas)
 
 - **Líneas cantadas** — máximo 4–8 palabras por línea
 - **Coros** — 4–6 palabras por línea, máximo
@@ -95,18 +294,6 @@ Las palabras deben distribuirse con espacio y ritmo claros:
 - **Palabras clave** — usar solo palabras de 1–3 sílabas en frases importantes
   - Bien: "sal-ta", "a-zul", "a-mi-go"
   - Evitar: "co-lor-i-do", "im-a-gi-na-ción", "es-plen-do-ro-so"
-
-### Referencia visual
-
-```
-Verso denso (bueno para enseñanza):
-"Uno, dos, tres, cuatro, cinco" (5 palabras)
-[Pausa 1 seg]
-"¡cuántos números!" (3 palabras)
-
-Verso disperso (malo):
-"Ahora vamos a contar todos los números que existen desde el uno hasta el infinito"
-```
 
 ---
 

@@ -15,7 +15,7 @@ Un arreglo complejo, adulto o muy denso destruye la claridad y reduce el aprendi
 
 ---
 
-## BPM por tipo de canción
+## BPM por Tipo de Canción
 
 | Tipo | BPM sugerido | Energía | Uso recomendado | Riesgo a evitar |
 |---|---|---|---|---|
@@ -28,6 +28,73 @@ Un arreglo complejo, adulto o muy denso destruye la claridad y reduce el aprendi
 | **Sueño / relajación** | 60–80 | Baja | Dormir, calmarse, respirar | BPM por encima de 85; cualquier elemento sorpresivo |
 | **Short / Reel energético** | 115–135 | Muy Alta | YouTube Shorts, Reels, TikTok | Intro musical larga; sin gancho en primeros 2 seg |
 | **Loop educativo** | 90–108 | Media constante | Fondo en clase, autoplay YouTube Kids | Cambios de energía que rompan el flujo de loop |
+
+---
+
+## BPM Sweet Spots por Acción Corporal
+
+Cuando la canción incluye **movimiento específico**, el BPM óptimo varía. Use esta tabla para elegir BPM según la acción principal del verso:
+
+| Acción | Rango Óptimo | Sweet Spot Ideal | Sensación | Min Tolerable | Max Tolerable | Ejemplo |
+|---|---|---|---|---|---|---|
+| **Saltar** | 115–125 | 120 | Ágil, preciso, energético | 110 | 130 | "Talo salta uno, dos, tres" |
+| **Bailar** | 110–120 | 115 | Fluido, rítmico, danzable | 105 | 125 | "Bailemos juntos con Talo" |
+| **Marchar** | 105–115 | 110 | Paso a paso, predecible, controlado | 100 | 120 | "Marchamos hacia la montaña" |
+| **Girar** | 100–115 | 108 | Suave, giratorio, sin mareos | 95 | 118 | "Gira Talo, gira" |
+| **Caminar** | 90–110 | 100 | Básico, cómodo, exploración | 85 | 115 | "Talo camina por el bosque" |
+| **Girar suavemente** | 80–100 | 90 | Transición emocional, grácil | 75 | 105 | "Damos vueltas lentamente" |
+| **Moverse lentamente** | 60–85 | 75 | Sueño, relajación, calma | 55 | 90 | "Cerramos los ojos con Talo" |
+
+### Tabla de Incompatibilidades (Qué NO hacer)
+
+| Acción | ❌ BPM muy BAJO | ❌ BPM muy ALTO | ✅ Rango Seguro |
+|---|---|---|---|
+| Saltar | <110 BPM (demasiado lento, sin energía) | >130 BPM (pronunciación incomprensible) | 115-125 |
+| Bailar | <105 BPM (no fluye) | >125 BPM (frenético, difícil seguir) | 110-120 |
+| Marchar | <100 BPM (no siente como marcha) | >120 BPM (corre, no marcha) | 105-115 |
+| Girar | <95 BPM (muy lento) | >118 BPM (riesgo de mareos) | 100-115 |
+| Caminar | <85 BPM (muy lento) | >115 BPM (parece correr) | 90-110 |
+| Suave | <75 BPM (puede sombra el video) | >90 BPM (no se siente tranquilo) | 80-85 |
+| Dormir | <55 BPM (raro, hipnótico) | >90 BPM (imposible dormir) | 60-80 |
+
+### Cómo Elegir BPM por Acción
+
+**Paso 1:** Identifica la acción PRINCIPAL del verso
+```
+Ejemplo: "Talo salta rápido"
+Acción principal: SALTAR
+```
+
+**Paso 2:** Busca en la tabla "BPM Sweet Spots"
+```
+Saltar → Sweet Spot = 120 BPM
+Rango seguro: 115-125
+```
+
+**Paso 3:** Verifica la tabla de Incompatibilidades
+```
+Saltar:
+  ✅ 120 BPM = CORRECTO
+  ❌ 95 BPM = demasiado lento
+  ❌ 135 BPM = pronunciación perdida
+```
+
+**Paso 4:** Especifica en Mureka Style Prompt
+```
+"...110 BPM, optimized for jumping and counting..."
+```
+
+---
+
+### BONUS: Sensación de Cada BPM para Saltando
+
+```
+110 BPM = ágil pero cómodo (niño puede seguir)
+115 BPM = energético, natural (sweet spot)
+120 BPM = ágil y divertido (ideal)
+125 BPM = rápido pero ainda manejable
+130 BPM = muy rápido, pronunciación comienza a sufrir
+```
 
 ---
 
@@ -162,31 +229,73 @@ Un arreglo complejo, adulto o muy denso destruye la claridad y reduce el aprendi
 
 ---
 
-## Onomatopeyas y efectos de voz
+## Onomatopeyas Seguras por Edad
 
-Integrar al menos 2–3 onomatopeyas por canción completa, seleccionadas según el tema:
+Integrar 2–3 onomatopeyas por canción completa. **CADA onomatopeya tiene edad mínima y característica de sonido.**
 
-### Por categoría
+### Matriz: 18 Onomatopeyas Recomendadas por Edad
 
-| Categoría | Onomatopeyas |
-|---|---|
-| **Animales** | `Muu`, `Cuac`, `Pío`, `Guau`, `Ruge`, `Sss`, `Croac`, `Iiiii` |
-| **Movimiento** | `Splash`, `Zip`, `Boing`, `Plop`, `Zum`, `Whoosh` |
-| **Comida** | `Ñam ñam`, `Glup`, `Crunch`, `Mmm` |
-| **Sueño** | `Zzzz`, `Shhh`, `Mmm` |
-| **Sorpresa** | `Ups`, `Oh`, `Wow`, `¡Ay!` |
-| **Agua / naturaleza** | `Splash`, `Plic`, `Sssh`, `Goteo` |
-| **Vehículos** | `Brum`, `Piii`, `Tututú`, `Chucuchú` |
+| Onomatopeya | Sílabas | Edad Segura | Descripción de Sonido | Contexto | Ejemplo en Canción |
+|---|---|---|---|---|---|
+| **¡Pam!** | 1 | 2+ | Golpe seco, claro, sin agudeza | Movimiento, golpe | "Talo salta ¡pam!" |
+| **¡Ñam!** | 1 | 2+ | Mascada, comida, suave | Comida, consumo | "Come con Talo ¡ñam ñam!" |
+| **¡Muu!** | 1 | 2+ | Animal, bajo, suave | Animales (vaca) | "La vaca dice ¡muu!" |
+| **¡Guau!** | 1 | 2+ | Ladrido, claro | Animales (perro) | "El perro dice ¡guau!" |
+| **¡Pío!** | 1 | 2+ | Pájaro, agudo pero no asustante | Animales (pájaro) | "El pájaro ¡pío pío!" |
+| **¡Splash!** | 1 | 3+ | Agua, impacto, claro | Agua, movimiento | "Al agua ¡splash!" |
+| **¡Zip!** | 1 | 3+ | Cierre rápido, agudo suave | Movimiento rápido | "Cierra rápido ¡zip!" |
+| **¡Plic!** | 1 | 3+ | Gota de agua, agudo suave | Agua, gotas | "Gota ¡plic plic!" |
+| **¡Crunch!** | 1 | 3+ | Masticación crujiente, clara | Comida crujiente | "Come manzana ¡crunch!" |
+| **¡Oh!** | 1 | 2+ | Sorpresa suave, bajo | Descubrimiento | "¡Oh, mira!" |
+| **¡Brum!** | 1 | 3+ | Vehículo, bajo rítmico | Movimiento, vehículos | "El auto ¡brum brum!" |
+| **¡Shhh!** | 1 | 2+ | Silencio, suave | Sueño, calma | "Shhh, a dormir" |
+| **¡Zzzz!** | 1 | 2+ | Sueño, suave, largo | Sueño | "Duerme ¡zzzz!" |
+| **¡Whoosh!** | 1 | 3+ | Viento, movimiento rápido | Aire, velocidad | "Viento ¡whoosh!" |
+| **¡Pío pío!** | 2 | 3+ | Pájaro repetido, agudo suave | Pájaros múltiples | "Los pájaros ¡pío pío!" |
+| **¡Ñam ñam!** | 2 | 2+ | Comida, mascada repetida | Comida, comer | "¡Ñam ñam delicioso!" |
+| **¡Croak!** | 1 | 4+ | Rana, bajo, grave | Animales (rana) | "La rana ¡croak!" |
+| **¡Tututú!** | 3 | 4+ | Tren, rítmico, claro | Vehículos (tren) | "El tren ¡tututú!" |
 
-### Dónde colocarlas
+---
 
-| Posición | Efecto |
-|---|---|
-| **Final de línea** | El niño puede anticiparla y completarla (más participación) |
-| **Después de una pregunta** | Refuerza la respuesta esperada |
-| **Antes de una pausa** | Sirve como señal de que viene un silencio interactivo |
-| **Como eco del coro** | Los coros infantiles repiten solo la onomatopeya |
-| **En call-and-response** | Talo canta la frase, niño responde con la onomatopeya |
+### Onomatopeyas a EVITAR por Edad
+
+| Onomatopeya | Problema | Edad Segura | Alternativa |
+|---|---|---|---|
+| **¡EXPLOSIÓN!** | 3 sílabas + muy agudo, asusta | 5-6 | ¡Pam! |
+| **¡Screech!** | Muy agudo, grito, desagradable | Nunca para <5 | ¡Zip! |
+| **¡Crash!** | Muy fuerte, impacto brusco | 5+ | ¡Pam! |
+| **¡Boom!** | Bajo + agudo simultáneo, confuso | 5+ | ¡Pam! |
+| **¡Growwwl!** | Largo + profundo, puede asustar | 5+ | ¡Muu! |
+| **¡Thunder!** | Muy largo, intimidante | Nunca para <6 | — |
+
+---
+
+### Reglas de Colocación
+
+| Posición | Efecto | Ejemplo |
+|---|---|---|
+| **Final de línea** | Niño anticipa y completa (participa) | "Talo salta ¡pam!" |
+| **Después de pregunta** | Refuerza respuesta esperada | "¿Qué sonido? ¡Guau!" |
+| **Antes de pausa** | Señal de silencio interactivo | "Talo come ¡ñam! [Pausa 2 seg]" |
+| **Como eco de coro** | Coros infantiles repiten solo la onomatopeya | Coro: "Talo salta ¡pam!" / Niños: "¡Pam!" |
+| **En call-and-response** | Talo canta, niño responde con onomatopeya | Talo: "¿Qué dijo la vaca?" / Niño: "¡Muu!" |
+
+---
+
+### Resumen: Cuándo Usar Cada Onomatopeya
+
+**Edad 2-3 años:** Solo monosílabos suaves
+- ¡Pam!, ¡Ñam!, ¡Muu!, ¡Guau!, ¡Pío!, ¡Oh!, ¡Shhh!, ¡Zzzz!
+
+**Edad 3-4 años:** Agregar monosílabos claros
+- + ¡Splash!, ¡Zip!, ¡Plic!, ¡Crunch!, ¡Brum!, ¡Whoosh!
+
+**Edad 4-5 años:** Permitir bisílabos
+- + ¡Pío pío!, ¡Ñam ñam!
+
+**Edad 5-6 años:** Expandir a trisílabos
+- + ¡Croak!, ¡Tututú!
 
 ---
 
