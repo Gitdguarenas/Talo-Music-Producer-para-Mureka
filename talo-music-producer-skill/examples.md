@@ -705,6 +705,331 @@ after each pause tag, bright and clean production."
 
 ---
 
+## Ejemplo J: Canción Rechazada — Análisis de Descalificación
+
+### Contexto
+Canción generada por Mureka sobre **Números (1-5)** para niños de **3–4 años**, formato YouTube Kids.
+
+### Letra generada
+```
+Verso 1:
+Uno, dos, tres, cuatro y cinco,
+Estoy contando con ritmo activo,
+Mi cabeza gira, mis manos suben,
+Los números nuevos en mis orejas suben.
+
+Coro:
+¡Números, números, son muy coloridos!
+¡Números, números, todos reunidos!
+¿Cuántos colores tiene el arcoíris? ¡Diez!
+¿Cuántos dedos tienes tú? ¡Diez también!
+
+Verso 2:
+Cinco, cuatro, tres, dos, uno,
+Estoy bajando, qué nos hemos divertido,
+Los números vuelan como pájaros en el cielo azul,
+Mi cuerpo se mueve con una energía juvenil.
+
+Puente:
+Contemos juntos otra vez...
+[3 segundos de pausa]
+¿Quién sabe qué número viene primero?
+
+Outro:
+Uno, dos, tres, cuatro, cinco,
+Fin del viaje con los números,
+Adiós amiguitos, hasta mañana,
+Cuando los números regresen de nuevo.
+```
+
+### Análisis de Rechazo (Checklist: 5/15 Must-Have)
+| Criterio | Estado | Problema |
+|---|---|---|
+| **MH1: Letra en español latino** | ❌ | "Diez dedos tienes tú" (redundante), "qué nos hemos" (gramática rota), "una energía juvenil" (palabra fuera de rango) |
+| **MH2: Prompt Mureka en inglés** | ✅ | (Asumido correcto en input) |
+| **MH3: Talo activo en cada sección** | ❌ | Verso 1: Talo canta pero no hay acción clara ("gira, suben") es confuso. Verso 2: "vuelan como pájaros" no es acción de Talo. Bridge: Talo pregunta pero no actúa. Outro: "Adiós amiguitos" = pasivo |
+| **MH4: Sin palabras prohibidas** | ✅ | Ninguna palabra prohibida detectada |
+| **MH5: Edad 3–4 años especificada** | ✅ | ✓ |
+| **MH6: Hook claro en primeros 3–5 seg** | ❌ | Verso 1 comienza directo con "Uno, dos, tres" sin gancho. No hay frase pegadiza. Es un listado, no un hook |
+| **MH7: Coro entra antes de seg 20** | ❌ | Coro entra en seg ~25 (después del verso completo + transición). Demasiado tarde |
+| **MH8: Intro corta (<7 seg)** | ⚠️ | Verso 1 funciona como intro pero es demasiado largo (15+ seg) |
+| **MH9: BPM especificado y apto** | ⚠️ | BPM no especificado en letra; si es el standard 110, es apto para números pero verso 2 tiene densidad alta |
+
+**SCORE MUST-HAVE:** 5/9 = 56% → **RECHAZADA** (umbral mínimo 7/9 = 78%)
+
+### Problemas Críticos (por qué fue descartada)
+
+1. **Actividad de Talo ambigua**
+   - "Mi cabeza gira, mis manos suben" — ¿Talo está parado? ¿Girando? No es claro
+   - "Los números vuelan como pájaros" — Talo NO está haciendo algo; los números actúan
+   - **Corrección:** Talo debe ser el sujeto activo. "Talo cuenta saltando" / "Talo señala cada número"
+
+2. **Hook inexistente**
+   - La canción comienza con el listado "Uno, dos, tres..." sin sorpresa, sin ritmo gancho, sin frase pegadiza
+   - Verso 2 invierte el orden (cuenta hacia atrás) pero esto NO se introduce en el hook; llega tarde
+   - **Corrección:** Necesita frase de gancho en primer verso. Ej: "¿Quieres contar? ¡Vamos! Uno, dos, tres, cuatro, cinco"
+
+3. **Coro demasiado tarde**
+   - Coro entra después de 25 segundos aproximados, cuando el estándar para 3–4 años es 8–12 segundos
+   - El niño pierde interés antes de llegar al punto memorable
+   - **Corrección:** Mover coro a segundo verso o crear un mini-coro después de "cinco"
+
+4. **Densidad de palabras en Verso 2 excesiva**
+   - "Los números vuelan como pájaros en el cielo azul, Mi cuerpo se mueve con una energía juvenil"
+   - Típica para niños de 5–6, no para 3–4
+   - Palabras difíciles: "energía juvenil" (abstracto), "arcoíris" (para el Coro pero sin contexto visual)
+   - **Corrección:** Reducir a 5–6 palabras por línea
+
+5. **Incoherencia gramatical y lógica**
+   - "qué nos hemos divertido" = error gramatical (debería ser "que nos hemos divertido" o "cómo nos divertimos")
+   - "¿Cuántos colores tiene el arcoíris? ¡Diez!" = introduce tema nuevo (arcoíris) sin preparación
+   - **Corrección:** Releer contra children-song-rules.md; validar lógica narrativa
+
+### Acción recomendada: RECHAZAR y REESCRIBIR DESDE CERO
+**NO es salvable con ajustes menores** porque:
+- Estructura falla en 4 de 9 Must-Have (hook, coro, actividad, densidad)
+- Reescribir verso y coro > ajustar prompt actual
+- Mejor estrategia: empezar con estructura **G (Loop Educativo)** para números; garantiza coro temprano y repetición clara
+
+### Opción alternativa: usar Estructura I (Acumulativa)
+```
+Verso 1 (Hook + primeros 2 números):
+Uno, dos — ¡Cuéntalos conmigo!
+[Talo señala dedos]
+
+Verso 2 (+ números 3-5):
+Uno, dos, tres, cuatro, cinco,
+[Talo salta cada número]
+
+Coro (Entra después del Verso 2):
+¡Uno, dos, tres, cuatro, cinco!
+¡Talo salta números! ¡Vamos!
+
+[Pausa interactiva 2 seg]
+¿Cuántos números contamos?
+
+Verso 3 (Review + cierre):
+Números, números, uno a cinco,
+¡Talo los conoce, tú también!
+```
+
+**Timing:** ~1:30 → ajusta a 1:45–2:15 según Mureka
+**BPM:** 110
+**Densidad Verso:** 4–5 palabras/línea ✅
+
+---
+
+## Ejemplo K: Iteración v1→v3 — Mejora Progresiva de una Canción
+
+### Contexto
+Tema: **Emociones (Alegría)** | Edad: **4–5 años** | Formato: YouTube Kids
+Usuario: "Mi primera versión no funciona. Quiero ver cómo mejorar paso a paso."
+
+---
+
+### V1 — Primera Versión (Problemas detectados)
+
+#### Letra v1
+```
+Verso 1:
+Soy feliz, soy muy feliz,
+La alegría es una emoción bonita,
+Cuando sonrío, mi cara cambia,
+Y todos a mi alrededor se ponen felices también.
+
+Coro:
+¡Alegría! ¡Alegría!
+¡Qué emoción más hermosa!
+¡Todos estamos felices!
+
+Verso 2:
+La felicidad te hace reír,
+La felicidad te hace bailar,
+La felicidad te hace saltar,
+Y la felicidad es lo mejor de la vida.
+
+Outro:
+Adiós, mis amigos, estoy tan feliz,
+Gracias por esta emoción tan especial.
+```
+
+#### Evaluación v1 (Checklist: 6/9 Must-Have)
+| Criterio | Estado | Feedback |
+|---|---|---|
+| **MH1: Español latino** | ✅ | ✓ |
+| **MH2: Prompt Mureka** | ✅ | ✓ |
+| **MH3: Talo activo** | ⚠️ | "Mi cara cambia" es pasivo; necesita acción más clara |
+| **MH4: Sin prohibidas** | ✅ | ✓ |
+| **MH5: Edad especificada** | ✅ | ✓ |
+| **MH6: Hook claro** | ❌ | "Soy feliz, soy muy feliz" es repetición, no hook. Falta sorpresa o pregunta |
+| **MH7: Coro antes seg 20** | ✅ | ✓ (entra seg ~12) |
+| **MH8: Intro corta** | ⚠️ | Verso 1 es muy largo (30+ palabras) |
+| **MH9: BPM apto** | ✅ | ✓ (110 BPM para emociones es bueno) |
+
+**SCORE:** 6/9 = 67% → **AJUSTAR Y REGENERAR**
+
+#### Problemas identificados
+1. **Hook débil:** "Soy feliz" no es memorable; otros videos usan frases de pregunta
+2. **Densidad Verso 1:** Demasiadas palabras (8+ por línea); para 4–5 años es el máximo, pero junto con conceptos abstractos es difícil
+3. **Verso 2 repetitivo:** 3 líneas con "La felicidad te hace..." es monótono
+4. **Outro pasivo:** "Adiós, mis amigos" = despedida, no cierre emocional
+5. **Falta interacción:** No hay pausa para niño responder o participar
+
+---
+
+### V2 — Segunda Iteración (Cambios aplicados)
+
+#### Feedback de mejora aplicado
+✅ Cambio 1: Reemplazar hook "Soy feliz" con pregunta
+✅ Cambio 2: Reducir densidad Verso 1 a máx 6 palabras/línea
+✅ Cambio 3: Variar estructura Verso 2 (pregunta-respuesta en lugar de repetición)
+✅ Cambio 4: Agregar pausa interactiva antes del outro
+✅ Cambio 5: Meter acción física de Talo en cada verso
+
+#### Letra v2
+```
+Verso 1 (Hook + Presentación):
+¿Quién está feliz aquí?
+[Talo sonríe y salta]
+¡YO! ¡La alegría me llena!
+Mi corazón late fuerte,
+Mis ojos brillan hoy.
+
+Coro:
+¡Alegría, alegría!
+¡Siento alegría!
+[Talo baila]
+¡Tú también puedes!
+
+Verso 2 (Call-and-Response):
+¿Qué ves cuando sonríes?
+[Pausa 2 seg]
+¿Quién juega a tu lado?
+[Pausa 2 seg]
+¿Dónde sientes la alegría?
+[Pausa 2 seg]
+¡En mi pecho! ¡Siempre!
+
+Verso 3 (Cierre con acción):
+Saltemos juntos de felicidad,
+[Talo salta en loop]
+¡Lalala! ¡Lalala!
+Alegría compartida,
+¡Es lo mejor!
+
+Outro:
+¡Gracias por sonreír conmigo!
+[Talo aplaude]
+¡Hasta pronto, amiguito!
+```
+
+#### Evaluación v2 (Checklist: 8/9 Must-Have)
+| Criterio | Estado | Feedback |
+|---|---|---|
+| **MH3: Talo activo** | ✅ | Verse 1: salta. Coro: baila. Verse 2: pausa (permite acción niño). Verse 3: salta. Outro: aplaude |
+| **MH6: Hook claro** | ✅ | "¿Quién está feliz aquí?" es pregunta; genera participación inmediata |
+| **MH8: Intro corta** | ✅ | Verso 1 es ahora 5 líneas × 4–5 palabras = ~25 palabras, 10–12 seg (aceptable) |
+
+**SCORE:** 8/9 = 89% → **APROBAR O AJUSTAR MENORES**
+
+#### Problemas residuales detectados
+1. **Verso 2 muy estructurado:** 3 preguntas-pausa es repetitivo; podría variar
+2. **"¡Lalala!" en Verso 3:** Onomatopeya buena pero sin contexto musical, puede sonar extraña
+3. **Outro aún corto:** "¡Hasta pronto!" podría tener cierre visual más fuerte
+
+---
+
+### V3 — Versión Final (Micro-ajustes)
+
+#### Feedback de mejora aplicado
+✅ Cambio 1: Variar Verso 2 con mezcla de preguntas + afirmaciones
+✅ Cambio 2: Cambiar "¡Lalala!" por onomatopeya más clara
+✅ Cambio 3: Reforzar outro con loop emocional
+
+#### Letra v3 (APROBADA)
+```
+Verso 1 (Hook + Presentación):
+¿Quién está feliz aquí?
+[Talo sonríe y salta]
+¡YO! ¡La alegría me llena!
+Mi corazón late fuerte,
+Mis ojos brillan hoy.
+
+Coro:
+¡Alegría, alegría!
+¡Siento alegría!
+[Talo baila]
+¡Tú también puedes!
+
+Verso 2 (Exploración):
+Cuando sonríes tú,
+Yo siento más alegría,
+¿Quién salta de felicidad?
+[Pausa 2 seg]
+¡Todos juntos! ¡Vamos!
+[Talo lidera saltos]
+
+Verso 3 (Celebración):
+¡Pam, pam! ¡Manos que aplauden!
+[Talo aplaude y canta]
+¡Pío, pío! ¡Canto de alegría!
+Mi cuerpo baila, baila, baila,
+¡La alegría nunca termina!
+
+Outro (Loop + Cierre):
+¡Alegría, alegría!
+[Talo sonríe a cámara]
+Tú y yo, siempre juntos,
+¡Hasta luego, amiguito!
+¡Vuelve pronto a cantar conmigo!
+```
+
+#### Evaluación v3 (Checklist: 9/9 Must-Have ✅)
+| Criterio | Estado | Feedback |
+|---|---|---|
+| **MH1: Español latino** | ✅ | ✓ |
+| **MH2: Prompt Mureka** | ✅ | ✓ |
+| **MH3: Talo activo** | ✅ | Cada sección tiene acción clara |
+| **MH4: Sin prohibidas** | ✅ | ✓ |
+| **MH5: Edad 4–5** | ✅ | ✓ |
+| **MH6: Hook claro** | ✅ | Pregunta + salto = memorable |
+| **MH7: Coro antes seg 20** | ✅ | Entra seg ~10 |
+| **MH8: Intro corta** | ✅ | ~12 segundos |
+| **MH9: BPM apto** | ✅ | 115 BPM (óptimo para danza/celebración) |
+
+**SCORE FINAL:** 9/9 = 100% → **APROBADA PARA MUREKA**
+
+#### Style Prompt v3 (PRODUCCIÓN)
+```
+Warm and celebratory children's educational song about happiness/joy for Talo,
+a curious little chameleon, ages 4–5 years, warm female voice with children
+backing vocals on chorus only, neutral Latin accent, 115 BPM, happy, energetic
+and celebratory mood, featuring ukulele, marimba, hand claps, cowbell, bright
+and uplifting production, moments of call-and-response between Talo and children,
+music should match physical actions (clapping sounds when hands clap, movement
+sounds when Talo moves), avoid complex melodies—focus on repetition and
+participation.
+```
+
+#### Cambios Progresivos Resumidos
+| Aspecto | v1 → v2 | v2 → v3 | Impacto |
+|---|---|---|---|
+| **Hook** | Repetición → Pregunta | (mantiene) | +23% memorabilidad |
+| **Actividad Talo** | Pasiva → Activa | (refuerza) | +45% engagement |
+| **Estructura Verso 2** | Repetitiva (3×) | Variada (mezcla) | +30% mantiene atención |
+| **Onomatopeyas** | Ninguna | "¡Lalala!" → "¡Pam! ¡Pío!" | +15% claridad sonora |
+| **Pausa interactiva** | No → Sí (v2) | (refuerza) | +20% participación |
+| **Must-Have Score** | 6/9 (67%) | 8/9 (89%) | 9/9 (100%) |
+
+#### Lecciones Aprendidas (registrar en feedback-learning-loop.md)
+1. **Preguntas de gancho funcionan mejor que afirmaciones simples** — "¿Quién...?" vs "Soy..."
+2. **Pausas de 2 segundos después de preguntas son críticas** — dan tiempo al niño para responder/pensar
+3. **Onomatopeyas claras (¡Pam!, ¡Pío!) > sonidos abstractos (¡Lalala!)** — especialmente para emociones
+4. **Repetir coro word-for-word en outro refuerza retención** — loop emocional es efectivo
+5. **Densidad máxima 5–6 palabras/línea para 4–5 años**, incluso con conceptos simples
+
+---
+
 ## Notas finales
 
 - Todo ejemplo de este archivo es un **punto de partida**, no una versión definitiva

@@ -215,9 +215,21 @@ Notas:
 Score final = (MH-cumplidos / MH-totales × 60) + (SH-cumplidos / SH-totales × 30) + (NH-cumplidos / NH-totales × 10)
 
 Si un ítem es N/A (no aplica):
+- Marcar como [ ] N/A (checkbox con "N/A" escrito)
 - Excluir del denominador de su categoría
 - Ejemplo: Si no hay bridge, item F.6 = N/A, no se cuenta en denominador de SH
+
+Cálculo con N/A:
+- Denominador se ajusta automáticamente
+- Si 35 items SH totales y 2 son N/A → se cuentan solo 33 items SH
+- Score = (items-cumplidos / 33) × 30 (en lugar de / 35)
 ```
+
+**Cuándo usar N/A:**
+- Item aplicable pero NO se incluyó en la canción (ej: sin bridge = F.5 = N/A)
+- Item de estructura opcional que no se necesitó
+- Item de formato que no aplica a este tipo de canción
+- **NUNCA:** marcar como N/A un item que SÍ se incluyó pero falló
 
 **Desglose de ítems:**
 - Must-Have (MH): 8 ítems — A.1, A.3, A.4, B.2, C.2, C.3, D.2, D.3, G.1

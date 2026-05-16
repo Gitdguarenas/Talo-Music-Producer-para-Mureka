@@ -281,7 +281,36 @@ Al trasladar cualquier estructura a Mureka, seguir estas reglas:
 
 ---
 
-## Matriz rápida de selección
+## Matriz rápida de selección — 10 Objetivos × 10 Estructuras
+
+| Si el objetivo es... | A Educativa | B Movimiento | C Narrativa | D Tranquila | E Emociones | F Short | G Loop | H Pregunta | I Acumulativa | Hybrid |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **1. Números / conteo** | ⭐⭐⭐ | ⭐⭐ | — | — | — | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | A+H |
+| **2. Colores / formas** | ⭐⭐⭐ | ⭐ | — | — | — | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | A+H |
+| **3. Animales / sonidos** | ⭐⭐⭐ | ⭐⭐ | ⭐ | — | — | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | I+H |
+| **4. Movimiento corporal** | ⭐ | ⭐⭐⭐ | — | — | — | ⭐⭐⭐ | — | ⭐⭐ | — | B+H |
+| **5. Emociones** | ⭐ | — | ⭐⭐ | — | ⭐⭐⭐ | ⭐ | — | — | — | C+E |
+| **6. Rutinas diarias** | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | — | — | D+A |
+| **7. Amistad / cooperación** | ⭐ | ⭐⭐ | ⭐⭐⭐ | — | ⭐⭐ | ⭐ | — | ⭐ | — | C+E |
+| **8. Naturaleza** | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ | — | ⭐ | ⭐ | ⭐ | ⭐ | C+A |
+| **9. Primeras palabras** | ⭐⭐⭐ | ⭐⭐ | ⭐ | — | — | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | A+H |
+| **10. Inglés básico** | ⭐⭐⭐ | ⭐ | — | — | — | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | A+F |
+
+**Leyenda:**
+- ⭐⭐⭐ = Primera opción (uso recomendado)
+- ⭐⭐ = Segunda opción (funciona bien)
+- ⭐ = Posible pero no ideal
+- — = No recomendado
+
+**Cómo leer esta matriz:**
+1. Encuentra tu objetivo en la fila
+2. Busca las ⭐⭐⭐ (primera opción)
+3. Si necesitas más dinamismo, mira la columna "Hybrid" para combinar dos estructuras
+4. Ejemplo: Para "Números/conteo", las mejores opciones son A (Educativa), H (Pregunta-respuesta) e I (Acumulativa)
+
+---
+
+## Matriz original (simplificada)
 
 | Si el objetivo es... | Usa esta estructura | Duración sugerida | Energía | Recurso clave |
 |---|---|---|---|---|
@@ -294,6 +323,184 @@ Al trasladar cualquier estructura a Mureka, seguir estas reglas:
 | Crear loop repetible | G — Loop educativo | 45–75 seg | Media constante | Seamless loop, sin final abrupto |
 | Activar participación máxima | H — Pregunta-respuesta | 1:30–2:15 min | Media-Alta | [Pause], coro de confirmación |
 | Enseñar vocabulario acumulativo | I — Acumulativa | 1:45–2:30 min | Creciente | Coro que crece, máximo 5–7 elementos |
+
+---
+
+## Estructuras Híbridas — Combinar lo Mejor de Dos Estructuras
+
+A veces el objetivo pedagógico requiere **mezclar dos estructuras base** para máxima efectividad. Las siguientes son combinaciones probadas:
+
+### Hybrid 1: Educativa + Pregunta-Respuesta (Estructura A + H)
+
+**Cuándo usar:** Enseñar un concepto (números, colores) CON máxima participación del niño
+
+**Lógica:** 
+- Verso educativo simple (A)
+- Pausa + pregunta al niño (H)
+- Coro de confirmación (H)
+- Repetir 2-3 veces
+
+**Duración:** 1:45–2:15 min
+**BPM:** 100–110
+**Recursos:** Coro educativo (A) + pausas de 2 seg (H) + energía en confirmación
+
+**Estructura específica:**
+```
+[Intro]             0:00–0:06
+[Verso educativo]   0:06–0:18   (ej: "Talo tiene tres colores...")
+[Pregunta]          0:18–0:20   "¿Cuál es tu color favorito?"
+[Pause]             0:20–0:22   [Espera respuesta del niño]
+[Chorus confirm]    0:22–0:35   (celebra cualquier respuesta)
+[Repetir ciclo]     0:35–1:10   (segunda ronda de pregunta)
+[Final Chorus]      1:10–1:35
+[Outro]             1:35–1:45
+```
+
+**Ventaja:** Aprendizaje (A) + participación (H) = máxima retención + engagement
+
+---
+
+### Hybrid 2: Movimiento + Pregunta-Respuesta (Estructura B + H)
+
+**Cuándo usar:** Enseñar movimiento corporal con validación del niño
+
+**Lógica:**
+- Instrucción de movimiento cantada (B)
+- Pausa para que el niño haga el movimiento (H)
+- Coro que celebra el movimiento (B+H combinado)
+
+**Duración:** 1:30–2:00 min
+**BPM:** 115–125
+**Recursos:** Energía de movimiento (B) + pausas interactivas (H)
+
+**Estructura específica:**
+```
+[Intro]             0:00–0:05
+[Verso movimiento]  0:05–0:15   "Salta con Talo uno, dos, tres..."
+[Instrucción]       0:15–0:20   "[Pause] ahora tú"
+[Chorus celebra]    0:20–0:32   "¡Muy bien, muy bien!" (alto, energía)
+[Nuevo movimiento]  0:32–0:45   (segunda acción: girar, aplaudir, etc)
+[Pause + Chorus]    0:45–0:58
+[Final Chorus]      0:58–1:15
+[Outro]             1:15–1:25
+```
+
+**Ventaja:** El niño se mueve (B) + se siente celebrado (H) = participación total
+
+---
+
+### Hybrid 3: Narrativa + Emociones (Estructura C + E)
+
+**Cuándo usar:** Contar una pequeña historia que valida una emoción
+
+**Lógica:**
+- Narrativa simple que plantea una situación emocional (C)
+- Validación de la emoción (E)
+- Acción para resolverla (E)
+- Cierre de la historia positivo (C)
+
+**Duración:** 2:00–2:30 min
+**BPM:** 85–105 (varía con la emoción)
+**Recursos:** Arco narrativo (C) + validación sin juicio (E)
+
+**Estructura específica:**
+```
+[Intro]             0:00–0:08   (establece la escena)
+[Verso 1 — historia] 0:08–0:25  (Talo se encuentra con situación)
+[Verso 2 — emoción] 0:25–0:42   (describe cómo se siente)
+[Chorus — validación] 0:42–0:58 ("está bien sentir...")
+[Verso 3 — acción]  0:58–1:15   (Talo propone solución)
+[Chorus — validación] 1:15–1:32
+[Bridge]            1:32–1:45   (movimiento o acción física)
+[Final Chorus]      1:45–2:05   (resolución emocional positiva)
+[Outro]             2:05–2:20   (cierre de la historia)
+```
+
+**Ventaja:** Niño se identifica con la historia (C) + aprende que la emoción es válida (E)
+
+---
+
+### Hybrid 4: Acumulativa + Pregunta-Respuesta (Estructura I + H)
+
+**Cuándo usar:** Enseñar vocabulario acumulativo (animales, objetos) CON participación
+
+**Lógica:**
+- Cada verso agrega un elemento (I)
+- Pausa donde el niño adivina qué viene (H)
+- Coro que lista todos los elementos (I)
+
+**Duración:** 1:45–2:15 min
+**BPM:** 100–110
+**Recursos:** Acumulación progresiva (I) + adivinanza (H)
+
+**Estructura específica:**
+```
+[Intro]             0:00–0:08   (Talo presenta el juego)
+[Verso 1]           0:08–0:20   (primer elemento)
+[Pausa adivinanza]  0:20–0:23   "¿Cuál es? [pause 2 seg]"
+[Chorus 1 elemento] 0:23–0:35   (lista: elemento 1)
+[Verso 2]           0:35–0:48   (segundo elemento)
+[Pausa adivinanza]  0:48–0:51   "¿Y ahora? [pause 2 seg]"
+[Chorus 2 elementos] 0:51–1:05  (lista: elemento 1 + 2)
+[Verso 3]           1:05–1:18   (tercero)
+[Pausa adivinanza]  1:18–1:21
+[Final Chorus]      1:21–1:40   (todos los elementos, máxima energía)
+[Outro]             1:40–1:50
+```
+
+**Ventaja:** Vocabulario retenido (I) + niño participa en el juego (H)
+
+---
+
+### Hybrid 5: Loop Educativo + Short (Estructura G + F)
+
+**Cuándo usar:** Crear contenido que funcione como Short independiente Y como loop en clase
+
+**Lógica:**
+- Hook de 0-2 seg (F)
+- Coro condensado repetible (G)
+- Cierre que conecta con el inicio sin corte (G)
+
+**Duración:** 35–50 seg (funciona como Short o loop)
+**BPM:** 110–120
+**Recursos:** Gancho viral (F) + seamless loop (G)
+
+**Estructura específica:**
+```
+[Hook]              0:00–0:02   "¡Saltitos de color!" (sin intro)
+[Chorus]            0:02–0:15   (15 seg de coro principal)
+[Verse mini]        0:15–0:25   (una sola idea educativa)
+[Chorus repetido]   0:25–0:38   (repetición del coro)
+[Loop back]         0:38–0:40   (cierre que apunta al inicio)
+[Repeat forever]    — El outro musical conecta naturalmente con el hook
+```
+
+**Ventaja:** 
+- Como Short: gancho viral (F) + viralidad (F)
+- Como loop: repetible infinitamente (G) sin sonar cortado
+
+---
+
+## Matriz de Compatibilidad entre Estructuras
+
+No todas las estructuras se pueden mezclar. Use esta matriz para validar:
+
+| Estructura A | Estructura B | Compatible | Hybrid Nombre | Duración |
+|---|---|---|---|---|
+| A (Educativa) | H (Pregunta) | ✅ | Educativa + Participación | 1:45–2:15 |
+| B (Movimiento) | H (Pregunta) | ✅ | Movimiento + Celebración | 1:30–2:00 |
+| C (Narrativa) | E (Emociones) | ✅ | Narrativa Emocional | 2:00–2:30 |
+| I (Acumulativa) | H (Pregunta) | ✅ | Acumulativa + Adivinanza | 1:45–2:15 |
+| G (Loop) | F (Short) | ✅ | Loop-Short dual | 35–50 seg |
+| D (Tranquila) | E (Emociones) | ✅ | Rutina + Validación | 1:30–2:30 |
+| A (Educativa) | I (Acumulativa) | ⚠️ | Posible pero complicado | 2:15+ |
+| B (Movimiento) | C (Narrativa) | ⚠️ | Posible pero requiere cuidado | 2:00–2:45 |
+| D (Tranquila) | F (Short) | ❌ | No compatible (energía opuesta) | — |
+| G (Loop) | C (Narrativa) | ❌ | No compatible (arco cerrado vs loop) | — |
+
+**Regla de oro:** Las mejores híbridas combinan:
+1. Una estructura educativa (A, I, H) 
+2. Una estructura emocional o interactiva (E, H, B)
 
 ---
 
