@@ -6,6 +6,104 @@ Cada vez que el usuario solicite: "Usa el skill y crea una canción para esta id
 
 ---
 
+## ESTRUCTURA LÍRICA — PATRONES LULI PAMPÍN (Para próximas canciones)
+
+**Estos patrones hacen que las canciones sean PEGAJOSAS y MEMORABLES. Referencia: Luli Pampín**
+
+### Patrón 1: Verso Repetidor + Verso Variador
+```
+Verso Repetidor (se mantiene igual):
+"El cerdo Celestino nada quiere comer
+Solo comida fina asada por un chef"
+
+Verso Variador (cambia elemento clave):
+"¡Hola, Celestino!
+Te traje un plato de ZANAHORIAS, ¡riquísimo!
+¿Querés probar?"
+
+Próxima repetición (mismo verso repetidor, diferente elemento):
+"Te traje un plato de MANZANAS"
+"Te traje un plato de MAÍZ"
+```
+**Beneficio:** Familiaridad + Novedad = Pegajoso
+
+### Patrón 2: Onomatopeyas Pegajosas
+```
+"Pío, pío, pío, pío" (La gallina puso unos huevitos)
+"Pica, pica, pica el cascarón"
+"¡Pam! ¡Pam! ¡Pam!" (Talo: cubos cayendo)
+```
+**Beneficio:** Lo más memorizable. El niño canta inmediatamente.
+
+### Patrón 3: Coro DIFERENTE a Verso
+```
+Verso: Narrativa/Problema (4 líneas máximo)
+Coro: Onomatopeya O Solución O Respuesta (2-4 líneas)
+```
+**Beneficio:** Contraste = engagement
+
+### Patrón 4: Repetición de Palabras Clave
+```
+"No me quiero bañar, no me quiero bañar"
+"Así cochina me voy a quedar"
+"No me gusta el shampoo, no me gusta el jabón"
+"Así cochina me siento mejor"
+```
+**Beneficio:** Repetición de palabras = fácil de aprender
+
+### Patrón 5: Diálogo/Interacción
+```
+"¡Hola, Celestino! ¿Querés probar?"
+"Si no te quieres bañar, de color vas a cambiar"
+"¿Ah, no?" / "¿Cómo de que no?"
+```
+**Beneficio:** Conversacional, natural, interactivo
+
+### Patrón 6: Rimas AABB Simples
+```
+comer / chef (no perfecta pero rima)
+bañar / quedar
+huevitos / ruiditos
+```
+**Beneficio:** Rimas naturales, no forzadas
+
+### Patrón 7: Máximo 4 Líneas por Verso
+```
+"La gallina puso unos huevitos
+Les dio calor, ya se escuchan los ruiditos
+Pica, pica, pica el cascarón
+Nacieron pollitos del color del sol"
+```
+**Beneficio:** Conciso, memorable, sin abrumar
+
+### Patrón 8: Coro Repetido 2-3 Veces
+```
+Verso 1 → Coro
+Verso 2 → Coro (IDÉNTICO)
+Verso 3 → Coro (IDÉNTICO)
+```
+**Beneficio:** Memorabilidad por repetición
+
+### Patrón 9: Vocabulario Simple, Cotidiano
+```
+Comidas (zanahorias, manzanas, maíz)
+Acciones simples (bañar, comer, dormir)
+Palabras que niños usan (cochina, riquísimo, delicioso)
+```
+**Beneficio:** Accesible, reconocible
+
+### Patrón 10: Narrativa Completa en 4 Líneas
+```
+"A Tito pollito lo llama su mamá
+Pero el pollo Tito se va más allá
+Como no hizo caso, a un hoyo se cayó
+Pío, pío, pío, mami, qué miedo"
+→ Setup, conflicto, acción, reacción emocional
+```
+**Beneficio:** Historia completa sin verbosidad
+
+---
+
 ## ESTRUCTURA DE ENTREGA
 
 Toda canción emocional se entrega en TRES bloques separados:
@@ -480,3 +578,35 @@ Sigo este formato EXACTO:
 **Listo para crear episodios emocionales que generen replay emocional y conexión parental profunda.**
 
 **El paradigma es: No es canción educativa. Es narrativa emocional musicalizada. Es Bluey. Es futuro de Talo.**
+
+---
+
+## CHECKLIST LULI PAMPÍN — Para próximas canciones
+
+Antes de entregar CUALQUIER canción nueva, verificar:
+
+- [ ] **Verso repetidor** — ¿Hay un verso que se mantiene igual y permite variación?
+- [ ] **Onomatopeyas pegajosas** — ¿Hay sonidos memorables (Pío, Pam, Crunch)?
+- [ ] **Coro diferente a verso** — ¿El coro es distinto (solución, reacción, sonido)?
+- [ ] **Máximo 4 líneas por verso** — ¿Ningún verso exceeds 4 líneas?
+- [ ] **Coro repetido 2-3 veces** — ¿Se repite el coro suficientemente?
+- [ ] **Rimas AABB simples** — ¿Las rimas son naturales, no forzadas?
+- [ ] **Palabras simples** — ¿Cada palabra es reconocible para niños 3-5 años?
+- [ ] **Diálogo/Interacción** — ¿Hay preguntas, respuestas, llamadas?
+- [ ] **Menos verso, más coro** — ¿El coro es lo más repetido (no el verso)?
+- [ ] **Narrativa completa en pocas líneas** — ¿Cada verso cuenta un "hecho" completo?
+
+---
+
+## PRÓXIMAS CANCIONES EN PIPELINE
+
+1. ✅ El Enojo — "Talo y el Color del Enojo" (COMPLETADA - estilo original)
+2. ✅ El Miedo — "Talo y la Oscuridad" (COMPLETADA - estilo original)
+3. ⏳ **La Tristeza** — "Talo Extraña a su Amigo" (PRÓXIMA - usar Luli Pampín style)
+4. ⏳ **La Vergüenza** — "Talo Comete un Error" (PRÓXIMA - usar Luli Pampín style)
+5. ⏳ **La Soledad** — "Talo se Siente Solo" (PRÓXIMA - usar Luli Pampín style)
+6. ⏳ **La Alegría Profunda** — "Talo Celebra" (PRÓXIMA - usar Luli Pampín style)
+7. ⏳ **La Compasión** — "Talo Ayuda a un Amigo" (PRÓXIMA - usar Luli Pampín style)
+8. ⏳ **La Ansiedad** — "Talo Espera Algo Especial" (PRÓXIMA - usar Luli Pampín style)
+9. ⏳ **El Asombro** — "Talo Descubre Algo Nuevo" (PRÓXIMA - usar Luli Pampín style)
+10. ⏳ **La Envidia** — "Talo Quiere Lo Que Tiene Rubí" (PRÓXIMA - usar Luli Pampín style)
