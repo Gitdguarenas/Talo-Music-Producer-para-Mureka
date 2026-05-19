@@ -6,101 +6,182 @@ Cada vez que el usuario solicite: "Usa el skill y crea una canción para esta id
 
 ---
 
-## ESTRUCTURA LÍRICA — PATRONES LULI PAMPÍN (Para próximas canciones)
+## ESTRUCTURA LÍRICA OPTIMIZADA — PATRONES LULI PAMPÍN
 
-**Estos patrones hacen que las canciones sean PEGAJOSAS y MEMORABLES. Referencia: Luli Pampín**
+**Duración máxima: 3 minutos | Coros pegajosos | Versos concisos**
 
-### Patrón 1: Verso Repetidor + Verso Variador
-```
-Verso Repetidor (se mantiene igual):
-"El cerdo Celestino nada quiere comer
-Solo comida fina asada por un chef"
+### ESTRUCTURA BASE (Para todas las canciones)
 
-Verso Variador (cambia elemento clave):
-"¡Hola, Celestino!
-Te traje un plato de ZANAHORIAS, ¡riquísimo!
-¿Querés probar?"
+```
+[Intro] — 3-5 seg (hook explosivo)
+↓
+[Verso 1] — 3 líneas (acción, no narrativa)
+[Coro] — 3-4 líneas (pegajoso, se canta involuntariamente)
+↓
+[Verso 2] — 3 líneas (mismo patrón, elemento varía)
+[Coro] — IDÉNTICO (3-4 líneas)
+↓
+[Verso 3] — 3 líneas (si aplica)
+[Coro] — IDÉNTICO (3-4 líneas)
+↓
+[Outro] — 2-3 líneas (cierre o CTA)
 
-Próxima repetición (mismo verso repetidor, diferente elemento):
-"Te traje un plato de MANZANAS"
-"Te traje un plato de MAÍZ"
+DURACIÓN TOTAL: 2:30–3:00 minutos
 ```
-**Beneficio:** Familiaridad + Novedad = Pegajoso
 
-### Patrón 2: Onomatopeyas Pegajosas
+### Patrón 1: Hook Explosivo en Intro (0-3 seg)
 ```
-"Pío, pío, pío, pío" (La gallina puso unos huevitos)
-"Pica, pica, pica el cascarón"
-"¡Pam! ¡Pam! ¡Pam!" (Talo: cubos cayendo)
-```
-**Beneficio:** Lo más memorizable. El niño canta inmediatamente.
+✅ BIEN:
+"¡Uno, dos, tres!
+¡Los cubos aquí!"
 
-### Patrón 3: Coro DIFERENTE a Verso
+❌ MAL:
+"Despierto, me levanto..."
 ```
-Verso: Narrativa/Problema (4 líneas máximo)
-Coro: Onomatopeya O Solución O Respuesta (2-4 líneas)
-```
-**Beneficio:** Contraste = engagement
 
-### Patrón 4: Repetición de Palabras Clave
+### Patrón 2: Verso ACCIÓN (no presentación/narrativa)
 ```
-"No me quiero bañar, no me quiero bañar"
-"Así cochina me voy a quedar"
-"No me gusta el shampoo, no me gusta el jabón"
-"Así cochina me siento mejor"
-```
-**Beneficio:** Repetición de palabras = fácil de aprender
+✅ BIEN (acción):
+"¡Rojo como la manzana!
+¡Splash! ¡Qué bonita!
+Amarillo como el sol!"
 
-### Patrón 5: Diálogo/Interacción
-```
-"¡Hola, Celestino! ¿Querés probar?"
-"Si no te quieres bañar, de color vas a cambiar"
-"¿Ah, no?" / "¿Cómo de que no?"
-```
-**Beneficio:** Conversacional, natural, interactivo
+❌ MAL (presentación):
+"Yo soy Talo, el camaleón,
+curioso y lleno de imaginación,
+pinto, exploro sin parar..."
 
-### Patrón 6: Rimas AABB Simples
+✅ VERSO CORTO:
+- Máximo 3 líneas
+- Cada línea máximo 5 palabras
+- Acción clara (no descriptiva)
 ```
-comer / chef (no perfecta pero rima)
-bañar / quedar
-huevitos / ruiditos
-```
-**Beneficio:** Rimas naturales, no forzadas
 
-### Patrón 7: Máximo 4 Líneas por Verso
+### Patrón 3: Coro Pegajoso (3-4 líneas, NO 2)
 ```
-"La gallina puso unos huevitos
-Les dio calor, ya se escuchan los ruiditos
-Pica, pica, pica el cascarón
-Nacieron pollitos del color del sol"
-```
-**Beneficio:** Conciso, memorable, sin abrumar
+✅ BIEN (pegajoso, 3-4 líneas):
+"Respira con Talo,
+uno, dos, tres.
+Manos tranquilas,
+construyen mejor."
 
-### Patrón 8: Coro Repetido 2-3 Veces
-```
-Verso 1 → Coro
-Verso 2 → Coro (IDÉNTICO)
-Verso 3 → Coro (IDÉNTICO)
-```
-**Beneficio:** Memorabilidad por repetición
+O:
+"Colores, colores,
+¡rojo, azul, amarillo!
+¡Qué hermoso es!
+¡Mira todo brillar!"
 
-### Patrón 9: Vocabulario Simple, Cotidiano
-```
-Comidas (zanahorias, manzanas, maíz)
-Acciones simples (bañar, comer, dormir)
-Palabras que niños usan (cochina, riquísimo, delicioso)
-```
-**Beneficio:** Accesible, reconocible
+❌ MAL (demasiado corto):
+"Respira con Talo" (solo 3 palabras)
 
-### Patrón 10: Narrativa Completa en 4 Líneas
+❌ MAL (demasiado largo/complejo):
+"Somos amigos, ven a conocer,
+cada uno especial también,
+juntos reímos, juntos aprendemos,
+en la aldea felices seremos." (demasiado narrativo)
+
+✅ CORO APARECE 3+ VECES:
+(Más coro que verso = pegajosidad)
 ```
-"A Tito pollito lo llama su mamá
-Pero el pollo Tito se va más allá
-Como no hizo caso, a un hoyo se cayó
-Pío, pío, pío, mami, qué miedo"
-→ Setup, conflicto, acción, reacción emocional
+
+### Patrón 4: Verso Repetidor + Elemento que Varía
 ```
-**Beneficio:** Historia completa sin verbosidad
+VERSO REPETIDOR (estructura igual):
+"¡Rojo como la manzana!
+¡Splash! ¡Qué bonita!
+[COLOR] como [OBJETO]"
+
+ELEMENTO QUE VARÍA (entre repeticiones):
+Repetición 1: "Amarillo como el sol"
+Repetición 2: "Azul como el cielo"
+Repetición 3: "Verde como el árbol"
+
+BENEFICIO: Familiaridad + Novedad = Pegajoso
+```
+
+### Patrón 5: Onomatopeyas Pegajosas (en primeros 5-10 seg)
+```
+✅ EJEMPLOS:
+"¡Splash!" (agua, alegría)
+"¡Pam!" (cubos cayendo, energía)
+"¡Pío!" (miedo, pájaros)
+"¡Crunch!" (comer, acción)
+"¡Whoosh!" (movimiento rápido)
+
+CUÁNDO: Dentro de primeros 10 segundos
+DÓNDE: Dentro del verso o hook
+```
+
+### Patrón 6: Rimas AABB Simples (no forzadas)
+```
+✅ NATURAL:
+"Rojo como la manzana" / "¡Splash! ¡Qué bonita!"
+"Amarillo como el sol" / "¡Mira, mira, brilla!"
+
+❌ FORZADO:
+"Despierto, me levanto" / "Estiro, estiro las manos"
+(No riman bien, flojo)
+```
+
+### Patrón 7: Diálogo/Interacción (Opcional pero recomendado)
+```
+"¡Hola, Celestino!"
+"¿Querés probar?"
+"Respira conmigo"
+"¿Dónde estás, Talo?"
+```
+
+### Patrón 8: Menos Versos Totales (3-4, no 5-6)
+```
+❌ "SOMOS AMIGOS" (actual):
+Intro → Verso 1 (Talo) → Coro → Verso 2 (Nuti) → Coro → Verso 3 (Rubí) → Verso 4 (Tuco) → Coro Final
+= 6 versos + muchas presentaciones = LENTO
+
+✅ OPTIMIZADO:
+Intro → Verso 1 → Coro → Verso 2 → Coro → Verso 3 → Coro → Outro
+= 3 versos + 3 coros = RÁPIDO y PEGAJOSO (duración 2:30-3:00)
+```
+
+### Patrón 9: Coro IDÉNTICO en todas las repeticiones (no variaciones)
+```
+✅ BIEN:
+[Coro 1] "Respira con Talo, uno, dos, tres..."
+[Coro 2] EXACTAMENTE IGUAL
+[Coro 3] EXACTAMENTE IGUAL
+
+❌ MAL:
+[Coro 1] "Colores por todos lados..."
+[Coro 2] "Colores en el cielo..." (variación)
+(Confunde al niño, no es pegajoso)
+```
+
+### Patrón 10: Vocabulario Simple (palabras de 1-2 sílabas máximo cuando sea posible)
+```
+✅ SIMPLE:
+Rojo, sol, mar, árbol, viento, agua
+
+❌ COMPLEJO:
+Imaginación, características, aldea, aventura
+```
+
+### DURACIÓN POR SECCIÓN (Para llegar a 3 min máximo)
+
+```
+[Intro] — 5 seg
+[Verso 1] — 15 seg (3 líneas × 5 seg/línea)
+[Coro] — 15 seg (3-4 líneas × 4-5 seg/línea)
+[Verso 2] — 15 seg
+[Coro] — 15 seg
+[Verso 3] — 15 seg
+[Coro] — 15 seg
+[Outro] — 10 seg
+
+TOTAL: 105 seg ≈ 1:45–2:30 (CONFORTABLE)
+
+O CON PAUSA EMOCIONAL:
+[Pausa silencio] — 2 seg
+Total ajustado: 2:00–2:50 minutos
+```
 
 ---
 
