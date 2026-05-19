@@ -15,9 +15,14 @@
 2. Los prompts van AGRUPADOS al final de cada sección en un bloque "## PROMPTS — [SECCIÓN]", no inline frame por frame
 3. Cada sección tiene 4 subsecciones de prompts: imágenes individuales (8) → grid imagen → videos individuales (8) → grid video
 4. El grid de video Seedance 2 describe la secuencia completa de 8 escenas en orden estricto, sin saltar ninguna
-5. El frame de silencio/pausa del Verso 3 es siempre una imagen completamente quieta (personaje exhausto sentado)
+5. El frame de silencio/pausa del Verso 3 es siempre una imagen completamente quieta (personaje exhausto sentado o paralizado)
 6. Los cambios de color de Talo deben ser graduales: usar "shifting to", "returning to", "fading from" en los descriptores
 7. Siempre incluir la escala relativa cuando aparecen 2+ personajes: Talo 90cm > Nuti 85cm > Tuco 80cm > Rubí 75cm
+8. Cada storyboard DEBE incluir un "SISTEMA DE ANALYTICS TRACKING" al inicio con tabla de frames→timestamps para correlacionar con datos de retención de YouTube
+9. Color arc de Talo en episodios de miedo: Verde → Azul-Verde (curioso) → Azul (miedo leve) → Azul-Violeta (miedo alto) → Azul-Negro (paralizado) → Verde-Azul (primer alivio) → Verde (resolución) → Verde-Amarillo (confianza)
+10. Cada storyboard debe incluir tabla "RESUMEN ANALYTICS TRACKING POST-PUBLICACIÓN" al final, con campos vacíos para llenar después de recibir datos de YouTube Studio
+11. El gesto "1-2-3" con dedos de Talo es gesto SIGNATURE de la marca — incluir siempre que la canción lo permita
+12. Callbacks visuales: usar el mismo frame/elemento del Intro en el Outro pero con emoción transformada (ej: gotita aterradora → gotita hermosa)
 
 ---
 
