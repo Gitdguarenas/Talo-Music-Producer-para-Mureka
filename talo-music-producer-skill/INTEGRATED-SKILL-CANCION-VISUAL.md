@@ -26,24 +26,18 @@ ENTREGA: Canción + Storyboard + Prompts listos para Mureka + Seedance
 **Input:** Descripción de la idea del usuario + posibles documentos/imágenes  
 **Output:** Metadatos + Estructura clarificada + Analytics previos analizados
 
-### 1.0 PRE-ANÁLISIS: MarkItDown para Documentos/Imágenes
+### 1.0 PRE-ANÁLISIS: Si el usuario pasa imágenes o documentos
 
-**SI usuario pasa contenido visual/documento:**
+**SI usuario adjunta imagen al chat** (screenshot YouTube, imagen de personaje):
+- La leo directamente (capacidad multimodal nativa)
+- Extraigo métricas, tablas, descriptores visuales
 
-1. **Screenshot YouTube Analytics:** 
-   - MarkItDown OCR extrae % retención, CTR, engagement
-   - Correlaciono con tabla "Analytics Tracking" del storyboard anterior
-   - Identifico qué frames tuvieron mejor/peor performance
-   
-2. **PDF de referencia:**
-   - MarkItDown extrae estructura, tablas, listas
-   - Integro insights a framework existente
-   
-3. **Imagen de personaje/estructura:**
-   - MarkItDown OCR + análisis visual
-   - Extraigo descriptores para actualizar personajes.md
-   
-**Referencia:** Ver `MARKITDOWN-INTEGRATION.md` para detalles completos
+**SI usuario sube un PDF al repositorio:**
+- Lo leo con la herramienta Read
+- Extraigo estructura, tablas, patrones
+
+**SI usuario pega un transcript de video:**
+- Lo analizo directamente en el chat
 
 ### 1.1 Extraer Metadatos
 
@@ -57,9 +51,9 @@ Escenario principal: [La Plaza del Gran Árbol / El Río / etc.]
 Duración objetivo: [2:30-3:00 minutos]
 ```
 
-### 1.2 Consultar ANALISIS-ESTADISTICAS-VIDEOS.md + MarkItDown Results
+### 1.2 Consultar ANALISIS-ESTADISTICAS-VIDEOS.md
 
-**Preguntas clave (si hay datos previos analizados con MarkItDown):**
+**Preguntas clave (si hay datos previos):**
 - ¿Qué hooks funcionaron? (retención > 40% en 0-15 seg)
 - ¿Dónde cayeron usuarios? (ver tabla de frames → timestamps)
 - ¿Qué onomatopeyas/ritmos funcionan mejor?
@@ -628,53 +622,40 @@ Analytics: 📊 Ready para recibir datos miércoles
 
 ---
 
-## INTEGRACIÓN CON YOUTUBE + ANALYTICS + MarkItDown
+## INTEGRACIÓN CON YOUTUBE + ANALYTICS
 
 Después de cada lanzamiento:
 
 1. **Espera 3-7 días** de datos en YouTube Studio
-2. **Toma screenshot** de Analytics (retention curve, CTR, engagement)
-3. **Pasa en el chat:** Screenshot + datos
-4. **Yo ejecuto MarkItDown:**
-   - OCR extrae % retención por minuto
-   - Convierte a tabla Markdown
-   - Correlaciono automáticamente con tabla de frames/timestamps del storyboard
-   
-5. **Análisis automático:**
+2. **Adjunta screenshot** de Analytics al chat (retention curve, CTR, engagement)
+3. **Yo leo la imagen directamente** y extraigo los datos
+
+4. **Análisis automático:**
    - Si retención 0-15 seg = 78% ✅ → Frame 1-8 funciona
    - Si retención 30-60 seg = 42% ❌ → Frame 17-24 (Verso 2) necesita ajuste
    - Si retención en pico emocional cae → Frame 41-48 (Verso 3+Silencio) ajuste necesario
-   
-6. **Yo analizo:**
+
+5. **Yo analizo:**
    - ¿Qué funcionó? (patrones a mantener)
    - ¿Dónde perdemos usuarios? (qué frames corresponden)
    - ¿Qué cambios hacer en próxima canción?
 
-7. **Uso insights para próxima canción:**
-   - Si Frames 1-8 débiles → Hook 3x más explosivo, colores más saturados, Talo GRANDE
-   - Si Frames 17-24 caen → Verso 2 más energético, más movimiento visual, dinámico
-   - Si Frames 41-48 caen → Pico emocional más grande, cara PP (primer plano), transformación más visible
-   - Propongo cambios específicos en letra Y en storyboard
+6. **Uso insights para próxima canción:**
+   - Si Frames 1-8 débiles → Hook más explosivo, colores saturados, Talo GRANDE
+   - Si Frames 17-24 caen → Verso 2 más energético, más movimiento visual
+   - Si Frames 41-48 caen → Pico emocional más grande, cara en primer plano
 
-**Ejemplo real:**
+**Ejemplo:**
 ```
-Usuario pasa screenshot YouTube mostrando:
-- 0-15 seg: 78%
-- 30 seg: 65%
-- 1:00: 42% ← CAÍDA
-- 2:00: 35%
-
-MarkItDown extrae esto a tabla Markdown
+Usuario adjunta screenshot YouTube → yo leo imagen directamente
+Veo: 0-15 seg: 78% / 30 seg: 65% / 1:00: 42% ← CAÍDA
 ↓
-Correlaciono: 30 seg = Frames 17-24 (Verso 1 + Coro 1)
-              1:00 = Frames 25-40 (Verso 2 + Coro 2) ← AQUÍ CAE
+Correlaciono: 1:00 = Frames 25-40 (Verso 2 + Coro 2) ← AQUÍ CAE
 ↓
-Diagnóstico: "Verso 2 tuvo 4 líneas, demasiado narrativo sin energía"
+Diagnóstico: "Verso 2 muy largo, sin energía visual"
 ↓
-Ajuste para próxima: "Verso 2 solo 3 líneas, agregar onomatopeya '¡Pam! ¡Pam!' para energía"
+Ajuste para próxima: "Verso 2 solo 3 líneas + onomatopeya '¡Pam!'"
 ```
-
-Ver `MARKITDOWN-INTEGRATION.md` para flujo completo.
 
 ---
 
