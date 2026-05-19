@@ -23,8 +23,27 @@ ENTREGA: Canción + Storyboard + Prompts listos para Mureka + Seedance
 
 ## FASE 1: ANÁLISIS DE IDEA (5-10 min)
 
-**Input:** Descripción de la idea del usuario  
-**Output:** Metadatos + Estructura clarificada
+**Input:** Descripción de la idea del usuario + posibles documentos/imágenes  
+**Output:** Metadatos + Estructura clarificada + Analytics previos analizados
+
+### 1.0 PRE-ANÁLISIS: MarkItDown para Documentos/Imágenes
+
+**SI usuario pasa contenido visual/documento:**
+
+1. **Screenshot YouTube Analytics:** 
+   - MarkItDown OCR extrae % retención, CTR, engagement
+   - Correlaciono con tabla "Analytics Tracking" del storyboard anterior
+   - Identifico qué frames tuvieron mejor/peor performance
+   
+2. **PDF de referencia:**
+   - MarkItDown extrae estructura, tablas, listas
+   - Integro insights a framework existente
+   
+3. **Imagen de personaje/estructura:**
+   - MarkItDown OCR + análisis visual
+   - Extraigo descriptores para actualizar personajes.md
+   
+**Referencia:** Ver `MARKITDOWN-INTEGRATION.md` para detalles completos
 
 ### 1.1 Extraer Metadatos
 
@@ -38,17 +57,18 @@ Escenario principal: [La Plaza del Gran Árbol / El Río / etc.]
 Duración objetivo: [2:30-3:00 minutos]
 ```
 
-### 1.2 Consultar ANALISIS-ESTADISTICAS-VIDEOS.md
+### 1.2 Consultar ANALISIS-ESTADISTICAS-VIDEOS.md + MarkItDown Results
 
-**Preguntas clave:**
-- ¿Qué hooks funcionaron en videos anteriores? (retención > 40% en 0-15 seg)
-- ¿Dónde perdemos usuarios? (caídas de retención por minuto)
+**Preguntas clave (si hay datos previos analizados con MarkItDown):**
+- ¿Qué hooks funcionaron? (retención > 40% en 0-15 seg)
+- ¿Dónde cayeron usuarios? (ver tabla de frames → timestamps)
 - ¿Qué onomatopeyas/ritmos funcionan mejor?
-- ¿Cuál fue el CTR promedio? (¿mejorar con mejor visual?)
+- ¿Qué CTR promedio? (mejorar visual si < 2%)
 
 **Aplicación:**
-Si "Colores" tuvo caída en 30-60 seg → Ajustar Verso 2 a ser MÁS CORTO
-Si "Somos Amigos" tuvo bajo engagement → Aumentar CTA emocional en coro
+Si Frames 1-8 tuvieron 78% → Mantener estilo de hook explosivo
+Si Frames 17-24 cayeron a 42% → Verso 2 necesita más energía visual
+Si Frames 41-48 (Verso 3 + Silencio) cayeron abruptamente → Silencio necesita más apoyo visual
 
 ### 1.3 Validar Emoción contra Framework
 
@@ -594,21 +614,53 @@ Analytics: 📊 Ready para recibir datos miércoles
 
 ---
 
-## INTEGRACIÓN CON YOUTUBE + ANALYTICS
+## INTEGRACIÓN CON YOUTUBE + ANALYTICS + MarkItDown
 
 Después de cada lanzamiento:
 
 1. **Espera 3-7 días** de datos en YouTube Studio
 2. **Toma screenshot** de Analytics (retention curve, CTR, engagement)
-3. **Pasa en el chat:** Screenshot + datos en template ANALISIS-ESTADISTICAS-VIDEOS.md
-4. **Yo analizo:**
-   - ¿Qué funcionó? (mantener patrones)
-   - ¿Dónde perdemos usuarios? (ajustar esa sección)
+3. **Pasa en el chat:** Screenshot + datos
+4. **Yo ejecuto MarkItDown:**
+   - OCR extrae % retención por minuto
+   - Convierte a tabla Markdown
+   - Correlaciono automáticamente con tabla de frames/timestamps del storyboard
+   
+5. **Análisis automático:**
+   - Si retención 0-15 seg = 78% ✅ → Frame 1-8 funciona
+   - Si retención 30-60 seg = 42% ❌ → Frame 17-24 (Verso 2) necesita ajuste
+   - Si retención en pico emocional cae → Frame 41-48 (Verso 3+Silencio) ajuste necesario
+   
+6. **Yo analizo:**
+   - ¿Qué funcionó? (patrones a mantener)
+   - ¿Dónde perdemos usuarios? (qué frames corresponden)
    - ¿Qué cambios hacer en próxima canción?
-5. **Uso insights para próxima canción:**
-   - Si hook débil → Frames 1-8 más explosivos, onomatopeya más fuerte
-   - Si caída en 30-60 seg → Verso 2 más energético, frames más dinámicos
-   - Si bajo engagement → Pico emocional más grande, cara de Talo PP (primer plano)
+
+7. **Uso insights para próxima canción:**
+   - Si Frames 1-8 débiles → Hook 3x más explosivo, colores más saturados, Talo GRANDE
+   - Si Frames 17-24 caen → Verso 2 más energético, más movimiento visual, dinámico
+   - Si Frames 41-48 caen → Pico emocional más grande, cara PP (primer plano), transformación más visible
+   - Propongo cambios específicos en letra Y en storyboard
+
+**Ejemplo real:**
+```
+Usuario pasa screenshot YouTube mostrando:
+- 0-15 seg: 78%
+- 30 seg: 65%
+- 1:00: 42% ← CAÍDA
+- 2:00: 35%
+
+MarkItDown extrae esto a tabla Markdown
+↓
+Correlaciono: 30 seg = Frames 17-24 (Verso 1 + Coro 1)
+              1:00 = Frames 25-40 (Verso 2 + Coro 2) ← AQUÍ CAE
+↓
+Diagnóstico: "Verso 2 tuvo 4 líneas, demasiado narrativo sin energía"
+↓
+Ajuste para próxima: "Verso 2 solo 3 líneas, agregar onomatopeya '¡Pam! ¡Pam!' para energía"
+```
+
+Ver `MARKITDOWN-INTEGRATION.md` para flujo completo.
 
 ---
 
