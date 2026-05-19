@@ -1,268 +1,160 @@
 # PRODUCCIÓN DE ASSETS — Talo y el Color del Enojo
-**Archivos de salida:** Storyboard Grid (Nano Banana 2) + 16 Videos (Kling 2.5)
+**Archivos de salida:** 6 Storyboard Grids por Reel (Nano Banana 2) + 11 Videos (Kling 2.5)
 
 ---
 
-## PARTE 1: STORYBOARD GRID — NANO BANANA 2
+## PARTE 1: STORYBOARD GRIDS POR REEL — NANO BANANA 2
 
-### PROMPT MAESTRO PARA STORYBOARD COMPLETO (30 FRAMES)
+### GRID REEL 1: GANCHO RELATABLE (3 frames)
 
 ```
-GENERATE A COMPLETE 6x5 GRID STORYBOARD (30 frames) FOR:
-"Talo y el Color del Enojo" — Full 2:50 minute emotional episode
-
-STYLE: 3D Pixar animation, warm lighting, child-friendly, professional quality
+GENERATE A 3-FRAME GRID for Reel 1 (Gancho Relatable)
+STYLE: 3D Pixar animation, warm lighting, child-friendly
 ASPECT RATIO: Each frame square (1:1)
-CANVAS: 6 columns × 5 rows grid layout
-RESOLUTION: High quality, suitable for frame extraction
+GRID LAYOUT: 1 row × 3 columns
+RESOLUTION: High quality 1080p
 
-CHARACTERS:
-- Talo: Green chameleon (changes color based on emotion: RED when angry, GREEN when calm)
-- Rubí: Red panda, cheerful, supportive
-- Tuco: Bright yellow/orange toucan, friendly
-- Nuti: Blue otter, playful
+FRAME 1: Fondo verde con símbolo de Talo
+Soft green background, Talo's golden spiral symbol centered.
+Simple, clean, inviting. Golden lighting. No text overlay.
+Used for text gancho (0-3s).
 
-COLOR PALETTE:
-- Intro/Calm moments: Soft blues, greens, golden light
-- Frustrated moments: Warm reds, oranges
-- Peak emotion: Bright red, shadows, intensity
-- Resolution: Green, warm golden light, community colors
+FRAME 2: Talo frustrado - Torre cayendo
+Close-up of Talo RED, hands up in despair, tower collapsing behind.
+Chaotic, emotional, dramatic lighting.
+Used for Kling video 1 reference (3-13s).
 
----
+FRAME 3: Talo respirando
+Talo (transitioning colors) hand on heart, breathing.
+Soft, warm lighting. Safe, peaceful feeling.
+Used for storyboard extraction (13-21s).
 
-FRAME-BY-FRAME STORYBOARD:
-
-**ROW 1 (Frames 1-6): INTRODUCTION & VERSE 1**
-
-FRAME 1 (0-5s): Talo hopeful at base
-Wide shot of Talo (green) looking up at an empty plaza, wooden blocks at his feet.
-Expression: Hopeful, determined, ready to build.
-Background: Plaza del Gran Árbol, clear sky, soft golden afternoon light.
-Text overlay position: None (this is visual setup)
-
-FRAME 2 (5-10s): Building begins - first blocks
-Medium shot of Talo placing first three blocks carefully, one by one.
-His hands are steady, concentration on his face.
-Background: Close to blocks, soft warm lighting highlighting the action.
-Blocks colors: Red, green, blue in primary colors.
-
-FRAME 3 (10-15s): Tower grows - mid-height
-Medium shot of tower reaching chest-height, Talo placing more blocks.
-Camera angle slightly upward to show progress.
-Expression: Focused, happy.
-Background: Warm light from blocks reflects on Talo's face.
-
-FRAME 4 (15-20s): Tower tall - pride moment
-Full shot showing Talo stepping back to admire his tower, hands on hips.
-Tower reaches above Talo's head, clearly visible.
-Expression: Proud, excited.
-Lighting: Golden hour glow on the tower, making it beautiful.
-
-FRAME 5 (20-25s): Tower wobbles - tension begins
-Medium close-up of tower with visible wobble, blocks slightly misaligned.
-Talo's hands up, ready to catch, eyes wide.
-Expression: Alert, concern starting.
-Lighting: Slight shadow creeping in, less golden than before.
-
-FRAME 6 (25-30s): Another block placed risky
-Talo's hand places one more block on the wobbling tower, tension visible.
-Tower leaning noticeably, blocks at odd angles.
-Expression: Concentrated, slightly anxious.
-Background: Hint of darker sky, more dramatic lighting.
+OUTPUT: PNG/JPG 3-frame grid
+```
 
 ---
 
-**ROW 2 (Frames 7-12): VERSE 2 - TOWER WOBBLES**
+### GRID REEL 2: TUTORIAL RESPIRACIÓN (2 frames)
 
-FRAME 7 (30-35s): Severe wobble - Talo panic
-Close-up of Talo's face showing concern, hand up to try to stabilize tower.
-Tower in background clearly unstable, blocks about to fall.
-Expression: Panic, eyes wide, mouth open in concern.
-Lighting: Darker, more shadows, less comfortable.
+```
+GENERATE A 2-FRAME GRID for Reel 2 (Tutorial)
+STYLE: 3D Pixar animation, calming, educational
+GRID LAYOUT: 1 row × 2 columns
 
-FRAME 8 (35-40s): First blocks fall
-Wide shot of first 3-4 blocks cascading down in slow motion.
-Talo's body shows shock, hands up in gesture.
-Background: Blocks scattered on ground, dust particles visible.
-Color: Neutral, slightly desaturated to show tension.
+FRAME 1: Talo meditando - Hook
+Talo in calm blue background, sitting cross-legged, hand on heart.
+Peaceful, centered, with golden glow. Clean, educational feel.
+Used for title section (0-3s).
 
-FRAME 9 (40-45s): More blocks collapsing
-Medium shot of remaining tower falling apart, multiple blocks tumbling.
-Talo's face contorted with disappointment.
-Expression: Dismay, helplessness.
-Lighting: Dramatic, shadows emphasizing the fall.
+FRAME 2: Talo completamente calmado
+Talo GREEN, fully peaceful, breathing visible, slight smile.
+Surrounded by soft light particles. Complete calm.
+Used for storyboard extraction (9-17s, SOSTÉN moment).
 
-FRAME 10 (45-50s): Tower collapse - almost complete
-Wide shot showing most of tower collapsed, only 2-3 blocks still standing.
-Talo standing amid rubble, body language defeated.
-Expression: Shock, sadness, frustration building.
-Background: Scattered blocks everywhere, chaotic composition.
-
-FRAME 11 (50-55s): Total collapse imminent
-Close-up of last standing blocks wobbling dangerously.
-Talo's hand reaches out but frozen, knowing it's inevitable.
-Expression: Resignation mixed with frustration.
-Lighting: Dramatic shadows, color slightly desaturated.
-
-FRAME 12 (55-65s): COMPLETE COLLAPSE - "¡PAM!"
-Wide shot of final collapse, Talo in the center surrounded by fallen blocks.
-His body posture shows shock - the moment of impact.
-Expression: Face shows "¡PAM!" moment - eyes wide, mouth open.
-Background: Chaotic, blocks scattered in all directions.
-Color: Grays, earth tones dominate now, lost the golden light.
+OUTPUT: PNG/JPG 2-frame grid
+```
 
 ---
 
-**ROW 3 (Frames 13-18): VERSE 3 - EMOTIONAL PEAK**
+### GRID REEL 3: ANTES/DESPUÉS (4 frames)
 
-FRAME 13 (65-70s): Talo turns RED - full anger
-Close-up of Talo's face transforming from green to bright RED.
-His entire body visible, color shift complete.
-Expression: Pure frustration, eyes closed, mouth open.
-Background: Desaturated, Talo is the focus with his bright red color.
+```
+GENERATE A 4-FRAME GRID for Reel 3 (Transformation)
+STYLE: 3D Pixar animation, emotional contrast, dramatic lighting
+GRID LAYOUT: 2 rows × 2 columns
 
-FRAME 14 (70-75s): Peak anger - hands up
-Medium shot of Talo RED, hands thrown up in despair, body language explosive.
-His posture shows maximum frustration.
-Expression: Absolute anger, face contorted.
-Background: Neutral, all focus on Talo's emotion.
+FRAME 1: Split screen title - Enojo vs Calma
+Left half vibrant RED with chaotic energy, right half calm GREEN.
+Talo caught between in center. Dramatic Pixar composition.
+Used for title (0-3s).
 
-FRAME 15 (75-80s): Anger explosion moment
-Wide shot showing Talo mid-gesture, expressing maximum frustration.
-His whole body radiates anger, red color vibrant.
-Blocks scattered around in chaotic pattern.
-Background: Dark shadows, dramatic lighting.
-Color: Bright red Talo against darker background.
+FRAME 2: Talo ROJO - Peak emotion
+Talo completely RED, furious, hands in despair, collapsed blocks around.
+Raw, intense, not minimized. Pure anger expression.
+Used as reference for Kling video 4 (3-13s).
 
-FRAME 16 (80-85s): SILENCE MOMENT - Talo stops
-Close-up of Talo RED but now STILL - the moment of silence.
-His expression shows the emotion is real but he's pausing.
-Eyes slightly different - not closed in anger, but present.
-Background: Quiet, simple, focus on Talo's face.
-Color: Talo still red, but lighter lighting, less dramatic.
+FRAME 3: Talo transitioning
+Talo color shifting from red→orange→yellow, hand on chest, breathing.
+Mid-transformation moment, showing effort, not instant.
+Used for Kling video 5 reference (13-17s).
 
-FRAME 17 (85-90s): Validation - hands on heart
-Medium close-up of Talo (still slightly reddish) with hand on heart.
-His breathing is visible, conscious.
-Expression: Feeling the emotion, allowing it, not suppressing.
-Background: Soft, safe, warm despite the red color.
-Lighting: Golden returning slightly, healing beginning.
+FRAME 4: Talo GREEN - Peaceful
+Talo completely GREEN, surrounded by friends, calm posture.
+Bright, clean, safe feeling. Complete transformation.
+Used as reference for Kling video 6 (17-27s).
 
-FRAME 18 (90-95s): First transition - color shifting
-Close-up of Talo's face as RED begins to fade to ORANGE, then YELLOW.
-His expression shifts from pure anger to acknowledgment.
-Hand still on heart, breathing visible.
-Background: Light returning, golden glow increasing.
-Color: Color gradient visible on Talo, showing transition.
+OUTPUT: PNG/JPG 4-frame grid
+```
 
 ---
 
-**ROW 4 (Frames 19-24): VERSE 4 - FRIENDS ARRIVE & BRIDGE**
+### GRID REEL 4: EDUCATIVO (2 frames)
 
-FRAME 19 (95-100s): Rubí arrives
-Medium shot showing Rubí (red panda) approaching Talo from left.
-Talo's color is orange now, starting to change.
-Expression on both: Rubí concerned but present, Talo noticing support.
-Background: Plaza opening up, less claustrophobic.
-Lighting: Warm, golden, more hopeful.
+```
+GENERATE A 2-FRAME GRID for Reel 4 (Educational)
+STYLE: 3D Pixar animation, friendly, scientific but not clinical
+GRID LAYOUT: 1 row × 2 columns
 
-FRAME 20 (100-105s): Tuco arrives
-Medium shot adding Tuco (yellow toucan) from above, wings spread.
-Now Talo is between Rubí and Tuco.
-Expression: Talo's color shifting to yellow-green, friends showing support.
-Background: Three friends creating safety around Talo.
-Lighting: Progressively warmer, more golden.
+FRAME 1: Brain diagram with Talo
+Cute simplified brain with Talo pointing (doctor-style pose).
+Educational but warm, colorful, child-friendly illustration style.
+Used for hook (0-3s).
 
-FRAME 21 (105-110s): Nuti arrives - circle forming
-Wide shot showing Nuti (blue otter) completing the circle.
-All three friends around Talo (now yellow-green).
-Expression: All showing support, Talo's body language softening.
-Background: Complete circle formation, safe, supported.
-Color: Talo mostly green now, friends' colors create warm circle.
+FRAME 2: Talo with breathing glow
+Talo hand on heart, chest area glowing with breathing energy.
+Simple arrows showing oxygen flow, soft golden particles.
+Educational, warm, not clinical. Shows mechanism of calm.
+Used as reference for Kling video 7 (11-19s).
 
-FRAME 22 (110-115s): Hand on heart - breathing together
-Close-up group shot of all four, Talo's hand on heart.
-Friends have their hands on their hearts too - breathing together.
-Expression: Collective calm, synchronized breathing visible.
-Background: Soft, intimate, sacred moment.
-Lighting: Warm golden, peaceful.
-
-FRAME 23 (115-120s): Breathing guide moment
-Medium shot of four together, Talo's chest rising and falling.
-Friends breathing in sync, providing support through presence.
-Expression: Peaceful, present, safe.
-Background: Still and calm, almost meditation-like.
-Color: Talo GREEN now, fully calm, friends in their natural colors.
-
-FRAME 24 (120-125s): Support and peace
-Close-up of Talo's face GREEN, peaceful, with Rubí's arm around shoulder.
-His expression shows clarity returned, breathing easy.
-Friends' faces showing love and support.
-Background: Safe, home-like feeling.
-Lighting: Warm, bright, healing golden light.
+OUTPUT: PNG/JPG 2-frame grid
+```
 
 ---
 
-**ROW 5 (Frames 25-30): VERSE 5 - RESOLUTION & OUTRO**
+### GRID REEL 5: VIRAL/CÓMICO (2 frames)
 
-FRAME 25 (125-135s): Attempting to rebuild
-Medium shot showing all four starting to rebuild tower together.
-Blocks being placed carefully, cooperatively.
-Expression: Hopeful, teamwork, Talo's hands steady now.
-Background: New tower forming, organized this time.
-Color: Talo completely green, bright and calm.
+```
+GENERATE A 2-FRAME GRID for Reel 5 (Comedy/Viral)
+STYLE: 3D Pixar animation, comedic exaggeration, parents-relatable
+GRID LAYOUT: 1 row × 2 columns
 
-FRAME 26 (135-145s): Tower growing - together
-Wide shot showing the new tower reaching mid-height, all four placing blocks.
-Each friend contributing - teamwork.
-Expression: Happy, focused, collaborative.
-Background: Clean, organized, beautiful again.
-Lighting: Golden hour light, warm and beautiful.
+FRAME 1: Talo dramatic meltdown setup
+Talo with extremely exaggerated dramatic expression, hand on forehead.
+Looking at sky, theatrical, over-the-top but still cute.
+Comedy setup frame, used for title (0-3s).
 
-FRAME 27 (145-155s): New tower tall - success
-Medium shot showing completed new tower, taller and more stable than before.
-All four friends stepping back to admire together.
-Expression: Pride, joy, accomplishment.
-Background: Tower clearly beautiful, built with support.
-Color: Bright, golden, warm, celebratory.
+FRAME 2: Talo exaggerated collapse
+Talo in comedic meltdown - tower falling, arms thrown WILDLY.
+Face completely RED, body contorted in telenovela-style despair.
+Every movement HUGE and FUNNY. Exaggeration for humor, not trauma.
+Used as reference for Kling video 8 (3-13s).
 
-FRAME 28 (155-165s): Final chorus - all singing
-Full shot of four friends singing together, celebration visible.
-Talo in center, friends around him.
-Expression: Joy, connection, belonging.
-Background: Plaza filled with warm light, magical.
-Lighting: Golden hour peak, most beautiful moment.
-
-FRAME 29 (165-175s): Connection moment
-Close-up of all four hands meeting at top of tower or in center.
-Moment of pure connection and teamwork.
-Expression: Love, support, unity.
-Background: Intimate, warm, safe.
-Color: Talo green, all colors represented in friend circle.
-
-FRAME 30 (175-170s): Final fade - hope forward
-Wide shot of four friends starting new tower confidently.
-Camera pulling back slightly.
-Expression: Hopeful, strong, ready for next challenge.
-Background: Plaza ready for new story, endless possibility.
-Lighting: Sunset golden light, beautiful and warm.
-Color: All vibrant, healthy, alive colors.
+OUTPUT: PNG/JPG 2-frame grid
+```
 
 ---
 
-END GRID
+### GRID REEL 6: BRAND/CELEBRACIÓN (2 frames)
 
-TECHNICAL REQUIREMENTS:
-- Grid should be crisp, professional, suitable for video editing
-- Each frame should be extractable as individual image
-- Consistent color palette across all frames
-- Character consistency (Talo same design throughout)
-- Lighting progression: Golden → Dark/Red → Desaturated → Golden again
-- No text overlays on frames (text will be added in video)
-- High enough quality for 1080p extraction per frame
-- Emotional journey visually clear in sequence
+```
+GENERATE A 2-FRAME GRID for Reel 6 (Brand/Community)
+STYLE: 3D Pixar animation, celebratory, warm, inclusive
+GRID LAYOUT: 1 row × 2 columns
 
-OUTPUT: 6×5 grid PNG/JPG (or 30 individual frames)
+FRAME 1: All four friends in circle
+Talo (green), Rubí (red panda), Tuco (yellow toucan), Nuti (blue otter).
+All smiling, in cheerful circle, celebrating together.
+Warm golden light, party/celebration energy.
+Used for intro (0-3s).
+
+FRAME 2: All four with rainbow transformation
+All four friends standing together with rainbow light swirling around.
+Talo brightest green, all emotions represented in color spectrum.
+Warm, inclusive, beautiful light show effect.
+Represents all emotions welcome message.
+Used as reference for Kling video 11 (15-22s).
+
+OUTPUT: PNG/JPG 2-frame grid
 ```
 
 ---
