@@ -96,11 +96,16 @@ Martes 30:   Stories: Testimonios cierre      (19:00, 12:00)
 
 #### SECCIÓN A (0-3s) — TEXTO GANCHO
 ```
-TIPO: Nano Banana 2 (imagen estática)
+TIPO: Nano Banana 2 (imagen estática con texto integrado)
 IMAGEN: Fondo verde suave con espiral de Talo
 PROMPT: "Soft green background with Talo's golden spiral symbol, 
-         minimal, clean, 3D Pixar style, warm lighting"
-TEXTO EN PANTALLA: "¿Tu hijo también explota sin poder decir qué le pasa?"
+         minimal, clean, 3D Pixar style, warm lighting.
+         INCLUDE TEXT in the center: '¿Tu hijo también explota 
+         sin poder decir qué le pasa?' 
+         Font: Bold, modern sans-serif (Montserrat/Poppins style),
+         white color with slight shadow for readability, 
+         centered both horizontally and vertically,
+         text should be prominent but not overwhelming"
 AUDIO: Hook: "Talo quiere construir..." (primeros 3 seg)
 DURACIÓN: 3 seg (estática)
 ```
@@ -112,7 +117,10 @@ IMAGEN_INICIAL (Nano Banana 2):
 angry frustrated expression, eyes wide, small hands trembling, 
 standing in front of a wooden blocks tower that's wobbling. 
 3D Pixar cartoon style, volumetric warm lighting, soft shadows. 
-Plaza del Gran Árbol background blurred. Professional animation quality."
+Plaza del Gran Árbol background blurred. Professional animation quality.
+INCLUDE TEXT overlay in top-right corner: 'Se tambalea...' 
+Font: Bold italic, reddish color, slightly shaky/unstable appearance 
+to match the emotion, positioned above tower"
 
 KLING_PROMPT:
 "Talo stands trembling, watching his tower wobble dangerously. 
@@ -120,11 +128,15 @@ His body language screams frustration: hands up in despair, eyes wide
 and fixed on the tower. The blocks tumble in slow motion. Talo's face 
 reddens, his mouth opens as if to scream. The tower collapses completely 
 in a dramatic cascade. Camera stays close on Talo's face showing pure 
-frustration. 10 seconds continuous emotion, smooth movement, Pixar style."
+frustration. 
+ANIMATED TEXT: The word '¡PAM!' appears on screen at the moment of collapse
+(second 8-9), large and bold, red color, quickly shakes/vibrates on impact,
+then fades out. 
+10 seconds continuous emotion, smooth movement, Pixar style."
 
 NEGATIVE_PROMPT:
 "low quality, blurry, static, pixelated, 2D cartoon, distorted colors, 
-adult, realistic, dialogue, text, watermark, scary, traumatic"
+adult, realistic, static text, watermark, scary, traumatic"
 
 DURACIÓN: 10 seg
 AUDIO SYNC: Verso 2 ("Se tambalea, se tambalea...¡pam!")
@@ -183,12 +195,16 @@ Trending: #MentalHealth #ParentLife #CriarandoHijos #DesarrolloEmocional
 
 #### SECCIÓN A (0-3s) — TÍTULO
 ```
-TIPO: Nano Banana 2
+TIPO: Nano Banana 2 (con texto integrado)
 IMAGEN: Fondo azul suave, Talo en pose de meditación
 PROMPT: "Calm blue gradient background, Talo sitting cross-legged, 
          eyes closed, hand on heart, peaceful expression, 
-         soft golden glow around him, 3D Pixar style"
-TEXTO EN PANTALLA: "Respira con Talo: 3 pasos"
+         soft golden glow around him, 3D Pixar style.
+         INCLUDE TEXT in large bold letters: 'Respira con Talo:' 
+         on first line, '3 pasos' on second line.
+         Font: Modern sans-serif (Poppins), white/light blue color,
+         centered above Talo, with subtle glow effect,
+         positioned to guide eye from title to character"
 AUDIO: Hook suave
 ```
 
@@ -197,21 +213,27 @@ AUDIO: Hook suave
 IMAGEN_INICIAL (Nano Banana 2):
 "Talo sitting peacefully, hand on chest, starting to inhale. 
 Eyes closed, calm green-blue color, soft lighting. Simple clean background. 
-Ready to demonstrate breathing."
+Ready to demonstrate breathing.
+INCLUDE TEXT: 'INHALA' in top-right corner, aqua/light blue color,
+Font: Bold sans-serif, positioned for visibility but not overwhelming"
 
 KLING_PROMPT:
 "Talo takes a slow, deep breath in. His chest rises gently, 
 his hand follows the movement, his face is calm and peaceful. 
 The air around him glows softly. Camera focuses on his chest rising 
-in slow motion. 6 seconds of smooth inhale movement, calming energy."
+in slow motion. 
+ANIMATED TEXT: '(1-2-3)' appears and fades as he inhales, 
+counting out the breath rhythm. White/light text that grows slightly 
+brighter with each number, emphasizing the tempo. Numbers should 
+synchronize with his breathing movement.
+6 seconds of smooth inhale movement, calming energy."
 
 NEGATIVE_PROMPT:
 "fast movement, dramatic, scary, realistic, aggressive, 
-worried expression, dark colors"
+worried expression, dark colors, static text"
 
 DURACIÓN: 6 seg
 AUDIO SYNC: "Respira lentamente, uno, dos y tres"
-TEXT OVERLAY: "INHALA (1-2-3)"
 ```
 
 #### SECCIÓN C (9-17s) — SOSTÉN (Storyboard)
@@ -227,20 +249,25 @@ VISUAL ELEMENT: Brilla suave alrededor de Talo
 ```
 IMAGEN_INICIAL (Nano Banana 2):
 "Talo with full chest, eyes closed, calm expression, 
-about to exhale. Green color, peaceful, hand still on chest."
+about to exhale. Green color, peaceful, hand still on chest.
+INCLUDE TEXT: 'EXHALA' in top-right, green color,
+Font: Bold sans-serif, positioned for clarity"
 
 KLING_PROMPT:
 "Talo exhales slowly and completely. His chest deflates gently, 
 his shoulders relax. A soft green glow emanates as he releases. 
 His face shows relief and calm. Camera follows the exhale in slow motion. 
+ANIMATED TEXT: '(1-2-3-4-5)' appears and flows outward with the exhale,
+as if the breath is pushing the numbers away. Soft green/white color
+that glows and disperses, synchronized with the exhale movement.
+Numbers should spread across screen as air leaves his body.
 Complete calm restoration. 8 seconds smooth exhale, serene energy."
 
 NEGATIVE_PROMPT:
-"fast, panic, worried, dark, intense, aggressive, realistic"
+"fast, panic, worried, dark, intense, aggressive, realistic, static text"
 
 DURACIÓN: 8 seg
 AUDIO SYNC: Coro ("Respira con Talo, uno, dos y tres...")
-TEXT OVERLAY: "EXHALA (1-2-3-4-5)"
 ```
 
 #### SECCIÓN E (25-30s) — CIERRE
@@ -285,12 +312,16 @@ Trending: #WellnessForKids #MentalHealthTips #ParentingWins #ChildDevelopment
 
 #### SECCIÓN A (0-3s) — TÍTULO
 ```
-TIPO: Split screen setup (Nano Banana 2)
+TIPO: Split screen setup (Nano Banana 2 con texto integrado)
 IMAGEN: Mitad roja (frustración), mitad verde (calma), Talo pequeño en el medio
 PROMPT: "Split screen effect: left side vibrant red with frustrated energy, 
          right side calming green with peaceful energy, Talo caught between, 
-         dramatic Pixar composition, 3D rendering"
-TEXTO: "ENOJO vs. CALMA"
+         dramatic Pixar composition, 3D rendering.
+         INCLUDE TEXT: 'ENOJO' in bold red font on the left side,
+         'vs.' in white in the center, 'CALMA' in bold green font on right.
+         Font: Heavy bold sans-serif (Impact/Montserrat Black),
+         all caps, positioned to emphasize the contrast,
+         each word glows with its respective color (red/green)"
 AUDIO: Hook pegajoso
 ```
 
@@ -300,23 +331,34 @@ IMAGEN_INICIAL (Nano Banana 2):
 "Talo COMPLETELY RED, furious expression, tower collapsed all around him, 
 blocks scattered. Eyes closed in anger, hands balled into fists, 
 mouth open as if screaming. Chaotic background, dramatic lighting. 
-Raw pure anger expression."
+Raw pure anger expression.
+INCLUDE TEXT: 'ENOJO' large and bold in bright red,
+positioned at top-left corner, with jagged/electric appearance,
+Font: Heavy aggressive sans-serif, all caps, with subtle shake effect
+to convey intensity. Color: Bright red (#FF3333 or similar)"
 
 KLING_PROMPT:
 "Talo stands in the middle of collapsed blocks, absolutely furious. 
 His entire body is bright RED. He throws his hands up in despair, 
 his face contorted with anger, his body shakes with frustration. 
-The camera shakes slightly from his emotional intensity. Peak anger moment. 
-No resolution yet. Just RAW EMOTION. 10 seconds of pure frustrated energy, 
-exaggerated for dramatic effect, validating the anger, not minimizing it."
+The camera shakes slightly from his emotional intensity. 
+ANIMATED TEXT: 'EL ENOJO ES REAL' pulses into view around second 4-5,
+appearing in bright red from the edges of the screen, shaking in sync 
+with Talo's body movements, getting slightly larger and more intense 
+as the emotion peaks (around second 8-9). Text should feel like it's 
+radiating from Talo's energy. At second 10, text can fade but Talo 
+remains at peak emotion.
+Peak anger moment. No resolution yet. Just RAW EMOTION. 
+10 seconds of pure frustrated energy, exaggerated for dramatic effect, 
+validating the anger, not minimizing it."
 
 NEGATIVE_PROMPT:
 "calm, serene, happy, minimizing, dismissing emotion, 
-scary (too dark), traumatic, aggressive in destructive way"
+scary (too dark), traumatic, aggressive in destructive way, 
+static text, lack of emotion in text"
 
 DURACIÓN: 10 seg
 AUDIO SYNC: Verso 3 ("¡Rojo, rojo, rojo! ¡Se fue la paciencia! ¡Quiero gritar!")
-TEXT OVERLAY (fade in @5s): "EL ENOJO ES REAL" (rojo)
 ```
 
 #### SECCIÓN C (13-17s) — TRANSICIÓN (BREATHING MOMENT)
@@ -324,22 +366,30 @@ TEXT OVERLAY (fade in @5s): "EL ENOJO ES REAL" (rojo)
 IMAGEN_INICIAL (Nano Banana 2):
 "Talo, still red but calming, hand moving to chest, 
 taking first conscious breath. Face showing effort and intention. 
-Transition state between anger and peace."
+Transition state between anger and peace.
+INCLUDE TEXT: 'RESPIRA...' in white with slight fade effect,
+positioned centrally above Talo, Font: Modern sans-serif,
+designed to look gentle and instructive, not demanding"
 
 KLING_PROMPT:
 "Talo stops. He takes one deep breath. His hand touches his chest. 
 The red begins to fade—not instantly, but gradually, naturally. 
 His face shows the effort: he's DOING this consciously. Breathing in, 
 holding, breathing out. Slow smooth transition. The chaos settles. 
+ANIMATED TEXT: 'RESPIRA...' fades in at second 0, glows softly as 
+Talo breathes, then gradually fades out as the color shift progresses. 
+The ellipsis '...' should continue subtly, like an ongoing process.
+Text color can shift from white to light green as the character transforms,
+showing the journey from emotion to calm. Text movement should be 
+minimal but present—perhaps a gentle float upward or pulse.
 4 seconds of conscious breathing transformation."
 
 NEGATIVE_PROMPT:
 "instant color change, unrealistic transition, magical cure, 
-dismissing the process, too fast, not showing effort"
+dismissing the process, too fast, not showing effort, aggressive text"
 
 DURACIÓN: 4 seg
 AUDIO SYNC: Bridge ("Respira lentamente, uno, dos y tres")
-TEXT OVERLAY: "RESPIRA..." (white, fading)
 ```
 
 #### SECCIÓN D (17-27s) — DESPUÉS (PEACEFUL RESOLUTION)
@@ -348,7 +398,11 @@ IMAGEN_INICIAL (Nano Banana 2):
 "Talo COMPLETELY GREEN now, peaceful expression, calm posture, 
 hand still on heart, slight smile, eyes open with clarity. 
 Surrounded by friends (Rubí, Tuco, Nuti). Bright clean background. 
-Blocks neatly stacked around him in organized way. Complete peace."
+Blocks neatly stacked around him in organized way. Complete peace.
+INCLUDE TEXT: 'CALMA' in peaceful green color at top,
+'Y AMIGOS' in warm blue below. Font: Soft, welcoming sans-serif
+(Poppins/Raleway), both positioned with gentle spacing,
+glowing subtly to suggest warmth and support"
 
 KLING_PROMPT:
 "Talo sits calm and green. The blocks around him are being rebuilt 
@@ -356,15 +410,22 @@ by his friends (glimpses of them helping). His face shows relief,
 clarity, and quiet strength. His breathing is steady. A slight smile. 
 He looks down at the new tower forming—hopeful, grounded, supported. 
 Camera pulls back to show all three friends joining. Warm golden light. 
+ANIMATED TEXT: 'CALMA' appears first (second 1-2) in peaceful green,
+glowing gently. Then around second 4-5, 'Y AMIGOS' slides in from below
+in warm blue, with the three friends appearing in the visual simultaneously.
+Both texts have a subtle glow effect, and could have a gentle upward float
+or shimmer to convey positive emotion. Text should feel integrated with 
+the transformation, not overlaid on top. Text fades gradually after second 8,
+letting the peaceful image shine through.
 10 seconds of complete transformation, peaceful energy, restored confidence."
 
 NEGATIVE_PROMPT:
 "forced happiness, unrealistic speed, no struggle shown, 
-minimizing the difficulty, too saccharine, ignoring the friends"
+minimizing the difficulty, too saccharine, ignoring the friends, 
+harsh text, static text"
 
 DURACIÓN: 10 seg
 AUDIO SYNC: Verso 5 + Coro final ("El rojo se apaga, llega el verde...")
-TEXT OVERLAY (fade in @2s): "CALMA" (green), then "Y AMIGOS" (blue)
 ```
 
 #### SECCIÓN E (27-30s) — CTA
@@ -409,12 +470,15 @@ Trending: #ParentWin #AuthenticParenting #RealLife #MentalWellness
 
 #### SECCIÓN A (0-3s) — HOOK CIENTÍFICO
 ```
-TIPO: Nano Banana 2
+TIPO: Nano Banana 2 (con texto integrado)
 IMAGEN: Cerebro simple, Talo señalando (estilo Doctor Talo)
 PROMPT: "Cute simplified brain diagram with Talo pointing, 
          doctor coat optional, educational poster style, 
-         colorful but not overwhelming, 3D Pixar"
-TEXTO: "¿Por qué se enoja?"
+         colorful but not overwhelming, 3D Pixar.
+         INCLUDE TEXT: '¿Por qué se enoja?' centered in the image,
+         Font: Clean, educational sans-serif (Montserrat/Quicksand),
+         bright blue/purple color with a subtle glow to convey science,
+         positioned above the brain, inviting curiosity"
 AUDIO: Intro (primeros 3 seg)
 ```
 
@@ -434,22 +498,31 @@ FORMATO: Texto + líneas de conexión simple a frame
 IMAGEN_INICIAL (Nano Banana 2):
 "Talo with hand on heart, glowing chest area showing 'breathing zone', 
 simple arrows showing oxygen flow, educational but warm, 
-not clinical, very child-friendly illustration"
+not clinical, very child-friendly illustration.
+INCLUDE TEXT: 'La respiración = CALMA' in the lower portion,
+Font: Modern sans-serif (Nunito), clean and clear, blue/green colors
+to suggest breathing/peace, with subtle arrow or equals sign as visual element"
 
 KLING_PROMPT:
 "Talo demonstrates: as he breathes, soft glowing light fills his chest. 
 Small particles of calm energy flow through his body. His face shows 
 understanding and control. The breathing motion is clear and slow. 
-This is teaching the mechanism: breathing = calm. 8 seconds educational, 
-clear, non-scary, empowering demonstration."
+ANIMATED TEXT: 'La respiración = CALMA' appears around second 2-3,
+with the word 'respiración' glowing blue and expanding with each breath,
+the equals sign '=' appearing as a connecting element, and 'CALMA' 
+appearing in peaceful green. As Talo breathes, these words could pulse 
+slightly in sync with his breathing, showing the direct connection.
+The arrows in the illustration could glow to follow the oxygen path,
+with text elements subtly moving with the energy flow.
+This is teaching the mechanism: breathing = calm. 
+8 seconds educational, clear, non-scary, empowering demonstration."
 
 NEGATIVE_PROMPT:
 "clinical, scary, technical jargon, overwhelming, 
-realistic anatomy, traumatic, complex"
+realistic anatomy, traumatic, complex, static text"
 
 DURACIÓN: 8 seg
 AUDIO SYNC: Bridge ("Respira lentamente...")
-TEXT OVERLAY: "La respiración = REGULACIÓN"
 ```
 
 #### SECCIÓN D (19-27s) — MONTAJE: AMIGOS = APOYO (Storyboard)
@@ -505,13 +578,17 @@ Trending: #ParentingEducation #ScienceForKids #SmartParenting #Development
 
 #### SECCIÓN A (0-3s) — SETUP CÓMICO
 ```
-TIPO: Nano Banana 2
+TIPO: Nano Banana 2 (con texto integrado cómico)
 IMAGEN: Talo con expresión exagerada de drama (casi caricatura)
 PROMPT: "Talo with extremely exaggerated dramatic expression, 
          hand on forehead, looking at sky, theatrical posture, 
          comedic style (more exaggerated than usual Pixar), 
-         overacted but still cute"
-TEXTO: "Mi hijo cuando algo no sale perfecto:"
+         overacted but still cute.
+         INCLUDE TEXT: 'Mi hijo cuando algo no sale perfecto:'
+         Font: Fun, playful sans-serif (Comic Sans alternative like 
+         Nunito/Raleway in italic), dark color for contrast,
+         positioned at top with slightly tilted/playful angle,
+         positioned to set comedic tone before action begins"
 AUDIO: Hook (primer segundo)
 ```
 
@@ -522,24 +599,32 @@ IMAGEN_INICIAL (Nano Banana 2):
 from extreme camera angle, Talo throwing arms up WILDLY, 
 face completely red, mouth impossibly open, body contorted 
 in exaggerated dramatic pose. Background slightly blurred for effect. 
-Completely over-the-top but still recognizable as Talo."
+Completely over-the-top but still recognizable as Talo.
+INCLUDE TEXT: 'LA REALIDAD:' in bold yellow/gold, positioned at top-left,
+Font: Comedic sans-serif (bold, slightly italic), color should pop
+against the red chaos, emphasizing the humor of the moment"
 
 KLING_PROMPT:
 "Talo has a completely exaggerated, comedic meltdown. The tower collapses 
 in dramatic slow motion. He throws his hands up DRAMATICALLY, spins, 
 falls to his knees in exaggerated despair, looks at the sky like 
 a tragic character in a telenovela. Every movement is HUGE and FUNNY. 
-The emotion is valid but the DELIVERY is hilarious. 10 seconds of 
-pure comedic gold—parents watching this will LAUGH because it's 
+ANIMATED TEXT: 'LA REALIDAD:' stays visible, maybe with a comedic 
+movement like a slight bounce or shake at key dramatic moments 
+(when tower falls at second 5, when he spins at second 6, when he 
+falls to knees at second 8). The text itself could be comedically 
+'suffering' along with Talo—maybe trembling or pulsing with the drama.
+The emotion is valid but the DELIVERY is hilarious. 
+10 seconds of pure comedic gold—parents watching this will LAUGH because it's 
 SO TRUE but SO EXAGGERATED."
 
 NEGATIVE_PROMPT:
 "realistic sadness, scary expression, dark mood, minimizing emotion, 
-not funny, mean-spirited, genuine sadness (should be clearly comedic)"
+not funny, mean-spirited, genuine sadness (should be clearly comedic), 
+serious text appearance"
 
 DURACIÓN: 10 seg
 AUDIO SYNC: Verso 3 ("¡Rojo, rojo, rojo! ¡No es justo!")
-TEXT OVERLAY: "LA REALIDAD:" (yellow)
 BACKGROUND MUSIC: Dramatic orchestral strings (over song)
 ```
 
@@ -548,22 +633,30 @@ BACKGROUND MUSIC: Dramatic orchestral strings (over song)
 IMAGEN_INICIAL (Nano Banana 2):
 "Sudden cut: Talo with hand up and... he STOPS. 
 Deep breath. Switch to calmer pose. Slight smile. 
-Change of energy completely."
+Change of energy completely.
+INCLUDE TEXT: '1 RESPIRO DESPUÉS:' in green, positioned top-right,
+Font: Clear sans-serif transitioning from the comedic style,
+showing the shift from chaos to control, positioned to signal the change"
 
 KLING_PROMPT:
 "Suddenly Talo stops his dramatic meltdown. He pauses. 
 Takes ONE deep breath. His entire body language shifts from 
 'tragedy' to 'okay, I can handle this.' Quick moment showing 
 the transformation from comedy to reality. The breathing is 
-the pivot. 4 seconds—the moment when the parent actually 
-HELPS and the shift happens."
+the pivot. 
+ANIMATED TEXT: 'RESPIRO...' appears at second 0-1, then 
+'1 RESPIRO DESPUÉS:' slides in from top-right around second 1-2, 
+positioning itself as a narration of the moment. The text color 
+shifts from yellow/red tones to green, mirroring the character's 
+color and mood shift. Text could have a gentle 'settling' motion, 
+like it's finally finding peace.
+4 seconds—the moment when the parent actually HELPS and the shift happens."
 
 NEGATIVE_PROMPT:
-"slow transition, loses comedic tone, too serious"
+"slow transition, loses comedic tone, too serious, abrupt text"
 
 DURACIÓN: 4 seg
 AUDIO SYNC: Bridge (silence + first breath)
-TEXT OVERLAY: "1 RESPIRO DESPUÉS:" (green)
 ```
 
 #### SECCIÓN D (17-25s) — LEARNING MOMENT (Hybrid)
@@ -632,14 +725,18 @@ Trending: #ParentLife #KidsOfInstagram #Relatable #OverdramaticKids
 
 #### SECCIÓN A (0-3s) — INTRO CELEBRACIÓN
 ```
-TIPO: Nano Banana 2
+TIPO: Nano Banana 2 (con texto integrado celebratorio)
 IMAGEN: Los 4 personajes (Talo, Rubí, Tuco, Nuti) juntos, sonriendo, 
         en círculo, celebrando
 PROMPT: "Talo (green chameleon), Rubí (red panda), Tuco (toucan), 
          Nuti (otter) in a cheerful circle, all smiling, 
          celebrating together, warm golden light, 3D Pixar style, 
-         party/celebration energy"
-TEXTO: "Bienvenido a El Mundo de Talo"
+         party/celebration energy.
+         INCLUDE TEXT: 'Bienvenido a El Mundo de Talo' in large, 
+         friendly sans-serif (Montserrat/Poppins), warm golden/white color,
+         positioned in center above the characters, with a celebratory 
+         glow or subtle sparkle effect around the letters to match 
+         the celebration energy"
 AUDIO: Hook musical alegre
 ```
 
@@ -647,48 +744,73 @@ AUDIO: Hook musical alegre
 ```
 IMAGEN_INICIAL (Nano Banana 2):
 "Talo in bright green, confident, welcoming pose at center, 
-rays of light around him, ready to present friends"
+rays of light around him, ready to present friends.
+INCLUDE TEXT: Character names positioned near their positions:
+'RUBÍ' in red, 'TUCO' in vibrant yellow/orange, 'NUTI' in blue,
+each in their character color, Font: Clean, friendly sans-serif,
+positioned to identify characters as they enter"
 
 KLING_PROMPT:
 "Talo stands in center as his three friends approach him joyfully. 
 Rubí (red panda) bounces over, Tuco (toucan) flies down gracefully, 
 Nuti (otter) slides in playfully. They form a circle around Talo. 
 Each one celebrates in their own way: Rubí claps, Tuco spreads wings, 
-Nuti dances. Warm, joyful, community energy. 12 seconds of pure 
+Nuti dances. 
+ANIMATED TEXT: Character names appear sequentially as they enter:
+- 'RUBÍ' appears and glows red when Rubí bounces in (second 3-4)
+- 'TUCO' appears and glows yellow when Tuco flies in (second 6-7)  
+- 'NUTI' appears and glows blue when Nuti slides in (second 9-10)
+All three names remain visible and could pulse slightly with the music
+or celebration energy. Text should complement the joyful mood.
+At the end (second 12-15), all names could glow together as they 
+form the circle, creating a sense of unity.
+Warm, joyful, community energy. 12 seconds of pure 
 celebration and friendship."
 
 NEGATIVE_PROMPT:
-"scary, dark, isolated, sad, chaotic, aggressive, unclear characters"
+"scary, dark, isolated, sad, chaotic, aggressive, unclear characters, 
+poorly timed text, overwhelming text"
 
 DURACIÓN: 12 seg
 AUDIO SYNC: Verso 4 + Coro Final ("Rubí, Tuco y Nuti vienen a ayudar... 
              Respira con Talo")
-TEXT OVERLAY: Character names fade in (RUBÍ, TUCO, NUTI)
 ```
 
 #### SECCIÓN C (15-22s) — TRANSFORMACIÓN FINAL (Kling)
 ```
 IMAGEN_INICIAL (Nano Banana 2):
 "All four characters with a gradient: Talo in bright green, 
-surrounded by warm rainbow colors, transformation aura"
+surrounded by warm rainbow colors, transformation aura.
+INCLUDE TEXT: 'Todas las emociones son bienvenidas' positioned 
+at the bottom, Font: Inclusive, warm sans-serif (Raleway/Poppins),
+soft multi-color gradient across the text or white with subtle glow,
+positioned as an inclusive message of acceptance"
 
 KLING_PROMPT:
 "The four friends stand together. Behind them, soft light pulses 
 in warm colors—red, green, yellow, blue—representing all emotions 
 that are okay. Talo glows brightest green (calm, resolved). 
 The colors swirl gently around them, showing the full spectrum 
-of feelings. This is the message: all emotions are valid, 
+of feelings. 
+ANIMATED TEXT: 'Todas las emociones son bienvenidas' appears around 
+second 2-3 at the bottom, with letters potentially in different 
+warm colors (some red, some yellow, some green, some blue) representing 
+the spectrum of emotions. As the light show swirls around the characters, 
+the text could gently pulse or have subtle color shifts to stay in 
+harmony with the transformation. The text should feel like a warm embrace, 
+not cold or clinical. At the end (second 6-7), the text could glow 
+brighter as the final affirmation.
+This is the message: all emotions are valid, 
 and with support (community), we can handle them. 7 seconds 
 of warm, inclusive, beautiful transformation light show."
 
 NEGATIVE_PROMPT:
 "chaotic, overwhelming, scary colors, realistic, dark, sad, 
-isolated"
+isolated, cold text, clinical message"
 
 DURACIÓN: 7 seg
 AUDIO SYNC: Outro ("Intento otra vez, sin miedo yo voy...")
-TEXT OVERLAY: "Todas las emociones son bienvenidas"
-EFFECT: Soft particles/light effects
+EFFECT: Soft particles/light effects integrated with text glow
 ```
 
 #### SECCIÓN D (22-30s) — FINALE + CTA
