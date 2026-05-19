@@ -111,7 +111,27 @@ quickly shakes/vibrates on impact, then fades out.
 ```
 
 #### SECCIÓN C (13-21s) — TALO RESPIRANDO
-**Storyboard Extract:** Frame 3 from Grid Reel 1 (8 sec, fade in text at 15s)
+**Nano Banana 2 Prompt:**
+```
+PROMPT: "Talo the chameleon with color transitioning from red-orange to soft yellow-green, 
+hand placed gently on chest, eyes half-closed, conscious breathing visible through chest movement. 
+Warm soft lighting returning after the chaos. Background: Plaza del Gran Árbol, calm, safe feeling. 
+3D Pixar style, gentle volumetric lighting.
+INCLUDE TEXT fading in at center-bottom: 'Respira con Talo'
+Font: Soft rounded sans-serif (Nunito/Poppins), white with gentle glow, 
+positioned at bottom third so it doesn't cover Talo's face, appears gradually like a breath."
+```
+
+**Kling 2.5 Video Prompt:**
+```
+PROMPT: "Talo standing still, color slowly shifting from orange to yellow-green as he breathes. 
+Hand on chest rises and falls with each breath. His expression shifts from pain to presence. 
+Each exhale visibly releases tension from his shoulders and jaw. Background settles to soft warm light.
+ANIMATED TEXT: 'Respira con Talo' fades in gently at second 3-4 at center-bottom, 
+glowing softly in white, pulsing very slightly in sync with Talo's breathing rhythm.
+Text appears soft, not demanding—an invitation, not an order.
+8 seconds steady, calm, warm breathing moment."
+```
 
 #### SECCIÓN D (21-30s) — CTA
 **Nano Banana 2:**
@@ -157,7 +177,27 @@ Numbers synchronize with his breathing movement: '1' appears second 1,
 ```
 
 #### SECCIÓN C (9-17s) — SOSTÉN
-**Storyboard Extract:** Frame 1 from Grid Reel 2 (8 sec)
+**Nano Banana 2 Prompt:**
+```
+PROMPT: "Talo sitting completely still in meditation pose, eyes closed, hand on heart, 
+chest slightly expanded (holding breath at peak inhale). Soft warm golden glow surrounds him. 
+Peaceful blue-green background. Expression: serene, concentrated, present. 3D Pixar style.
+INCLUDE TEXT: 'SOSTÉN (1-2-3-4)' positioned center-top. 
+Font: Clean rounded sans-serif (Nunito), aqua/light blue color, 
+each number slightly larger than the previous to suggest the hold expanding, 
+subtle glow to indicate the pause moment."
+```
+
+**Kling 2.5 Video Prompt:**
+```
+PROMPT: "Talo holds completely still at peak breath. His chest is slightly expanded, hand on heart, 
+face calm and focused. No movement except the tiniest pulse of his chest holding the air. 
+A soft golden glow pulses slowly around him once every 2 seconds, like a heartbeat. Complete stillness.
+ANIMATED TEXT: 'SOSTÉN' appears at second 0-1 center-top in aqua. 
+Then numbers count up one at a time: '1' at second 1, '2' at second 2, '3' at second 3, '4' at second 4, 
+each number fading as the next appears. Numbers glow softly, matching the rhythm of the hold.
+8 seconds of stillness, presence, and quiet calm."
+```
 
 #### SECCIÓN D (17-25s) — EXHALA
 **Nano Banana 2 Initial Image:**
@@ -285,8 +325,34 @@ INCLUDE TEXT: '¿Por qué se enoja?' in center. Font: Clean educational sans-ser
 bright blue/purple color with subtle glow to convey science, positioned above brain, inviting curiosity."
 ```
 
-#### SECCIÓN B (3-11s) — EXPLICACIÓN 1
-**Storyboard Extract:** Frame 2 from Grid Reel 4 (8 sec)
+#### SECCIÓN B (3-11s) — EXPLICACIÓN 1: LA AMÍGDALA
+**Nano Banana 2 Prompt:**
+```
+PROMPT: "Split illustration: left side shows cute simplified brain with a small area glowing red 
+(representing the amygdala), right side shows Talo in RED frustrated color standing next to it. 
+Simple connecting arrow between brain area and Talo. Educational poster style, warm and friendly, 
+not clinical. 3D Pixar quality, soft lighting.
+INCLUDE TEXT (3 lines, stacked): 
+Line 1: 'Su cerebro está creciendo' in white, large
+Line 2: 'La amígdala procesa emociones' in light blue, medium
+Line 3: 'Eso es... normal.' in green, italic
+Font: Clean educational sans-serif (Nunito/Quicksand), each line in its color, 
+positioned right side of image next to brain illustration."
+```
+
+**Kling 2.5 Video Prompt:**
+```
+PROMPT: "The red spot in the cute brain illustration pulses and glows gently as Talo next to it 
+reacts emotionally. When the brain pulses, Talo's color briefly flares red. Then both settle. 
+Soft educational energy—like a gentle science lesson for a child. 
+ANIMATED TEXT: Three lines appear one by one:
+At second 1-2: 'Su cerebro está creciendo' slides in from left in white.
+At second 3-4: 'La amígdala procesa emociones' slides in from left in light blue.
+At second 5-6: 'Eso es... normal.' slides in from left in green, with a slight pause 
+before 'normal' appears as if the narrator is reassuring.
+Each line remains visible after appearing.
+8 seconds warm educational tone, non-scary, empowering."
+```
 
 #### SECCIÓN C (11-19s) — EXPLICACIÓN 2: REGULACIÓN
 **Nano Banana 2 Initial Image:**
@@ -309,7 +375,31 @@ illustration glow to follow oxygen path, text elements subtly moving with energy
 ```
 
 #### SECCIÓN D (19-27s) — MONTAJE AMIGOS
-**Storyboard Extract:** Frames 3-4 from Grid Reel 4 (8 sec quick montage)
+**Nano Banana 2 Prompt:**
+```
+PROMPT: "Group shot: Talo (now GREEN, calm) at center, surrounded by Rubí (red panda), 
+Tuco (yellow toucan), and Nuti (blue otter). All three friends have their hands on their hearts, 
+mirroring Talo. Warm golden light, circle formation, supportive body language. 
+Background: Plaza del Gran Árbol, bright and open. 3D Pixar style.
+INCLUDE TEXT (2 lines):
+Line 1: 'La comunidad = SOPORTE' in warm white, centered top
+Line 2: 'No está solo.' in soft gold, centered, slightly smaller
+Font: Warm rounded sans-serif (Poppins), gentle positioning, 
+line 2 appears slightly lower as an affirmation."
+```
+
+**Kling 2.5 Video Prompt:**
+```
+PROMPT: "Talo stands calm and green as his three friends arrive one by one to stand beside him. 
+Rubí places a paw on Talo's shoulder. Tuco bows his beak gently. Nuti gives a little wave. 
+All three mirror Talo's breathing—hands on hearts, slow breath in, slow breath out together. 
+Camera slowly pulls back to reveal the full circle of support. Warm golden light fills the scene.
+ANIMATED TEXT: 
+At second 1-2: 'La comunidad = SOPORTE' appears at top center in warm white, gentle glow.
+At second 4-5: 'No está solo.' fades in below in soft gold, as the third friend joins.
+Both texts remain visible with soft pulse matching the group's shared breathing rhythm.
+8 seconds of warmth, belonging, and collective calm."
+```
 
 #### SECCIÓN E (27-30s) — CTA
 **Nano Banana 2:**
@@ -379,7 +469,27 @@ character and mood shift. Text could have gentle 'settling' motion.
 ```
 
 #### SECCIÓN D (17-25s) — LEARNING MOMENT
-**Storyboard Extract:** Frame 1 from Grid Reel 5 (8 sec)
+**Nano Banana 2 Prompt:**
+```
+PROMPT: "Talo sitting peacefully GREEN next to a small rebuilt tower (only 4-5 blocks, modest but stable). 
+His friends (Rubí, Tuco, Nuti) are in the background smiling, giving him space. Talo looks at the tower 
+with gentle pride—not over the top, just calm satisfaction. Soft warm lighting. 3D Pixar style.
+INCLUDE TEXT: 'Intento otra vez... con mucho amor' centered bottom.
+Font: Warm rounded italic sans-serif (Poppins Italic), white with very soft shadow, 
+gentle and reflective in tone—not triumphant, just honest and hopeful."
+```
+
+**Kling 2.5 Video Prompt:**
+```
+PROMPT: "Talo slowly and carefully places one block on his small tower, fully focused and calm. 
+No rush. His movements are deliberate and gentle. Friends in background watch quietly, smiling. 
+Tower grows one block at a time. Talo's breathing is visible and steady. 
+Camera close on his hands placing each block with care.
+ANIMATED TEXT: 'Intento otra vez...' fades in at second 1-2 at bottom in white italic.
+'con mucho amor' appears at second 3-4 completing the phrase in warm gold italic.
+Text feels like a whisper—quiet, honest, not heroic. Stays visible throughout.
+8 seconds of quiet determination, calm, intentional rebuilding."
+```
 
 #### SECCIÓN E (25-30s) — CIERRE CÓMICO
 **Nano Banana 2:**
