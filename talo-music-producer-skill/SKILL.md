@@ -27,6 +27,29 @@ Al activar esta skill, Claude actúa simultáneamente como:
 - **Diseñador de leitmotifs** — establece identidades sonoras por emoción (enojo = marimba rápida, tristeza = piano suave)
 - **Facilitador de regulación** — integra interactividad emocional (respira con Talo, no solo canta)
 
+## Flujo Integrado: Canción Emocional + Storyboard Visual
+
+**NUEVO (2026-05-19):** El skill ahora genera SIMULTÁNEAMENTE:
+- ✅ Canción emocional completa (lyrics + style prompt)
+- ✅ Storyboard visual (56 frames, prompts para Magnific + Seedance)
+- ✅ Optimizaciones basadas en datos de retención anteriores
+
+**Para usar:** 
+```
+Usa el skill y crea una canción para esta idea: 
+[descripción de la idea + emoción + situación]
+```
+
+**El skill entonces:**
+1. Analiza la idea + consulta datos de retención anteriores
+2. Genera canción emocional (Fase 1-2 de INTEGRATED-SKILL-CANCION-VISUAL.md)
+3. Genera storyboard visual (Fase 3 de INTEGRATED-SKILL-CANCION-VISUAL.md)
+4. Entrega ambos bloques + prompts listos para Mureka + Magnific + Seedance
+
+Ver `INTEGRATED-SKILL-CANCION-VISUAL.md` para detalles completos del flujo.
+
+---
+
 ## Flujo obligatorio de trabajo: Crear un Episodio Emocional
 
 Cada episodio emocional debe seguir este orden:
@@ -52,7 +75,7 @@ Cada episodio emocional debe seguir este orden:
 8. **Diseñar cambios de intensidad** — Tempo, instrumentación, dinámica que refleja la emoción
 9. **Estructurar con metatags para Mureka** — `[Intro]`, `[Verso]`, `[Pre-Coro]`, `[Explosión]`, `[Pausa]`, `[Coro]`, `[Resolución]`, `[Outro]`
 10. **Crear prompt musical emocional en inglés** — Especificar dinámicas, leitmotifs, cambios de tempo
-11. **Diseñar storyboard visual emocional** — Cambios de color, movimientos que reflejan transformación
+11. **Diseñar storyboard visual emocional** — 56 frames, cambios de color, movimientos, prompts para Magnific + Seedance (ver INTEGRATED-SKILL-CANCION-VISUAL.md)
 12. **Especificar interactividad emocional** — Dónde el niño respira, siente, participa (no solo canta)
 
 ## Formato de respuesta obligatorio: Episodio Emocional
@@ -180,37 +203,53 @@ Después de generar cada canción:
 
 ## Archivos de esta skill
 
+### 🎯 MAESTRO — EMPEZAR AQUÍ
+| Archivo | Rol |
+|---|---|
+| `INTEGRATED-SKILL-CANCION-VISUAL.md` | **Flujo completo integrado:** Canción emocional + Storyboard visual |
+| `ESTRUCTURA-CANCION-INFANTIL-GUIA.md` | **Guía integral:** Estructura clásica + Luli Pampín + episodios emocionales |
+
+### 🎵 Canción Emocional (Música)
+| Archivo | Rol |
+|---|---|
+| `EPISODIO-EMOCIONAL-TEMPLATE.md` | Template reusable con estructura optimizada + Luli Pampín patterns |
+| `EPISODIO-ENOJO-LYRICS-FINAL.md` | Ejemplo producción-ready: "Talo y el Color del Enojo" |
+| `EPISODIO-OSCURIDAD-LYRICS-FINAL.md` | Ejemplo producción-ready: "Talo y la Oscuridad" |
+| `emotional-episodes-structure.md` | Estructura 7-fases, paletas por emoción, leitmotifs, BPMs |
+| `LULI-PAMPIN-REFERENCIAS.md` | 10 patrones pegajosos probados + aplicaciones a Talo |
+
+### 🎨 Storyboard Visual (TaloInsta Integrado)
+| Archivo | Rol |
+|---|---|
+| `TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 56 frames, prompts Magnific + Seedance |
+| `characters/personajes.md` | Descriptores visuales exactos: Talo, Rubí, Tuco, Nuti (NUNCA improvisar) |
+| `TALOINSTA-LEARNINGS.md` | Errores comunes, reglas globales de TaloInsta |
+| `storyboards/` (directorio) | Carpeta donde guardar storyboards completados |
+
+### 📊 Analytics & Optimización
+| Archivo | Rol |
+|---|---|
+| `ANALISIS-ESTADISTICAS-VIDEOS.md` | Matriz de diagnóstico: métrica → problema → ajuste (letra + visual) |
+| `feedback-learning-loop.md` | Registro de patrones por emoción/edad, iteraciones internas |
+
 ### Fundación
 | Archivo | Rol |
 |---|---|
 | `talo-brand.md` | Voz, valores y restricciones de la marca |
 
-### Episodios Emocionales (NUEVO PARADIGMA)
+### Producción Musical (Herramientas)
 | Archivo | Rol |
 |---|---|
-| `emotional-episodes-structure.md` | Estructura de 7 fases, paletas por emoción, leitmotifs, BPMs |
-| `examples.md` | Ejemplos completos de episodios emocionales (Enojo, Miedo, Celos, etc.) |
-| `feedback-learning-loop.md` | Registro de patrones emocionales, dinámicas que funcionan, iteraciones |
-
-### Producción Musical
-| Archivo | Rol |
-|---|---|
-| `mureka-format.md` | Cómo formatear instrucciones para Mureka (aplicable a episodios) |
+| `mureka-format.md` | Cómo formatear instrucciones para Mureka |
 | `rhythm-and-arrangement.md` | Dinámicas, tempos, leitmotifs para emociones |
 
-### Referencia & Optimización
+### ARCHIVOS HEREDADOS (Mantenidos para referencia)
 | Archivo | Rol |
 |---|---|
-| `quick-prompts.md` | Plantillas rápidas para crear episodios emocionales |
-| `quick-reference.md` | One-page: paletas por emoción, BPMs, leitmotifs |
-
-### ARCHIVOS HEREDADOS (Mantenidos para referencia, NO usados en episodios)
-| Archivo | Rol |
-|---|---|
-| `children-song-rules.md` | Reglas de canciones educativas (OBSOLETO para episodios) |
-| `competitor-analysis.md` | Análisis de competencia (OBSOLETO para episodios) |
-| `song-structures.md` | Estructuras de canciones (OBSOLETO para episodios) |
-| `shorts-reels-format.md` | Formato Shorts (OBSOLETO para episodios) |
-| `evaluation-checklist.md` | Checklist antiguo (OBSOLETO para episodios) |
-| `production-templates.md` | Templates de canciones (OBSOLETO para episodios) |
-| `auto-learning-process.md` | Auto-learning para canciones (ADAPTADO para emociones) |
+| `children-song-rules.md` | Reglas de canciones educativas (REFERENCIA) |
+| `competitor-analysis.md` | Análisis de competencia (REFERENCIA) |
+| `song-structures.md` | Estructuras de canciones (REFERENCIA) |
+| `shorts-reels-format.md` | Formato Shorts (REFERENCIA) |
+| `evaluation-checklist.md` | Checklist antiguo (REFERENCIA) |
+| `production-templates.md` | Templates de canciones (REFERENCIA) |
+| `auto-learning-process.md` | Auto-learning para canciones (ADAPTADO) |
