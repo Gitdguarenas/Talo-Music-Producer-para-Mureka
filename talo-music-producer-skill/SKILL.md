@@ -199,9 +199,9 @@ Después de generar cada canción:
 | Archivo | Rol |
 |---|---|
 | `EPISODIO-EMOCIONAL-TEMPLATE.md` | Template reusable con estructura optimizada + Luli Pampín patterns |
-| `EPISODIO-ENOJO-LYRICS-FINAL.md` | Ejemplo producción-ready: "Talo y el Color del Enojo" |
-| `EPISODIO-OSCURIDAD-LYRICS-FINAL.md` | Ejemplo producción-ready: "Talo y la Oscuridad" |
-| `emotional-episodes-structure.md` | Estructura 7-fases, paletas por emoción, leitmotifs, BPMs |
+| `canciones/talo-enojo/lyrics.md` | Ejemplo producción-ready: "Talo y el Color del Enojo" |
+| `canciones/talo-oscuridad/lyrics.md` | Ejemplo producción-ready: "Talo y la Oscuridad" |
+| `canciones/talo-tormenta/lyrics.md` | Ejemplo producción-ready: "Talo y la Tormenta" |
 | `LULI-PAMPIN-REFERENCIAS.md` | 10 patrones pegajosos probados + aplicaciones a Talo |
 
 ### 🎨 Storyboard Visual (TaloInsta Integrado)
@@ -210,7 +210,7 @@ Después de generar cada canción:
 | `TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 56 frames, prompts Magnific + Seedance |
 | `characters/personajes.md` | Descriptores visuales exactos: Talo, Rubí, Tuco, Nuti (NUNCA improvisar) |
 | `TALOINSTA-LEARNINGS.md` | Errores comunes, reglas globales de TaloInsta |
-| `storyboards/` (directorio) | Carpeta donde guardar storyboards completados |
+| `canciones/` (directorio) | Carpeta con todas las canciones: `lyrics.md`, `storyboard.md`, `analytics.md` |
 
 ### 📊 Analytics & Optimización
 | Archivo | Rol |
@@ -229,13 +229,18 @@ Después de generar cada canción:
 | `mureka-format.md` | Cómo formatear instrucciones para Mureka |
 | `rhythm-and-arrangement.md` | Dinámicas, tempos, leitmotifs para emociones |
 
-### ARCHIVOS HEREDADOS (Mantenidos para referencia)
+### 📦 ARCHIVOS HEREDADOS (en `heredados/`)
 | Archivo | Rol |
 |---|---|
-| `children-song-rules.md` | Reglas de canciones educativas (REFERENCIA) |
-| `competitor-analysis.md` | Análisis de competencia (REFERENCIA) |
-| `song-structures.md` | Estructuras de canciones (REFERENCIA) |
-| `shorts-reels-format.md` | Formato Shorts (REFERENCIA) |
-| `evaluation-checklist.md` | Checklist antiguo (REFERENCIA) |
-| `production-templates.md` | Templates de canciones (REFERENCIA) |
-| `auto-learning-process.md` | Auto-learning para canciones (ADAPTADO) |
+| `heredados/children-song-rules.md` | Reglas de canciones educativas (REFERENCIA) |
+| `heredados/competitor-analysis.md` | Análisis de competencia (REFERENCIA) |
+| `heredados/song-structures.md` | Estructuras de canciones (REFERENCIA) |
+| `heredados/shorts-reels-format.md` | Formato Shorts (REFERENCIA) |
+| `heredados/evaluation-checklist.md` | Checklist antiguo (REFERENCIA) |
+| `heredados/production-templates.md` | Templates de canciones (REFERENCIA) |
+| `heredados/auto-learning-process.md` | Auto-learning para canciones (ADAPTADO) |
+| `heredados/emotional-episodes-structure.md` | Estructura 7-fases (supersedida por ESTRUCTURA-CANCION-INFANTIL-GUIA.md) |
+| `heredados/emotional-episodes-examples.md` | Ejemplos de episodios (supersedidos por `canciones/`) |
+| `heredados/examples.md` | Ejemplos generales (REFERENCIA) |
+| `heredados/quick-prompts.md` | Prompts rápidos (REFERENCIA) |
+| `heredados/quick-reference.md` | Referencia rápida (REFERENCIA) |
