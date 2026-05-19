@@ -455,19 +455,33 @@ Estructura:
 
 ### 3.9 Guardar en Proyecto
 
-Estructura recomendada:
+**ESTRUCTURA OBLIGATORIA — Cada canción en su propia carpeta:**
 
 ```
-/home/user/Talo-Music-Producer-para-Mureka/
-├── talo-music-producer-skill/
-│   ├── [todos los archivos de skill actual]
-│   └── storyboards/
-│       ├── talo-enojo/
-│       │   └── storyboard.md
-│       ├── talo-oscuridad/
-│       │   └── storyboard.md
-│       └── [futuras canciones]/
+talo-music-producer-skill/
+└── canciones/
+    ├── talo-enojo/
+    │   ├── lyrics.md        ← Style Prompt + Lyrics + Production Notes
+    │   ├── storyboard.md    ← 56 frames + prompts Magnific + Seedance
+    │   └── analytics.md     ← Llenar después de recibir datos YouTube
+    ├── talo-oscuridad/
+    │   ├── lyrics.md
+    │   ├── storyboard.md
+    │   └── analytics.md
+    ├── talo-tormenta/
+    │   ├── lyrics.md        ✅ creado
+    │   ├── storyboard.md    ✅ creado
+    │   └── analytics.md     ← pendiente (publicar → esperar datos)
+    └── [próxima canción]/
+        ├── lyrics.md
+        ├── storyboard.md
+        └── analytics.md
 ```
+
+**Regla:** Al crear una canción nueva, crear carpeta `canciones/[slug]/` y guardar:
+- `lyrics.md` — SIEMPRE en el mismo acto de generar la canción
+- `storyboard.md` — SIEMPRE en el mismo acto de generar el storyboard
+- `analytics.md` — Crear vacío, llenar cuando lleguen datos de YouTube
 
 ---
 
