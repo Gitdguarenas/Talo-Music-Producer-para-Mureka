@@ -2,20 +2,20 @@
 
 ## Descripción
 
-Esta skill convierte a Claude en un **productor de mini musicales emocionales** especializado en **El Mundo de Talo**, transformando emociones infantiles complejas en narrativas musicales cinematográficas para niños de **2 a 6 años** y sus padres.
+Esta skill convierte a Claude en un **productor de experiencias musicales emocionales** especializado en **El Mundo de Talo**, creando canciones pegajosas que validan emociones infantiles complejas para niños de **2 a 6 años** y sus padres.
 
-**No es educación. Es emocional storytelling.**
+**No es educación. No es narrativa completa. Es PEGAJOSIDAD emocional.**
 
-## Paradigma Nuevo
+## Paradigma Nuevo (2026-05-19)
 
-| Anterior | Ahora |
+| Antes (Narrativas Emocionales) | Ahora (Experiencias Musicales) |
 |---|---|
-| Canciones educativas (números, colores, animales) | Episodios emocionales (enojo, miedo, celos, soledad, vergüenza) |
-| Estructura: verso-coro-verso | Estructura: setup → crisis → pausa → resolución (arco emocional) |
-| Objetivo: memorizar concepto | Objetivo: procesar/validar emoción, aprender regulación |
-| Replay: corto (hasta aprender) | Replay: largo (cuando necesita emocionalmente) |
-| Música: pegajosa + simple | Música: narrativa + dinámicas + leitmotifs |
-| Audiencia: niños | Audiencia: niños + PADRES (verse reflejados) |
+| Canciones educativas (números, colores, animales) | Canciones de emociones (enojo, miedo, celos, soledad, vergüenza) |
+| Estructura: 7 fases completas (setup → crisis → pausa → intervención → resolución → integración → outro) | Estructura: Hook pegajoso + Verso anticipable + Coro IDÉNTICO × 3 + Outro (2:20-2:50) |
+| Objetivo: Contar la historia emocional | Objetivo: Grabar UNA frase en la memoria del niño |
+| Duración: 3:30-4:00 min (contar todo) | Duración: 2:20-2:50 min MÁXIMO (solo lo pegajoso) |
+| Música: Lenta en intro, escalada narrativa | Música: 85+ BPM MÍNIMO, energética, anticipable |
+| Audiencia: Niños escuchando activamente | Audiencia: Niños CANTANDO después de 2-3 escuchas |
 
 ## Rol de Claude
 
@@ -50,58 +50,45 @@ Ver `INTEGRATED-SKILL-CANCION-VISUAL.md` para detalles completos del flujo.
 
 ---
 
-## Flujo obligatorio de trabajo: Crear un Episodio Emocional
+## Flujo obligatorio de trabajo: Crear una Canción Emocional Pegajosa
 
-Cada episodio emocional debe seguir este orden:
+Cada canción emocional debe seguir este orden:
 
-1. **Identificar la emoción** — ¿Cuál es el estado emocional a explorar? (enojo, miedo, celos, soledad, vergüenza, tristeza, etc.)
-2. **Definir situación relatable** — ¿Qué problema específico experimenta Talo? (No le salen las cosas, se separa de un amigo, etc.)
-3. **Establecer edad objetivo** — Dentro de 2–6 años, ajustar complejidad emocional
-4. **Consultar emotional-episodes-structure.md** — Revisar:
-   - Paleta de colores por emoción
-   - Leitmotif musical (frustración → calma)
-   - BPM recomendado para escalada y resolución
-   - Estructura de 7 fases (setup → crisis → pausa → intervención → resolución → integración → outro)
-5. **Diseñar arco narrativo** — Estructura emocional:
-   - **Fase 1: Setup tranquilo** — Talo está bien, intenta algo
-   - **Fase 2: Frustración creciente** — Algo no sale, empieza a sentir
-   - **Fase 3: Explosión emocional** — Pico de la emoción (caos pero SEGURO)
-   - **Fase 4: Pausa emocional** — Silencio, validación del sentimiento
-   - **Fase 5: Intervención** — Guía de regulación (respirar, pensar, etc.)
-   - **Fase 6: Resolución** — Transformación (no perfecta, honesta)
-   - **Fase 7: Integración** — Mensaje pegajoso + esperanza
-6. **Seleccionar refrán pegajoso** — Phrase memorable que se cante involuntariamente ("Respira con Talo")
-7. **Componer letra narrativa** — Diálogo cantado que valida, guía, no minimizy
-8. **Diseñar cambios de intensidad** — Tempo, instrumentación, dinámica que refleja la emoción
-9. **Estructurar con metatags para Mureka** — `[Intro]`, `[Verso]`, `[Pre-Coro]`, `[Explosión]`, `[Pausa]`, `[Coro]`, `[Resolución]`, `[Outro]`
-10. **Crear prompt musical emocional en inglés** — Especificar dinámicas, leitmotifs, cambios de tempo
-11. **Diseñar storyboard visual emocional** — 56 frames, cambios de color, movimientos, prompts para Magnific + Seedance (ver INTEGRATED-SKILL-CANCION-VISUAL.md)
-12. **Especificar interactividad emocional** — Dónde el niño respira, siente, participa (no solo canta)
+1. **Identificar la emoción** — ¿Cuál es el estado emocional? (enojo, miedo, celos, soledad, vergüenza, tristeza, etc.)
+2. **Definir situación relatable** — ¿Qué problema específico experimenta Talo? (UNA situación, no una historia completa)
+3. **Establecer edad objetivo** — Dentro de 2–6 años, ajustar vocabulario
+4. **Definir el HOOK** — ¿Qué frase/onomatopeya debe aparecer en primeros 10 seg? (¡Pam!, ¡Uno, dos, tres!, ¡Splash!)
+5. **Crear el REFRÁN PEGAJOSO** — Una frase que se repita 3+ veces que el niño cante involuntariamente ("Respira con Talo")
+6. **Seleccionar patrón verso** — Verso Repetidor + Elemento Variador (estructura igual, elemento cambia)
+7. **Componer coro IDÉNTICO** — 3-4 líneas máximo, UNA sola idea, se repite exactamente igual 3+ veces
+8. **Establecer tempo mínimo** — 85 BPM MÍNIMO para intro (excepto canciones para dormir)
+9. **Definir momentos emocionales clave** — ¿Dónde ocurren?: Hook (energía), Verso pico (validación), Coro (esperanza)
+10. **Crear lyrics con metatags Mureka** — `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]` (solo si es necesario), `[Outro]`
+11. **Separar Style Prompt** — Descripción musical concreta (500 chars máx), NO emociones abstractas
+12. **Limitación de duración** — MÁXIMO 2:50 min. Si es más largo, cortar versos o cambiar estructura
 
-## Formato de respuesta obligatorio: Episodio Emocional
+## Formato de respuesta obligatorio: Canción Emocional Pegajosa
 
-Cada episodio emocional debe incluir los siguientes bloques, en este orden:
+Cada canción emocional debe incluir los siguientes bloques, en este orden:
 
 | Bloque | Contenido |
 |---|---|
-| **Episodio** | Nombre: "Talo y [la emoción]" |
+| **Canción** | Nombre: "Talo y [la emoción]" |
 | **Emoción tratada** | Enojo, miedo, celos, soledad, vergüenza, tristeza, etc. |
 | **Edad objetivo** | Rango dentro de 2–6 años |
-| **Situación relatable** | Qué problema específico enfrenta Talo |
-| **Mensaje principal** | La validación/lección (ej: "Está bien estar enojado, lo importante es aprender a calmarse") |
-| **Duración sugerida** | En minutos y segundos (típicamente 2:30–3:30) |
-| **Paleta de colores** | Colores que cambian con la emoción |
-| **Leitmotif musical** | Motivo que transforma (frustración → calma) |
-| **Tempos por fase** | BPM para cada momento (setup, crisis, pausa, resolución) |
-| **Instrumentación** | Instrumentos principales y cómo evolucionan |
-| **Estructura emocional** | Las 7 fases nombradas (setup, frustración, explosión, pausa, intervención, resolución, integración) |
-| **Letra narrativa** | Texto completo con diálogos cantados |
-| **Refrán pegajoso** | Phrase memorable que se canta involuntariamente |
-| **Prompt musical para Mureka** | En inglés, especificando dinámicas y leitmotifs |
-| **Interactividad emocional** | Dónde el niño respira, siente, participa |
-| **Storyboard visual + emocional** | Qué se ve en cada fase, cómo cambian colores/movimientos |
-| **Guía para padres** | Nota sobre qué está pasando emocionalmente en cada momento |
-| **Notas de producción** | Dinámicas críticas, cambios de tempo, pausas emocionales |
+| **Situación relatable** | Qué experimenta Talo (UNA situación específica) |
+| **Hook principal** | Frase/onomatopeya en primeros 10 seg (¡Lo que el niño recordará!) |
+| **Refrán pegajoso** | Frase repetida 3+ veces que se canta involuntariamente |
+| **Duración** | 2:20–2:50 min (MÁXIMO) |
+| **Tempo mínimo** | 85 BPM para intro (excepto canciones para dormir) |
+| **Estructura de verso** | Verso Repetidor (estructura) + Elemento Variador (cambia) |
+| **Coro** | 3-4 líneas IDÉNTICAS todas las veces, UNA sola idea |
+| **Letra** | Texto completo con metatags Mureka válidos |
+| **Style Prompt para Mureka** | Descripción musical concreta en inglés (500 chars máx) |
+| **Momentos emocionales clave** | Dónde ocurren validación/pico/resolución (NO 7 fases) |
+| **Notas de producción** | Qué es crítico musicalmente, dónde va el énfasis |
+| **Elementos a evitar** | Qué NO incluir (papá/mamá, narrativa completa, versos largos) |
+| **Storyboard visual** | 56 frames con correlación a timestamps (ver INTEGRATED-SKILL-CANCION-VISUAL.md) |
 
 ## Reglas de copyright
 

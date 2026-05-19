@@ -3,6 +3,82 @@
 
 ---
 
+## 🚨 CRITICAL PARADIGM SHIFT (2026-05-19)
+
+### LO QUE CAMBIÓ:
+Las canciones Talo **NO son narrativas completas**. Son **experiencias musicales de emociones**.
+
+| Antes | Ahora |
+|---|---|
+| Estructura: Setup → Crisis → Pausa → Intervención → Resolución → Integración (7 fases completas) | Estructura: Onomatopeya hook + Verso pegajoso + Coro memorable × 3 + Outro (4-5 elementos clave) |
+| Objetivo: Contar la historia emocional completa | Objetivo: Grabar UNA frase/ritmo en la memoria del niño |
+| Versos: 5-6 líneas narrativas | Versos: 3 líneas máximo, anticipables |
+| Música: Lenta en intro, escalada gradual | Música: **85+ BPM MÍNIMO en todos lados** (excepto canciones para dormir) |
+| Resultado: Canción compleja de 3:30-4:00 | Resultado: Canción energética de 2:20-2:50, MUY pegajosa |
+
+### REGLAS NUEVAS PARA TODAS LAS CANCIONES:
+
+1. **PEGAJOSIDAD > NARRATIVA**
+   - El niño debe cantar la canción SIN ver el video después de escucharla 2-3 veces
+   - Si la canción cuenta una "historia completa", ESTÁ MAL
+   - Una canción Talo es un MOTIVO MUSICAL, no una narración
+
+2. **ENERGÍA MÍNIMA: 85 BPM**
+   - Intro: 85-95 BPM (suave pero activo)
+   - Verso: 95-110 BPM (energético)
+   - Coro: 110-120 BPM (pico de energía)
+   - EXCEPCIÓN: Canciones para dormir pueden bajar a 75 BPM
+   - NO canciones melancólicas a 60-70 BPM (eso es para adolescentes tristes, no niños 2-6)
+
+3. **VERSO ANTICIPABLE**
+   - El niño debe PREDECIR el siguiente verso después de escuchar 2 veces
+   - Usa patrón: "Verso Repetidor + Elemento Variador"
+   - Ejemplo: "¡Rojo como la manzana! Verso 1 → ¡Amarillo como el sol! Verso 2 → ¡Azul como el cielo! Verso 3"
+   - Niño sabe que viene "¡[COLOR] como [COSA]!" y espera emocionado
+
+4. **CORO IDÉNTICO Y MEMORABLE**
+   - Mismo coro en TODAS las repeticiones (cero variaciones)
+   - 3-4 líneas máximo (si es más largo, niño no lo memoriza)
+   - Una sola idea (no múltiples mensajes)
+   - REPITE 3+ VECES en la canción (la parte que el niño debe recordar)
+
+5. **HOOK EN PRIMEROS 3-10 SEGUNDOS**
+   - Onomatopeya pegajosa: ¡Pam!, ¡Splash!, ¡Toc-toc-toc!, ¡Boom!
+   - O frase corta repetida: "Uno, dos, tres", "¡Respira con Talo!"
+   - SIN introducción narrativa lenta
+   - El niño debe ENGANCHAR antes de 10 segundos
+
+6. **PALABRAS SIMPLES = 2-5 AÑOS PUEDEN ENTENDER**
+   - ✅ cubos, colores, respirar, amigos, miedo, oscuridad, calmado, enojo
+   - ❌ epifanía, contempla, ambigüedad, quizás, introspección, vulnerable
+
+7. **NO CUENTES LA HISTORIA COMPLETA**
+   - ❌ MALO: "Talo construyó una torre, se cayó, lloró, amigos lo abrazaron, lo intentó de nuevo, ganó"
+   - ✅ BIEN: "¡Uno, dos, tres! ¡Los cubos van subiendo! [CORO] Se tambalea, se tambalea... ¡PAAAAM! [PAUSA] Respira con Talo... [CORO × 2]"
+   - La emoción es EL tema, no el resultado. No necesita resolución perfecta.
+
+8. **DURACIÓN: 2:20 — 2:50 MÁXIMO**
+   - Menos versos (máximo 3-4)
+   - MÁS repeticiones de coro (3-4 veces es lo normal)
+   - Intro: 8-12 seg
+   - Verso: 6-8 seg cada uno (3 líneas × ~2 seg)
+   - Coro: 8-10 seg cada uno
+   - Outro: 6-8 seg
+
+### DIFERENCIA CRÍTICA: "Experiencia emocional" vs "Narrativa emocional"
+
+**Narrativa Emocional (ANTES):**
+Setup (Talo intenta construir) → Frustración crece (se tambalea) → Pico de enojo (¡PAAAAM!) → Pausa (2 seg silencio) → Amigos intervienen → Resolución (intenta de nuevo) → Integración (mensaje final)
+= 180 segundos, 7 momentos, 1 historia completa
+
+**Experiencia Emocional (AHORA):**
+Hook (¡Uno, dos, tres!) → Verso pegajoso (construcción de cubos) → Coro memorable (respira con Talo) → Momento de pico (se tambalea) → Coro again → Outro (intento otra vez)
+= 150 segundos, 4-5 elementos musicales, 1 MOTIVO musical
+
+**EL NIÑO NO SABE LA HISTORIA. EL NIÑO CANTA EL CORO DESPUÉS.**
+
+---
+
 ## SECCIÓN 1: PARTES CLAVE DE LA CANCIÓN (Estructura Base)
 
 ### 1.1 INTRODUCCIÓN (Intro) — 8-16 segundos
@@ -365,9 +441,27 @@ NO BOUNCY:
 
 ---
 
-## SECCIÓN 3: ESTRUCTURA 7-FASES EMOCIONAL
+## ⚠️ IMPORTANTE ANTES DE LEER SECCIÓN 3
 
-Cada episodio Talo sigue esta secuencia. **Cada fase corresponde a una o más líneas/versos de la canción.**
+**SECCIÓN 3 es una REFERENCIA de momentos emocionales, NO un checklist obligatorio.**
+
+Las canciones exitosas NO necesitan todas las 7 fases. Muchas usan solo 3-4:
+- Hook (onomatopeya)
+- Verso pegajoso × 2
+- Coro repetido × 3  
+- Outro
+
+**El objetivo es PEGAJOSIDAD, no completud narrativa.**
+
+Si agregas todas las 7 fases en cada canción, la duración sube a 4+ minutos y baja la memorabilidad. MALO.
+
+Usa SECCIÓN 3 como inspiración para momentos emocionales musicales, no como estructura que debe estar 100% presente.
+
+---
+
+## SECCIÓN 3: ESTRUCTURA 7-FASES EMOCIONAL (Referencia, NO Obligatoria)
+
+Los siguientes son momentos emocionales OPCIONALES que puedes usar en tus canciones. No todos necesitan aparecer en cada episodio.
 
 ### Fase 1: Setup Tranquilo (0-15 seg) — Intro + Verso 1
 **Objetivo:** Establecer escena, presentar problema de forma suave
@@ -534,41 +628,59 @@ MOVIMIENTO: Preparación para siguiente actividad o dormir
 
 ### Checklist de Verificación Antes de Entregar
 
+**PRIORIDADES (en orden de importancia):**
+
 ```
-ESTRUCTURA:
-☐ Intro: 3-5 seg, hook explosivo, onomatopeya en primeros 10 seg
-☐ Verso 1-2-3: Máximo 3 líneas cada uno, máximo 5 palabras por línea
+🔴 CRITICOS — SIN ESTOS, LA CANCIÓN FALLA:
+
+PEGAJOSIDAD:
+☐ Hook en primeros 10 seg: Onomatopeya o frase repetida (¡Pam!, ¡Uno, dos, tres!)
 ☐ Coro: 3-4 líneas, IDÉNTICO todas las veces, aparece 3+ veces
-☐ Puente: 5-10 seg, cambio de ritmo/sonido, validación emocional
-☐ Outro: 2-3 líneas, baja intensidad, cierre claro
-☐ Duración total: 2:30-3:00 minutos
+☐ Verso anticipable: Patrón repetidor + elemento variador (niño predice próximo verso)
+☐ Duración: 2:20-2:50 minutos MÁXIMO (si es más, baja la pegajosidad)
+☐ BPM: 85+ MÍNIMO (excepto canciones para dormir)
+
+ESTRUCTURA MÍNIMA:
+☐ Intro: Hook explosivo (onomatopeya o frase pegajosa)
+☐ Verso 1: 3 líneas máximo, 5 palabras por línea
+☐ Coro: 3-4 líneas, aparece 3+ veces
+☐ Outro: Cierre claro
+
+🟡 IMPORTANTES — MEJORAN MUCHO LA CALIDAD:
 
 CONTENIDO EMOCIONAL:
-☐ Validación emocional: Verso 3 y Puente VALIDAN (no minimizan)
-☐ Leitmotif: Frustración (ascendente) → Pausa → Calma (descendente)
-☐ Amigos no adultos: Verso 4 incluye Rubí, Tuco, Nuti (SIN mamá/papá)
-☐ Resolución positiva: Verso 5 + Outro = reafirmación de intentar de nuevo
+☐ Validación: Momento donde la emoción es VALIDADA (no miniminizada)
 ☐ Refrán pegajoso: Una frase se repite 3+ veces (ej: "Respira con Talo")
+☐ Amigos no adultos: Si aparecen adultos, son Rubí/Tuco/Nuti, NO mamá/papá
 
-PEGAJOSIDAD (Luli Pampín):
+LULI PAMPÍN (Memorabilidad):
 ☐ Verso Repetidor + Variador: Estructura igual, elemento cambia
-☐ Onomatopeyas: Presentes en Intro y Verso 3
+☐ Onomatopeyas: Presentes (¡Pam!, ¡Splash!, ¡Toc-toc-toc!)
 ☐ Rimas AABB: Natural, no forzada
 ☐ Vocabulario simple: Palabras edad 2-6 años
-☐ Narrativa completa: Setup → Conflicto → Resolución en 4 líneas
+
+🟢 OPCIONALES — SOLO SI SIRVEN A LA PEGAJOSIDAD:
+
+ESTRUCTURA EXTENDIDA (7 fases):
+☐ Verso 2: Intensidad aumenta (pero no obligatorio)
+☐ Verso 3: Pico emocional + validación (pero no obligatorio)
+☐ Puente/Bridge: Cambio de ritmo, respiro (pero no obligatorio)
+☐ Verso 4: Amigos intervienen (pero no obligatorio)
+☐ Verso 5: Resolución (pero no obligatorio)
 
 MOVIMIENTO:
 ☐ Gesto para Intro (saltar, levantarse)
-☐ Gesto para cada verso (construir, tambalear, caer, respirar)
-☐ Coro invita movimiento (respirar, abrirse, cerrarse)
-☐ Outro sugiere siguiente actividad (dormir, intentar de nuevo)
+☐ Gesto para Coro (respirar, aplaudir)
+☐ Outro sugiere siguiente actividad
 
 PRODUCCIÓN:
 ☐ Metatags válidos: [Intro], [Verse], [Chorus], [Bridge], [Spoken], [Silence]
 ☐ Sin metatags de acción: [Talo se cae], [Amigos llegan] → Pasar a Production Notes
 ☐ Style Prompt separado: Descripción musical concreta (500 chars máx)
-☐ Lyrics en bloque: Narrativa con metatags únicamente
+☐ Lyrics en bloque: Solo metatags + narrativa
 ```
+
+**REGLA DE ORO:** Si algo NO sirve a la pegajosidad, elimínalo. Una canción corta y pegajosa (2:20) vale más que una larga y completa (3:30).
 
 ### Ejemplo Completo: "Talo y el Color del Enojo"
 

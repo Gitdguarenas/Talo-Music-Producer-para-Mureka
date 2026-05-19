@@ -1,6 +1,11 @@
 # TALO INTEGRATED SKILL — Canción Emocional + Storyboard Visual
 **Generador completo de episodios musicales con guion visual**
 
+⚠️ **PARADIGM SHIFT (2026-05-19):**
+Las canciones Talo **NO son narrativas emocionales de 7 fases**. Son **experiencias musicales pegajosas de 2:20-2:50**. 
+
+Lee ESTRUCTURA-CANCION-INFANTIL-GUIA.md → "CRITICAL PARADIGM SHIFT" antes de generar cualquier canción.
+
 ---
 
 ## VISIÓN GENERAL
@@ -12,9 +17,9 @@ El skill ejecuta un flujo de 3 fases:
 ```
 FASE 1: ANÁLISIS DE IDEA
   ↓
-FASE 2: GENERACIÓN DE CANCIÓN EMOCIONAL
+FASE 2: GENERACIÓN DE CANCIÓN EMOCIONAL (2:20-2:50, PEGAJOSA)
   ↓
-FASE 3: GENERACIÓN DE STORYBOARD VISUAL
+FASE 3: GENERACIÓN DE STORYBOARD VISUAL (56 frames con analytics)
   ↓
 ENTREGA: Canción + Storyboard + Prompts listos para Mureka + Seedance
 ```

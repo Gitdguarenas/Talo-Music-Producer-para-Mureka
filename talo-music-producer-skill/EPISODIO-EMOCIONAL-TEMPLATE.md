@@ -4,6 +4,8 @@
 
 Cada vez que el usuario solicite: "Usa el skill y crea una canción para esta idea: [descripción]", seguiré EXACTAMENTE este formato.
 
+⚠️ **IMPORTANTE (2026-05-19):** Las canciones Talo NO son narrativas completas. Son EXPERIENCIAS MUSICALES de emociones. Lee ESTRUCTURA-CANCION-INFANTIL-GUIA.md SECCIÓN "CRITICAL PARADIGM SHIFT" antes de continuar.
+
 ---
 
 ## ESTRUCTURA LÍRICA OPTIMIZADA — PATRONES LULI PAMPÍN
@@ -204,24 +206,27 @@ Toda canción emocional se entrega en TRES bloques separados:
 
 **Emoción tratada:** [Emoción principal]
 **Edad objetivo:** [Rango dentro de 2–6 años]
-**Duración sugerida:** [2:30–3:30 min típicamente]
-**Situación relatable:** [Qué vive Talo]
-**Mensaje principal:** [La validación/lección clave]
+**Duración:** [2:20–2:50 min MÁXIMO — NO 3:30]
+**Situación relatable:** [Qué vive Talo — una situación, no una historia completa]
+**Gancho principal (Hook):** [La frase/onomatopeya que debe recordar el niño — aparece en primeros 10 seg]
 
-**Paleta de colores:** [Colores que cambian con emoción]
-**Leitmotif musical:** [Motivo que transforma: frustración → calma]
-**Refrán pegajoso:** [Frase memorable que se canta involuntariamente]
-**Tempos por fase:** 
-- Setup: [BPM]
-- Frustración: [BPM]
-- Explosión: [BPM]
-- Pausa: [SILENCIO]
-- Intervención: [BPM]
-- Resolución: [BPM]
-- Integración: [BPM]
+**Refrán pegajoso:** [Frase que se repite 3+ veces y el niño canta sin el video]
+**Paleta de colores:** [Colores que cambian con emoción — opcional]
+**Tempo mínimo:** [85 BPM — NUNCA menos, excepto canciones para dormir]
+**Tempos por sección:** 
+- Intro: [85-95 BPM]
+- Verso: [95-110 BPM]
+- Coro pico: [110-120 BPM]
 
-**Instrumentación clave:** [Instrumentos que evolucionan por fase]
+**Elementos emocionales clave** (seleccionar los que sirvan a pegajosidad):
+- ☐ Validación emocional (¿dónde en la canción se VALIDA la emoción?)
+- ☐ Momento de pico (¿hay un momento donde la emoción está en máximo?)
+- ☐ Resolución (¿cómo termina la canción emocionalmente?)
+
+**Instrumentación clave:** [Instrumentos principales — máximo 4-5, no orquesta completa]
 ```
+
+**NOTA:** No necesitas todas las 7 fases. Solo incluye los elementos que hagan la canción MÁS PEGAJOSA.
 
 ---
 
