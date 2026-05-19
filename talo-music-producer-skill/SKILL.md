@@ -189,45 +189,77 @@ Después de generar cada canción:
 
 ## Archivos de esta skill
 
+```
+talo-music-producer-skill/
+├── SKILL.md                          ← ESTE ARCHIVO (empezar aquí)
+│
+├── workflow/                         ← Flujos de trabajo
+│   ├── INTEGRATED-SKILL-CANCION-VISUAL.md
+│   ├── ESTRUCTURA-CANCION-INFANTIL-GUIA.md
+│   └── EPISODIO-EMOCIONAL-TEMPLATE.md
+│
+├── produccion/                       ← Guías de producción
+│   ├── PRODUCTION-MANUAL-REELS-KLING.md
+│   ├── LULI-PAMPIN-REFERENCIAS.md
+│   ├── mureka-format.md
+│   ├── rhythm-and-arrangement.md
+│   └── talo-brand.md
+│
+├── visual/                           ← Storyboard + TaloInsta
+│   ├── TALOINSTA-SONG-STORYBOARD-REFERENCE.md
+│   └── TALOINSTA-LEARNINGS.md
+│
+├── analytics/                        ← Métricas y aprendizaje
+│   ├── ANALISIS-ESTADISTICAS-VIDEOS.md
+│   └── feedback-learning-loop.md
+│
+├── canciones/                        ← Canciones producidas
+│   ├── talo-enojo/     (lyrics.md, analytics.md)
+│   ├── talo-oscuridad/ (lyrics.md, analytics.md)
+│   └── talo-tormenta/  (lyrics.md, storyboard.md, analytics.md)
+│
+├── characters/
+│   └── personajes.md
+│
+└── heredados/                        ← Archivos legacy (solo referencia)
+```
+
 ### 🎯 MAESTRO — EMPEZAR AQUÍ
 | Archivo | Rol |
 |---|---|
-| `INTEGRATED-SKILL-CANCION-VISUAL.md` | **Flujo completo integrado:** Canción emocional + Storyboard visual |
-| `ESTRUCTURA-CANCION-INFANTIL-GUIA.md` | **Guía integral:** Estructura clásica + Luli Pampín + episodios emocionales |
+| `workflow/INTEGRATED-SKILL-CANCION-VISUAL.md` | **Flujo completo integrado:** Canción emocional + Storyboard visual |
+| `workflow/ESTRUCTURA-CANCION-INFANTIL-GUIA.md` | **Guía integral:** Estructura clásica + Luli Pampín + episodios emocionales |
 
 ### 🎵 Canción Emocional (Música)
 | Archivo | Rol |
 |---|---|
-| `EPISODIO-EMOCIONAL-TEMPLATE.md` | Template reusable con estructura optimizada + Luli Pampín patterns |
+| `workflow/EPISODIO-EMOCIONAL-TEMPLATE.md` | Template reusable con estructura optimizada + Luli Pampín patterns |
 | `canciones/talo-enojo/lyrics.md` | Ejemplo producción-ready: "Talo y el Color del Enojo" |
 | `canciones/talo-oscuridad/lyrics.md` | Ejemplo producción-ready: "Talo y la Oscuridad" |
 | `canciones/talo-tormenta/lyrics.md` | Ejemplo producción-ready: "Talo y la Tormenta" |
-| `LULI-PAMPIN-REFERENCIAS.md` | 10 patrones pegajosos probados + aplicaciones a Talo |
+| `produccion/LULI-PAMPIN-REFERENCIAS.md` | 10 patrones pegajosos probados + aplicaciones a Talo |
 
 ### 🎨 Storyboard Visual (TaloInsta Integrado)
 | Archivo | Rol |
 |---|---|
-| `TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 56 frames, prompts Magnific + Seedance |
+| `visual/TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 56 frames, prompts Magnific + Seedance |
 | `characters/personajes.md` | Descriptores visuales exactos: Talo, Rubí, Tuco, Nuti (NUNCA improvisar) |
-| `TALOINSTA-LEARNINGS.md` | Errores comunes, reglas globales de TaloInsta |
+| `visual/TALOINSTA-LEARNINGS.md` | Errores comunes, reglas globales de TaloInsta |
 | `canciones/` (directorio) | Carpeta con todas las canciones: `lyrics.md`, `storyboard.md`, `analytics.md` |
 
 ### 📊 Analytics & Optimización
 | Archivo | Rol |
 |---|---|
-| `ANALISIS-ESTADISTICAS-VIDEOS.md` | Matriz de diagnóstico: métrica → problema → ajuste (letra + visual) |
-| `feedback-learning-loop.md` | Registro de patrones por emoción/edad, iteraciones internas |
+| `analytics/ANALISIS-ESTADISTICAS-VIDEOS.md` | Matriz de diagnóstico: métrica → problema → ajuste (letra + visual) |
+| `analytics/feedback-learning-loop.md` | Registro de patrones por emoción/edad, iteraciones internas |
 
-### Fundación
+### 🎬 Producción Reels & Música
 | Archivo | Rol |
 |---|---|
-| `talo-brand.md` | Voz, valores y restricciones de la marca |
-
-### Producción Musical (Herramientas)
-| Archivo | Rol |
-|---|---|
-| `mureka-format.md` | Cómo formatear instrucciones para Mureka |
-| `rhythm-and-arrangement.md` | Dinámicas, tempos, leitmotifs para emociones |
+| `produccion/PRODUCTION-MANUAL-REELS-KLING.md` | Manual 30-day content: 6 reels + YouTube Short + captions |
+| `produccion/mureka-format.md` | Cómo formatear instrucciones para Mureka |
+| `produccion/rhythm-and-arrangement.md` | Dinámicas, tempos, leitmotifs para emociones |
+| `produccion/talo-brand.md` | Voz, valores y restricciones de la marca |
 
 ### 📦 ARCHIVOS HEREDADOS (en `heredados/`)
 | Archivo | Rol |
@@ -239,7 +271,7 @@ Después de generar cada canción:
 | `heredados/evaluation-checklist.md` | Checklist antiguo (REFERENCIA) |
 | `heredados/production-templates.md` | Templates de canciones (REFERENCIA) |
 | `heredados/auto-learning-process.md` | Auto-learning para canciones (ADAPTADO) |
-| `heredados/emotional-episodes-structure.md` | Estructura 7-fases (supersedida por ESTRUCTURA-CANCION-INFANTIL-GUIA.md) |
+| `heredados/emotional-episodes-structure.md` | Estructura 7-fases (supersedida por `workflow/ESTRUCTURA-CANCION-INFANTIL-GUIA.md`) |
 | `heredados/emotional-episodes-examples.md` | Ejemplos de episodios (supersedidos por `canciones/`) |
 | `heredados/examples.md` | Ejemplos generales (REFERENCIA) |
 | `heredados/quick-prompts.md` | Prompts rápidos (REFERENCIA) |
