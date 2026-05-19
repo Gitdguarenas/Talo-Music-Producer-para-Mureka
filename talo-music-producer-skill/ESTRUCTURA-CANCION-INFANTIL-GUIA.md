@@ -3,79 +3,109 @@
 
 ---
 
-## 🚨 CRITICAL PARADIGM SHIFT (2026-05-19)
+## 🎯 DOS TIPOS DE CANCIONES TALO (Sistema definitivo — 2026-05-19)
 
-### LO QUE CAMBIÓ:
-Las canciones Talo **NO son narrativas completas**. Son **experiencias musicales de emociones**.
+Talo tiene **dos tipos de canciones**. Antes de crear cualquier canción, debes determinar el tipo.
 
-| Antes | Ahora |
+---
+
+### TIPO A — CANCIÓN EMOCIONAL NARRATIVA
+**Cuándo usar:** La canción trata de superar o procesar una emoción o problema.
+- Enojo, miedo, tristeza, vergüenza, celos, soledad, frustración, exclusión, sentirse diferente
+- Ejemplo: "Talo y el Color del Enojo", "Talo y la Oscuridad", "Talo y los Celos de Nuti"
+- Referencia: **Canticuénticos** (narrativa desarrollada + coros muy pegajosos)
+
+| Parámetro | Valor |
 |---|---|
-| Estructura: Setup → Crisis → Pausa → Intervención → Resolución → Integración (7 fases completas) | Estructura: Onomatopeya hook + Verso pegajoso + Coro memorable × 3 + Outro (4-5 elementos clave) |
-| Objetivo: Contar la historia emocional completa | Objetivo: Grabar UNA frase/ritmo en la memoria del niño |
-| Versos: 5-6 líneas narrativas | Versos: 3 líneas máximo, anticipables |
-| Música: Lenta en intro, escalada gradual | Música: **85+ BPM MÍNIMO en todos lados** (excepto canciones para dormir) |
-| Resultado: Canción compleja de 3:30-4:00 | Resultado: Canción energética de 2:20-2:50, MUY pegajosa |
+| **Duración** | 2:50 – 3:00 max |
+| **Total frases** | 24 – 32 |
+| **Tamaño verso** | 8-12 palabras/línea (más narrativo) |
+| **Versos totales** | 4-5 (cuentan la historia emocional) |
+| **Coro** | 4-5 líneas, IDÉNTICO siempre, MUY pegajoso — tiene ritmo + frase potente. Onomatopeya **opcional** |
+| **Coro aparece** | 3 veces mínimo |
+| **BPM** | 85-95 BPM intro, sube a 110-120 BPM en pico emocional, baja a 85-90 BPM en resolución |
+| **Estructura** | Intro hook → Verso 1 (setup) → Verso 2 (frustración crece) → Coro → Verso 3 (pico + validación) → Bridge/Pausa (2 seg silencio) → Verso 4 (resolución) → Coro × 2 → Outro |
 
-### REGLAS NUEVAS PARA TODAS LAS CANCIONES:
+**Coro ideal para Tipo A:**
+```
+✅ MUY PEGAJOSO + NARRATIVO (coro enojo):
+"¡Estoy enojado, está bien!
+Respira profundo conmigo,
+uno... dos... tres...
+¡Las manos tranquilas construyen mejor!"
 
-1. **PEGAJOSIDAD > NARRATIVA**
-   - El niño debe cantar la canción SIN ver el video después de escucharla 2-3 veces
-   - Si la canción cuenta una "historia completa", ESTÁ MAL
-   - Una canción Talo es un MOTIVO MUSICAL, no una narración
+✅ OTRO EJEMPLO (coro miedo):
+"No estoy solo, aquí están
+Rubí, Tuco y Nuti,
+respira conmigo,
+¡estoy protegido aquí!"
 
-2. **ENERGÍA MÍNIMA: 85 BPM**
-   - Intro: 85-95 BPM (suave pero activo)
-   - Verso: 95-110 BPM (energético)
-   - Coro: 110-120 BPM (pico de energía)
-   - EXCEPCIÓN: Canciones para dormir pueden bajar a 75 BPM
-   - NO canciones melancólicas a 60-70 BPM (eso es para adolescentes tristes, no niños 2-6)
+❌ DEMASIADO SIMPLE (no suficientemente narrativo para Tipo A):
+"Respira con Talo, uno, dos y tres"
+(solo 1 línea corta = no suficiente para una canción narrativa)
+```
 
-3. **VERSO ANTICIPABLE**
-   - El niño debe PREDECIR el siguiente verso después de escuchar 2 veces
-   - Usa patrón: "Verso Repetidor + Elemento Variador"
-   - Ejemplo: "¡Rojo como la manzana! Verso 1 → ¡Amarillo como el sol! Verso 2 → ¡Azul como el cielo! Verso 3"
-   - Niño sabe que viene "¡[COLOR] como [COSA]!" y espera emocionado
+---
 
-4. **CORO IDÉNTICO Y MEMORABLE**
-   - Mismo coro en TODAS las repeticiones (cero variaciones)
-   - 3-4 líneas máximo (si es más largo, niño no lo memoriza)
-   - Una sola idea (no múltiples mensajes)
-   - REPITE 3+ VECES en la canción (la parte que el niño debe recordar)
+### TIPO B — CANCIÓN SIMPLE PEGAJOSA
+**Cuándo usar:** Todo lo que NO sea superar una emoción/problema.
+- Movimiento, baile, animales, colores, rutinas, números, vocales, partes del cuerpo, diversión, energía
+- Ejemplo: "Los Colores de Talo", "Baila con Talo", "Talo y los Animales de la Selva"
+- Referencia: **Luli Pampín + Pequeño Pez** (energía, anticipación, repetición)
 
-5. **HOOK EN PRIMEROS 3-10 SEGUNDOS**
-   - Onomatopeya pegajosa: ¡Pam!, ¡Splash!, ¡Toc-toc-toc!, ¡Boom!
-   - O frase corta repetida: "Uno, dos, tres", "¡Respira con Talo!"
-   - SIN introducción narrativa lenta
-   - El niño debe ENGANCHAR antes de 10 segundos
+| Parámetro | Valor |
+|---|---|
+| **Duración** | 2:00 – 2:30 |
+| **Total frases** | 18 – 24 |
+| **Tamaño verso** | 5-8 palabras/línea (corto, directo) |
+| **Versos totales** | 3 (Repetidor + Elemento Variador) |
+| **Coro** | 3-4 líneas simples, IDÉNTICO siempre. Puede incluir onomatopeya pero no es obligatorio |
+| **Coro aparece** | 3-4 veces |
+| **BPM** | 105-128 BPM constante (energético todo el tiempo) |
+| **Estructura** | Intro hook (onomatopeya/frase) → Verso 1 → Coro → Verso 2 → Coro → Verso 3 → Coro → Outro |
 
-6. **PALABRAS SIMPLES = 2-5 AÑOS PUEDEN ENTENDER**
-   - ✅ cubos, colores, respirar, amigos, miedo, oscuridad, calmado, enojo
-   - ❌ epifanía, contempla, ambigüedad, quizás, introspección, vulnerable
+**Coro ideal para Tipo B:**
+```
+✅ EJEMPLO (canción vocales):
+"Súbete al tren, ven, súbete al tren
+chu-cu-chu-cu-chu
+a las vocales vamos a recoger
+¡A - E - I - O - U!"
 
-7. **NO CUENTES LA HISTORIA COMPLETA**
-   - ❌ MALO: "Talo construyó una torre, se cayó, lloró, amigos lo abrazaron, lo intentó de nuevo, ganó"
-   - ✅ BIEN: "¡Uno, dos, tres! ¡Los cubos van subiendo! [CORO] Se tambalea, se tambalea... ¡PAAAAM! [PAUSA] Respira con Talo... [CORO × 2]"
-   - La emoción es EL tema, no el resultado. No necesita resolución perfecta.
+✅ EJEMPLO (canción baile):
+"¡Salta, salta, salta con Talo!
+¡Una, dos, tres!
+¡Mueve los brazos arriba!
+¡Así, así, así!"
 
-8. **DURACIÓN: 2:20 — 2:50 MÁXIMO**
-   - Menos versos (máximo 3-4)
-   - MÁS repeticiones de coro (3-4 veces es lo normal)
-   - Intro: 8-12 seg
-   - Verso: 6-8 seg cada uno (3 líneas × ~2 seg)
-   - Coro: 8-10 seg cada uno
-   - Outro: 6-8 seg
+✅ EJEMPLO (animales):
+"¡El sapito salta, plas!
+¡El pájaro vuela, fiu!
+¡Talo los imita
+porque puede hacerlo tú!"
+```
 
-### DIFERENCIA CRÍTICA: "Experiencia emocional" vs "Narrativa emocional"
+---
 
-**Narrativa Emocional (ANTES):**
-Setup (Talo intenta construir) → Frustración crece (se tambalea) → Pico de enojo (¡PAAAAM!) → Pausa (2 seg silencio) → Amigos intervienen → Resolución (intenta de nuevo) → Integración (mensaje final)
-= 180 segundos, 7 momentos, 1 historia completa
+### REGLAS UNIVERSALES (aplican a AMBOS tipos)
 
-**Experiencia Emocional (AHORA):**
-Hook (¡Uno, dos, tres!) → Verso pegajoso (construcción de cubos) → Coro memorable (respira con Talo) → Momento de pico (se tambalea) → Coro again → Outro (intento otra vez)
-= 150 segundos, 4-5 elementos musicales, 1 MOTIVO musical
+1. **CORO IDÉNTICO** — Nunca varía entre repeticiones
+2. **BPM MÍNIMO 85** — Excepto canciones para dormir (60-80 BPM)
+3. **HOOK antes de 10 seg** — Frase o sonido que engancha de inmediato
+4. **Sin papá/mamá** — Solo Talo, Rubí, Tuco, Nuti
+5. **Vocabulario simple** — Palabras que niños 2-6 usan a diario
+6. **Coro aparece 3+ veces** — Siempre más coro que verso en tiempo total
 
-**EL NIÑO NO SABE LA HISTORIA. EL NIÑO CANTA EL CORO DESPUÉS.**
+---
+
+### CÓMO DECIDIR EL TIPO
+
+```
+¿La canción trata de que Talo supera algo difícil? 
+(enojo, miedo, tristeza, vergüenza, celos, frustración, sentirse solo)
+   → SÍ → TIPO A (Canción Emocional Narrativa)
+   → NO → TIPO B (Canción Simple Pegajosa)
+```
 
 ---
 

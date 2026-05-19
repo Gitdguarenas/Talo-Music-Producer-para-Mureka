@@ -79,59 +79,98 @@ Revisar `emotional-episodes-structure.md`:
 
 ---
 
-## FASE 2: GENERACIÓN DE CANCIÓN EMOCIONAL
+## FASE 2: GENERACIÓN DE CANCIÓN TALO
 
 **Referencia:** `ESTRUCTURA-CANCION-INFANTIL-GUIA.md` + `EPISODIO-EMOCIONAL-TEMPLATE.md`
 
-### 2.1 Estructura Base (Verificar siempre)
+### 2.0 — DETERMINAR TIPO ANTES DE TODO
 
 ```
-[Intro] — 3-5 seg, hook explosivo
-↓
-[Verso 1] — 3 líneas, acción clara
-[Coro] — 3-4 líneas (IDÉNTICO, pegajoso)
-↓
-[Verso 2] — 3 líneas, patrón repetidor + variador
-[Coro] — EXACTAMENTE IGUAL
-↓
-[Verso 3] — 3 líneas, pico emocional (NO minimizar)
-[Pausa Silencio] — 2 segundos (validación)
-[Spoken] — Validación emocional explícita
-↓
-[Verso 4] — Intervención de amigos (Rubí, Tuco, Nuti)
-[Bridge] — Regulación + guía (respiración, transformación)
-↓
-[Verso 5] — Resolución calmada
-[Final Coro] — EXACTAMENTE IGUAL (positivo reforzado)
-↓
-[Outro] — 2-3 líneas, baja intensidad, cierre
+¿La canción trata de que Talo supera algo difícil?
+(enojo, miedo, tristeza, vergüenza, celos, frustración, soledad, exclusión)
+   → SÍ → TIPO A: Canción Emocional Narrativa (leer 2.1-A)
+   → NO → TIPO B: Canción Simple Pegajosa (leer 2.1-B)
 ```
 
-**Duración Total:** 2:30–3:00 minutos (máximo)
+---
 
-### 2.2 Checklist de Pegajosidad (Luli Pampín)
+### 2.1-A TIPO A — Estructura Emocional Narrativa
 
-- [ ] ¿Hook en primeros 3-5 segundos? (onomatopeya o frase pegajosa)
-- [ ] ¿Verso 1-2-3 máximo 3 líneas cada uno?
-- [ ] ¿Coro 3-4 líneas, IDÉNTICO todas las veces?
-- [ ] ¿Verso Repetidor + Elemento Variador?
-- [ ] ¿Onomatopeyas en Intro y Verso 3?
-- [ ] ¿Rimas AABB naturales (no forzadas)?
-- [ ] ¿Vocabulario simple (edad 2-6)?
-- [ ] ¿Narrativa completa: Setup → Conflicto → Resolución?
-- [ ] ¿Más coro que verso (coro ~40% de la canción)?
-- [ ] ¿Rhythmo bouncy (saltable/aplaudible)?
+**Referencia:** Canticuénticos | **Duración:** 2:50-3:00 max | **Frases:** 24-32
 
-### 2.3 Checklist de Validación Emocional
+```
+[Intro] — 8-10 seg — Hook emocional (¿qué siente Talo?)
+↓
+[Verse 1] — Setup emocional (Talo está bien, intenta algo) — 3-4 líneas
+[Chorus] — CORO MUY PEGAJOSO × 1 — 4-5 líneas, narrativo + ritmo potente
+↓
+[Verse 2] — Frustración crece — 3-4 líneas
+[Chorus] — IDÉNTICO × 1
+↓
+[Verse 3] — Pico emocional + validación explícita — 3-4 líneas
+[Silence] — 2 seg pausa absoluta
+[Bridge/Spoken] — Validación suave (opcional, hablado)
+↓
+[Verse 4] — Amigos + regulación emocional — 3-4 líneas
+[Final Chorus] — IDÉNTICO × 1-2
+↓
+[Outro] — 2-3 líneas — cierre esperanzador
 
+BPM: 85 intro → 110-120 pico → 85-90 resolución
+```
+
+**Checklist Tipo A:**
+- [ ] ¿Coro 4-5 líneas, muy pegajoso, con ritmo potente?
+- [ ] ¿Coro tiene frase de validación + acción (respirar, moverse)?
+- [ ] ¿Onomatopeya en coro? (OPCIONAL — solo si refuerza)
 - [ ] ¿Verso 3 VALIDA emoción (no minimiza)?
 - [ ] ¿Silencio de 2 segundos después del pico?
-- [ ] ¿Spoken explícitamente valida ("Está bien...")?
-- [ ] ¿Verso 4 tiene amigos (Rubí, Tuco, Nuti)?
-- [ ] ¿SIN papá/mamá/adultos en narrativa?
-- [ ] ¿Bridge guía regulación (respiración/transformación)?
-- [ ] ¿Verso 5 + Coro = resolución positiva?
-- [ ] ¿Outro refuerza: "Intento de nuevo" o "Estoy seguro"?
+- [ ] ¿Verso 4 tiene amigos (Rubí, Tuco, Nuti), SIN papá/mamá?
+- [ ] ¿Duración ≤ 3:00?
+- [ ] ¿24-32 frases totales?
+
+---
+
+### 2.1-B TIPO B — Estructura Simple Pegajosa
+
+**Referencia:** Luli Pampín + Pequeño Pez | **Duración:** 2:00-2:30 | **Frases:** 18-24
+
+```
+[Intro] — 3-6 seg — Onomatopeya o frase gancho
+↓
+[Verse 1] — 3 líneas — Verso Repetidor + Elemento Variador
+[Chorus] — 3-4 líneas simples — IDÉNTICO × 1
+↓
+[Verse 2] — 3 líneas — misma estructura, elemento cambia
+[Chorus] — IDÉNTICO × 1
+↓
+[Verse 3] — 3 líneas — elemento cambia de nuevo
+[Chorus] — IDÉNTICO × 2 o (Chorus + Outro)
+↓
+[Outro] — 1-2 líneas
+
+BPM: 105-128 BPM constante
+```
+
+**Checklist Tipo B:**
+- [ ] ¿Hook en primeros 5 seg? (onomatopeya o frase repetida)
+- [ ] ¿Verso Repetidor + Elemento Variador? (niño anticipa)
+- [ ] ¿Coro 3-4 líneas simples, IDÉNTICO?
+- [ ] ¿105-128 BPM constante, sin bajadas de energía?
+- [ ] ¿Rimas AABB naturales?
+- [ ] ¿Vocabulario simple (5-8 palabras/línea)?
+- [ ] ¿Duración ≤ 2:30?
+
+---
+
+### 2.2 Checklist Universal (AMBOS tipos)
+
+- [ ] ¿Coro IDÉNTICO en todas las repeticiones (cero variaciones)?
+- [ ] ¿Coro aparece 3+ veces?
+- [ ] ¿Vocabulario de niños 2-6? (sin palabras abstractas)
+- [ ] ¿SIN papá/mamá en ninguna parte?
+- [ ] ¿BPM mínimo 85 en todo momento? (excepto sleep songs)
+- [ ] ¿Metatags válidos SOLO para Mureka?
 
 ### 2.4 Checklist de Metatags (Para Mureka)
 

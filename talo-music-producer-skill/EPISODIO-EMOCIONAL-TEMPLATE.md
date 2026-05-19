@@ -1,35 +1,133 @@
-# EPISODIO EMOCIONAL — TEMPLATE REUTILIZABLE PARA MUREKA
+# CANCIÓN TALO — TEMPLATE REUTILIZABLE PARA MUREKA
 
-**Este documento es el MAESTRO para entregar episodios emocionales listos para producción.**
+**Este documento es el MAESTRO para entregar canciones Talo listas para producción.**
 
 Cada vez que el usuario solicite: "Usa el skill y crea una canción para esta idea: [descripción]", seguiré EXACTAMENTE este formato.
 
-⚠️ **IMPORTANTE (2026-05-19):** Las canciones Talo NO son narrativas completas. Son EXPERIENCIAS MUSICALES de emociones. Lee ESTRUCTURA-CANCION-INFANTIL-GUIA.md SECCIÓN "CRITICAL PARADIGM SHIFT" antes de continuar.
+---
+
+## ⚡ PASO 0: DETERMINAR EL TIPO DE CANCIÓN
+
+**Antes de todo, decide el tipo:**
+
+```
+¿La canción trata de que Talo supera algo difícil?
+(enojo, miedo, tristeza, vergüenza, celos, frustración, soledad, exclusión)
+   → SÍ → TIPO A: Canción Emocional Narrativa
+   → NO → TIPO B: Canción Simple Pegajosa
+```
 
 ---
 
-## ESTRUCTURA LÍRICA OPTIMIZADA — PATRONES LULI PAMPÍN
+## TIPO A — CANCIÓN EMOCIONAL NARRATIVA
 
-**Duración máxima: 3 minutos | Coros pegajosos | Versos concisos**
+**Referencia:** Canticuénticos (narrativa desarrollada + coro muy pegajoso)
+**Trigger:** Superar una emoción o problema
 
-### ESTRUCTURA BASE (Para todas las canciones)
+### Estructura Tipo A
 
 ```
-[Intro] — 3-5 seg (hook explosivo)
+[Intro] — 6-10 seg — Hook emocional (¿qué siente Talo?)
 ↓
-[Verso 1] — 3 líneas (acción, no narrativa)
-[Coro] — 3-4 líneas (pegajoso, se canta involuntariamente)
+[Verse 1] — Setup emocional (Talo está bien, intenta algo) — 3-4 líneas
+[Chorus] — CORO PEGAJOSO × 1 — 4-5 líneas con ritmo + frase potente
 ↓
-[Verso 2] — 3 líneas (mismo patrón, elemento varía)
-[Coro] — IDÉNTICO (3-4 líneas)
+[Verse 2] — Frustración crece — 3-4 líneas
+[Chorus] — IDÉNTICO × 1
 ↓
-[Verso 3] — 3 líneas (si aplica)
-[Coro] — IDÉNTICO (3-4 líneas)
+[Verse 3] — Pico emocional + validación explícita — 3-4 líneas
+[Silence] / [Bridge] — 2 seg pausa o bridge breve (hablado suave)
 ↓
-[Outro] — 2-3 líneas (cierre o CTA)
+[Verse 4] — Amigos + regulación emocional — 3-4 líneas
+[Final Chorus] — IDÉNTICO × 1 (o 2 si hay energía)
+↓
+[Outro] — 2-3 líneas — cierre esperanzador
 
-DURACIÓN TOTAL: 2:30–3:00 minutos
+DURACIÓN: 2:50 – 3:00 max
+FRASES TOTALES: 24 – 32
+BPM: 85 BPM intro → 110-120 BPM pico → 85-90 BPM resolución
 ```
+
+### Coro para Tipo A — reglas
+
+- 4-5 líneas (no 2 líneas simples)
+- Incluye: frase de validación + acción (respirar, moverse) + elemento memorable
+- Onomatopeya **opcional** (agregar solo si refuerza el coro, no por obligación)
+- Debe cantarse involuntariamente después de 2-3 escuchas
+
+```
+✅ BIEN (coro enojo):
+"¡Estoy enojado, está bien!
+Respira profundo conmigo,
+uno... dos... tres...
+¡Las manos tranquilas construyen mejor!"
+
+✅ BIEN (coro miedo):
+"No estoy solo, aquí están
+Rubí, Tuco y Nuti,
+respira conmigo —
+¡estoy protegido aquí!"
+
+❌ MAL (muy simple para Tipo A):
+"Respira con Talo, uno, dos y tres"
+(solo 1 línea = no suficiente narratividad/pegajosidad)
+```
+
+---
+
+## TIPO B — CANCIÓN SIMPLE PEGAJOSA
+
+**Referencia:** Luli Pampín + Pequeño Pez (energía, anticipación, repetición)
+**Trigger:** Todo lo que NO es superar una emoción (baile, animales, rutinas, educativo, movimiento)
+
+### Estructura Tipo B
+
+```
+[Intro] — 3-6 seg — Onomatopeya o frase gancho (¡a bailar!, ¡mira!)
+↓
+[Verse 1] — 3 líneas — Verso Repetidor + Elemento Variador
+[Chorus] — 3-4 líneas — SIMPLE, muy pegajoso × 1
+↓
+[Verse 2] — 3 líneas — misma estructura, elemento cambia
+[Chorus] — IDÉNTICO × 1
+↓
+[Verse 3] — 3 líneas — elemento cambia de nuevo
+[Chorus] — IDÉNTICO × 2 (o 1 + Outro)
+↓
+[Outro] — 1-2 líneas
+
+DURACIÓN: 2:00 – 2:30
+FRASES TOTALES: 18 – 24
+BPM: 105-128 BPM constante (energético todo el tiempo)
+```
+
+### Coro para Tipo B — reglas
+
+- 3-4 líneas cortas
+- Muy simple, altamente anticipable
+- Puede incluir onomatopeya, sonido, o palabra repetida
+
+```
+✅ BIEN (vocales):
+"Súbete al tren, ven, súbete al tren
+chu-cu-chu-cu-chu
+a las vocales vamos a recoger
+¡A - E - I - O - U!"
+
+✅ BIEN (animales + baile):
+"¡El sapito salta, plas!
+¡El pájaro vuela, fiu!
+¡Talo los imita
+porque puede hacerlo tú!"
+
+✅ BIEN (movimiento):
+"¡Salta, salta, salta con Talo!
+¡Una, dos, tres!
+¡Mueve los brazos arriba!
+¡Así, así, así!"
+```
+
+---
 
 ### Patrón 1: Hook Explosivo en Intro (0-3 seg)
 ```
@@ -166,32 +264,41 @@ Rojo, sol, mar, árbol, viento, agua
 Imaginación, características, aldea, aventura
 ```
 
-### DURACIÓN POR SECCIÓN (Para llegar a 3 min máximo)
+### DURACIÓN POR TIPO
 
 ```
-[Intro] — 5 seg
-[Verso 1] — 15 seg (3 líneas × 5 seg/línea)
-[Coro] — 15 seg (3-4 líneas × 4-5 seg/línea)
-[Verso 2] — 15 seg
-[Coro] — 15 seg
-[Verso 3] — 15 seg
-[Coro] — 15 seg
-[Outro] — 10 seg
+TIPO A (Canción Emocional Narrativa):
+[Intro] — 8-10 seg
+[Verse 1] — 18-20 seg (3-4 líneas × ~5 seg)
+[Chorus] — 18-22 seg (4-5 líneas × ~4 seg)
+[Verse 2] — 18-20 seg
+[Chorus] — 18-22 seg
+[Verse 3] — 18-20 seg
+[Silence/Bridge] — 6-10 seg
+[Verse 4] — 15-18 seg
+[Final Chorus] — 18-22 seg × 1-2
+[Outro] — 8-10 seg
+TOTAL: 2:50 – 3:00 max
 
-TOTAL: 105 seg ≈ 1:45–2:30 (CONFORTABLE)
-
-O CON PAUSA EMOCIONAL:
-[Pausa silencio] — 2 seg
-Total ajustado: 2:00–2:50 minutos
+TIPO B (Canción Simple Pegajosa):
+[Intro] — 5-6 seg
+[Verse 1] — 12-15 seg (3 líneas)
+[Chorus] — 12-15 seg (3-4 líneas)
+[Verse 2] — 12-15 seg
+[Chorus] — 12-15 seg
+[Verse 3] — 12-15 seg
+[Chorus] — 12-15 seg × 1-2
+[Outro] — 6-8 seg
+TOTAL: 2:00 – 2:30
 ```
 
 ---
 
 ## ESTRUCTURA DE ENTREGA
 
-Toda canción emocional se entrega en TRES bloques separados:
+Toda canción Talo se entrega en 5 bloques:
 
-### BLOQUE 1: METADATA & CONTEXT (Información sobre el episodio)
+### BLOQUE 1: METADATA & CONTEXT
 ### BLOQUE 2: STYLE PROMPT (500 chars máximo — cómo suena)
 ### BLOQUE 3: LYRICS (Metatags válidos SOLO — qué ocurre)
 ### BLOQUE 4: PRODUCTION NOTES (Instrucciones técnicas adicionales)
@@ -201,32 +308,49 @@ Toda canción emocional se entrega en TRES bloques separados:
 
 ## BLOQUE 1: METADATA & CONTEXT
 
+### Para TIPO A (Canción Emocional Narrativa)
+
 ```markdown
-# Episodio: [Nombre]
+# Canción: [Nombre]
+**TIPO: A — Canción Emocional Narrativa**
 
-**Emoción tratada:** [Emoción principal]
-**Edad objetivo:** [Rango dentro de 2–6 años]
-**Duración:** [2:20–2:50 min MÁXIMO — NO 3:30]
-**Situación relatable:** [Qué vive Talo — una situación, no una historia completa]
-**Gancho principal (Hook):** [La frase/onomatopeya que debe recordar el niño — aparece en primeros 10 seg]
+**Emoción tratada:** [enojo / miedo / tristeza / vergüenza / celos / frustración / soledad]
+**Edad objetivo:** [Rango dentro de 2-6 años]
+**Duración:** 2:50-3:00 min MAX
+**Situación relatable:** [Qué vive Talo — una situación específica]
+**Validación emocional:** [Dónde y cómo se valida la emoción en la canción]
 
-**Refrán pegajoso:** [Frase que se repite 3+ veces y el niño canta sin el video]
-**Paleta de colores:** [Colores que cambian con emoción — opcional]
-**Tempo mínimo:** [85 BPM — NUNCA menos, excepto canciones para dormir]
-**Tempos por sección:** 
-- Intro: [85-95 BPM]
-- Verso: [95-110 BPM]
-- Coro pico: [110-120 BPM]
+**Hook inicial:** [Qué engancha en los primeros 10 seg]
+**Coro pegajoso:** [4-5 líneas del coro — el niño debe cantarlo involuntariamente]
+**Paleta de colores Talo:** [Cómo cambia el color de Talo con la emoción]
 
-**Elementos emocionales clave** (seleccionar los que sirvan a pegajosidad):
-- ☐ Validación emocional (¿dónde en la canción se VALIDA la emoción?)
-- ☐ Momento de pico (¿hay un momento donde la emoción está en máximo?)
-- ☐ Resolución (¿cómo termina la canción emocionalmente?)
+**Tempos:**
+- Intro: 85-95 BPM
+- Frustración: 95-110 BPM
+- Pico emocional: 110-120 BPM
+- Resolución: 85-90 BPM
 
-**Instrumentación clave:** [Instrumentos principales — máximo 4-5, no orquesta completa]
+**Instrumentación:** [4-5 instrumentos principales, cómo evolucionan]
+**Amigos que aparecen:** [Rubí / Tuco / Nuti — NO papá/mamá]
 ```
 
-**NOTA:** No necesitas todas las 7 fases. Solo incluye los elementos que hagan la canción MÁS PEGAJOSA.
+### Para TIPO B (Canción Simple Pegajosa)
+
+```markdown
+# Canción: [Nombre]
+**TIPO: B — Canción Simple Pegajosa**
+
+**Tema:** [baile / animales / colores / rutinas / educativo / movimiento]
+**Edad objetivo:** [Rango dentro de 2-6 años]
+**Duración:** 2:00-2:30 max
+
+**Hook inicial:** [Onomatopeya o frase gancho en primeros 5 seg]
+**Verso Repetidor:** [Estructura que se repite — el elemento que varía]
+**Coro:** [3-4 líneas simples — altamente anticipable]
+
+**Tempo:** 105-128 BPM constante
+**Instrumentación:** [Instrumentos energéticos — ukulele, marimba, percusión]
+```
 
 ---
 
