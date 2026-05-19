@@ -1,6 +1,8 @@
-# MarkItDown Integration — Análisis de Documentos y Contenido Visual
+# Análisis de Documentos y Contenido Visual
 
-**Propósito:** Convertir automáticamente PDFs, imágenes, screenshots, videos y documentos a Markdown antes de analizarlos. Permite mejor comprensión del contenido visual/multimodal.
+> ⚠️ **NOTA DE ENTORNO:** MarkItDown no funciona en este contenedor cloud (conflicto de dependencias del sistema + YouTube bloqueado a nivel de red). La integración abajo documenta lo que **realmente funciona** hoy.
+
+**Propósito:** Analizar PDFs, imágenes, screenshots y transcripts para extraer datos útiles para el skill.
 
 ---
 
@@ -18,54 +20,79 @@ Ventaja principal: Preserva estructura de documento + permite análisis LLM en M
 
 ---
 
-## CASOS DE USO EN TALO SKILL
+## CÓMO FUNCIONA EL ANÁLISIS HOY (Sin MarkItDown)
 
-### 1. Analizar Screenshot de YouTube Analytics
+### 1. Screenshot de YouTube Analytics
 ```
-Usuario: "Aquí está el screenshot de retención de 'Talo y el Color del Enojo'"
-[Usuario sube imagen PNG de YouTube Studio]
+Usuario: adjunta imagen PNG de YouTube Studio Analytics al chat
 
 Flujo:
-1. Yo ejecuto MarkItDown en la imagen
-2. Extrae texto (% retención, métricas, gráficos como tabla)
-3. Correlaciono con frames del storyboard usando tabla de analytics tracking
-4. Identifico dónde caen usuarios y por qué
-5. Sugiero ajustes para próxima canción
+1. Yo veo la imagen directamente (soy multimodal — leo imágenes nativo)
+2. Extraigo: % retención por minuto, CTR, vistas, engagement
+3. Correlaciono con tabla de frames/timestamps del storyboard
+4. Diagnóstico: qué frames tuvieron mejor/peor performance
+5. Ajustes para próxima canción
+
+✅ Funciona hoy — solo adjunta la imagen al chat
 ```
 
-### 2. Analizar Documento PDF de Estructura Infantil
+### 2. PDF de Referencia
 ```
-Usuario: "Analiza este PDF de estructura de canciones infantiles"
-[Usuario sube PDF de referencia]
-
-Flujo:
-1. MarkItDown extrae toda estructura, tablas, listas
-2. Yo analizo e integro a nuestro framework
-3. Actualizo ESTRUCTURA-CANCION-INFANTIL-GUIA.md si hay insights nuevos
-```
-
-### 3. Analizar Video de Competencia
-```
-Usuario: "Descarga y analiza este YouTube video de una canción similar"
-[Usuario pasa YouTube URL]
+Usuario: sube el PDF al repositorio y da la ruta
 
 Flujo:
-1. MarkItDown descarga y transcribe el audio
-2. Analizo letra, estructura, timing
+1. Yo lo leo con la herramienta Read directamente
+2. Extraigo estructura, tablas, listas clave
+3. Integro insights al framework
+
+✅ Funciona hoy — sube el PDF al repo y dime la ruta
+```
+
+### 3. Transcript de Video YouTube
+```
+Usuario: copia y pega el transcript desde YouTube Studio
+
+Cómo obtenerlo:
+YouTube Studio → tu video → Subtítulos → ⋮ → Descargar → .txt
+
+Flujo:
+1. Usuario pega el texto en el chat
+2. Yo analizo letra, estructura, timing de cada sección
 3. Identifico patrones de pegajosidad
-4. Uso insights en próxima generación de canción
+4. Comparo con framework Luli Pampín
+
+✅ Funciona hoy — copia el texto del transcript
 ```
 
-### 4. Procesar Imágenes de Referencias de Personajes
+### 4. Imágenes de Personajes
 ```
-Usuario: "Aquí están las nuevas imágenes de Talo para actualizar personajes.md"
-[Usuario sube 4 imágenes de Talo en diferentes poses/colores]
+Usuario: adjunta imagen de referencia de Talo/Rubí/etc al chat
 
 Flujo:
-1. MarkItDown OCR + análisis visual de cada imagen
-2. Extraigo descriptores visuales exactos
-3. Actualizo characters/personajes.md con precisión
+1. Yo veo la imagen directamente
+2. Extraigo descriptores visuales exactos (colores, proporciones, rasgos)
+3. Actualizo characters/personajes.md
+
+✅ Funciona hoy — adjunta la imagen al chat
 ```
+
+---
+
+## SOBRE MarkItDown (Referencia Futura)
+
+Si en algún momento se usa en un entorno local o con acceso correcto:
+
+```bash
+pip install markitdown
+python3 -c "
+from markitdown import MarkItDown
+md = MarkItDown()
+result = md.convert('archivo.pdf')   # o URL de YouTube
+print(result.text_content)
+"
+```
+
+Soporta: PDF, PNG/JPG, MP4, MP3, PPTX, XLSX, DOCX, HTML, ZIP, YouTube URLs, ePub
 
 ---
 
