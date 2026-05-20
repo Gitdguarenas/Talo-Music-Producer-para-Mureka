@@ -23,6 +23,9 @@
 10. Cada storyboard debe incluir tabla "RESUMEN ANALYTICS TRACKING POST-PUBLICACIÓN" al final, con campos vacíos para llenar después de recibir datos de YouTube Studio
 11. El gesto "1-2-3" con dedos de Talo es gesto SIGNATURE de la marca — incluir siempre que la canción lo permita
 12. Callbacks visuales: usar el mismo frame/elemento del Intro en el Outro pero con emoción transformada (ej: gotita aterradora → gotita hermosa)
+13. **[REELS — DATO REAL]** Frame 1 de un Reel con ojos cerrados + fondo boscoso causó 50% de drop en los primeros 3 segundos y 90% de drop para los 10 segundos. Regla permanente: Frame 1 de Reels SIEMPRE tiene ojos abiertos mirando a cámara + fondo sólido sin escenario complejo + Talo ya en plena acción desde frame 0
+14. **[REELS]** El color de Talo en Frame 1 nunca es verde neutro — siempre el tono más vivo de la sesión (amarillo, naranja, multicolor). Verde se reserva para frames de calma (frames 2-4), nunca el gancho
+15. **[REELS]** En Seedance 2, el prompt de Frame 1 SIEMPRE incluye: `character is ALREADY mid-action at frame 0, no fade-in, instant full brightness, no transition` — si no lo dice, el generador puede crear una entrada suave que destruye el gancho
 
 ---
 
@@ -81,3 +84,27 @@
 - Grid de video = 1 prompt con 8 escenas en orden estricto para Seedance 2
 - Para canciones con más de 8 secciones, generar el storyboard en bloques
 - El CORO tiene dos funciones: antes del Verso 3 = intento en solitario; después = celebración con amigos
+
+---
+
+## 2026-05-20 — Diagnóstico de retención: Reel publicado (nombre no registrado)
+
+### ✅ Lo que funcionó bien
+- El thumbnail generó clics (50% Feed, 25% Historias, 25% Reels) — la imagen estática funciona como gancho de pre-clic
+- Reel de 33 segundos — duración dentro del rango correcto
+
+### ⚠️ Errores / diagnóstico de datos reales
+- **Drop del 50% en 0-3 segundos** → Frame 1 falló completamente como gancho de retención
+- **Drop del 90% para el segundo 10** → El contenido posterior al Frame 1 fue irrelevante porque casi nadie llegó
+- **Causa identificada visualmente:** Talo con ojos cerrados + fondo boscoso complejo en Frame 1
+- Thumbnail y primer frame discrepan en energía: el thumbnail puede captar el clic pero si el primer frame del video es "tranquilo", el usuario abandona de inmediato
+
+### 💬 Feedback del usuario
+- "Necesitamos ajustar los reels. Caen muy fuerte"
+- La curva de retención fue compartida directamente como evidencia
+
+### 📌 Reglas nuevas a recordar (agregadas a REGLAS GLOBALES como #13, #14, #15)
+- Frame 1 de Reels = ojos abiertos + fondo sólido + Talo ya en plena acción desde frame 0 (sin excepción)
+- Color de Talo en Frame 1 nunca verde neutro — siempre el más vivo (amarillo/naranja/multicolor)
+- Prompts Seedance para Frame 1 SIEMPRE incluyen: `character is ALREADY mid-action at frame 0, no fade-in, instant full brightness`
+- El thumbnail siendo bueno pero el reel cayendo = el HOOK VISUAL del video (no la imagen estática) es el problema

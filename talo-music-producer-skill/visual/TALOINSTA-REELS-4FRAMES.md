@@ -54,15 +54,30 @@ Cada reel tiene **exactamente 4 frames** con funciones fijas:
 ### Frame 1 — GANCHO (0-3 segundos)
 **Objetivo:** Capturar atención INMEDIATA. Si el niño o el padre no se queda en este frame, el reel falla.
 
+> **⚠️ DATO REAL (2026-05-20):** Un reel con retención catastrófica (50% de drop en los primeros 3 segundos) fue diagnosticado con ojos cerrados en Frame 1 y fondo boscoso complejo. El 90% de la audiencia abandonó antes del segundo 10. Las reglas siguientes corrigen exactamente ese patrón.
+
 | Regla | Detalle |
 |-------|---------|
-| **Plano** | Primer plano (PP) o plano medio muy cerrado (PM cercano) |
-| **Personaje** | Talo en el centro absoluto, ocupando 60-70% del encuadre |
-| **Expresión** | Explosiva — sorpresa, alegría máxima, curiosidad intensa |
-| **Acción** | Movimiento inmediato: saltando, girándose, señalando al espectador |
-| **Color de Talo** | El más vivo posible según la emoción (amarillo, naranja, multicolor) |
-| **Fondo** | Simple, limpio — que no compita con Talo |
-| **Cámara Seedance** | `fast push in` o `dynamic zoom in` |
+| **Plano** | Primer plano (PP) obligatorio — Talo ocupa **70-80%** del encuadre vertical |
+| **Personaje** | Talo en el centro absoluto, **ya en plena acción desde el primer frame** — NUNCA entrando a escena |
+| **Ojos** | **SIEMPRE abiertos, mirando directo a cámara** — ojos cerrados = abandono inmediato |
+| **Expresión** | Sorpresa explosiva, alegría máxima o curiosidad intensa — **la más expresiva de todo el reel** |
+| **Acción** | **YA está saltando / ya señala / ya tiene los brazos arriba** — no transiciona hacia la acción, empieza en ella |
+| **Color de Talo** | El más vivo y saturado posible: amarillo, naranja o multicolor — **nunca verde neutro en Frame 1** |
+| **Fondo** | **Color sólido o gradiente de 2 colores máximo** — sin árboles, sin escenario complejo, sin texturas |
+| **Contraste** | El color de Talo y el fondo deben ser **opuestos en valor** (Talo amarillo + fondo morado/azul oscuro) |
+| **Audio** | La voz/hook musical entra en **segundo 0:00** — absolutamente ningún intro instrumental |
+| **Cámara Seedance** | `static camera, character already in full motion at frame start, no fade-in, instant full brightness` |
+
+#### Lo que NUNCA debe ocurrir en Frame 1
+- ❌ Ojos cerrados o semicerrados
+- ❌ Talo entrando al encuadre desde afuera
+- ❌ Fondo con árboles, bosque, aldea compleja
+- ❌ Fade-in de imagen o de audio
+- ❌ Intro instrumental antes de la voz
+- ❌ Talo de espaldas o de perfil
+- ❌ Más de 1 elemento de fondo visible
+- ❌ Talo ocupando menos del 70% del encuadre
 
 ### Frame 2 — IDEA CENTRAL (3-15 segundos)
 **Objetivo:** Comunicar la única idea educativa o emocional del reel.
@@ -121,8 +136,15 @@ Lee los descriptores de `characters/personajes.md` y cópialos literalmente — 
 ### PROMPT DE IMAGEN — Magnific Freepik (Nano Banana Pro 2)
 
 **Formato por frame (4 prompts individuales):**
+
+> **Frame 1 — formato especial (más estricto):**
 ```
-[descriptor visual exacto del personaje desde personajes.md], [color de Talo según emoción], [acción específica del frame], centered in frame, [nombre del escenario] background with [2 elementos de fondo máximo — simple], soft bokeh background, portrait 9:16 vertical composition, soft volumetric lighting, vibrant saturated colors, bold colors, 3D Pixar cartoon style, smooth 3D render, expressive character, TaloInsta universe, high quality
+[descriptor visual exacto del personaje desde personajes.md], [color vivo de Talo — amarillo/naranja/multicolor], already mid-action [acción específica], eyes wide open looking directly at camera, centered in frame filling 75% of vertical space, solid [color opuesto] background, no background elements, portrait 9:16 vertical composition, instant full brightness no fade-in, soft volumetric lighting, maximum vibrant saturated colors, bold high-contrast colors, 3D Pixar cartoon style, smooth 3D render, TaloInsta universe, high quality
+```
+
+> **Frames 2, 3, 4 — formato estándar:**
+```
+[descriptor visual exacto del personaje desde personajes.md], [color de Talo según emoción], [acción específica del frame], centered in frame, [nombre del escenario] background with [1-2 elementos de fondo máximo], soft bokeh background, portrait 9:16 vertical composition, soft volumetric lighting, vibrant saturated colors, bold colors, 3D Pixar cartoon style, smooth 3D render, expressive character, TaloInsta universe, high quality
 ```
 
 **Formato del prompt de GRID (1 imagen = 4 paneles en columna vertical):**
@@ -142,6 +164,13 @@ storyboard sheet with 4 numbered panels in a 2x2 grid, vertical 9:16 reel format
 ### PROMPT DE VIDEO — Seedance 2
 
 **Formato por frame (4 clips individuales):**
+
+> **Frame 1 — formato especial (más estricto):**
+```
+[descriptor visual del personaje], [color vivo de Talo], character is ALREADY mid-[acción] at the very first frame with no transition, eyes wide open looking directly at camera, solid [color opuesto] background with no elements, static camera, instant full brightness from frame 0, no fade-in, portrait 9:16 vertical video, 3D Pixar cartoon animation style, maximum vibrant saturated colors, energetic and explosive, 3 seconds
+```
+
+> **Frames 2, 3, 4 — formato estándar:**
 ```
 [descriptor visual del personaje], [color de Talo], [acción específica animada], [escenario con 1-2 elementos de fondo], [movimiento de cámara], portrait 9:16 vertical video, 3D Pixar cartoon animation style, soft volumetric lighting, smooth fluid motion, energetic and playful, [X] seconds
 ```
@@ -149,11 +178,11 @@ storyboard sheet with 4 numbered panels in a 2x2 grid, vertical 9:16 reel format
 **Formato del GRID DE VIDEO (1 prompt = secuencia completa de 4 escenas en orden):**
 ```
 3D Pixar cartoon animation, TaloInsta universe, portrait 9:16 vertical format, [personaje(s)] with [descriptor visual resumido], continuous sequence of exactly 4 scenes in strict order without skipping:
-Scene 1 — HOOK: [acción explosiva + escenario simple + movimiento de cámara dinámico], [duración]s,
+Scene 1 — HOOK: character is ALREADY mid-[acción explosiva] from frame 0 with no transition, eyes wide open looking at camera, solid [color] background with no elements, static camera, instant full brightness, maximum vibrant colors, [duración]s,
 Scene 2 — MAIN IDEA: [acción educativa/emocional + escenario reconocible + movimiento de cámara], [duración]s,
 Scene 3 — CLIMAX: [gesto participativo + fondo más saturado + movimiento de cámara intenso], [duración]s,
 Scene 4 — LOOP CLOSE: [eco de escena 1 con emoción cumplida + movimiento de cámara que invita a repetir], [duración]s.
-Smooth transitions between each scene, consistent character design throughout, vibrant saturated colors, soft volumetric lighting, vertical portrait composition throughout.
+Smooth transitions between scenes 2-4, consistent character design throughout, vibrant saturated colors, soft volumetric lighting, vertical portrait composition throughout.
 ```
 
 **Duraciones recomendadas para Reels:**
@@ -265,12 +294,23 @@ Luego actualiza `learnings/errors-log.md` con una entrada nueva usando el format
 
 ## CHECKLIST FINAL — REELS
 
+### Frame 1 — verificación crítica (falla aquí = reel fallido)
+- [ ] Talo ocupa **70-80%** del encuadre vertical
+- [ ] Talo tiene los **ojos completamente abiertos** mirando a cámara
+- [ ] Talo está **ya en plena acción** desde el primer frame — no entrando a escena
+- [ ] El fondo es un **color sólido o gradiente simple** — sin árboles, sin escenario complejo
+- [ ] Hay **contraste máximo** entre el color de Talo y el fondo
+- [ ] El color de Talo es el **más vivo del reel** (amarillo/naranja/multicolor — no verde neutro)
+- [ ] El prompt de Seedance incluye: `character is ALREADY mid-action at frame 0`, `no fade-in`, `instant full brightness`
+- [ ] El prompt de Magnific incluye: `eyes wide open looking directly at camera`, `already mid-action`, `solid [color] background, no background elements`
+- [ ] El audio/voz empieza en **segundo 0:00** — ningún intro instrumental
+
+### General
 - [ ] Exactamente 4 frames (no más, no menos)
-- [ ] Frame 1 es un gancho explosivo — Talo grande, acción inmediata
 - [ ] Frame 4 conecta visualmente con Frame 1 (loop natural)
 - [ ] Todos los prompts incluyen `portrait 9:16 vertical composition`
 - [ ] Todos los prompts incluyen `centered in frame`
-- [ ] Máximo 2 elementos de fondo por frame
+- [ ] Máximo 2 elementos de fondo en frames 2-3-4 (Frame 1: fondo sólido)
 - [ ] Color de Talo coherente con la emoción del reel
 - [ ] Descriptores de personajes copiados exactamente de `personajes.md`
 - [ ] Prompts Seedance 2 incluyen duración por escena (3s / 7s)
@@ -283,16 +323,40 @@ Luego actualiza `learnings/errors-log.md` con una entrada nueva usando el format
 
 ## EJEMPLOS DE HOOKS DE FRAME 1
 
-Estos son ganchos visuales que han funcionado para el universo TaloInsta:
+Talo siempre **ya está en plena acción** — nunca entrando, nunca con ojos cerrados, siempre mirando a cámara. El fondo es siempre un color sólido contrastante.
 
-| Situación | Acción de Talo | Color | Plano |
-|-----------|---------------|-------|-------|
-| Coro de alegría | Salta y señala al espectador con dedo | Amarillo | PP |
-| Pregunta educativa | Inclina la cabeza, ojos muy abiertos, gesto "¿sabes qué?" | Azul-verdoso | PP cercano |
-| Gesto 1-2-3 | Cuenta con los dedos frente a cámara | Naranja | PM |
-| Momento de calma | Se sienta, inhala profundo, manos en pecho | Verde | PM cercano |
-| Descubrimiento | Señala algo fuera de cuadro con ojos brillantes | Verde | PM |
-| Baile/movimiento | Primer paso de baile, brazos en alto | Multicolor | PA |
+| Situación | Acción de Talo (ya en ella desde frame 0) | Color Talo | Fondo sólido | Plano |
+|-----------|------------------------------------------|------------|--------------|-------|
+| Coro de alegría | **Ya está** saltando con los brazos arriba, boca abierta, dientes visibles | Amarillo | Azul cobalto | PP |
+| Pregunta educativa | **Ya tiene** la cabeza inclinada, un ojo guiñado, dedo levantado apuntando | Naranja | Verde lima | PP cercano |
+| Gesto 1-2-3 | **Ya tiene** 3 dedos extendidos frente a cámara, sonrisa explosiva | Naranja | Morado intenso | PP |
+| Baile/movimiento | **Ya está** con un pie en el aire, un brazo en alto, ojos brillantes | Multicolor | Azul marino | PM |
+| Descubrimiento | **Ya está** con los ojos muy abiertos y la boca en O, señalando directo | Azul-verde | Naranja cálido | PP |
+| Invitación participativa | **Ya tiene** la mano extendida hacia cámara, sonrisa enorme | Amarillo | Rojo coral | PP |
+
+> **❌ Hooks que NUNCA funcionan en Frame 1:**
+> - Talo con ojos cerrados (aunque sea expresivo)
+> - Talo de perfil o de espaldas
+> - Talo caminando hacia cámara (llega tarde al gancho)
+> - Fondo con bosque, árbol o escenario de la aldea
+> - Fade-in de imagen o música
+
+---
+
+## DIAGNÓSTICO DE CURVA DE RETENCIÓN — Qué dice cada patrón
+
+Cuando tengas datos de Instagram, correlaciona la curva con los 4 frames:
+
+| Patrón de curva | Diagnóstico | Qué ajustar |
+|-----------------|-------------|-------------|
+| **Drop del 50%+ en 0-3s** | Frame 1 falló: ojos cerrados, fondo complejo, audio lento, Talo muy pequeño | Rediseñar Frame 1 completo — fondo sólido, ojos abiertos, ya en acción |
+| **Drop gradual 0-10s, plana después** | Gancho visual funciona pero audio no engancha | Revisar que la voz entre en segundo 0; cambiar la frase hook |
+| **Drop en 10-20s** | Frame 2 (idea central) no sostiene el interés | Hacer la idea más visual, menos "explicativa"; agregar movimiento |
+| **Drop en 20-30s** | Frame 3 (clímax) no genera participación | Cambiar el gesto por algo más imitable; aumentar energía visual |
+| **Drop en el último segundo** | Frame 4 no hace loop natural | Cambiar cierre para que conecte visualmente con Frame 1 |
+| **Curva estable o subiendo** | ✅ El reel funciona — replicar esta estructura | Guardar como referencia en este archivo |
+
+> **Caso real documentado (2026-05-20):** Reel de 33 segundos → 50% drop en 0-3s, 90% drop para 0-10s, plana en ~3% hasta el final. Causa confirmada: Talo con ojos cerrados + fondo boscoso complejo en Frame 1. Corrección: Frame 1 rediseñado con fondo sólido, ojos abiertos, Talo ya en plena acción desde 0:00.
 
 ---
 
