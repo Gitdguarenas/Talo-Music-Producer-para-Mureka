@@ -206,7 +206,8 @@ talo-music-producer-skill/
 │   └── talo-brand.md
 │
 ├── visual/                           ← Storyboard + TaloInsta
-│   ├── TALOINSTA-SONG-STORYBOARD-REFERENCE.md
+│   ├── TALOINSTA-SONG-STORYBOARD-REFERENCE.md  ← YouTube / video largo (8 frames/sección)
+│   ├── TALOINSTA-REELS-4FRAMES.md              ← Instagram Reels (4 frames, 9:16, hook + loop)
 │   └── TALOINSTA-LEARNINGS.md
 │
 ├── analytics/                        ← Métricas y aprendizaje
@@ -242,7 +243,8 @@ talo-music-producer-skill/
 ### 🎨 Storyboard Visual (TaloInsta Integrado)
 | Archivo | Rol |
 |---|---|
-| `visual/TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 56 frames, prompts Magnific + Seedance |
+| `visual/TALOINSTA-SONG-STORYBOARD-REFERENCE.md` | Guía completa TaloInsta: 8 frames/sección, prompts Magnific + Seedance — **para YouTube / video largo** |
+| `visual/TALOINSTA-REELS-4FRAMES.md` | **Mini storyboard 4 frames para Instagram Reels** — vertical 9:16, hook inmediato, cierre en loop |
 | `characters/personajes.md` | Descriptores visuales exactos: Talo, Rubí, Tuco, Nuti (NUNCA improvisar) |
 | `visual/TALOINSTA-LEARNINGS.md` | Errores comunes, reglas globales de TaloInsta |
 | `canciones/` (directorio) | Carpeta con todas las canciones: `lyrics.md`, `storyboard.md`, `analytics.md` |
