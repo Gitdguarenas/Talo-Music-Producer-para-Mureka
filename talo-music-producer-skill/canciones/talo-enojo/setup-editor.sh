@@ -3,9 +3,10 @@
 
 set -e
 
-PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../../.." && pwd)"
-CLIPS_SOURCE="$PROJECT_ROOT/talo-music-producer-skill/canciones/talo-enojo/clips"
-AUDIO_SOURCE="$PROJECT_ROOT/talo-music-producer-skill/canciones/talo-enojo/audio"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../.." && pwd)"
+CLIPS_SOURCE="$SCRIPT_DIR/clips"
+AUDIO_SOURCE="$SCRIPT_DIR/audio"
 EDITOR_ROOT="$PROJECT_ROOT/editor-remotion"
 
 echo "🎬 Talo Setup — Copying clips and audio to Editor Pro Max"
@@ -40,13 +41,16 @@ echo ""
 
 # Copy clips
 echo "📹 Copying clips..."
+CLIP_NUM=1
 for reel_num in 1 2 3 4 5 6; do
   REEL_DIR="$EDITOR_ROOT/public/assets/reel$reel_num"
-  if ls "$CLIPS_SOURCE"/reel$reel_num-*.mp4 1> /dev/null 2>&1; then
-    cp "$CLIPS_SOURCE"/reel$reel_num-*.mp4 "$REEL_DIR/" 2>/dev/null || true
-    echo "   ✅ Reel $reel_num clips copied"
+  CLIP_FILE="$CLIPS_SOURCE/clip$CLIP_NUM.mp4"
+  if [ -f "$CLIP_FILE" ]; then
+    cp "$CLIP_FILE" "$REEL_DIR/" 2>/dev/null || true
+    echo "   ✅ Reel $reel_num clips copied (clip$CLIP_NUM.mp4)"
+    CLIP_NUM=$((CLIP_NUM + 1))
   else
-    echo "   ⚠️  No clips found for Reel $reel_num (waiting for generation)"
+    echo "   ⚠️  No clip found for Reel $reel_num at $CLIP_FILE"
   fi
 done
 
@@ -54,11 +58,18 @@ echo ""
 
 # Copy audio
 echo "🎵 Copying audio..."
+AUDIO_FILE=""
 if [ -f "$AUDIO_SOURCE/talo-enojo.mp3" ]; then
-  cp "$AUDIO_SOURCE/talo-enojo.mp3" "$EDITOR_ROOT/public/assets/audio/"
+  AUDIO_FILE="$AUDIO_SOURCE/talo-enojo.mp3"
+elif [ -f "$AUDIO_SOURCE/0518.MP3" ]; then
+  AUDIO_FILE="$AUDIO_SOURCE/0518.MP3"
+fi
+
+if [ -n "$AUDIO_FILE" ]; then
+  cp "$AUDIO_FILE" "$EDITOR_ROOT/public/assets/audio/talo-enojo.mp3"
   echo "   ✅ Audio file copied"
 else
-  echo "   ⚠️  Audio file not found yet (place talo-enojo.mp3 in $AUDIO_SOURCE)"
+  echo "   ⚠️  Audio file not found yet"
 fi
 
 echo ""
