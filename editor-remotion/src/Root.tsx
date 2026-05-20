@@ -1,5 +1,6 @@
+import React from 'react';
 import { Composition } from 'remotion';
-import { TaloReel1 } from './compositions/TaloReel1';
+import { TaloReel1, TOTAL_FRAMES } from './compositions/TaloReel1';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -7,7 +8,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="TaloReel1"
         component={TaloReel1}
-        durationInFrames={900}
+        durationInFrames={TOTAL_FRAMES}
         fps={30}
         width={1080}
         height={1920}
