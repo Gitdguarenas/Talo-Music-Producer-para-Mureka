@@ -49,7 +49,7 @@ pronunciation. Inspired by Canticuénticos energy.
 ¡Con binoculares, mira bien!
 ¡Una vocal te espera también!
 
-[Spoken Word]
+[Spoken]
 ¡Shhh! ¡Silencio!
 ¡Pongan los binoculares!
 ¡Viene la A!
@@ -60,7 +60,7 @@ Volando sin parar.
 ¡A! ¡A! ¡A!
 ¡La A la encontramos ya!
 
-[Spoken Word]
+[Spoken]
 ¡Pongan los binoculares!
 ¡Viene la E!
 
@@ -76,7 +76,7 @@ Tocando su trompa aquí.
 ¡Con binoculares, mira bien!
 ¡Una vocal te espera también!
 
-[Spoken Word]
+[Spoken]
 ¡Pongan los binoculares!
 ¡Viene la I!
 
@@ -86,7 +86,7 @@ Quieta bajo el sol.
 ¡I! ¡I! ¡I!
 ¡La I la encontramos ya!
 
-[Spoken Word]
+[Spoken]
 ¡Pongan los binoculares!
 ¡Viene la O!
 
@@ -102,7 +102,7 @@ Durmiendo sin parar.
 ¡Con binoculares, mira bien!
 ¡Una vocal te espera también!
 
-[Spoken Word]
+[Spoken]
 ¡La última! ¡Pongan los binoculares!
 ¡Viene la U!
 

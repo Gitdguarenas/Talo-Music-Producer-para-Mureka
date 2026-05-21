@@ -17,26 +17,29 @@
 - ✅ Warm acoustic
 - ✅ Referencias: Canticuénticos, Luli Pampín, Bluey, Cocomelon
 
-### Secciones habladas — usar en TODAS las canciones
-Los [Spoken Word] son una herramienta central de las canciones infantiles. Crear momentos de conexión directa entre Talo y el niño, fuera de la música. Usarlos siempre que haya:
-- Un momento de validación emocional
-- Una instrucción o pregunta al niño
-- Un anuncio dramático (como "¡Viene la A!")
-- Un cambio de energía entre secciones
-- Un momento educativo que necesita claridad
+### Secciones habladas — evaluar por contexto
+El metatag correcto es `[Spoken]` (1 palabra — Mureka lo reconoce; `[Spoken Word]` activa solo una palabra).
+
+No es obligatorio en todas las canciones. Incluirlo cuando la canción lo justifique:
+- Un momento de validación emocional (Tipo A: "Está bien, Talo. El miedo es real.")
+- Un anuncio dramático que requiere suspenso (Tipo B exploración: "¡Pongan los binoculares! ¡Viene la A!")
+- Una instrucción directa al niño que necesita salir de la música
+- Un cambio de energía que la música sola no puede marcar
+
+En canciones Tipo B simples sin narrativa (abecedario, números, colores básicos), evaluar si el ritmo lo permite — no forzarlo si interrumpe el flujo.
 
 ```
 ✅ Ejemplos de uso:
-[Spoken Word]
+[Spoken]
 ¡Pongan los binoculares!
 ¡Viene la A!
 
-[Spoken Word]
+[Spoken]
 Está bien, Talo.
 El miedo es real.
 Aquí estamos todos.
 
-[Spoken Word]
+[Spoken]
 ¿Listos para contar?
 ¡Uno, dos, tres... ya!
 ```
@@ -52,7 +55,7 @@ Aquí estamos todos.
 ✅ [Verse]          → 1 palabra
 ✅ [Verse A]        → 2 palabras
 ✅ [Double-time]    → 1 palabra
-✅ [Spoken Word]    → 2 palabras
+✅ [Spoken]         → 1 palabra
 ✅ [Build Up]       → 2 palabras
 ✅ [Outro]          → 1 palabra
 
@@ -84,7 +87,7 @@ Texto aquí [Verse] más texto
 |-----------|-----------------|
 | **Estructura** | `[Intro]`, `[Verse]`, `[Verse 1]`, `[Verse A]`, `[Chorus]`, `[Bridge]`, `[Outro]`, `[Interlude]` |
 | **Ritmo** | `[Double-time]`, `[Half-time]`, `[Tempo Change]`, `[Beat Switch]` |
-| **Voz** | `[Spoken Word]`, `[Monologue]`, `[Rap]`, `[Singing]`, `[Whisper]`, `[Shout]` |
+| **Voz** | `[Spoken]`, `[Monologue]`, `[Rap]`, `[Singing]`, `[Whisper]`, `[Shout]` |
 | **Energía** | `[Build Up]`, `[Climax]`, `[Drop]`, `[Wind Down]`, `[Fade Out]` |
 | **Instrumentación** | `[Percussion Solo]`, `[Guitar Solo]`, `[Instrumental Break]`, `[Vocal Harmony]`, `[A cappella]` |
 
@@ -182,7 +185,7 @@ energetic pronunciation of real Spanish words.
 | Si en Lyrics tienes… | Entonces en Description menciona… |
 |---------------------|----------------------------------|
 | `[Double-time]` | "tempo changes" / "accelerates" |
-| `[Spoken Word]` | "spoken passages" / "narrative" |
+| `[Spoken]` | "spoken passages" / "narrative" |
 | `[Percussion Solo]` | "prominent percussion" / "rhythmic" |
 | `[Climax]` | "dynamic builds" / "intensity" |
 | `[A cappella]` | "vocal-focused" / "no instruments" |
@@ -192,7 +195,7 @@ energetic pronunciation of real Spanish words.
 
 ```
 ❌ Lyrics dice [Double-time] pero Description dice "steady tempo"
-❌ Lyrics tiene [Spoken Word] pero Description dice "pure singing"
+❌ Lyrics tiene [Spoken] pero Description dice "pure singing"
 ❌ Lyrics tiene 5 vocales pero Description solo menciona 3
 
 ✅ Lyrics y Description hablan el MISMO IDIOMA
