@@ -1,6 +1,6 @@
-# Las Vocales de Talo — LYRICS PARA MUREKA
+# Las Vocales de Talo — LYRICS PARA MUREKA (v2 — Expedición)
 
-**Duración:** ~2:00 | **Tipo:** B — Simple Pegajosa | **Tema:** Las 5 vocales
+**Duración:** ~2:00 | **Tipo:** B — Simple Pegajosa | **Frame:** Expedición en la selva
 
 ---
 
@@ -10,25 +10,26 @@
 |-------|-------|
 | **Título** | Las Vocales de Talo |
 | **TIPO** | B — Canción Simple Pegajosa |
-| **Tema** | Las 5 vocales del español |
+| **Tema** | Las 5 vocales — descubiertas como animales en la selva |
+| **Frame narrativo** | Expedición: Talo lleva a los niños a ENCONTRAR cada vocal |
 | **Edad objetivo** | 2–5 años |
 | **Duración objetivo** | ~2:00 |
 | **BPM** | 110–115 constante |
-| **Estructura de versos** | 3 lentes distintos: animal+sonido / palabras rápidas / acción corporal |
-| **Chorus** | A E I O U como canto irresistible — IDÉNTICO ×4 |
+| **Gesto físico** | Binoculares — repetido antes de cada vocal |
+| **Patrón por vocal** | Binoculares → anuncio → animal → ¡encontramos ya! |
 
 ---
 
-## STYLE PROMPT — 437 caracteres
+## STYLE PROMPT — 428 caracteres
 
 ```
-Upbeat Latin children's pop, constant 110-115 BPM. Marimba, ukulele, 
-claps, glockenspiel. Bright clean mix, short punchy vowel-sound pairs. 
-Three verse styles: animal sounds, word speed-round (3 words per vowel), 
-body movement commands. Chorus repeats A-E-I-O-U as irresistible chant. 
-Talo guides through all five Spanish vowels. Bright children's voice, 
-crystal-clear vowel pronunciation, short explosive sounds after each vowel. 
-Inspired by Canticuénticos rhythm.
+Upbeat Latin children's adventure pop, constant 110-115 BPM. Marimba, 
+ukulele, claps, glockenspiel, jungle nature sounds in background. 
+Bright energetic production. Expedition-style chorus repeats between 
+vowel discoveries. Spoken sections: dramatic whispered announcement 
+before each vowel. Each vowel has an animal reveal with its sound 
+repeated three times. Clear joyful children's voice, crisp vowel 
+pronunciation. Inspired by Canticuénticos energy.
 ```
 
 ---
@@ -37,123 +38,160 @@ Inspired by Canticuénticos rhythm.
 
 ```
 [Intro]
-Talo quiere cantar.
-(quiere cantar)
-Cinco letras hay que ver.
-(hay que ver)
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Vamos a aprender!
+¡A la selva, Talo va!
+(¡Talo va!)
+¡Cinco vocales hay que hallar!
+(¡hay que hallar!)
 
 [Chorus]
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Las vocales son así!
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Canta Talo junto a mí!
+¡Vamos a la selva a explorar!
+¡Las vocales vamos a encontrar!
+¡Con binoculares, mira bien!
+¡Una vocal te espera también!
+
+[Spoken Word]
+¡Shhh! ¡Silencio!
+¡Pongan los binoculares!
+¡Viene la A!
 
 [Verse 1]
-¡A! dice el armadillo: ¡a, a, a!
-¡E! dice el elefante: ¡e, e, e!
-¡I! dice la iguana: ¡i, i, i!
-¡O! dice el oso: ¡o, o, o!
-¡U! dice la urraca: ¡u, u, u!
+¡Ahí está la abeja!
+Volando sin parar.
+¡A! ¡A! ¡A!
+¡La A la encontramos ya!
 
-[Chorus]
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Las vocales son así!
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Canta Talo junto a mí!
+[Spoken Word]
+¡Pongan los binoculares!
+¡Viene la E!
 
 [Verse 2]
-A de araña, abeja, árbol.
-E de estrella, erizo, eco.
-I de isla, insecto, iguana.
-O de ola, ocho, oso.
-U de uva, uno, unicornio.
+¡Ahí está el elefante!
+Tocando su trompa aquí.
+¡E! ¡E! ¡E!
+¡La E la encontramos ya!
 
 [Chorus]
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Las vocales son así!
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Canta Talo junto a mí!
+¡Vamos a la selva a explorar!
+¡Las vocales vamos a encontrar!
+¡Con binoculares, mira bien!
+¡Una vocal te espera también!
+
+[Spoken Word]
+¡Pongan los binoculares!
+¡Viene la I!
 
 [Verse 3]
-¡A! Abre la boca: ¡a, a, a!
-¡E! Estira los brazos: ¡e, e, e!
-¡I! Inclina la cabeza: ¡i, i, i!
-¡O! Ojos muy abiertos: ¡o, o, o!
-¡U! Une las manos: ¡u, u, u!
+¡Ahí está la iguana!
+Quieta bajo el sol.
+¡I! ¡I! ¡I!
+¡La I la encontramos ya!
+
+[Spoken Word]
+¡Pongan los binoculares!
+¡Viene la O!
+
+[Verse 4]
+¡Ahí está el gran oso!
+Durmiendo sin parar.
+¡O! ¡O! ¡O!
+¡La O la encontramos ya!
+
+[Chorus]
+¡Vamos a la selva a explorar!
+¡Las vocales vamos a encontrar!
+¡Con binoculares, mira bien!
+¡Una vocal te espera también!
+
+[Spoken Word]
+¡La última! ¡Pongan los binoculares!
+¡Viene la U!
+
+[Verse 5]
+¡Ahí está la urraca!
+Cantando al despertar.
+¡U! ¡U! ¡U!
+¡La U la encontramos ya!
 
 [Final Chorus]
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Las vocales son así!
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Canta Talo junto a mí!
+¡Vamos a la selva a explorar!
+¡Las vocales vamos a encontrar!
+¡Con binoculares, mira bien!
+¡Una vocal te espera también!
 
 [Final Chorus]
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Las vocales son así!
-¡A! ¡E! ¡I! ¡O! ¡U!
-¡Canta Talo junto a mí!
+¡Vamos a la selva a explorar!
+¡Las vocales vamos a encontrar!
+¡Con binoculares, mira bien!
+¡Una vocal te espera también!
 
 [Outro]
 ¡A! ¡E! ¡I! ¡O! ¡U!
-¡Ya las sabes tú!
+¡Las cinco encontré yo!
+¡A! ¡E! ¡I! ¡O! ¡U!
+¡Con Talo las hallé!
 ```
 
 ---
 
 ## PRODUCTION NOTES
 
-### Los 3 versos — cada uno enseña distinto
-| Verso | Método | Ejemplo |
-|-------|--------|---------|
-| Verse 1 | Animal + sonido de la vocal | "¡A! dice el armadillo: ¡a, a, a!" |
-| Verse 2 | Speed round — 3 palabras por vocal | "A de araña, abeja, árbol." |
-| Verse 3 | Acción corporal conectada a la letra | "¡A! Abre la boca: ¡a, a, a!" |
+### El ritual de los binoculares
+Cada [Spoken Word] debe tener **1 beat de silencio** antes del "¡Viene la X!" — el suspenso es parte del juego. Los niños anticipan el anuncio y levantan sus binoculares imaginarios.
 
-### Por qué el Verse 3 es especial
-Cada acción está diseñada para que la BOCA del niño haga el sonido de la vocal mientras el cuerpo hace el movimiento:
-- **A** = abrir la boca → boca en forma de A
-- **E** = estirar brazos → boca en forma de E (labios estirados)
-- **I** = inclinar cabeza → sonrisa/boca en I
-- **O** = ojos abiertos → boca redonda como O
-- **U** = unir manos → labios fruncidos como U
+### Patrón consistente por vocal (irrompible)
+```
+[Spoken Word] ¡Pongan los binoculares! ¡Viene la [X]!
+[Verse]       ¡Ahí está [animal]!
+              [acción del animal]
+              ¡[X]! ¡[X]! ¡[X]!
+              ¡La [X] la encontramos ya!
+```
 
-### Tempo & Energía
-- BPM constante 110–115 — sin variaciones
-- El Verse 2 (speed round) puede ir ligeramente más rápido (120 BPM) — efecto de lista veloz
-- El Outro es más lento y limpio — los niños "demuestran" que saben
+Los niños aprenden el patrón en la primera vocal y anticipan el resto.
+
+### Spoken Word — instrucción de producción
+- Primer [Spoken Word]: susurrado, como si hubiera silencio en la selva
+- Los siguientes: más confiado, ya saben qué hacer
+- Último [Spoken Word]: "¡La última!" crea anticipación del cierre
+
+### Sonidos de fondo
+- Selva suave durante toda la canción (pájaros, viento, hojas)
+- Sonido de animal justo después de cada "¡Ahí está [animal]!" (abeja zumbando, trompa de elefante, etc.)
+- El "¡A! ¡A! ¡A!" final de cada verso puede tener eco suave de selva
 
 ### Interactividad
-- `[Intro]` Call-and-response en paréntesis
-- `[Verse 1]` Niños gritan el sonido del animal: ¡a, a, a! / ¡e, e, e!
-- `[Verse 2]` Niños pueden señalar objetos que empiezan con la vocal
-- `[Verse 3]` Niños hacen la acción corporal mientras cantan
-- `[Outro]` Niños cantan solos — el reward final
+- `[Intro]` Call-and-response en paréntesis (a caminar / hay que hallar)
+- `[Spoken Word]` Niños levantan binoculares imaginarios — gesto físico repetible
+- `[Verse - línea 3]` Niños gritan ¡A! ¡A! ¡A! — participación máxima
+- `[Outro]` Niños cantan solos las 5 vocales — el reward final
 
 ---
 
 ## NEGATIVE GUIDANCE
 
 ```
-Avoid: slow sections, long melodic phrases, unclear vowel pronunciation, 
-complex harmonies, adult vocal style, instrumental intro over 2 seconds.
+Avoid: slow sections, unclear vowel pronunciation, long melodic 
+phrases, scary jungle sounds, complex harmonies. Each spoken 
+announcement needs 1 beat of silence before "¡Viene la X!" — 
+the suspense is part of the game.
 ```
 
 ---
 
 ## CHECKLIST PREVIO A MUREKA
 
-- [x] BPM constante 110–115 todo el tiempo
+- [x] BPM constante 110–115
 - [x] Chorus: 4 líneas, IDÉNTICO en las 4 repeticiones
-- [x] 3 versos distintos: animal / palabras / acción corporal
-- [x] Todas las vocales cubiertas en cada verso
+- [x] Patrón por vocal consistente: binoculares → anuncio → animal → encontramos ya
+- [x] [Spoken Word] antes de cada vocal (metatag válido)
 - [x] Call-and-response en Intro
-- [x] Metatags válidos: [Intro], [Chorus], [Verse 1], [Verse 2], [Verse 3], [Final Chorus], [Outro]
-- [x] Style Prompt: 437 chars, 3 bloques, términos musicales concretos
+- [x] 5 vocales cubiertas (A, E, I, O, U)
+- [x] Metatags válidos: [Intro], [Chorus], [Spoken Word], [Verse 1-5], [Final Chorus], [Outro]
+- [x] Style Prompt: 428 chars, 3 bloques, términos musicales concretos
 - [x] Duración: ~2:00, dentro del rango Tipo B
 
 ---
 
 **Fecha de creación:** 2026-05-21
+**Versión:** 2 — Expedición en la selva (concepto usuario)
 **Estado:** LISTA PARA PRODUCCIÓN
