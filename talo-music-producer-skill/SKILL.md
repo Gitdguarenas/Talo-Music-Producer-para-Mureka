@@ -258,8 +258,9 @@ talo-music-producer-skill/
 ### 🎬 Producción Reels & Música
 | Archivo | Rol |
 |---|---|
+| `produccion/MUREKA-REGLAS-DEFINITIVAS.md` | **Reglas operativas estrictas para Mureka:** metatags válidos, límite 500 chars, 3 bloques de Description, conexión Lyrics↔Description |
 | `produccion/PRODUCTION-MANUAL-REELS-KLING.md` | Manual 30-day content: 6 reels + YouTube Short + captions |
-| `produccion/mureka-format.md` | Cómo formatear instrucciones para Mureka |
+| `produccion/mureka-format.md` | Guía general de formato Mureka: campos, plantilla base, instrumentación, BPM |
 | `produccion/rhythm-and-arrangement.md` | Dinámicas, tempos, leitmotifs para emociones |
 | `produccion/talo-brand.md` | Voz, valores y restricciones de la marca |
 
