@@ -5,6 +5,44 @@
 
 ---
 
+## PREFERENCIAS DE PRODUCCIÓN TALO (aplicar siempre)
+
+### Estilos EXCLUIDOS
+- ❌ **Cumbia** — nunca mencionar ni sugerir en el Style Prompt
+- ❌ Reggaeton, trap, música agresiva
+
+### Estilos PREFERIDOS
+- ✅ Latin children's pop
+- ✅ Latin folk infantil
+- ✅ Warm acoustic
+- ✅ Referencias: Canticuénticos, Luli Pampín, Bluey, Cocomelon
+
+### Secciones habladas — usar en TODAS las canciones
+Los [Spoken Word] son una herramienta central de las canciones infantiles. Crear momentos de conexión directa entre Talo y el niño, fuera de la música. Usarlos siempre que haya:
+- Un momento de validación emocional
+- Una instrucción o pregunta al niño
+- Un anuncio dramático (como "¡Viene la A!")
+- Un cambio de energía entre secciones
+- Un momento educativo que necesita claridad
+
+```
+✅ Ejemplos de uso:
+[Spoken Word]
+¡Pongan los binoculares!
+¡Viene la A!
+
+[Spoken Word]
+Está bien, Talo.
+El miedo es real.
+Aquí estamos todos.
+
+[Spoken Word]
+¿Listos para contar?
+¡Uno, dos, tres... ya!
+```
+
+---
+
 ## CAMPO 1: LYRICS (Letra)
 
 ### REGLA 1 — Metatags: 1-3 palabras máximo

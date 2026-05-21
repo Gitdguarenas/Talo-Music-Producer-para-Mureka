@@ -23,7 +23,9 @@
 10. Cada storyboard debe incluir tabla "RESUMEN ANALYTICS TRACKING POST-PUBLICACIÓN" al final, con campos vacíos para llenar después de recibir datos de YouTube Studio
 11. El gesto "1-2-3" con dedos de Talo es gesto SIGNATURE de la marca — incluir siempre que la canción lo permita
 12. Callbacks visuales: usar el mismo frame/elemento del Intro en el Outro pero con emoción transformada (ej: gotita aterradora → gotita hermosa)
-13. **[REELS — DATO REAL]** Frame 1 de un Reel con ojos cerrados + fondo boscoso causó 50% de drop en los primeros 3 segundos y 90% de drop para los 10 segundos. Regla permanente: Frame 1 de Reels SIEMPRE tiene ojos abiertos mirando a cámara + fondo sólido sin escenario complejo + Talo ya en plena acción desde frame 0
+13. **[ESTILO]** Cumbia EXCLUIDA de todos los Style Prompts — nunca sugerir ni mencionar. Estilos preferidos: Latin children's pop, warm acoustic, Canticuénticos/Luli Pampín/Bluey/Cocomelon
+14. **[SPOKEN WORD]** Usar [Spoken Word] en TODAS las canciones — es herramienta central del género infantil. Momentos ideales: validación emocional, instrucción al niño, anuncio dramático, cambio de energía, claridad educativa
+15. **[REELS — DATO REAL]** Frame 1 de un Reel con ojos cerrados + fondo boscoso causó 50% de drop en los primeros 3 segundos y 90% de drop para los 10 segundos. Regla permanente: Frame 1 de Reels SIEMPRE tiene ojos abiertos mirando a cámara + fondo sólido sin escenario complejo + Talo ya en plena acción desde frame 0
 14. **[REELS]** El color de Talo en Frame 1 nunca es verde neutro — siempre el tono más vivo de la sesión (amarillo, naranja, multicolor). Verde se reserva para frames de calma (frames 2-4), nunca el gancho
 15. **[REELS]** En Seedance 2, el prompt de Frame 1 SIEMPRE incluye: `character is ALREADY mid-action at frame 0, no fade-in, instant full brightness, no transition` — si no lo dice, el generador puede crear una entrada suave que destruye el gancho
 
