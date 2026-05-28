@@ -60,6 +60,251 @@ Guía completa con 6 reels, prompts de **Nano Banana 2** (frames) + **Seedance 2
 
 ---
 
+---
+
+## GRIDS POR REEL (Para Seedance 2)
+
+Cada reel tiene un GRID con múltiples frames organizados horizontalmente.
+Seedance recorrerá cada frame siguiendo las instrucciones de la sección "Indicaciones por Frame".
+
+### GRID REEL 1 — GANCHO AVENTURA (3 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~360x1920).
+Background: Jungle entrance consistent across all 3.
+
+FRAME 1 (LEFT): Título "¡A la selva!"
+- Text large, lime green with golden glow
+- Talo silhouette bottom-right, ready to jump
+
+FRAME 2 (CENTER): Talo Starting Jump
+- Talo in beginning of jump motion, feet leaving ground
+- Arms raising, excited face, binoculars on neck
+- Same jungle background
+
+FRAME 3 (RIGHT): Talo Mid-Jump
+- Talo at peak of jump, arms high, biggest smile
+- Body stretched upward, legs bent in mid-air
+- Jungle animals peeking in background
+- Same lighting and colors
+
+Resolution: 1080x1920 total. Style: Pixar adventure.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 3 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-3s): Show frame 1 with fade-in. Text glows.
+Frame 2 (3-6.5s): Transition to frame 2. Talo motion starts.
+Frame 3 (6.5-10s): Transition to frame 3. Talo jumps higher, peak energy.
+Transitions: Smooth crossfade between frames.
+Add particles: Yellow sparkles around Talo increasing in intensity.
+Duration: 10 seconds.
+```
+
+---
+
+### GRID REEL 2 — TUTORIAL BINOCULARES (3 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~360x1920).
+Background: Jungle, thinking space, consistent.
+
+FRAME 1 (LEFT): Talo Thinking
+- Hand on chin, thinking pose
+- Binoculars on neck visible
+- Question marks (?) around head floating
+- Text "¿Cómo buscamos?"
+
+FRAME 2 (CENTER): Talo Discovering
+- Talo's eyes light up (realization)
+- Hand moving toward binoculars
+- Light bulbs (💡) around head
+- Same jungle background
+
+FRAME 3 (RIGHT): Binoculares Ready
+- Talo holding binoculares to eyes
+- Focused, determined expression
+- Binoculares prominent in frame
+- Jungle with animals barely visible in distance
+
+Resolution: 1080x1920 total. Style: Pixar educational.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 3 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-3s): Show frame 1. Head tilts thinking.
+Frame 2 (3-7s): Transition to frame 2. Eyes brighten, hand raises.
+Frame 3 (7-10s): Transition to frame 3. Binoculares come to eyes, discovery moment.
+Particles: Question marks fade, light bulbs appear, then fade.
+Duration: 10 seconds. Mood: Realization and readiness.
+```
+
+---
+
+### GRID REEL 3 — ABEJA Y ELEFANTE (2 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~540x1920).
+Background: Jungle, consistent.
+
+FRAME 1 (LEFT): Abeja Flying
+- Giant ABEJA with yellow/black stripes
+- Flying motion (wings extended, dynamic pose)
+- RED "A" glowing behind/around bee
+- Jungle background with flowers
+
+FRAME 2 (RIGHT): Elefante Trunk
+- ELEFANTE with trunk raised/spraying
+- ORANGE "E" glowing behind
+- Water droplets visible
+- Jungle watering hole background
+
+Resolution: 1080x1920 total. Style: Pixar animal characters.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 2 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-5s): Show ABEJA. Add flying motion (flapping animation).
+Frame 1 adds: RED "A" glows increasingly bright.
+Frame 2 (5-10s): Transition to ELEFANTE. Trunk sprays water animation.
+Frame 2 adds: ORANGE "E" glows. Water droplets animate.
+Transitions: Quick crossfade, celebratory.
+Duration: 10 seconds.
+```
+
+---
+
+### GRID REEL 4 — MONTAJE ANIMALES (3 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~360x1920).
+Background: Jungle, consistent across all.
+
+FRAME 1 (LEFT): Iguana Quiet
+- IGUANA on branch, still, peaceful
+- One eye visible, observant
+- YELLOW "I" glowing softly
+- Sunlight rays through canopy
+
+FRAME 2 (CENTER): Oso Sleeping
+- OSO curled up in cave, sleeping
+- Zzz clouds floating
+- BLUE "O" glowing softly
+- Cave entrance, warm light
+
+FRAME 3 (RIGHT): Urraca Singing
+- URRACA perched, beak OPEN, singing
+- Iridescent plumage catching light
+- Musical notes (♪) around head
+- PURPLE "U" glowing brightly
+- Dawn/sunrise lighting
+
+Resolution: 1080x1920 total. Style: Pixar animal characters.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 3 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-3s): Show IGUANA still. Slight head turn animation.
+Frame 1 adds: YELLOW "I" glow increases.
+Frame 2 (3-6s): Transition to OSO sleeping. Breathing motion animation.
+Frame 2 adds: BLUE "O" glow soft.
+Frame 3 (6-11s): Transition to URRACA. Singing animation (beak open/close, body bounce).
+Frame 3 adds: PURPLE "U" glow bright. Musical notes float around.
+Particles: Musical notes, gentle sparkles.
+Duration: 11 seconds.
+```
+
+---
+
+### GRID REEL 5 — FINALE ÉPICO (2 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~540x1920).
+Background: Jungle celebration explosion.
+
+FRAME 1 (LEFT): All Animals Montage
+- All 5 animals visible in one frame
+- ABEJA flying top, ELEFANTE left, IGUANA top-right, OSO bottom-left, URRACA top-right
+- Arranged in celebration pose around center
+- Warm, vibrant colors
+- Each with their color-coded letter glowing
+
+FRAME 2 (RIGHT): Talo Victory Center
+- Talo in center, arms raised triumphantly
+- All 5 letters (A E I O U) surrounding Talo in a circle
+- A=Red, E=Orange, I=Yellow, O=Blue, U=Purple
+- Confetti-like sparkles filling space
+- Jungle backdrop, celebratory light
+
+Resolution: 1080x1920 total. Style: Pixar epic celebration.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 2 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-5s): Show all animals montage. Quick pan across animals.
+Frame 1 adds: Each animal's letter glows in sequence.
+Frame 2 (5-10s): Transition to Talo victory. Talo arms raise/lower in celebration.
+Frame 2 adds: Letters pulse around Talo. Confetti particles explode.
+Particles: Confetti in red/yellow/orange/blue/purple colors.
+Music: Triumphant chord at transition.
+Duration: 10 seconds. Mood: Victory and celebration.
+```
+
+---
+
+### GRID REEL 6 — BRAND TALO (2 frames)
+
+**Prompt para Nano Banana 2 (generar grid):**
+```
+Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
+All frames 1080x1920 total (each frame ~540x1920).
+Background: Jungle, educational setting.
+
+FRAME 1 (LEFT): Talo Teacher
+- Talo standing proud in center, full body
+- Binoculars visible, teacher-like pose
+- Hand gesturing to animals around (hint of all 5 animals peeking)
+- Jungle background, inviting mood
+- Text "Aprende con Talo"
+
+FRAME 2 (RIGHT): Talo with Children
+- Talo in center with small children around (3-4 kids)
+- All looking engaged, learning
+- Animals visible in jungle background
+- Bright, educational, inclusive mood
+- Logo @elmundodetalo at bottom
+
+Resolution: 1080x1920 total. Style: Pixar educational/brand.
+```
+
+**Indicaciones por Frame para Seedance 2:**
+```
+GRID has 2 frames horizontally. Animate transitioning through frames.
+Frame 1 (0-5s): Show Talo as teacher. Hand gestures, animals peek out one by one.
+Frame 1 adds: Educational energy, welcoming vibe.
+Frame 2 (5-10s): Transition to Talo with children. Children smile, nod.
+Frame 2 adds: Group energy, community feeling. Logo appears at end.
+Transitions: Smooth crossfade.
+Duration: 10 seconds. Mood: Educational leadership.
+```
+
+---
+
 ## PROMPTS NANO BANANA 2 (Imágenes para CapCut)
 
 ### Reel 1A: Título "¡A la selva!"
