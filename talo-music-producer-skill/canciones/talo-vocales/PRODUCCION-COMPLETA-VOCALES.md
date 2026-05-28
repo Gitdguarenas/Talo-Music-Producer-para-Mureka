@@ -1,598 +1,547 @@
-# LA SELVA Y LAS VOCALES — Producción Completa para CapCut
+# LA SELVA Y LAS VOCALES — Producción de Video (~3 min)
 
-Guía completa con 6 reels, prompts de **Nano Banana 2** (frames) + **Seedance 2** (videos).
+Guía para generar los clips del video musical completo.
 
----
-
-## 6 REELS ESTRUCTURA
-
-### Reel 1: GANCHO AVENTURA (30s)
-**Secciones:**
-- A (0-3s): Título "¡A la selva!" (Nano Banana 2)
-- B (3-13s): Talo saltando emocionado (Seedance 2, 10s)
-- C (13-21s): Selva + binoculares (Seedance 2, 8s)
-- D (21-30s): CTA "Busca las vocales" (imagen + texto)
+**Herramientas:**
+- **Nano Banana 2** → genera cada GRID (6 frames, layout 3x2)
+- **Seedance 2** → anima cada GRID y genera el CLIP
+- **CapCut** → ensambla todos los clips + audio = video final ~3 min
 
 ---
 
-### Reel 2: TUTORIAL BINOCULARES (30s)
-**Secciones:**
-- A (0-3s): "¿Cómo buscamos?" (Nano Banana 2)
-- B (3-13s): Talo levantando binoculares (Seedance 2, 10s)
-- C (13-21s): POV binocular - Abeja + "A" (Seedance 2, 8s)
-- D (21-30s): "¡La A está aquí!" (imagen + texto)
+## ESTRUCTURA DE CLIPS
+
+| # | Sección de la canción | Duración |
+|---|---|---|
+| Clip 1 | Intro + Estrofa ("A la selva, Talo va") | ~10s |
+| Clip 2 | Chorus 1 ("Vamos a la selva a explorar") | ~12s |
+| Clip 3 | Spoken + Verso A (Abeja) | ~15s |
+| Clip 4 | Spoken + Verso E (Elefante) | ~15s |
+| Clip 5 | Chorus 2 | ~12s |
+| Clip 6 | Spoken + Verso I (Iguana) | ~15s |
+| Clip 7 | Spoken + Verso O (Oso) | ~15s |
+| Clip 8 | Chorus 3 | ~12s |
+| Clip 9 | Spoken + Verso U (Urraca) | ~15s |
+| Clip 10 | Final + Celebración ("A E I O U, las cinco encontré yo") | ~20s |
+| **TOTAL** | | **~141s ≈ 3 min** |
 
 ---
 
-### Reel 3: ABEJA Y ELEFANTE (30s)
-**Secciones:**
-- A (0-3s): "¡Dos vocales más!" (Nano Banana 2)
-- B (3-13s): Abeja volando (Seedance 2, 10s)
-- C (13-21s): Elefante trompa (Seedance 2, 8s)
-- D (21-30s): Ambos celebrando (imagen + texto)
+## 10 GRIDS — PROMPTS
+
+Cada GRID = 1 imagen con **6 frames en layout 3 columnas x 2 filas**.
+Nano Banana 2 genera la imagen → Seedance 2 la anima recorriendo los 6 frames.
 
 ---
 
-### Reel 4: MONTAJE ANIMALES (30s)
-**Secciones:**
-- A (0-3s): "¡Tres más!" (Nano Banana 2)
-- B (3-11s): Iguana quieta (Seedance 2, 8s)
-- C (11-19s): Oso durmiendo (Seedance 2, 8s)
-- D (19-30s): Urraca cantando + celebración (Seedance 2, 11s)
+### GRID 1 — Intro + Estrofa (~10s)
 
----
-
-### Reel 5: FINALE ÉPICO (30s)
-**Secciones:**
-- A (0-3s): "¡Las cinco!" (Nano Banana 2)
-- B (3-15s): Montaje rápido todos animales (Seedance 2, 12s)
-- C (15-25s): Todas vocales (A E I O U) brillando (Seedance 2, 10s)
-- D (25-30s): Talo celebrando (imagen)
-
----
-
-### Reel 6: BRAND TALO (30s)
-**Secciones:**
-- A (0-5s): Talo en selva (Nano Banana 2)
-- B (5-15s): Montaje Talo con cada animal (Seedance 2, 10s)
-- C (15-25s): Talo enseñando niños (Seedance 2, 10s)
-- D (25-30s): Logo + "@elmundodetalo"
-
----
-
----
-
-## GRIDS POR REEL (Para Seedance 2)
-
-Cada reel tiene un GRID con múltiples frames organizados horizontalmente.
-Seedance recorrerá cada frame siguiendo las instrucciones de la sección "Indicaciones por Frame".
-
-### GRID REEL 1 — GANCHO AVENTURA (3 frames)
-
-**Prompt para Nano Banana 2 (generar grid):**
+**Nano Banana 2:**
 ```
-Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~360x1920).
-Background: Jungle entrance consistent across all 3.
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, warm colors, adventure mood.
 
-FRAME 1 (LEFT): Título "¡A la selva!"
-- Text large, lime green with golden glow
-- Talo silhouette bottom-right, ready to jump
+Frame 1 (top-left): Jungle entrance. Dense tropical trees, morning mist,
+golden light breaking through canopy. Title text "La Selva y Las Vocales"
+in bright green with golden glow, center of frame. Calm, inviting.
 
-FRAME 2 (CENTER): Talo Starting Jump
-- Talo in beginning of jump motion, feet leaving ground
-- Arms raising, excited face, binoculars on neck
-- Same jungle background
+Frame 2 (top-center): Talo appears at jungle edge. Small figure, excited
+expression, binoculars hanging from neck. Arms slightly raised in wonder.
+Looking toward the jungle entrance. Morning light.
 
-FRAME 3 (RIGHT): Talo Mid-Jump
-- Talo at peak of jump, arms high, biggest smile
-- Body stretched upward, legs bent in mid-air
-- Jungle animals peeking in background
-- Same lighting and colors
+Frame 3 (top-right): Talo walking into jungle. Mid-stride, confident pose.
+Path ahead is lush and colorful. Talo's face shows determination and joy.
+Leaves and flowers frame the path.
 
-Resolution: 1080x1920 total. Style: Pixar adventure.
+Frame 4 (bottom-left): Talo stops. Reaches hand to binoculars on neck.
+Fingers wrapping around them. Expression: focused, ready. Dense jungle behind.
+
+Frame 5 (bottom-center): Talo lifting binoculars up toward eyes.
+Arms raising, binoculars mid-lift. Jungle visible in background.
+Anticipation in body language.
+
+Frame 6 (bottom-right): Talo with binoculars fully at eyes. Looking into jungle.
+Body slightly leaning forward. Wide stance, explorer posture.
+Jungle stretches into distance with hints of hidden animals.
 ```
 
-**Indicaciones por Frame para Seedance 2:**
+**Seedance 2:**
 ```
-GRID has 3 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-3s): Show frame 1 with fade-in. Text glows.
-Frame 2 (3-6.5s): Transition to frame 2. Talo motion starts.
-Frame 3 (6.5-10s): Transition to frame 3. Talo jumps higher, peak energy.
-Transitions: Smooth crossfade between frames.
-Add particles: Yellow sparkles around Talo increasing in intensity.
-Duration: 10 seconds.
+Animate this 3x2 grid by panning across frames in order: 1→2→3→4→5→6.
+Spend approximately equal time on each frame (~1.5-2s each).
+Frame 1: Camera holds still, title text glows subtly.
+Frame 2: Talo blinks, slight body sway, happy expression.
+Frame 3: Talo's walking motion continues, leaves rustle.
+Frame 4: Hand moves toward binoculars, fingers close around them.
+Frame 5: Arms lift smoothly, binoculars rise toward face.
+Frame 6: Talo peers through binoculars, small head tilt left-right scanning.
+Transitions between frames: smooth pan/crossfade.
+Overall mood: Excitement building. Adventure beginning.
+Duration: 10 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-### GRID REEL 2 — TUTORIAL BINOCULARES (3 frames)
+### GRID 2 — Chorus 1 ("Vamos a la selva a explorar") (~12s)
 
-**Prompt para Nano Banana 2 (generar grid):**
+**Nano Banana 2:**
 ```
-Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~360x1920).
-Background: Jungle, thinking space, consistent.
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, energetic, exploration mood.
 
-FRAME 1 (LEFT): Talo Thinking
-- Hand on chin, thinking pose
-- Binoculars on neck visible
-- Question marks (?) around head floating
-- Text "¿Cómo buscamos?"
+Frame 1 (top-left): Talo walking confidently down jungle path.
+Path winds ahead through tall trees and colorful plants.
+Binoculars raised, scanning ahead. Text: "¡Vamos a explorar!"
 
-FRAME 2 (CENTER): Talo Discovering
-- Talo's eyes light up (realization)
-- Hand moving toward binoculars
-- Light bulbs (💡) around head
-- Same jungle background
+Frame 2 (top-center): Close-up of jungle canopy from below.
+Looking up at thick tree branches, sky barely visible.
+Birds silhouettes. Bright and alive. Sense of wonder.
 
-FRAME 3 (RIGHT): Binoculares Ready
-- Talo holding binoculares to eyes
-- Focused, determined expression
-- Binoculares prominent in frame
-- Jungle with animals barely visible in distance
+Frame 3 (top-right): Talo turns and gestures (beckoning viewer to follow).
+Arm extended, pointing deeper into jungle. Big smile.
+Background: Colorful jungle stretching into distance.
 
-Resolution: 1080x1920 total. Style: Pixar educational.
-```
+Frame 4 (bottom-left): Path diverges. Three colorful flower paths ahead.
+Talo stands at the split, looking left and right with curiosity.
+Hints of animals barely visible in each path.
 
-**Indicaciones por Frame para Seedance 2:**
-```
-GRID has 3 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-3s): Show frame 1. Head tilts thinking.
-Frame 2 (3-7s): Transition to frame 2. Eyes brighten, hand raises.
-Frame 3 (7-10s): Transition to frame 3. Binoculares come to eyes, discovery moment.
-Particles: Question marks fade, light bulbs appear, then fade.
-Duration: 10 seconds. Mood: Realization and readiness.
+Frame 5 (bottom-center): Talo with binoculars focused ahead.
+Through the jungle depth, a faint glowing shape (first animal hint).
+Golden light rays. Sense of discovery nearby.
+
+Frame 6 (bottom-right): Wide shot of jungle clearing.
+Talo small in center, jungle grand around them.
+Sunlight beams. Vibrant greens. The adventure is fully underway.
 ```
 
----
-
-### GRID REEL 3 — ABEJA Y ELEFANTE (2 frames)
-
-**Prompt para Nano Banana 2 (generar grid):**
+**Seedance 2:**
 ```
-Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~540x1920).
-Background: Jungle, consistent.
-
-FRAME 1 (LEFT): Abeja Flying
-- Giant ABEJA with yellow/black stripes
-- Flying motion (wings extended, dynamic pose)
-- RED "A" glowing behind/around bee
-- Jungle background with flowers
-
-FRAME 2 (RIGHT): Elefante Trunk
-- ELEFANTE with trunk raised/spraying
-- ORANGE "E" glowing behind
-- Water droplets visible
-- Jungle watering hole background
-
-Resolution: 1080x1920 total. Style: Pixar animal characters.
-```
-
-**Indicaciones por Frame para Seedance 2:**
-```
-GRID has 2 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-5s): Show ABEJA. Add flying motion (flapping animation).
-Frame 1 adds: RED "A" glows increasingly bright.
-Frame 2 (5-10s): Transition to ELEFANTE. Trunk sprays water animation.
-Frame 2 adds: ORANGE "E" glows. Water droplets animate.
-Transitions: Quick crossfade, celebratory.
-Duration: 10 seconds.
+Animate this 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo walking animation, leaves sway, energetic pace (~2s).
+Frame 2: Camera slowly pans up canopy, birds flutter (~2s).
+Frame 3: Talo's beckoning arm waves toward viewer, enthusiastic (~2s).
+Frame 4: Talo's head turns left then right at path divergence (~2s).
+Frame 5: Binoculars adjust, distant glow brightens slightly (~2s).
+Frame 6: Sunbeams intensify, golden particle dust in light rays (~2s).
+Transitions: Smooth crossfades. Energy is high and playful.
+Duration: 12 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-### GRID REEL 4 — MONTAJE ANIMALES (3 frames)
+### GRID 3 — Spoken + Verso A (Abeja) (~15s)
 
-**Prompt para Nano Banana 2 (generar grid):**
+**Nano Banana 2:**
 ```
-Create 3 frames in horizontal grid (3 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~360x1920).
-Background: Jungle, consistent across all.
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, discovery moment, yellow/red color accent.
 
-FRAME 1 (LEFT): Iguana Quiet
-- IGUANA on branch, still, peaceful
-- One eye visible, observant
-- YELLOW "I" glowing softly
-- Sunlight rays through canopy
+Frame 1 (top-left): Talo with binoculars, finger to lips (¡Shhh! gesture).
+Eyes wide, very still posture. Jungle silent around.
+Expression: "Something is nearby, be quiet!"
 
-FRAME 2 (CENTER): Oso Sleeping
-- OSO curled up in cave, sleeping
-- Zzz clouds floating
-- BLUE "O" glowing softly
-- Cave entrance, warm light
+Frame 2 (top-center): Talo's POV through binoculars (two circular frames).
+In the blurry distance, a yellow shape moving between flowers.
+Not fully visible yet. Mystery building. Text: "¡Viene la A!"
 
-FRAME 3 (RIGHT): Urraca Singing
-- URRACA perched, beak OPEN, singing
-- Iridescent plumage catching light
-- Musical notes (♪) around head
-- PURPLE "U" glowing brightly
-- Dawn/sunrise lighting
+Frame 3 (top-right): Abeja (bee) in full view. Large, vibrant yellow and black stripes.
+Flying in with wings spread. Happy bee face. Flowers in background.
+Dynamic entry, motion lines. The bee has arrived!
 
-Resolution: 1080x1920 total. Style: Pixar animal characters.
-```
+Frame 4 (bottom-left): Abeja flying close to camera. Detailed wings flapping.
+Behind/above the bee: Giant RED "A" beginning to glow. Bright and bold.
+Jungle background, morning light.
 
-**Indicaciones por Frame para Seedance 2:**
-```
-GRID has 3 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-3s): Show IGUANA still. Slight head turn animation.
-Frame 1 adds: YELLOW "I" glow increases.
-Frame 2 (3-6s): Transition to OSO sleeping. Breathing motion animation.
-Frame 2 adds: BLUE "O" glow soft.
-Frame 3 (6-11s): Transition to URRACA. Singing animation (beak open/close, body bounce).
-Frame 3 adds: PURPLE "U" glow bright. Musical notes float around.
-Particles: Musical notes, gentle sparkles.
-Duration: 11 seconds.
+Frame 5 (bottom-center): RED "A" in full glow, large and dominant.
+Abeja flies around the "A" happily (orbiting it). Sparkles/pollen particles.
+Text below: "¡A! ¡A! ¡A!" in red, bold.
+
+Frame 6 (bottom-right): Talo arms raised in triumph!
+"¡La A la encontramos ya!" expression on face. Huge smile.
+Abeja on Talo's shoulder, both celebrating. "A" still glowing in background.
 ```
 
----
-
-### GRID REEL 5 — FINALE ÉPICO (2 frames)
-
-**Prompt para Nano Banana 2 (generar grid):**
+**Seedance 2:**
 ```
-Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~540x1920).
-Background: Jungle celebration explosion.
-
-FRAME 1 (LEFT): All Animals Montage
-- All 5 animals visible in one frame
-- ABEJA flying top, ELEFANTE left, IGUANA top-right, OSO bottom-left, URRACA top-right
-- Arranged in celebration pose around center
-- Warm, vibrant colors
-- Each with their color-coded letter glowing
-
-FRAME 2 (RIGHT): Talo Victory Center
-- Talo in center, arms raised triumphantly
-- All 5 letters (A E I O U) surrounding Talo in a circle
-- A=Red, E=Orange, I=Yellow, O=Blue, U=Purple
-- Confetti-like sparkles filling space
-- Jungle backdrop, celebratory light
-
-Resolution: 1080x1920 total. Style: Pixar epic celebration.
-```
-
-**Indicaciones por Frame para Seedance 2:**
-```
-GRID has 2 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-5s): Show all animals montage. Quick pan across animals.
-Frame 1 adds: Each animal's letter glows in sequence.
-Frame 2 (5-10s): Transition to Talo victory. Talo arms raise/lower in celebration.
-Frame 2 adds: Letters pulse around Talo. Confetti particles explode.
-Particles: Confetti in red/yellow/orange/blue/purple colors.
-Music: Triumphant chord at transition.
-Duration: 10 seconds. Mood: Victory and celebration.
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo holds very still, one finger at lips, eyes dart left-right (~2s).
+Frame 2: Binocular circles focus and zoom, yellow shape sharpens (~2s).
+Frame 3: Abeja enters with flying animation, wings flapping rapidly (~2.5s).
+Frame 4: Bee swoops closer, wings blur with speed, "A" starts glowing (~2.5s).
+Frame 5: "A" pulses brightly 3 times in rhythm ("¡A! ¡A! ¡A!"). Bee circles (~3s).
+Frame 6: Talo jumps slightly, arms shoot up, bee lands on shoulder, confetti (~3s).
+Particles: Pollen/golden sparkles throughout frames 3-6.
+Duration: 15 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-### GRID REEL 6 — BRAND TALO (2 frames)
+### GRID 4 — Spoken + Verso E (Elefante) (~15s)
 
-**Prompt para Nano Banana 2 (generar grid):**
+**Nano Banana 2:**
 ```
-Create 2 frames in horizontal grid (2 frames side-by-side, equal size).
-All frames 1080x1920 total (each frame ~540x1920).
-Background: Jungle, educational setting.
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, discovery moment, orange/gray color accent.
 
-FRAME 1 (LEFT): Talo Teacher
-- Talo standing proud in center, full body
-- Binoculars visible, teacher-like pose
-- Hand gesturing to animals around (hint of all 5 animals peeking)
-- Jungle background, inviting mood
-- Text "Aprende con Talo"
+Frame 1 (top-left): Talo raises binoculars again, scanning right side of jungle.
+Focused expression, leaning slightly right. Jungle dense to the right.
+Text: "¡Pongan los binoculares!"
 
-FRAME 2 (RIGHT): Talo with Children
-- Talo in center with small children around (3-4 kids)
-- All looking engaged, learning
-- Animals visible in jungle background
-- Bright, educational, inclusive mood
-- Logo @elmundodetalo at bottom
+Frame 2 (top-center): Through binoculars: Blurry silhouette of something HUGE.
+Large gray shape partially hidden by trees. Trunk barely visible.
+Text: "¡Viene la E!"
 
-Resolution: 1080x1920 total. Style: Pixar educational/brand.
-```
+Frame 3 (top-right): Elefante (elephant) emerges from trees.
+Large, gray, friendly face. Trunk hanging down. Kind eyes. Full body visible.
+Jungle watering hole in background.
 
-**Indicaciones por Frame para Seedance 2:**
-```
-GRID has 2 frames horizontally. Animate transitioning through frames.
-Frame 1 (0-5s): Show Talo as teacher. Hand gestures, animals peek out one by one.
-Frame 1 adds: Educational energy, welcoming vibe.
-Frame 2 (5-10s): Transition to Talo with children. Children smile, nod.
-Frame 2 adds: Group energy, community feeling. Logo appears at end.
-Transitions: Smooth crossfade.
-Duration: 10 seconds. Mood: Educational leadership.
+Frame 4 (bottom-left): Elefante raises trunk HIGH. Playful expression.
+Trunk curled upward with water droplets spraying.
+Background: Jungle with warm orange light. ORANGE "E" just starting to appear.
+
+Frame 5 (bottom-center): ORANGE "E" fully glowing behind elefante. Large and bright.
+Elefante trunk touches the "E" letter playfully. Water droplets everywhere.
+Text: "¡E! ¡E! ¡E!" in orange, bold.
+
+Frame 6 (bottom-right): Talo waves at elefante enthusiastically.
+Elefante looks down at Talo, friendly. "E" still glowing.
+Both celebrating together. Warm light, joyful mood.
 ```
 
----
-
-## PROMPTS NANO BANANA 2 (Imágenes para CapCut)
-
-### Reel 1A: Título "¡A la selva!"
+**Seedance 2:**
 ```
-Jungle entrance with vibrant flowers and sunlight rays breaking through canopy.
-Text "¡A la selva!" in bright lime green (#00FF00) with golden glow.
-Text positioned center-top, LARGE size, dominates image.
-Talo silhouette bottom-right corner, ready to jump, excited pose.
-Style: Pixar jungle aesthetic, warm colors, adventure mood.
-Resolution: 1080x1920.
-```
-
-### Reel 2A: "¿Cómo buscamos?"
-```
-Talo centered, hand on chin in thinking pose, binoculars hanging on neck.
-Floating around: Question marks (?), search symbols (🔍), light bulbs (💡).
-Text "¿Cómo buscamos?" in white, large, positioned top-center.
-Background: Jungle edge with soft focus.
-Style: Curious, educational setup.
-Resolution: 1080x1920.
-```
-
-### Reel 3A: "¡Dos vocales más!"
-```
-Abeja (yellow/black stripes, flying, happy) and Elefante (gray, trunk up, wise).
-Both positioned side-by-side, friendly and colorful.
-Text "¡Dos vocales más!" in orange/red, center, LARGE.
-Background: Jungle with depth, warm lighting.
-Style: Pixar character illustration.
-Resolution: 1080x1920.
-```
-
-### Reel 4A: "¡Tres más!"
-```
-Iguana on branch (left), Oso sleeping in cave (center), Urraca singing (right).
-All three animals clearly visible and distinctive.
-Text "¡Tres más!" in blue/purple, center, LARGE.
-Background: Full jungle scene with habitat suggestions for each animal.
-Style: Cohesive Pixar landscape.
-Resolution: 1080x1920.
-```
-
-### Reel 5A: "¡Las cinco!"
-```
-All 5 animals in celebration formation. Talo in center.
-Each animal with color-coded vocal letter glowing behind:
-- A = Red, E = Orange, I = Yellow, O = Blue, U = Purple.
-Text "¡Las cinco!" in rainbow colors, top-center, EXTRA LARGE.
-Background: Jungle celebration explosion, confetti-like effect.
-Style: Epic, celebratory Pixar scene.
-Resolution: 1080x1920.
-```
-
-### Reel 6A: Talo en selva
-```
-Talo full body, standing proudly in center of jungle.
-Binoculars visible, happy teacher-like expression, confident pose.
-Around Talo: Hints of all 5 animals watching in admiration.
-Text "Aprende con Talo" in gold, bottom area.
-Background: Lush jungle, inviting, educational mood.
-Style: Pixar character as guide/teacher.
-Resolution: 1080x1920.
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo scans with binoculars, head panning right slowly (~2s).
+Frame 2: Binocular view zooms in, gray shape sharpens, movement (~2s).
+Frame 3: Elefante steps out of trees, heavy footstep motion (~2.5s).
+Frame 4: Trunk rises dramatically, water droplets spray outward (~2.5s).
+Frame 5: "E" pulses 3 times in orange. Trunk touches letter. Water sparkles (~3s).
+Frame 6: Talo waves both arms, elefante sways head happily (~3s).
+Particles: Water droplets frames 4-5, golden sparkles frame 6.
+Duration: 15 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-## PROMPTS SEEDANCE 2 (Videos)
+### GRID 5 — Chorus 2 (~12s)
 
-### Reel 1B: Talo Saltando (10s)
+**Nano Banana 2:**
 ```
-Talo character jumping excitedly in jungle setting.
-Animation: Bouncing in place, getting higher each bounce. Halfway through,
-points toward jungle with eyes wide open in wonder. Ends with spinning jump of joy.
-Motion details: Binoculars on neck bounce with movement. Yellow sparkles 
-float around Talo throughout. Background shows jungle animals peeking out.
-Style: Pixar animation, energetic, adventurous mood.
-Duration: 10 seconds. Resolution: 1080x1920. Audio: sync to song opening energy.
-```
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, progress/journey mood, letters A and E visible.
 
-### Reel 1C: Selva y Binoculares (8s)
-```
-Jungle foliage in focus with thick vines and layered vegetation.
-Binoculares (emerald green with golden rings) visible in right half of frame.
-Emerges from shadow, then catches light with shine effect.
-Animation: Vines rustle gently. First animal (bee) comes into focus in background.
-Binoculares pan slightly to reveal more jungle and animals.
-Lighting: Golden jungle light, warm tones. Particles: small sparkles around binoculars.
-Style: Adventure exploration atmosphere.
-Duration: 8 seconds. Resolution: 1080x1920.
-```
+Frame 1 (top-left): Talo walks deeper into jungle. Behind Talo: floating letters
+"A" (red) and "E" (orange) trail behind like collected treasures. Confident pose.
 
-### Reel 2B: Talo Levantando Binoculares (10s)
-```
-Talo character lifting binoculars from neck to eyes SLOWLY.
-Animation progression: Arms bent, hands holding binoculars lift upward smoothly.
-Head tilts back slightly as binoculars reach eye level. Eyes focused forward, 
-determined explorer expression. Body shows anticipation (slight lean forward).
-Background: Jungle thick and mysterious with hints of animals (bee faint outline top-left,
-elephant ear top-right, iguana on branch barely visible).
-Lighting: Golden jungle light, binoculars catch light with shine.
-Duration: 10 seconds. Resolution: 1080x1920. Style: Focus, preparation, excitement.
+Frame 2 (top-center): Jungle gets denser. More animals peek from shadows.
+Iguana tail visible in one tree. Bear ear peeking from cave entrance in distance.
+Sense of more discoveries ahead.
+
+Frame 3 (top-right): Talo looks through binoculars again. Wide jungle vista.
+Multiple paths ahead. The adventure continues. Text: "¡Con binoculares, mira bien!"
+
+Frame 4 (bottom-left): Overhead view of jungle canopy (bird's eye view).
+Talo tiny below, walking through green ocean of trees.
+Scale of the jungle shown. Vast and beautiful.
+
+Frame 5 (bottom-center): Talo pauses at jungle stream/river.
+Reflections in water, colorful fish visible. Looking across.
+Letters A and E floating nearby.
+
+Frame 6 (bottom-right): Talo crosses stream, stepping on stones.
+One foot up, balancing. Determined and playful expression.
+Jungle continues ahead. New animals in distance.
 ```
 
-### Reel 2C: POV Binoculares (8s)
+**Seedance 2:**
 ```
-Split binocular view: Two circles showing left and right perspective.
-Each circle approximately 40% of frame width, positioned LEFT and RIGHT.
-Center gap shows Talo's eyes (small, visible, excited).
-LEFT CIRCLE: Giant ABEJA (bee) with yellow/black stripes, CLEAR and large.
-RED "A" glows brightly BEHIND bee. Bee appears flying toward viewer.
-Motion lines suggest dynamic movement.
-RIGHT CIRCLE: Different jungle angle showing vines, flowers, misty background.
-Letter "A" floats visible in distance, glowing. Same jungle, different composition.
-Text overlay bottom: "¡La A está aquí!" in RED/YELLOW, glowing.
-Duration: 8 seconds. Resolution: 1080x1920. Style: Interactive, gamified discovery.
-```
-
-### Reel 3B: Abeja Volando (10s)
-```
-Giant ABEJA (bee) with vibrant yellow and black stripes flying across jungle.
-Animation: Enters from left side, flies in smooth figure-8 or swooping pattern.
-Mid-flight shows wings in motion (transparent, slight blur). RED "A" glows 
-brightly behind/around bee as it flies. At 8-second mark, bee lands on flower
-triumphantly (wings fold, satisfied expression).
-Motion: Smooth, flight-like, happy and energetic.
-Particles: Golden/yellow sparkles follow entire flight path.
-Background: Jungle foliage, warm lighting. Style: Cute, friendly bee character.
-Duration: 10 seconds. Resolution: 1080x1920. Audio sync: Match "A A A" repetition.
-```
-
-### Reel 3C: Elefante Trompa (8s)
-```
-Elefante in jungle setting, taking up center of frame.
-Animation: Trunk sprays water playfully for 2 seconds. Then trunk curls and flexes,
-showing flexibility and grace (2-5s). At 5-second mark, ORANGE "E" glows brightly
-behind elephant. Water droplets reflect light artfully, catching light effects.
-Setting: Jungle watering hole with trees and vines. Warm golden lighting creates
-inviting atmosphere. Wise, friendly elephant with kind expression.
-Mood: Playful and majestic. Style: Pixar elephant character, animation.
-Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "E E E" section.
-```
-
-### Reel 4B: Iguana Quieta (8s)
-```
-Iguana positioned on thick jungle branch, peaceful and serene.
-Animation: Iguana remains very still, one eye visible and observant (0-4s).
-Slight head turn showing curiosity (4-6s). At 6-second mark, YELLOW "I" glows
-softly behind iguana (not dramatic, calm glow). Sunlight rays break through canopy
-creating quiet, tranquil atmosphere. Scales detailed, textured. One eye blinks slowly.
-Mood: Calm, wise, observant. Peaceful energy. Style: Realistic Pixar iguana.
-Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "I I I" section.
-```
-
-### Reel 4C: Oso Durmiendo (8s)
-```
-Oso (bear) curled up sleeping peacefully in cave entrance.
-Animation: Oso sleeping, with zzz clouds floating from nose gently (0-3s).
-Slight breathing movement visible in chest (3-6s). At 6-second mark, BLUE "O"
-glows softly (calm, gentle glow, not bright). Cave entrance shows warm cozy light
-from outside. Interior cave is dark, creating contrast. Oso looks comfortable, content.
-Mood: Peaceful, cozy, restful, gentle. Style: Pixar sleeping bear character.
-Particles: Soft sleep clouds (zzz), gentle light sparkles.
-Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "O O O" section.
-```
-
-### Reel 4D: Urraca Cantando (11s)
-```
-Urraca (magpie) with iridescent black and white plumage with blue/purple highlights.
-Animation: Urraca perched on thin jungle branch (0-3s), beak closed, preparing to sing.
-At 3-second mark, beak OPENS and urraca begins SINGING joyfully (3-7s).
-Musical notes (♪♫) float around head in various colors throughout song section.
-At 7-second mark, PURPLE "U" glows brightly in celebration (7-11s).
-Background: Dawn/sunrise lighting with pink/orange hues, creating magical atmosphere.
-Mood: Celebratory, joyful, beautiful. Song-like energy. Style: Pixar songbird character.
-Duration: 11 seconds. Resolution: 1080x1920. Audio sync: Match "U U U" and culmination.
-```
-
-### Reel 5B: Montaje Todos Animales (12s)
-```
-Rapid montage of all 5 animals in quick succession, jungle setting.
-Animation: Quick cuts (2-3 seconds each) showing:
-- Abeja flying fast (2s), - Elefante trunk spray (2s), - Iguana on branch (2s),
-- Oso briefly (2s), - Urraca singing triumphantly (2s), - All 5 together (2s).
-Quick transitions between animals, building energy. Each animal appears distinct
-and recognizable. Background stays jungle-themed throughout. Warm, vibrant colors.
-Particles: Light effects, sparkles between transitions.
-Mood: Building excitement, anticipation, discovery. Style: Fast-paced Pixar montage.
-Duration: 12 seconds. Resolution: 1080x1920. Audio sync: Build to "todas" moment.
-```
-
-### Reel 5C: Todas las Vocales (10s)
-```
-All 5 vowel letters (A E I O U) glowing brightly on screen together.
-Animation: Letters appear one by one with glow effect (0-6s):
-- A glows RED, - E glows ORANGE, - I glows YELLOW, 
-- O glows BLUE, - U glows PURPLE.
-Each letter grows slightly when appearing. At 6-second mark, all 5 surround
-a bright central light. Letters pulse in celebration rhythm (6-10s).
-Jungle backdrop slightly visible, bokeh effect. Confetti-like sparkles float.
-Mood: Victory, accomplishment, celebration, brightness. Style: Celebratory glow effects.
-Duration: 10 seconds. Resolution: 1080x1920. Audio sync: Match vocal climax moment.
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo walking rhythm, letters "A" and "E" bob behind (~2s).
+Frame 2: Shadows shift, iguana tail flicks, bear ear twitches (~2s).
+Frame 3: Binoculars scan left to right, seeing jungle breadth (~2s).
+Frame 4: Slow aerial pan across canopy, wind moves treetops (~2s).
+Frame 5: Stream water ripples, fish flash in reflection (~2s).
+Frame 6: Talo hops across stones, arms out for balance, playful (~2s).
+Mood: Journey ongoing, playful energy, more to discover.
+Duration: 12 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-## INSTAGRAM STORIES (6 Templates)
+### GRID 6 — Spoken + Verso I (Iguana) (~15s)
 
-**Story 1:** Poll - "¿Cuál es tu animal favorito?"  
-**Story 2:** Tips carousel (4 slides)  
-**Story 3:** 15-sec song clip + animated text  
-**Story 4:** Open question - "¿Ya encontraste todas?"  
-**Story 5:** Testimonial/UGC - "(Name) aprendió las vocales"  
-**Story 6:** Countdown - "¡Nuevo reel en 3 días!"
-
----
-
-## INSTAGRAM CAROUSEL (4 slides)
-
-**Slide 1:** "LA SELVA Y LAS VOCALES" - title with all 5 animals  
-**Slide 2:** "A = ABEJA" + flying bee image  
-**Slide 3:** "E = ELEFANTE + I = IGUANA" split view  
-**Slide 4:** "¡Completa la serie! Link en bio" + call-to-action
-
----
-
-## WORKFLOW PARA PRODUCCIÓN
-
-### Paso 1: Generar Frames (Nano Banana 2)
-- Usa los 6 prompts de Nano Banana 2 arriba
-- Genera 1 imagen por cada sección "A" de los 6 reels
-- Total: 6 imágenes
-
-### Paso 2: Generar Videos (Seedance 2)
-- Usa los prompts de Seedance 2 arriba
-- Genera 1-3 videos por reel (según especificación)
-- Total: ~20-25 segundos de videos por reel (se trimean a 30s total)
-- Duraciones exactas: Ver secciones B, C, D en cada reel
-
-### Paso 3: Compilar en CapCut
-- Importa frames (imágenes) en CapCut
-- Importa videos (clips Seedance 2) en CapCut
-- Arma timeline según orden de secciones (A→B→C→D)
-- Agrega transiciones suaves entre clips
-- Ajusta duración de cada clip para llegar exacto a 30s
-- Sincroniza audio de fondo (canción)
-- Exporta como MP4 (1080x1920 vertical)
-
-### Paso 4: Publicar en Instagram
-- Sube Reel a Instagram
-- Agrega captions con hashtags
-- Publica Stories (templates arriba)
-- Publica Carousel (4 slides)
-
----
-
-## HASHTAGS
-
+**Nano Banana 2:**
 ```
-#LaSelvaYLasVocales #ElMundoDeTalo #Vocales 
-#AprenderJugando #CanciónEducativa #MúsicaInfantil
-#DesarrolloInfantil #ContenidoEducativo #AnimalesDelJungle
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, quiet discovery, yellow/green color accent.
+
+Frame 1 (top-left): Talo raises binoculars, looking UP at tree branches.
+Neck craned back, looking into canopy. Leaves thick above.
+Text: "¡Pongan los binoculares! ¡Viene la I!"
+
+Frame 2 (top-center): Branch close-up. Leaves and bark detail.
+Something long and green very still on the branch. Barely visible.
+A tail, maybe? Blends with leaves. Very camouflaged.
+
+Frame 3 (top-right): Iguana fully revealed on branch!
+Bright green and turquoise, eyes open, completely still.
+Sunlight falls directly on scales. Beautiful and serene.
+
+Frame 4 (bottom-left): Iguana close-up. One eye looking directly forward.
+Scales detailed. Very still but alive. Wise expression.
+Sun ray catching back. YELLOW "I" just appearing softly.
+
+Frame 5 (bottom-center): YELLOW "I" glowing warmly behind iguana.
+Iguana turns head very slowly. "I I I" letters small below.
+Serene, quiet, peaceful energy. Sunlight glow.
+
+Frame 6 (bottom-right): Talo looks up at iguana, pointing excitedly but quietly.
+Whispering celebration. Iguana looks down at Talo calmly.
+"I" still glowing. Both peaceful together.
+```
+
+**Seedance 2:**
+```
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo tilts head back slowly, binoculars pointing upward (~2s).
+Frame 2: Camera zooms gradually into branch, movement is minimal (~2.5s).
+Frame 3: Iguana "appears" as eye blinks open, very slow reveal (~2.5s).
+Frame 4: Single slow eye blink. Head turns millimeters. Very still (~3s).
+Frame 5: "I" glows softly, no sudden movements. Iguana serene (~2.5s).
+Frame 6: Talo points slowly, mouth opens in quiet "wow" (~2.5s).
+Mood: Very calm, quiet, serene. Contrast to previous clips.
+Particles: Soft sun particles, gentle light rays.
+Duration: 15 seconds. Resolution: 1080x1920.
 ```
 
 ---
 
-## CHECKLIST PRE-PUBLICACIÓN
+### GRID 7 — Spoken + Verso O (Oso) (~15s)
 
-- [ ] Todos los frames Nano Banana 2 generados (6 imágenes)
-- [ ] Todos los videos Seedance 2 generados (~20 clips)
-- [ ] Videos trimados a duraciones exactas
-- [ ] Timeline en CapCut armada y sincronizada
-- [ ] Transiciones añadidas
-- [ ] Audio sincronizado
-- [ ] Exportado como MP4 (1080x1920)
-- [ ] Captions/textos finalizados
-- [ ] Stories preparadas
-- [ ] Carousel creada
-- [ ] Horario de publicación confirmado
+**Nano Banana 2:**
+```
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, cozy discovery, blue/brown color accent.
+
+Frame 1 (top-left): Talo raises binoculars, looking toward rocky hillside.
+A dark cave entrance visible in the distance, partially covered by vines.
+Text: "¡Pongan los binoculares! ¡Viene la O!"
+
+Frame 2 (top-center): Cave entrance closer. Vines hanging over entrance.
+Darkness inside but warm brown fur barely visible in shadow.
+Very dark inside, mysterious but not scary.
+
+Frame 3 (top-right): Inside cave. Oso (bear) fully visible, curled up sleeping.
+Brown fur, rounded and large. Peaceful expression. Completely at rest.
+Cave walls mossy. Warm dim light from entrance.
+
+Frame 4 (bottom-left): Oso close-up. Face in sleep, gentle expression.
+Small "zzz" clouds floating from nose. Soft rise and fall of chest breathing.
+BLUE "O" appearing faintly behind.
+
+Frame 5 (bottom-center): BLUE "O" glowing softly. Oso still sleeping.
+"zzz" clouds drift upward. "O O O" text small and soft.
+The most peaceful frame of all. Cozy and warm.
+
+Frame 6 (bottom-right): Talo at cave entrance, finger on lips (¡Shhh!).
+Smiling gently at sleeping bear. Tiptoe posture. Quiet laughter expression.
+"O" still glowing inside cave behind oso.
+```
+
+**Seedance 2:**
+```
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo walks toward hillside, binoculars scanning (~2s).
+Frame 2: Camera slowly approaches cave entrance, vines sway gently (~2s).
+Frame 3: Eyes adjust to cave interior, oso comes into view gradually (~2.5s).
+Frame 4: Chest rises and falls with breathing, zzz floats upward (~3s).
+Frame 5: "O" pulses very softly 3 times. No sudden movements (~3s).
+Frame 6: Talo tiptoes into frame, exaggerated quiet steps, big grin (~2.5s).
+Mood: Peaceful, cozy, gentle. Slowest clip in the video.
+Sounds: Soft snoring suggestion, gentle ambiance.
+Duration: 15 seconds. Resolution: 1080x1920.
+```
 
 ---
 
-## PRÓXIMOS PASOS
+### GRID 8 — Chorus 3 (~12s)
 
-1. **Hoy:** Genera frames con Nano Banana 2 (6 imágenes, aprox. 30 min)
-2. **Hoy/Mañana:** Genera videos con Seedance 2 (20+ clips, aprox. 1-2 horas)
-3. **Mañana:** Compila todo en CapCut (aprox. 1-2 horas por reel)
-4. **Semana próxima:** Publica en Instagram (6 reels + stories + carousel)
+**Nano Banana 2:**
+```
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, accumulation of animals and letters, building energy.
+
+Frame 1 (top-left): Talo in jungle clearing. Behind: 4 floating letters
+"A" (red), "E" (orange), "I" (yellow), "O" (blue) orbiting slowly.
+Happy, accomplished expression. One more to find!
+
+Frame 2 (top-center): Abeja flies in from left, sits near letter A.
+Elefante visible in background near letter E. All coexisting.
+Lively scene, many elements.
+
+Frame 3 (top-right): Iguana on a branch nearby. Oso peeking from cave entrance.
+All 4 animals visible in one frame. Jungle full of life.
+Letters float near each animal.
+
+Frame 4 (bottom-left): Talo with binoculars raised again. Looking UP this time.
+"¡Una vocal te espera también!" on frame. The 5th is near.
+Letters A E I O trailing behind Talo.
+
+Frame 5 (bottom-center): Dawn/sunrise breaking through jungle.
+Beautiful golden and pink light. All animals bathed in golden hour.
+Talo tiny in center, surrounded by friends. Almost complete.
+
+Frame 6 (bottom-right): Wide jungle vista at golden hour.
+All 4 animals visible, letters glowing, Talo in center.
+The urraca silhouette just barely visible on distant branch.
+One more to find.
+```
+
+**Seedance 2:**
+```
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Letters orbit Talo slowly, Talo looks around proudly (~2s).
+Frame 2: Abeja flies in with wing animation, lands near A (~2s).
+Frame 3: Iguana head turns, oso peeks, all animals alive together (~2s).
+Frame 4: Talo raises binoculars eagerly, leans forward with excitement (~2s).
+Frame 5: Light intensifies, golden particles drift down through light (~2s).
+Frame 6: Very slight camera pull-back revealing urraca silhouette (~2s).
+Mood: Anticipation, warmth, near completion.
+Duration: 12 seconds. Resolution: 1080x1920.
+```
 
 ---
 
-**¿Listo para generar los frames?** Empieza con los 6 prompts de Nano Banana 2 arriba.
+### GRID 9 — Spoken + Verso U (Urraca) (~15s)
+
+**Nano Banana 2:**
+```
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, dawn/sunrise, purple/iridescent color accent.
+
+Frame 1 (top-left): Talo raises binoculars, looking high into tall trees.
+Dawn light breaking. Beautiful sky visible through canopy.
+Text: "¡La última! ¡Pongan los binoculares! ¡Viene la U!"
+
+Frame 2 (top-center): High branch near canopy. Dawn sky behind.
+Silhouette of a bird just barely visible. Black and white shapes.
+Anticipation. The last animal.
+
+Frame 3 (top-right): Urraca (magpie) fully revealed!
+Iridescent black, white, with blue/purple highlights catching the dawn light.
+Perched gracefully. Eyes bright. Beautiful plumage catching light.
+
+Frame 4 (bottom-left): Urraca opens beak. About to sing.
+Head tilted back slightly. Wings spread for balance.
+Dawn sky behind. PURPLE "U" starting to appear.
+
+Frame 5 (bottom-center): Urraca mid-song! Beak wide open.
+Musical notes ♪♫ floating all around in multiple colors.
+PURPLE "U" glowing brilliantly. "U U U" below in purple, bold.
+Most beautiful, magical frame of all.
+
+Frame 6 (bottom-right): Talo, eyes closed in joy, listening to urraca's song.
+All 5 letters (A E I O U) floating around Talo and urraca.
+Dawn light. Pure happiness. All vocales found.
+```
+
+**Seedance 2:**
+```
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Talo's binoculars tilt slowly upward to the canopy (~2s).
+Frame 2: Silhouette shifts, feathers catch light, detail emerging (~2.5s).
+Frame 3: Dawn light sweeps across urraca's plumage, iridescent shimmer (~2.5s).
+Frame 4: Beak opens slowly, breath visible in morning air (~2.5s).
+Frame 5: Song begins! Notes burst outward, "U" explodes with light. Magical (~3.5s).
+Frame 6: All 5 letters orbit slowly, Talo sways with eyes closed, peaceful (~2s).
+Particles: Musical notes, dawn light rays, purple sparkles.
+Mood: The most magical, emotional moment of the video. Dawn light.
+Duration: 15 seconds. Resolution: 1080x1920.
+```
+
+---
+
+### GRID 10 — Final + Celebración ("A E I O U, las cinco encontré yo") (~20s)
+
+**Nano Banana 2:**
+```
+Create a 3x2 grid image (3 columns, 2 rows = 6 equal frames).
+Total resolution: 1080x1920. Each frame: 360x960.
+Consistent style: Pixar jungle, grand finale, ALL colors, maximum celebration.
+
+Frame 1 (top-left): Grand jungle clearing. All 5 animals together:
+Abeja flying, Elefante standing, Iguana on branch above, Oso sitting, Urraca on branch.
+All looking toward Talo in center. Warm golden light.
+
+Frame 2 (top-center): All 5 letters A E I O U in the sky above the group.
+A=Red, E=Orange, I=Yellow, O=Blue, U=Purple. All glowing brilliantly.
+Talo arms raised, looking up at letters. Triumph.
+
+Frame 3 (top-right): Close on Talo's face. Pure joy. Eyes sparkling.
+Mouth open in the biggest smile. The full accomplishment moment.
+Letters reflecting in Talo's eyes.
+
+Frame 4 (bottom-left): Confetti and sparkles EVERYWHERE. All colors.
+Animals celebrating in their own ways:
+Abeja spins, Elefante trunk up, Urraca sings, Iguana nods, Oso waves paw.
+
+Frame 5 (bottom-center): Talo spins in center, arms out.
+All animals and all letters orbiting Talo. Grand circular composition.
+Sun rays, particles, pure magic. The happiest frame.
+
+Frame 6 (bottom-right): Final frame. Talo and all animals posed together.
+Letters A E I O U arranged above them like a title.
+Text: "¡Con Talo las hallé!" at bottom in gold.
+Like the final poster/thumbnail of the video.
+```
+
+**Seedance 2:**
+```
+Animate 3x2 grid panning frames 1→2→3→4→5→6.
+Frame 1: Animals move toward center, walking/flying in. Grand gathering (~3s).
+Frame 2: Letters descend from above one by one: A, E, I, O, U. Each glows on arrival (~3.5s).
+Frame 3: Zoom slowly into Talo's joyful face. Expression full of life (~2.5s).
+Frame 4: Confetti BURST from center outward. Animals all react simultaneously (~3s).
+Frame 5: Slow spin around the group (camera rotation). Everything glowing (~4s).
+Frame 6: Camera pulls back to reveal full composition. Hold for 4 seconds (~4s).
+Particles: Maximum confetti in all 5 colors, golden light rays, sparkles.
+Mood: MAXIMUM JOY. Grand, triumphant, memorable ending.
+Duration: 20 seconds. Resolution: 1080x1920.
+```
+
+---
+
+## CARPETAS
+
+```
+talo-vocales/
+├── frames/     ← Guarda aquí los 10 GRIDs generados con Nano Banana 2
+│               → grid-01.png, grid-02.png ... grid-10.png
+├── clips/      ← Guarda aquí los 10 clips generados con Seedance 2
+│               → clip-01.mp4, clip-02.mp4 ... clip-10.mp4
+└── audio/      ← Guarda aquí el audio de la canción
+                → vocales.mp3
+```
+
+---
+
+## ENSAMBLAJE EN CAPCUT
+
+Una vez tengas los 10 clips y el audio:
+
+1. Importa `clip-01.mp4` → `clip-10.mp4` en orden
+2. Ajusta duración de cada clip según tabla de estructura
+3. Agrega transiciones suaves entre clips (crossfade 0.5s)
+4. Importa `vocales.mp3` y sincroniza con el inicio
+5. Exporta como MP4 (1080x1920, 30fps)
+
+**Resultado:** Video musical completo de ~3 minutos listo.
