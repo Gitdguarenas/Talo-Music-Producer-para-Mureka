@@ -63,11 +63,14 @@ explorer stance. Looking into jungle depth. Ready for discovery.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Use pan/crop/zoom to show each frame sequentially: 1→2→3→4→5→6.
-Spend ~1.5-2s per frame. Smooth transitions (fade/pan between frames).
-Frame-by-frame progression creates fluid narrative of Talo discovering binoculars.
-Duration: 10 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo entering jungle, discovering,
+reaching for binoculars, lifting them, binoculars at eyes, ready to explore.
+
+Generate a fluid 10-second video animation based on this visual narrative.
+Show Talo's journey: entering jungle → discovering binoculars → preparing to look.
+Create smooth, continuous motion and transitions. Build excitement and anticipation.
+Don't display the grid itself - generate new animated content that follows the story.
+Output: 16:9 landscape video with Pixar jungle style, warm colors.
 ```
 
 ---
@@ -101,11 +104,15 @@ grand around. Sunlight beams, vibrant greens. Adventure fully underway.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom to show frames sequentially: 1→2→3→4→5→6.
-Spend ~2s per frame. Smooth transitions (fade/pan).
-Energy: High and playful. Frames progress through jungle exploration.
-Duration: 12 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo walking confident → jungle canopy
+close-up → Talo beckoning viewer → path diverges → discovery hints → grand clearing.
+
+Generate a fluid 12-second video animation based on this visual narrative.
+Show Talo's exploration journey: walking → looking up → inviting → choosing path →
+sensing discovery → arriving at clearing. Create energetic, playful motion.
+Build exploratory excitement. Smooth continuous transitions throughout.
+Don't display the grid itself - generate new animated content that tells this adventure.
+Output: 16:9 landscape video with Pixar jungle style, high energy.
 ```
 
 ---
@@ -139,12 +146,16 @@ shoulder, both celebrating. "A" still glowing in background. Pure joy.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~2s, Frame 2 ~2s, Frame 3 ~2.5s, Frame 4 ~2.5s,
-Frame 5 ~3s (letter A pulsing), Frame 6 ~3s (celebration).
-Mood: Discovery, joy, triumph. Particles: Pollen and sparkles.
-Duration: 15 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo hushing/waiting → POV binoculars
+view → Abeja appears → Abeja with glowing A → A pulses with orbiting bee → Talo and
+Abeja celebrating.
+
+Generate a fluid 15-second video animation based on this visual narrative.
+Show the discovery moment: building anticipation → mysterious reveal through binoculars →
+beautiful bee entry → magical letter A appears and glows → joyful celebration with Talo.
+Create magical, celebratory mood. Sparkles and pollen particles. Joy and triumph energy.
+Don't display the grid itself - generate new animated content that tells this discovery.
+Output: 16:9 landscape video with Pixar jungle style, yellow/red color accent.
 ```
 
 ---
@@ -180,12 +191,16 @@ Warm light, joyful.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~2s, Frame 2 ~2s, Frame 3 ~2.5s, Frame 4 ~2.5s,
-Frame 5 ~3s (letter E pulsing, water droplets), Frame 6 ~3s (celebration).
-Mood: Discovery, playful, warm. Particles: Water droplets, golden sparkles.
-Duration: 15 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo scanning with binoculars →
+blurry huge silhouette in binoculars view → Elefante emerges → Elefante raises trunk →
+trunk touching glowing orange E → Talo and Elefante celebrating together.
+
+Generate a fluid 15-second video animation based on this visual narrative.
+Show the discovery moment: searching → mysterious size hint → grand elephant entry →
+playful trunk raising → magical letter E appears and glows → warm celebration between
+Talo and Elefante. Create playful, joyful mood. Water droplets and golden sparkles.
+Smooth friendly energy. Don't display the grid itself - generate new animated content.
+Output: 16:9 landscape video with Pixar jungle style, orange/gray color accent.
 ```
 
 ---
@@ -219,12 +234,16 @@ Determined and playful. Jungle continues ahead. New animals in distance.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: ~2s per frame (12s total). Smooth transitions.
-Mood: Journey ongoing, playful energy, progress shown by collected letters A and E.
-Particles: Fish ripples in water frame 5. Gentle movement throughout.
-Duration: 12 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo walking with collected letters →
+denser jungle with animal hints → Talo with binoculars → bird's eye jungle view →
+Talo at stream with fish → Talo crossing on stones.
+
+Generate a fluid 12-second video animation based on this visual narrative.
+Show the journey progression: walking forward collecting achievements → jungle deepens →
+exploring with tools → vast perspective revealed → peaceful water moment → adventurous
+crossing. Create playful journey energy. Collected letters A and E visible. Fish ripples
+and gentle movement. Don't display the grid itself - generate new animated content.
+Output: 16:9 landscape video with Pixar jungle style, progress and discovery mood.
 ```
 
 ---
@@ -259,13 +278,17 @@ Both peaceful together.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~2s, Frame 2 ~2.5s, Frame 3 ~2.5s, Frame 4 ~3s,
-Frame 5 ~2.5s (soft glow), Frame 6 ~2.5s (quiet celebration).
-Mood: Very calm, quiet, serene. Contrast to energetic earlier clips.
-Particles: Soft sun particles, gentle light rays.
-Duration: 15 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo looking up with binoculars →
+branch close-up with camouflaged tail → Iguana revealed → Iguana close-up → yellow I
+glowing → Talo pointing quietly at Iguana.
+
+Generate a fluid 15-second video animation based on this visual narrative.
+Show the quiet discovery: looking upward → mystery building on branch → beautiful iguana
+reveal → peaceful close observation → magical yellow I glows softly → gentle celebration
+between Talo and Iguana. Create very calm, quiet, serene mood. Soft sun particles and
+gentle light rays. Slowest, most peaceful clip. Contrast with earlier energy.
+Don't display the grid itself - generate new animated content.
+Output: 16:9 landscape video with Pixar jungle style, yellow/green accent, serene.
 ```
 
 ---
@@ -300,13 +323,16 @@ gently at sleeping bear. Tiptoe posture. Quiet laughter. "O" glowing behind oso.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~2s, Frame 2 ~2s, Frame 3 ~2.5s, Frame 4 ~3s,
-Frame 5 ~3s (soft pulsing O), Frame 6 ~2.5s (quiet steps).
-Mood: Peaceful, cozy, gentle. Slowest clip. Contrast builds emotional variety.
-Particles: Soft "zzz" clouds, dim light glow.
-Duration: 15 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo scanning hillside with binoculars →
+cave entrance with vines → sleeping Oso inside cave → Oso close-up sleeping → blue O
+glowing softly → Talo tiptoing at entrance with quiet celebration.
+
+Generate a fluid 15-second video animation based on this visual narrative.
+Show the quiet discovery: approaching hillside → cave entrance revealed → entering into
+warmth → peaceful sleeping bear observed → magical blue O glows softly → gentle celebration
+without waking. Create peaceful, cozy, gentle mood. Soft "zzz" clouds. Dim cave lighting.
+Most serene clip - emotional contrast to previous sections. Don't display the grid itself -
+generate new animated content. Output: 16:9 landscape video with Pixar style, blue/brown.
 ```
 
 ---
@@ -340,14 +366,17 @@ letters glowing. Talo in center. Urraca silhouette barely visible on distant bra
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: ~2s per frame (12s total). Smooth transitions.
-Frame 1: Letters orbit, Talo looks around proudly.
-Frame 5: Light intensifies, golden hour particles drift down.
-Frame 6: Slight reveal of urraca silhouette.
-Mood: Anticipation, warmth, near completion. Energy building.
-Duration: 12 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo in clearing with 4 collected letters
+orbiting → Abeja joins near A → all 4 animals visible together → Talo with binoculars
+looking up → sunrise/golden hour light → wide vista with urraca silhouette barely visible.
+
+Generate a fluid 12-second video animation based on this visual narrative.
+Show the accumulation moment: collecting achievements with 4 letters orbiting → animals
+arriving together → jungle full of life → Talo searching for the final animal → dawn
+breaking with golden hour light → urraca appearing in distance. Create anticipation,
+warmth, near-completion energy. Build excitement toward finale. Letters visible orbiting.
+Don't display the grid itself - generate new animated content.
+Output: 16:9 landscape video with Pixar style, golden hour mood, building energy.
 ```
 
 ---
@@ -383,13 +412,18 @@ Pure happiness. All vocales found.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~2s, Frame 2 ~2.5s, Frame 3 ~2.5s, Frame 4 ~2.5s,
-Frame 5 ~3.5s (magical moment, notes burst, U glows), Frame 6 ~2s.
-Mood: Most magical, emotional moment. Dawn light throughout. Pure magic.
-Particles: Musical notes, dawn light rays, purple sparkles, iridescent shimmer.
-Duration: 15 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: Talo looking high with binoculars →
+silhouette bird on branch at dawn → Urraca revealed iridescent → Urraca opens beak →
+Urraca singing with floating notes and glowing purple U → Talo and Urraca together
+with all 5 letters circling.
+
+Generate a fluid 15-second video animation based on this visual narrative.
+Show the magical climax: searching upward → mysterious silhouette → beautiful Urraca
+reveal with iridescent colors → beak opens in song → magical purple U glows, musical
+notes burst outward → joyful moment with all 5 letters appearing. Create the most magical,
+emotional moment. Dawn light throughout. Musical energy. Purple sparkles and iridescent
+shimmer. Don't display the grid itself - generate new animated content.
+Output: 16:9 landscape video with Pixar style, purple/iridescent, dawn light, magical.
 ```
 
 ---
@@ -428,14 +462,18 @@ in gold at bottom. Final poster moment.
 
 **Seedance 2:**
 ```
-Input: 1 grid image showing 6 frames in 3x2 layout, all visible.
-Animation: Pan/crop/zoom frames sequentially: 1→2→3→4→5→6.
-Timing: Frame 1 ~3s (gathering), Frame 2 ~3.5s (letters descend),
-Frame 3 ~2.5s (joy close-up), Frame 4 ~3s (confetti burst), Frame 5 ~4s (spin),
-Frame 6 ~4s (final hold and celebration).
-Mood: MAXIMUM JOY. Grand, triumphant, memorable. Epilogue of achievement.
-Particles: Maximum confetti all colors, golden light rays, celebration sparkles.
-Duration: 20 seconds. Output: 16:9 landscape video.
+Reference: Grid image showing 6 story moments: All 5 animals gathered with Talo →
+5 glowing letters descending from above → Talo's face of pure joy → confetti everywhere
+with celebrating animals → Talo spinning with animals and letters orbiting → final posed
+group with all 5 letters as title and "¡Con Talo las hallé!" text.
+
+Generate a fluid 20-second video animation based on this visual narrative.
+Show the grand finale: all animals arriving and gathering → magical letters A E I O U
+descending one by one → Talo's joyful face in close-up → explosion of confetti and
+celebration → spinning triumphant moment with everything glowing → final posed group
+with full achievement. Create MAXIMUM JOY. Grand, triumphant, memorable. Confetti in
+all 5 colors. Golden light rays everywhere. Celebration energy peak. Don't display
+grid - generate new animated content. Output: 16:9 landscape video, Pixar style, finale.
 ```
 
 ---
