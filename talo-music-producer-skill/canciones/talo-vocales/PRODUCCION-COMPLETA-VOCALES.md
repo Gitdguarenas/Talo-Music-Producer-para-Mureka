@@ -29,8 +29,9 @@ Guía para generar los clips del video musical completo.
 
 ## 10 GRIDS — PROMPTS
 
-Cada GRID = 1 imagen en formato **16:9 LANDSCAPE** con **6 frames en layout 3×2 visible todo en una sola imagen**.
-Nano Banana 2 genera la imagen de grid → Seedance 2 anima mostrando frames secuencialmente (1→2→3→4→5→6) para crear una historia fluida.
+Cada GRID = cuadrícula de 12 frames. Yo escribo 6 frames, tú completas los otros 6.
+Formato: 16:9 landscape, fondo off-white, bordes negros finos.
+Personaje constante: @imgTalo (mismo modelo, escala y características en todos los panels).
 
 ---
 
@@ -38,39 +39,73 @@ Nano Banana 2 genera la imagen de grid → Seedance 2 anima mostrando frames sec
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames must be visible in one shot.
-Style: Pixar jungle, warm colors, adventure mood, consistent throughout.
+AVENTURA COMIENZA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white,
+bordes negros finos; Plano general de entrada a selva con luz dorada mañanera; 
+Personaje constante: @imgTalo en borde izquierdo mirando hacia la selva; Flecha punteada 
+hacia la derecha indicando dirección de exploración; Subtítulo: A la selva, Talo va
 
-Frame 1 (top-left): Jungle entrance. Dense tropical trees, morning mist,
-golden light. Title "La Selva y Las Vocales" in bright green. Calm, inviting.
 
-Frame 2 (top-center): Talo at jungle edge. Excited expression, binoculars
-around neck, arms raised in wonder. Morning light, small figure.
+DESCUBRIMIENTO; Insignia: ●2; Plano medio de @imgTalo en posición de asombro, brazos 
+levemente elevados; Luz dorada iluminando la cara; Flecha punteada curva hacia arriba; 
+Subtítulo: ¿Qué hay allá?
 
-Frame 3 (top-right): Talo walking into jungle. Mid-stride, confident pose.
-Lush colorful path ahead. Determination and joy on face.
 
-Frame 4 (bottom-left): Talo stops, hand reaching to binoculars. Focused,
-ready expression. Dense jungle behind. About to lift them.
+ADENTRÁNDOSE; Insignia: ●3; Plano americano de @imgTalo caminando hacia el interior 
+de la selva; Vegetación colorida a ambos lados; Flecha punteada hacia adelante mostrando 
+trayectoria; Subtítulo: Avanza con confianza
 
-Frame 5 (bottom-center): Talo lifting binoculars up. Arms raising, mid-motion.
-Jungle visible in background. Anticipation in posture.
 
-Frame 6 (bottom-right): Talo with binoculars at eyes. Leaning forward,
-explorer stance. Looking into jungle depth. Ready for discovery.
+PAUSA REFLEXIVA; Insignia: ●4; Plano medio cercano de @imgTalo detenido, mano acercándose 
+a los binoculares en cuello; Expresión de enfoque; Flecha punteada corta descendente 
+hacia los binoculares; Subtítulo: Algo lo detiene
+
+
+LEVANTAMIENTO; Insignia: ●5; Plano detalle de manos y brazos levantando lentamente los 
+binoculares; Movimiento en progresión; Flecha punteada ascendente; Subtítulo: Prepara 
+los binoculares
+
+
+LISTO PARA OBSERVAR; Insignia: ●6; Plano medio de @imgTalo con binoculares en los ojos, 
+postura de explorador, cuerpo inclinado hacia adelante; Ojos atentos; Flecha punteada 
+larga hacia la profundidad de la selva; Subtítulo: Listo para descubrir
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: Talo entering jungle, discovering,
-reaching for binoculars, lifting them, binoculars at eyes, ready to explore.
+Scene: One continuous shot — Hand-held cinematic video of a warm jungle entrance bathed 
+in golden morning light, where a small adventurous character discovers binoculars and 
+prepares to explore; follow a clear and fluid sequence based on the visual guide showing 
+6 key moments of anticipation and readiness.
 
-Generate a fluid 10-second video animation based on this visual narrative.
-Show Talo's journey: entering jungle → discovering binoculars → preparing to look.
-Create smooth, continuous motion and transitions. Build excitement and anticipation.
-Don't display the grid itself - generate new animated content that follows the story.
-Output: 16:9 landscape video with Pixar jungle style, warm colors.
+Character: Use @imgTalo as the character we follow throughout the scene, maintaining its 
+appearance and scale exactly as it appears in the reference.
+
+Character Motion: Use the grid reference to follow the movement sequence exactly: show Talo 
+entering the jungle with wonder, pausing thoughtfully, reaching for binoculars, lifting them 
+slowly, and finally peering through with focused anticipation. All movements natural and 
+child-like.
+
+The scene begins at jungle entrance with @imgTalo discovering the binoculars.
+
+Direction: The character stands at the jungle's edge with warm golden light filtering through 
+the canopy above; the camera begins with a wide establishing shot and subtly pushes in as 
+the character shows discovery (eyebrows raised, eyes wide). The camera follows with a lateral 
+pan-right while the character walks deeper into the jungle, maintaining a medium shot that 
+shows the lush surroundings. As the character reaches and lifts the binoculars, the camera 
+arcs slightly to capture the full body and the moment of preparation. Finally, the camera 
+pulls in close to a medium close-up as binoculars reach the eyes, emphasizing focused 
+excitement and readiness.
+
+Overall Tone: Natural and fluid, filled with childlike wonder and growing anticipation. 
+The movements are gentle yet purposeful, conveying curiosity and readiness for adventure. 
+Warm, inviting, magical beginning energy.
+
+SoundFx: Base ambience of a tropical morning — distant bird calls, gentle leaf rustling. 
+Specific sounds: soft footsteps on jungle floor, light breathing, gentle metallic click as 
+binoculars are adjusted. Sound rhythm is natural and gentle. Optional music: soft, warm, 
+adventurous instrumental theme. End with a subtle moment of silent anticipation.
 ```
 
 ---
@@ -79,40 +114,70 @@ Output: 16:9 landscape video with Pixar jungle style, warm colors.
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames visible in one shot.
-Style: Pixar jungle, energetic, exploration mood.
+CAMINO SEGURO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, 
+bordes negros finos; Plano general de sendero en selva con luz cálida; @imgTalo caminando 
+con confianza, binoculares levantados; Vegetación colorida a ambos lados del camino; 
+Flecha punteada hacia adelante; Subtítulo: Vamos a explorar
 
-Frame 1 (top-left): Talo walking confidently down jungle path, binoculars
-raised, scanning. Path winds through tall trees, colorful plants. Energetic pose.
 
-Frame 2 (top-center): Close-up jungle canopy from below. Looking up at thick
-branches, barely visible sky. Bird silhouettes. Sense of wonder.
+CIELO VERDE; Insignia: ●2; Plano detalle del dosel de la selva visto desde abajo; Ramas 
+densas, cielo apenas visible; Siluetas de aves; Flecha punteada curva ascendente; 
+Subtítulo: El cielo verde
 
-Frame 3 (top-right): Talo turns, gesturing (beckoning to follow). Arm extended,
-big smile. Pointing deeper. Colorful jungle background stretches ahead.
 
-Frame 4 (bottom-left): Path diverges into three colorful directions. Talo at
-split, looking left and right. Animal hints barely visible in paths.
+INVITACIÓN; Insignia: ●3; Plano medio de @imgTalo girando, brazo extendido invitando, 
+sonrisa grande; Postura abierta y acogedora; Flecha punteada curva hacia un lado; 
+Subtítulo: Sígueme
 
-Frame 5 (bottom-center): Talo with binoculars focused. Through jungle depth,
-faint glowing shape (first animal hint). Golden light rays, discovery nearby.
 
-Frame 6 (bottom-right): Wide jungle clearing. Talo small in center, jungle
-grand around. Sunlight beams, vibrant greens. Adventure fully underway.
+CAMINO SE ABRE; Insignia: ●4; Plano general de sendero que se divide en tres direcciones; 
+@imgTalo en el centro mirando en diferentes direcciones; Pistas de animales sutiles en 
+cada camino; Flecha punteada triple divergente; Subtítulo: ¿Cuál elegir?
+
+
+BINOCULARES ENFOCAN; Insignia: ●5; Plano medio cercano de @imgTalo con binoculares 
+enfocados; Luz dorada entre la vegetación; Expresión de descubrimiento inminente; 
+Flecha punteada larga hacia la profundidad; Subtítulo: Algo brilla allá
+
+
+CLARO MÁGICO; Insignia: ●6; Plano general amplio de claro en la selva; Rayos de luz solar; 
+@imgTalo pequeño en el centro; Jungle grande alrededor; Energía de aventura completa; 
+Flecha punteada hacia el centro; Subtítulo: ¡La aventura comienza!
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: Talo walking confident → jungle canopy
-close-up → Talo beckoning viewer → path diverges → discovery hints → grand clearing.
+Scene: One continuous shot — Hand-held exploration video showing a confident character 
+leading the way through a vibrant jungle, encountering choices, and sensing discovery ahead; 
+the journey builds playful energy and adventure spirit.
 
-Generate a fluid 12-second video animation based on this visual narrative.
-Show Talo's exploration journey: walking → looking up → inviting → choosing path →
-sensing discovery → arriving at clearing. Create energetic, playful motion.
-Build exploratory excitement. Smooth continuous transitions throughout.
-Don't display the grid itself - generate new animated content that tells this adventure.
-Output: 16:9 landscape video with Pixar jungle style, high energy.
+Character: Use @imgTalo as the character we follow, maintaining consistent appearance and 
+scale throughout.
+
+Character Motion: Follow the grid reference to show: Talo walking confidently → looking up 
+at canopy → turning with welcoming gesture → analyzing path choices → scanning with binoculars 
+→ standing in the grand clearing. Each movement flows naturally to the next.
+
+The scene begins with Talo walking the jungle path, binoculars raised.
+
+Direction: Wide opening shot of jungle path with golden warm light; camera follows behind 
+and slightly to the side of the character as it walks confidently forward. Camera pans up 
+as the character looks toward the canopy, capturing the wonder of the jungle above. As the 
+character turns with outstretched arm to invite viewer to follow, camera arcs to capture 
+the gesture and welcoming smile in a medium shot. Camera pulls back as the path diverges, 
+showing three options and the character's contemplative stance at the center. Finally, camera 
+rises and pulls back to reveal the grand clearing with the character small but central, 
+emphasizing the vastness and beauty of the jungle.
+
+Overall Tone: High energy and playful exploration. Movements are graceful and inviting. 
+The mood builds excitement and anticipation. Natural, fluid, adventurous, joyful.
+
+SoundFx: Jungle ambience — birds chirping, leaves rustling in gentle breeze, distant animal 
+calls. Specific sounds: confident footsteps on packed earth, binoculars focusing mechanism, 
+gasps of discovery. Optional music: energetic, uplifting exploration theme. Rhythm is dynamic 
+and playful. End with moment of awe at the clearing.
 ```
 
 ---
@@ -121,41 +186,216 @@ Output: 16:9 landscape video with Pixar jungle style, high energy.
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames visible in one shot.
-Style: Pixar jungle, discovery moment, yellow/red color accent.
+SILENCIO ATENTO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, 
+bordes negros finos; Plano medio cercano de @imgTalo con dedo en los labios (gesto Shhh); 
+Ojos muy abiertos, postura inmóvil; Luz dorada difusa; Flecha punteada descendente; 
+Subtítulo: Algo viene
 
-Frame 1 (top-left): Talo with binoculars, finger to lips (¡Shhh! gesture).
-Eyes wide, very still posture. Jungle silent. "Something is nearby!"
 
-Frame 2 (top-center): Talo's POV through binoculars. Blurry distance, yellow
-shape moving between flowers. Mystery building. Text: "¡Viene la A!"
+VISTA A TRAVÉS; Insignia: ●2; Plano simulando vista through binoculares (dos círculos); 
+Distancia borrosa con forma amarilla moviéndose entre flores; Misterio aumentando; 
+Flecha punteada curva; Subtítulo: ¡Viene la A!
 
-Frame 3 (top-right): Abeja (bee) fully visible! Vibrant yellow and black stripes,
-wings spread, happy face. Flowers background. Dynamic entry with motion lines.
 
-Frame 4 (bottom-left): Abeja flying close. Detailed wings flapping. Giant RED "A"
-begins glowing above/behind bee. Bright and bold. Jungle background.
+ABEJA APARECE; Insignia: ●3; Plano detalle de Abeja vibrante (rayas amarillo y negro); 
+Alas extendidas; Cara feliz; Flores de fondo; Líneas de movimiento dinámicas; 
+Flecha punteada hacia arriba-derecha; Subtítulo: ¡La encontré!
 
-Frame 5 (bottom-center): RED "A" glowing large. Abeja orbits happily around it.
-Sparkles and pollen particles. Text: "¡A! ¡A! ¡A!" in red, bold below.
 
-Frame 6 (bottom-right): Talo arms raised in triumph! Huge smile. Abeja on
-shoulder, both celebrating. "A" still glowing in background. Pure joy.
+LETRA BRILLA; Insignia: ●4; Plano medio de Abeja volando con la letra "A" roja gigante 
+comenzando a brillar detrás; Luz mágica emanando; Brillo en expansión; 
+Flecha punteada curva alrededor de la letra; Subtítulo: A de Abeja
+
+
+A DANZA; Insignia: ●5; Plano medio de letra "A" en rojo brillante completo; Abeja orbita 
+feliz alrededor; Partículas de polen y sparkles; Música visual; Flecha punteada circular; 
+Subtítulo: ¡A! ¡A! ¡A!
+
+
+CELEBRACIÓN; Insignia: ●6; Plano medio de @imgTalo brazos levantados en triunfo; Sonrisa 
+gigante; Abeja en su hombro; Ambos celebrando; "A" aún brillando al fondo; Pura alegría; 
+Flecha punteada hacia arriba; Subtítulo: ¡La encontramos ya!
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: Talo hushing/waiting → POV binoculars
-view → Abeja appears → Abeja with glowing A → A pulses with orbiting bee → Talo and
-Abeja celebrating.
+Scene: One continuous shot — Intimate discovery video showing a character finding and 
+celebrating the first magical letter; the moment builds from quiet anticipation to explosive 
+joy and magical revelation.
 
-Generate a fluid 15-second video animation based on this visual narrative.
-Show the discovery moment: building anticipation → mysterious reveal through binoculars →
-beautiful bee entry → magical letter A appears and glows → joyful celebration with Talo.
-Create magical, celebratory mood. Sparkles and pollen particles. Joy and triumph energy.
-Don't display the grid itself - generate new animated content that tells this discovery.
-Output: 16:9 landscape video with Pixar jungle style, yellow/red color accent.
+Character: Use @imgTalo as the character, maintaining consistent scale and appearance 
+throughout.
+
+Character Motion: Follow the grid reference: hushed anticipation → looking through binoculars 
+→ witnessing bee arrival → celebrating with raised arms → interacting with the glowing A. 
+Movements transition from cautious to joyful.
+
+The scene begins with Talo in quiet anticipation, listening intently.
+
+Direction: Camera opens with close-up of character's face showing wonder and quiet attention, 
+finger raised to lips. Camera pulls back slightly as the character lifts binoculars (use 
+close-up of hands and binoculars). Cut to a medium shot simulating binocular view (soft 
+bokeh, circular framing) showing the bee approaching. Camera widens to medium shot as the 
+bee enters fully visible, showing the character's expression shifting to amazement. As the 
+red "A" appears and begins to glow, camera pulls back to show both the bee and the letter, 
+framing them together. Finally, camera returns to medium close-up of character's face and 
+raised arms in celebration, with the glowing letter visible in background.
+
+Overall Tone: The progression from quiet tension to explosive joy. Magical, celebratory, 
+triumphant. Movements are expressive and full of childlike wonder. Warm colors dominate. 
+Sense of achievement and magical discovery.
+
+SoundFx: Base ambience of jungle silence with distant ambient sounds. Specific sounds: breath 
+held in anticipation, gasps of discovery, bee wing sounds, magical sparkle tones as the A 
+glows. Celebratory sounds: joyful exclamations, clapping, delighted laughter. Musical accent: 
+triumphant note at the moment of letter revelation. End with magical sparkle fade.
+```
+
+---
+
+### GRID 4 — Spoken + Verso E (Elefante) (~15s)
+
+**Nano Banana 2:**
+```
+BÚSQUEDA NUEVAMENTE; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, 
+bordes negros finos; Plano medio de @imgTalo levantando los binoculares nuevamente, mirando 
+hacia el lado derecho de la selva; Expresión de enfoque, cuerpo inclinado; Luz dorada; 
+Flecha punteada hacia la derecha; Subtítulo: ¡Pongan binoculares!
+
+
+SILUETA MISTERIOSA; Insignia: ●2; Plano mostrando vista through binoculares de silueta 
+gigante y borrosa (elefante); Forma gris grande parcialmente oculta por árboles; Trompa 
+apenas visible; Misterio creciente; Flecha punteada convergente; Subtítulo: ¡Viene la E!
+
+
+ELEFANTE EMERGE; Insignia: ●3; Plano general de Elefante saliendo de entre árboles; 
+Gris grande, cara amigable; Trompa colgando; Ojos bondadosos; Cuerpo completo visible; 
+Pozo de agua de fondo; Flecha punteada hacia adelante; Subtítulo: ¡Mira!
+
+
+TROMPA SUBE; Insignia: ●4; Plano medio bajo de Elefante levantando trompa ALTamente; 
+Expresión lúdica; Trompa curvada hacia arriba, gotas de agua dispersándose; Luz naranja 
+cálida; Letra "E" naranja comenzando a aparecer; Flecha punteada ascendente; 
+Subtítulo: Levanta alto
+
+
+E BRILLA; Insignia: ●5; Plano medio de letra "E" en naranja brillando grande; Trompa del 
+Elefante toca la letra juguetonamente; Gotas de agua chispeante por todas partes; 
+Partículas doradas; Flecha punteada circular; Subtítulo: ¡E! ¡E! ¡E!
+
+
+ENCUENTRO ALEGRE; Insignia: ●6; Plano general de @imgTalo saludando al Elefante; Elefante 
+mirando hacia abajo amistosamente; "E" aún brillando; Ambos celebrando; Luz cálida; 
+Atmósfera joyful; Flecha punteada de conexión; Subtítulo: Nos encontramos
+
+[COMPLETA FRAMES 7-12]
+```
+
+**Seedance 2:**
+```
+Scene: One continuous shot — Playful discovery video showing a character finding the second 
+magical letter and the graceful elephant; the moment builds with warmth and friendly energy.
+
+Character: Use @imgTalo as the character, consistent throughout.
+
+Character Motion: Follow the grid reference: scanning with binoculars → witnessing elephant 
+emergence → expressing joy and friendship → waving in greeting. Movements are warm and 
+open-hearted.
+
+The scene begins with Talo scanning the jungle with binoculars.
+
+Direction: Wide opening shot with character scanning right with binoculars (medium shot). 
+Camera pans slightly right to show the direction of gaze. Cut to binocular POV (circular 
+bokeh frame) showing the elephant's silhouette and gradual reveal. Camera pulls back to 
+medium-wide as the elephant fully emerges from the trees, showing its graceful walk and 
+kind expression. As the elephant raises its trunk, camera angles low to capture the upward 
+motion and spray of water droplets with backlighting. The orange "E" glows, camera pulls 
+back to show both character and elephant with the letter between them. Final shot shows 
+the character's warm wave and the elephant's friendly response in a medium two-shot.
+
+Overall Tone: Warm, playful, joyful. Friendly and affectionate connection between character 
+and animal. Graceful, natural movements. Orange and golden light dominates. Sense of mutual 
+recognition and friendship.
+
+SoundFx: Jungle ambience with water elements. Specific sounds: binocular focus clicks, 
+elephant footsteps (soft thuds), trunk raising and water splashing, joyful exclamations, 
+friendly greeting sounds. Water droplet impacts. Optional music: warm, friendly, playful 
+melody. Rhythm is gentle and engaging. End with satisfying splash sound.
+```
+
+---
+
+### GRID 5 — Chorus 2 (~12s)
+
+**Nano Banana 2:**
+```
+PROGRESO VISIBLE; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, 
+bordes negros finos; Plano general de @imgTalo caminando más profundo en la selva; Detrás: 
+letras "A" roja y "E" naranja flotando como tesoros recolectados; Postura confiada; 
+Luz dorada; Flecha punteada hacia adelante; Subtítulo: Vamos más profundo
+
+
+SELVA DENSA; Insignia: ●2; Plano general de selva más densa; Más animales asomando desde 
+las sombras; Cola de Iguana visible en un árbol; Oreja de Oso asomando de una cueva lejana; 
+Sentido de más descubrimientos; Flecha punteada curva; Subtítulo: Hay más amigas
+
+
+ENFOQUE PANORÁMICO; Insignia: ●3; Plano medio de @imgTalo con binoculares mirando; 
+Vista panorámica amplia de selva; Múltiples caminos adelante; Aventura continúa; 
+Flecha punteada larga hacia la distancia; Subtítulo: Con binoculares, mira bien
+
+
+PERSPECTIVA AÉREA; Insignia: ●4; Plano vista desde arriba (bird's eye) del dosel de selva; 
+@imgTalo diminuto abajo caminando a través del océano verde de árboles; Escala de la selva 
+mostrada; Vasto y hermoso; Flecha punteada descendente; Subtítulo: Mira desde arriba
+
+
+PAUSA EN EL ARROYO; Insignia: ●5; Plano general de @imgTalo en pausa junto a arroyo/río 
+en selva; Reflejos en agua; Peces coloridos visibles; Mirando hacia el otro lado; 
+Letras A y E flotando cerca; Flecha punteada atravesando el agua; Subtítulo: Agua fresca
+
+
+CRUZANDO PIEDRAS; Insignia: ●6; Plano medio de @imgTalo cruzando arroyo en piedras; 
+Un pie arriba, balanceándose; Expresión determinada y lúdica; Selva continúa adelante; 
+Nuevos animales en distancia; Flecha punteada diagonal; Subtítulo: Avanza con ritmo
+
+[COMPLETA FRAMES 7-12]
+```
+
+**Seedance 2:**
+```
+Scene: One continuous shot — Journey progression video showing a character advancing deeper 
+through the jungle, encountering more animal hints, and navigating natural obstacles; the 
+energy remains playful and exploratory.
+
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: walking forward with collected letters → observing 
+denser jungle → scanning with binoculars → reaching and crossing a stream. Movements show 
+growing confidence and playfulness.
+
+The scene begins with Talo walking deeper into the jungle.
+
+Direction: Wide establishing shot of character walking with the collected letters A and E 
+visible orbiting behind. Camera follows at a medium distance, slowly pushing in as the jungle 
+becomes denser. As animals peek from shadows, camera pans subtly to catch glimpses of iguana 
+and bear. Medium shot shows character with binoculars scanning ahead, camera arc to show 
+the vast vista. Brief aerial perspective shot (or slow pull-back) emphasizes jungle scale 
+with character tiny below. Return to medium shot as character approaches the stream, camera 
+lowers slightly. Final shots show the character approaching stones, stepping with exaggerated 
+balance (camera pulls back to show full body), then moving to the other side with a satisfied 
+expression.
+
+Overall Tone: Playful adventure continues. Movements are confident yet whimsical. Growing 
+sense of journey and discovery. Warm lighting continues. Light, exploratory energy.
+
+SoundFx: Richer jungle ambience with water elements. Specific sounds: footsteps on jungle 
+floor, water flowing, bird calls, distant animal hints (growl, rustle), water splashes as 
+stepping on stones, playful breathing. Subtle creature noises build anticipation. Optional 
+music: playful exploration theme with rhythmic beat. Pacing is adventurous. End with subtle 
+splash of final stone crossing.
 ```
 
 ---
@@ -252,43 +492,231 @@ Output: 16:9 landscape video with Pixar jungle style, progress and discovery moo
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames visible in one shot.
-Style: Pixar jungle, quiet discovery, yellow/green color accent, serene mood.
+MIRADA HACIA ARRIBA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, 
+bordes negros finos; Plano medio de @imgTalo levantando binoculares hacia arriba a ramas 
+altas; Cuello estirado hacia atrás; Hojas densas arriba; Luz solar suave; Expresión 
+intrigada; Flecha punteada hacia arriba; Subtítulo: ¡Pongan binoculares!
 
-Frame 1 (top-left): Talo raises binoculars, looking UP at tree branches.
-Neck craned back. Leaves thick above. Text: "¡Pongan binoculares! ¡Viene la I!"
 
-Frame 2 (top-center): Branch close-up, leaves and bark. Long green shape very
-still on branch, barely visible. Tail? Camouflaged. Mystery.
+RAMA MISTERIOSA; Insignia: ●2; Plano detalle de rama con hojas y corteza; Forma larga 
+verde muy quieta en la rama, apenas visible; Cola? Camuflada. Luz moteada a través del 
+follaje; Profundidad de campo; Flecha punteada descendente; Subtítulo: ¿Qué es eso?
 
-Frame 3 (top-right): Iguana fully revealed! Bright green and turquoise, eyes
-open, completely still. Sunlight on scales. Beautiful and serene.
 
-Frame 4 (bottom-left): Iguana close-up. One eye looking forward. Scales detailed.
-Very still but alive. Wise expression. Sun ray catching back. YELLOW "I" appearing.
+IGUANA REVELADA; Insignia: ●3; Plano detalle de Iguana totalmente revelada; Verde y turquesa 
+brillantes; Ojos abiertos; Completamente inmóvil; Luz solar en las escamas; Hermosa y serena; 
+Expresión sabia; Flecha punteada muy sutil hacia la derecha; Subtítulo: ¡Encontrada!
 
-Frame 5 (bottom-center): YELLOW "I" glowing warmly. Iguana turns head very slowly.
-"I I I" below. Serene, quiet, peaceful energy. Sunlight glow.
 
-Frame 6 (bottom-right): Talo looks up at iguana, pointing quietly but excitedly.
-Whispering celebration. Iguana looks down at Talo calmly. "I" glowing.
-Both peaceful together.
+OJO FIJO; Insignia: ●4; Plano close-up del ojo de Iguana mirando directamente; Escamas 
+detalladas; Muy quieta pero viva; Expresión sabia; Rayo de sol tocando la espalda; 
+Letra "I" amarilla comenzando a aparecer suavemente; Flecha punteada apenas perceptible; 
+Subtítulo: Observa con calma
+
+
+I BRILLA SUAVE; Insignia: ●5; Plano medio de letra "I" en amarillo brillando cálidamente; 
+Iguana gira cabeza muy lentamente; "I I I" texto pequeño abajo; Energía serena, tranquila, 
+pacífica; Brillo de luz solar; Partículas de polvo dorado flotando; Flecha punteada curva; 
+Subtítulo: I de Iguana
+
+
+CELEBRACIÓN SILENCIOSA; Insignia: ●6; Plano general de @imgTalo mirando hacia arriba a 
+Iguana, señalando quietamente pero con emoción; Celebración susurrada; Iguana mirando hacia 
+abajo a Talo calmadamente; "I" aún brillando; Ambos juntos en paz; Luz dorada suave; 
+Flecha punteada de conexión; Subtítulo: Nos encontramos
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: Talo looking up with binoculars →
-branch close-up with camouflaged tail → Iguana revealed → Iguana close-up → yellow I
-glowing → Talo pointing quietly at Iguana.
+Scene: One continuous shot — Serene discovery video showing a character finding a beautiful, 
+silent iguana in the canopy; the moment is peaceful, contemplative, and marked by quiet 
+mutual respect between character and animal.
 
-Generate a fluid 15-second video animation based on this visual narrative.
-Show the quiet discovery: looking upward → mystery building on branch → beautiful iguana
-reveal → peaceful close observation → magical yellow I glows softly → gentle celebration
-between Talo and Iguana. Create very calm, quiet, serene mood. Soft sun particles and
-gentle light rays. Slowest, most peaceful clip. Contrast with earlier energy.
-Don't display the grid itself - generate new animated content.
-Output: 16:9 landscape video with Pixar jungle style, yellow/green accent, serene.
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: looking upward → examining the branch → witnessing 
+the iguana → pointing quietly in recognition → silent celebration. All movements are gentle, 
+reverent, and unhurried.
+
+The scene begins with Talo looking up toward the canopy with binoculars.
+
+Direction: Close-up of character's face looking upward, eyes widened with wonder, finger 
+raised to lips (shhh gesture). Camera pulls back slowly to medium shot as character lowers 
+binoculars slightly. Subtle zoom to branch close-up, soft bokeh around camouflaged shape. 
+Camera pulls back to reveal the iguana in full medium shot, with gentle side-lighting 
+emphasizing scales. Slow push-in to close-up of the iguana's eye as character approaches 
+silently, showing mutual recognition. Camera arcs slowly around as the yellow "I" glows 
+softly behind. Final shot is a two-shot showing both character and iguana in quiet communion, 
+camera held steady, emphasizing stillness and connection.
+
+Overall Tone: Extremely calm, quiet, and serene. The slowest, most peaceful clip. Movements 
+are minimal and reverent. Sense of sacred discovery and mutual respect. Soft, gentle energy. 
+Light filtering through canopy creates magical atmosphere. Emotional and contemplative.
+
+SoundFx: Very soft jungle ambience with emphasis on silence. Specific sounds: slow, measured 
+breathing; gentle leaf rustle; soft bird chirps in distance; water dripping somewhere far 
+off; iguana's subtle scaled breathing (barely perceptible). Optional music: single sustained 
+tone or soft, ambient wind-like sound. No percussion. Very sparse, meditative soundscape. 
+End with profound silence or single nature sound.
+```
+
+---
+
+### GRID 7 — Spoken + Verso O (Oso) (~15s)
+
+**Nano Banana 2:**
+```
+HACIA LA CUEVA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes 
+negros finos; Plano general de @imgTalo levantando binoculares hacia ladera rocosa; Entrada 
+oscura de cueva visible en distancia, parcialmente cubierta de enredaderas; Luz cálida; 
+Expresión intrigada; Flecha punteada hacia la cueva; Subtítulo: ¡Viene la O!
+
+
+ENTRADA MISTERIOSA; Insignia: ●2; Plano de entrada de cueva más cercana; Enredaderas 
+colgando sobre entrada; Oscuridad dentro pero piel marrón cálida apenas visible en sombra; 
+Muy oscuro dentro, misterioso pero no asustador; Flecha punteada dentro-abajo; 
+Subtítulo: ¿Quién vive aquí?
+
+
+DENTRO DE LA CUEVA; Insignia: ●3; Plano general del interior de cueva; Oso completamente 
+visible, acurrucado durmiendo; Pelaje marrón, redondeado y grande; Expresión pacífica; 
+Completamente en reposo; Paredes de cueva musgo; Luz cálida tenue desde entrada; 
+Flecha punteada horizontal; Subtítulo: Duerme tranquilo
+
+
+ROSTRO DURMIENTE; Insignia: ●4; Plano close-up de cara de Oso en sueño; Expresión gentil; 
+Pequeñas nubes "zzz" flotando desde la nariz; Subida y bajada suave del pecho al respirar; 
+Letra "O" azul apareciendo débilmente detrás; Luz cálida difusa; Flecha punteada flotante; 
+Subtítulo: Respira profundo
+
+
+O AZUL SUAVE; Insignia: ●5; Plano medio de letra "O" en azul brillando suavemente; Oso aún 
+durmiendo; Nubes "zzz" flotando hacia arriba; Texto "O O O" pequeño y suave; El frame más 
+pacífico de todos; Acogedor y cálido; Luz cálida profunda; Flecha punteada ascendente; 
+Subtítulo: O de Oso
+
+
+SILENCIO RESPETUOSO; Insignia: ●6; Plano medio de @imgTalo en entrada de cueva, dedo en 
+los labios (gesto Shhh); Sonriendo gentilmente al oso durmiente; Postura de puntillas; 
+Risa silenciosa en expresión; "O" aún brillando dentro de cueva detrás de oso; Escena entera 
+respira paz; Flecha punteada de cuidado; Subtítulo: Dejalo dormir
+
+[COMPLETA FRAMES 7-12]
+```
+
+**Seedance 2:**
+```
+Scene: One continuous shot — Intimate discovery video showing a character quietly finding a 
+sleeping bear in a cozy cave; the moment emphasizes gentleness, protection, and respect for 
+rest.
+
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: approaching cave with binoculars → entering 
+cautiously → discovering sleeping bear → expressing quiet joy and protection → maintaining 
+respectful silence. All movements are slow, gentle, and considerate.
+
+The scene begins with Talo approaching the cave entrance with binoculars.
+
+Direction: Medium shot of character approaching hillside with binoculars, camera following 
+at a distance. Slow push-in as cave entrance comes into view, dark and mysterious. Camera 
+moves slowly into cave mouth, allowing eyes to adjust to the dim interior. Reveal the sleeping 
+bear gradually, camera holding a wide shot to show the peaceful interior. Pull-in to close-up 
+of bear's face, capturing gentle sleeping expression and the subtle rising and falling of 
+breath. As the blue "O" glows softly, camera adjusts to frame both bear and letter. Final 
+shot shows character at cave entrance with finger on lips, silhouetted against dim light, 
+peering in with protective affection, camera holding very still to emphasize quiet reverence.
+
+Overall Tone: Profoundly peaceful, gentle, and protective. The most serene and cozy clip. 
+Movements are minimal and slow. Sense of discovering something sacred and precious. Warm, 
+intimate lighting. Emotional connection and compassion. Hushed energy throughout.
+
+SoundFx: Extremely soft ambience of a quiet, warm cave. Specific sounds: soft, gentle snoring 
+(barely audible), slow rhythmic breathing of sleeping bear, cave ambient tones (air movement, 
+distant drips). Character's footsteps are extremely soft, almost silent. Optional music: none 
+or single sustained warm tone. Rhythm is slow and meditative. Profound sense of rest and 
+peace. End with satisfied exhale and gentle fade to silence.
+```
+
+---
+
+### GRID 8 — Chorus 3 (~12s)
+
+**Nano Banana 2:**
+```
+TESORO REUNIDO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes 
+negros finos; Plano general de claro en selva; @imgTalo en centro; Detrás: 4 letras 
+flotantes "A" roja, "E" naranja, "I" amarilla, "O" azul orbitando lentamente; Expresión 
+feliz, realizada; Una más por encontrar; Luz dorada cálida; Flecha punteada orbital; 
+Subtítulo: Cuatro encontradas
+
+
+PRIMER AMIGO; Insignia: ●2; Plano medio de Abeja volando desde la izquierda, se sienta 
+cerca de letra A; Elefante visible en fondo cerca de E; Todos coexistiendo; Escena vivaz, 
+muchos elementos; Luz dorada; Flecha punteada convergente; Subtítulo: Todos llegamos
+
+
+REUNIÓN COMPLETA; Insignia: ●3; Plano general de claro con Iguana en rama cercana; Oso 
+asomando desde entrada de cueva; Los 4 animales visibles en un frame; Selva llena de vida; 
+Letras flotando cerca de cada animal; Energía de celebración; Flecha punteada múltiple; 
+Subtítulo: ¡Qué familia!
+
+
+BÚSQUEDA FINAL; Insignia: ●4; Plano medio de @imgTalo con binoculares levantados HACIA 
+ARRIBA; "¡Una vocal te espera también!" en frame; La quinta está cerca; Letras A E I O 
+trayendo detrás a Talo; Anticipación creciente; Flecha punteada hacia el cielo; 
+Subtítulo: ¿Dónde está?
+
+
+AMANECER; Insignia: ●5; Plano general de amanecer/salida de sol rompiéndose através de 
+selva; Luz dorada y rosa hermosa; Todos los animales bañados en luz de hora dorada; Talo 
+diminuto en centro, rodeado de amigos; Casi completo; Luz mágica; Flecha punteada 
+ascendente; Subtítulo: Casi ahí
+
+
+QUINTA ESPERA; Insignia: ●6; Plano general amplio de vista de selva en hora dorada; 
+Los 4 animales visibles, letras brillando; Talo en centro; Silueta de Urraca apenas 
+visible en rama distante; Una más por encontrar; Energía de anticipación; Flecha punteada 
+hacia la rama; Subtítulo: ¡Una más!
+
+[COMPLETA FRAMES 7-12]
+```
+
+**Seedance 2:**
+```
+Scene: One continuous shot — Ensemble assembly video showing all four animals gathering and 
+a character sensing the fifth animal nearby; the energy builds warmth, connection, and 
+anticipation.
+
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: standing proudly with collected letters → looking 
+around at gathering animals → raising binoculars to search → showing anticipation and joy → 
+standing in awe at the dawn. Movements show confidence and hope.
+
+The scene begins with Talo in the clearing surrounded by the collected letters.
+
+Direction: Wide establishing shot showing character in center of clearing with the four 
+letters orbiting. Camera pulls back as animals begin to arrive, capturing each entrance 
+(bee flying, elephant walking, iguana nodding from branch, bear peeking from cave). 
+Medium shot as character raises binoculars upward, camera angling to show direction of gaze. 
+Camera rises and pulls back to show the grand vista of jungle in golden hour light, with 
+all elements visible in a composed, peaceful arrangement. Camera slowly pans across to show 
+the spatial relationships and the faint silhouette of the final animal on a distant branch. 
+Lighting shifts to emphasize the magical dawn quality.
+
+Overall Tone: Warmth, connection, anticipation, and hope. Movements are open and inviting. 
+Building sense of something special approaching. Golden hour magic. Community and family 
+feeling. Excitement tempered with peace.
+
+SoundFx: Rich jungle ambience with all voices present. Specific sounds: bee buzzing (present 
+but not dominant), elephant footsteps and soft trumpeting, iguana scales/movements, bear 
+gentle sounds, distant bird calls, wind through canopy. Character's breathing shows mild 
+anticipation. Optional music: warm, uplifting ensemble theme building. Rhythm is gentle but 
+forward-moving. Golden hour feeling. End with a distant, mysterious sound hinting at the 
+fifth animal.
 ```
 
 ---
@@ -385,45 +813,77 @@ Output: 16:9 landscape video with Pixar style, golden hour mood, building energy
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames visible in one shot.
-Style: Pixar jungle, dawn/sunrise, purple/iridescent color accent, magical mood.
+MIRADA AL CIELO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes 
+negros finos; Plano medio de @imgTalo levantando binoculares altamente hacia árboles altos; 
+Luz de amanecer rompiéndose; Cielo hermoso a través del dosel; Expresión de anticipación; 
+Flecha punteada hacia el cielo; Subtítulo: ¡La última! ¡Viene la U!
 
-Frame 1 (top-left): Talo raises binoculars high into tall trees. Dawn light
-breaking. Beautiful sky through canopy. Text: "¡La última! ¡Viene la U!"
 
-Frame 2 (top-center): High branch near canopy. Dawn sky. Silhouette of bird
-barely visible. Black and white shapes. Anticipation. The last animal.
+SILUETA MÁGICA; Insignia: ●2; Plano rama alta cerca del dosel; Cielo amanecer detrás; 
+Silueta de pájaro apenas visible; Formas negra y blanca; Anticipación. El último animal; 
+Luz de amanecer rosada-dorada; Bokeh suave; Flecha punteada hacia arriba; Subtítulo: ¿Dónde?
 
-Frame 3 (top-right): Urraca (magpie) fully revealed! Iridescent black, white,
-blue/purple highlights catching dawn light. Graceful, eyes bright. Beautiful plumage.
 
-Frame 4 (bottom-left): Urraca opens beak, about to sing. Head tilted back.
-Wings spread for balance. Dawn sky. PURPLE "U" starting to appear above.
+URRACA REVELADA; Insignia: ●3; Plano detalle de Urraca completamente revelada; Iridiscente 
+negro, blanco, con reflejos azul/púrpura capturando luz de amanecer; Emplumado hermoso 
+capturando luz; Encaramada gracefully; Ojos brillantes; Toda la gloria; Flecha punteada 
+diagonal; Subtítulo: ¡Está aquí!
 
-Frame 5 (bottom-center): Urraca mid-song! Beak wide open. Musical notes ♪♫
-floating in multiple colors. PURPLE "U" glowing brilliantly. "U U U" below.
-Most beautiful, magical frame.
 
-Frame 6 (bottom-right): Talo eyes closed in joy, listening to urraca's song.
-All 5 letters (A E I O U) floating around Talo and urraca. Dawn light.
-Pure happiness. All vocales found.
+BOCA ABIERTA; Insignia: ●4; Plano medio de Urraca abriendo pico, a punto de cantar; Cabeza 
+levantada levemente; Alas desplegadas para balance; Cielo amanecer detrás; Letra "U" 
+púrpura comenzando a aparecer arriba; Magia construcción; Luz iridiscente en plumas; 
+Flecha punteada ascendente; Subtítulo: Canta
+
+
+CANCIÓN MÁGICA; Insignia: ●5; Plano medio de Urraca mid-canción! Pico abierto ancho; 
+Notas musicales ♪♫ flotando en múltiples colores; Letra "U" púrpura brillando 
+brillantemente; "U U U" abajo en púrpura, bold; Frame más hermoso, mágico de todos; 
+Partículas brillando; Flecha punteada espiral musical; Subtítulo: ¡Canta la U!
+
+
+ALEGRÍA TOTAL; Insignia: ●6; Plano general de @imgTalo con ojos cerrados en alegría, 
+escuchando canción de Urraca; Todas las 5 letras (A E I O U) flotando alrededor de Talo y 
+Urraca; Luz de amanecer; Alegría pura; Todas las vocales encontradas; Colores mágicos; 
+Flecha punteada circular abrazo; Subtítulo: ¡Encontradas!
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: Talo looking high with binoculars →
-silhouette bird on branch at dawn → Urraca revealed iridescent → Urraca opens beak →
-Urraca singing with floating notes and glowing purple U → Talo and Urraca together
-with all 5 letters circling.
+Scene: One continuous shot — Magical climax video showing a character discovering the final 
+magical bird and witnessing its beautiful song; the moment is transcendent, emotional, and 
+marks the peak of wonder and joy.
 
-Generate a fluid 15-second video animation based on this visual narrative.
-Show the magical climax: searching upward → mysterious silhouette → beautiful Urraca
-reveal with iridescent colors → beak opens in song → magical purple U glows, musical
-notes burst outward → joyful moment with all 5 letters appearing. Create the most magical,
-emotional moment. Dawn light throughout. Musical energy. Purple sparkles and iridescent
-shimmer. Don't display the grid itself - generate new animated content.
-Output: 16:9 landscape video with Pixar style, purple/iridescent, dawn light, magical.
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: looking high with binoculars → witnessing silhouette 
+→ amazed at the magpie's reveal → listening in awe → expressing pure joy with eyes closed → 
+celebrating with all letters. Movements are reverent and joyful.
+
+The scene begins with Talo searching the highest canopy with binoculars.
+
+Direction: Medium shot of character looking upward with binoculars, camera subtly following 
+upward gaze. Cut to high branch with silhouette against dawn sky, bokeh effect around edges. 
+Camera pulls back to reveal the magpie in full glory, with iridescent light catching its 
+plumage (use side-lighting to emphasize colors). Close-up of magpie's head as beak begins 
+to open, character leaning forward with intense focus. As the magpie sings, camera pulls back 
+to show the full scene: character's face with eyes widening, all five letters appearing and 
+beginning to orbit (animated elements). Final shot shows character with eyes closed in 
+transport, swaying slightly, the magpie on its perch, and all five letters swirling in a 
+circle of magical light around them both.
+
+Overall Tone: The most magical, emotional, transcendent moment. Beautiful and awe-filled. 
+Movements are slow and reverent. Sense of spiritual connection and achievement. Dawn light 
+magical quality. Musical and poetic energy. Pure wonder and joy.
+
+SoundFx: Magical jungle dawn ambience. Specific sounds: binoculars focusing, magpie wings 
+fluttering (delicate), character gasps of amazement, then the magpie's song (musical, not 
+literal bird call - something otherworldly and beautiful). Floating musical note sounds (tones 
+and chimes as notes appear). Character's emotional breathing. Optional music: build to 
+triumphant, magical musical moment with orchestral swell. Peak at the song moment. Rhythm 
+is emotional and flowing. End with magical sparkle sounds and lingering musical note.
 ```
 
 ---
@@ -432,48 +892,81 @@ Output: 16:9 landscape video with Pixar style, purple/iridescent, dawn light, ma
 
 **Nano Banana 2:**
 ```
-Create ONE 16:9 landscape image showing a 3x2 grid (6 equal frames visible).
-Resolution: 1920x1080. All 6 frames visible in one shot.
-Style: Pixar jungle, GRAND FINALE, ALL COLORS, maximum celebration and joy.
+REUNIÓN MAGNA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes 
+negros finos; Plano general amplio de claro grande en selva; Todos los 5 animales juntos: 
+Abeja volando, Elefante de pie, Iguana en rama arriba, Oso sentado, Urraca en rama; 
+Todos mirando hacia Talo en centro; Luz dorada cálida; Equipo reunido; Celebración 
+construyendo; Flecha punteada convergente; Subtítulo: Todos llegaron
 
-Frame 1 (top-left): Grand jungle clearing. All 5 animals together: Abeja flying,
-Elefante standing, Iguana on branch, Oso sitting, Urraca on branch.
-All looking at Talo in center. Warm golden light. Team gathered.
 
-Frame 2 (top-center): All 5 letters A E I O U in sky above group. A=Red,
-E=Orange, I=Yellow, O=Blue, U=Purple. All glowing brilliantly. Talo arms raised,
-looking up. Triumph.
+LETRAS EN CIELO; Insignia: ●2; Plano general de todas las 5 letras A E I O U en el cielo 
+arriba del grupo; A=Rojo, E=Naranja, I=Amarillo, O=Azul, U=Púrpura; Todas brillando 
+brillantemente; @imgTalo brazos levantados mirando hacia arriba; Triunfo; Luz mágica 
+completa; Flecha punteada hacia arriba; Subtítulo: ¡Todas juntas!
 
-Frame 3 (top-right): Close on Talo's face. Pure joy, eyes sparkling. Biggest
-smile. Full accomplishment moment. Letters reflecting in eyes.
 
-Frame 4 (bottom-left): Confetti and sparkles EVERYWHERE in all colors. Animals
-celebrating: Abeja spins, Elefante trunk up, Urraca sings, Iguana nods, Oso
-waves paw. Celebration on full display.
+PURA ALEGRÍA; Insignia: ●3; Plano close-up de cara de @imgTalo; Alegría pura; Ojos 
+centelleantes; Boca abierta en la sonrisa más grande; Momento de logro completo; Letras 
+reflejadas en ojos; Luz dorada mágica; Movimiento de celebración; Flecha punteada brillante; 
+Subtítulo: ¡Lo logré!
 
-Frame 5 (bottom-center): Talo spins in center, arms out wide. All animals and
-all letters orbiting Talo. Grand circular composition. Sun rays, particles, magic.
-Happiest frame. Pure celebration.
 
-Frame 6 (bottom-right): Final frame. Talo and all animals posed together in
-triumph. Letters A E I O U arranged above like title. Text: "¡Con Talo las hallé!"
-in gold at bottom. Final poster moment.
+CONFETI EXPLOTA; Insignia: ●4; Plano general de confeti y sparkles EVERYWHERE en todos 
+los colores; Animales celebrando en sus propias maneras: Abeja gira, Elefante trompa arriba, 
+Urraca canta, Iguana asiente, Oso agita pata; Celebración en pantalla completa; Partículas 
+mágicas; Flecha punteada explosiva; Subtítulo: ¡Celebración!
+
+
+GIRO TRIUNFAL; Insignia: ●5; Plano medio de @imgTalo girando en centro, brazos abiertos 
+ancho; Todos los animales y todas las letras orbitando a Talo; Composición circular grandiosa; 
+Rayos de sol, partículas, magia pura; Frame más feliz de todos; Pura celebración; 
+Luz mágica completa; Flecha punteada espiral; Subtítulo: ¡Hacemos historia!
+
+
+POSTER FINAL; Insignia: ●6; Plano final. @imgTalo y todos los animales posados juntos en 
+triunfo; Letras A E I O U organizadas arriba como título; Texto: "¡Con Talo las hallé!" 
+en oro en la base; Como el poster final/thumbnail del video; Todos mirando hacia la cámara 
+con alegría; Luz dorada suprema; Flecha punteada hacia el frente; Subtítulo: Fin
+
+[COMPLETA FRAMES 7-12]
 ```
 
 **Seedance 2:**
 ```
-Reference: Grid image showing 6 story moments: All 5 animals gathered with Talo →
-5 glowing letters descending from above → Talo's face of pure joy → confetti everywhere
-with celebrating animals → Talo spinning with animals and letters orbiting → final posed
-group with all 5 letters as title and "¡Con Talo las hallé!" text.
+Scene: One continuous shot — Grand finale video showing all animals and letters gathered in 
+ultimate celebration; the moment is triumphant, joyful, and serves as the crescendo and 
+conclusion of the entire journey.
 
-Generate a fluid 20-second video animation based on this visual narrative.
-Show the grand finale: all animals arriving and gathering → magical letters A E I O U
-descending one by one → Talo's joyful face in close-up → explosion of confetti and
-celebration → spinning triumphant moment with everything glowing → final posed group
-with full achievement. Create MAXIMUM JOY. Grand, triumphant, memorable. Confetti in
-all 5 colors. Golden light rays everywhere. Celebration energy peak. Don't display
-grid - generate new animated content. Output: 16:9 landscape video, Pixar style, finale.
+Character: Use @imgTalo as the character, consistent scale throughout.
+
+Character Motion: Follow the grid reference: arms raised in triumph → spinning in celebration 
+→ interacting joyfully with all animals → posing with all letters → expressing maximum joy 
+and achievement. Movements are expansive, energetic, and celebratory.
+
+The scene begins with all animals gathering in the grand clearing.
+
+Direction: Wide establishing shot of the grand jungle clearing with all five animals visible 
+and approaching the center. Camera rises slightly to show the spatial arrangement. As the five 
+letters descend from above, camera pulls back to show the full scene (use animated letter 
+elements descending one by one). Close-up of character's joyful face as all letters appear, 
+eyes and smile expressing pure achievement. Camera pulls back to medium wide as confetti and 
+celebration particles burst outward (animated effects). Character begins to spin, camera 
+circles around character and animals, showing the orbital arrangement of animals and letters. 
+Final shot: camera pulls back to wide establishing shot showing the complete scene — all 
+animals, all letters, character in center, golden light, with the character facing slightly 
+toward camera with a satisfied, joyful expression that says "mission accomplished."
+
+Overall Tone: MAXIMUM JOY. Grand, triumphant, memorable, celebratory. Movements are expansive 
+and energetic. Sense of ultimate achievement and collective success. Warm, magical lighting 
+dominates. Emotional peak of entire narrative.
+
+SoundFx: Rich, full jungle soundscape with all elements present. Specific sounds: confetti 
+crackles, all five letters land with magical tones (different pitches for each color), animal 
+celebration sounds (bee buzzing excitedly, elephant trumpet joy, bird song, bear growl of 
+delight), character's joyful exclamations, clapping, triumphant laughter. Optional music: 
+ORCHESTRAL SWELL — triumphant, celebratory, uplifting theme reaching crescendo. All elements 
+building together. Rhythm is energetic and powerful. End with final magical chord and sparkle 
+cascade, then hold moment of satisfied silence or gentle fade.
 ```
 
 ---
