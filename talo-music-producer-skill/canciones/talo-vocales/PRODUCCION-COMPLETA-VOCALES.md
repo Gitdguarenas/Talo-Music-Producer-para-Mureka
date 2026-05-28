@@ -1,6 +1,6 @@
-# LA SELVA Y LAS VOCALES — Producción Completa
+# LA SELVA Y LAS VOCALES — Producción Completa para CapCut
 
-Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia de publicación.
+Guía completa con 6 reels, prompts de **Nano Banana 2** (frames) + **Seedance 2** (videos).
 
 ---
 
@@ -9,8 +9,8 @@ Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia d
 ### Reel 1: GANCHO AVENTURA (30s)
 **Secciones:**
 - A (0-3s): Título "¡A la selva!" (Nano Banana 2)
-- B (3-13s): Talo saltando emocionado (Kling 2.5, 10s)
-- C (13-21s): Selva + binoculares (Kling 2.5, 8s)
+- B (3-13s): Talo saltando emocionado (Seedance 2, 10s)
+- C (13-21s): Selva + binoculares (Seedance 2, 8s)
 - D (21-30s): CTA "Busca las vocales" (imagen + texto)
 
 ---
@@ -18,8 +18,8 @@ Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia d
 ### Reel 2: TUTORIAL BINOCULARES (30s)
 **Secciones:**
 - A (0-3s): "¿Cómo buscamos?" (Nano Banana 2)
-- B (3-13s): Talo levantando binoculares (Kling 2.5, 10s)
-- C (13-21s): POV binocular - Abeja + "A" (Kling 2.5, 8s)
+- B (3-13s): Talo levantando binoculares (Seedance 2, 10s)
+- C (13-21s): POV binocular - Abeja + "A" (Seedance 2, 8s)
 - D (21-30s): "¡La A está aquí!" (imagen + texto)
 
 ---
@@ -27,8 +27,8 @@ Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia d
 ### Reel 3: ABEJA Y ELEFANTE (30s)
 **Secciones:**
 - A (0-3s): "¡Dos vocales más!" (Nano Banana 2)
-- B (3-13s): Abeja volando (Kling 2.5, 10s)
-- C (13-21s): Elefante trompa (Kling 2.5, 8s)
+- B (3-13s): Abeja volando (Seedance 2, 10s)
+- C (13-21s): Elefante trompa (Seedance 2, 8s)
 - D (21-30s): Ambos celebrando (imagen + texto)
 
 ---
@@ -36,17 +36,17 @@ Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia d
 ### Reel 4: MONTAJE ANIMALES (30s)
 **Secciones:**
 - A (0-3s): "¡Tres más!" (Nano Banana 2)
-- B (3-11s): Iguana quieta (Kling 2.5, 8s)
-- C (11-19s): Oso durmiendo (Kling 2.5, 8s)
-- D (19-30s): Urraca cantando + celebración (Kling 2.5, 11s)
+- B (3-11s): Iguana quieta (Seedance 2, 8s)
+- C (11-19s): Oso durmiendo (Seedance 2, 8s)
+- D (19-30s): Urraca cantando + celebración (Seedance 2, 11s)
 
 ---
 
 ### Reel 5: FINALE ÉPICO (30s)
 **Secciones:**
 - A (0-3s): "¡Las cinco!" (Nano Banana 2)
-- B (3-15s): Montaje rápido todos animales (Kling 2.5, 12s)
-- C (15-25s): Todas vocales (A E I O U) brillando (Kling 2.5, 10s)
+- B (3-15s): Montaje rápido todos animales (Seedance 2, 12s)
+- C (15-25s): Todas vocales (A E I O U) brillando (Seedance 2, 10s)
 - D (25-30s): Talo celebrando (imagen)
 
 ---
@@ -54,147 +54,213 @@ Guía completa con 6 reels, prompts de Nano Banana 2 + Kling 2.5, y estrategia d
 ### Reel 6: BRAND TALO (30s)
 **Secciones:**
 - A (0-5s): Talo en selva (Nano Banana 2)
-- B (5-15s): Montaje Talo con cada animal (Kling 2.5, 10s)
-- C (15-25s): Talo enseñando niños (Kling 2.5, 10s)
+- B (5-15s): Montaje Talo con cada animal (Seedance 2, 10s)
+- C (15-25s): Talo enseñando niños (Seedance 2, 10s)
 - D (25-30s): Logo + "@elmundodetalo"
 
 ---
 
-## PROMPTS NANO BANANA 2 (Imágenes)
+## PROMPTS NANO BANANA 2 (Imágenes para CapCut)
 
 ### Reel 1A: Título "¡A la selva!"
 ```
-Jungle entrance, vibrant flowers, sunlight rays. 
-Text "¡A la selva!" in lime green with golden glow, LARGE, center-top.
-Talo silhouette bottom-right, ready to jump.
-Style: Pixar jungle, warm colors, adventure mood.
+Jungle entrance with vibrant flowers and sunlight rays breaking through canopy.
+Text "¡A la selva!" in bright lime green (#00FF00) with golden glow.
+Text positioned center-top, LARGE size, dominates image.
+Talo silhouette bottom-right corner, ready to jump, excited pose.
+Style: Pixar jungle aesthetic, warm colors, adventure mood.
+Resolution: 1080x1920.
 ```
 
 ### Reel 2A: "¿Cómo buscamos?"
 ```
-Talo centered, hand on chin (thinking pose), binoculars on neck.
-Around: Floating question marks (?), search symbols, light bulbs.
-Text "¿Cómo buscamos?" white, large, top-center.
-Background: Jungle edge, soft focus.
+Talo centered, hand on chin in thinking pose, binoculars hanging on neck.
+Floating around: Question marks (?), search symbols (🔍), light bulbs (💡).
+Text "¿Cómo buscamos?" in white, large, positioned top-center.
+Background: Jungle edge with soft focus.
+Style: Curious, educational setup.
+Resolution: 1080x1920.
 ```
 
 ### Reel 3A: "¡Dos vocales más!"
 ```
-Abeja and Elefante side-by-side, both friendly and colorful.
-Abeja: Yellow/black stripes, flying, happy.
-Elefante: Gray, trunk up, wise expression.
-Text "¡Dos vocales más!" orange/red, center, LARGE.
-Background: Jungle with depth, warm light.
+Abeja (yellow/black stripes, flying, happy) and Elefante (gray, trunk up, wise).
+Both positioned side-by-side, friendly and colorful.
+Text "¡Dos vocales más!" in orange/red, center, LARGE.
+Background: Jungle with depth, warm lighting.
+Style: Pixar character illustration.
+Resolution: 1080x1920.
 ```
 
 ### Reel 4A: "¡Tres más!"
 ```
 Iguana on branch (left), Oso sleeping in cave (center), Urraca singing (right).
-All visible, each distinctive.
+All three animals clearly visible and distinctive.
 Text "¡Tres más!" in blue/purple, center, LARGE.
-Background: Full jungle scene with all three habitat suggestions.
+Background: Full jungle scene with habitat suggestions for each animal.
+Style: Cohesive Pixar landscape.
+Resolution: 1080x1920.
 ```
 
 ### Reel 5A: "¡Las cinco!"
 ```
-All 5 animals in celebration formation, Talo in center.
-Each animal with their color-coded vocal letter glowing behind.
-A=Red, E=Orange, I=Yellow, O=Blue, U=Purple.
+All 5 animals in celebration formation. Talo in center.
+Each animal with color-coded vocal letter glowing behind:
+- A = Red, E = Orange, I = Yellow, O = Blue, U = Purple.
 Text "¡Las cinco!" in rainbow colors, top-center, EXTRA LARGE.
-Background: Jungle explosion of celebration, confetti-like effect.
+Background: Jungle celebration explosion, confetti-like effect.
+Style: Epic, celebratory Pixar scene.
+Resolution: 1080x1920.
 ```
 
 ### Reel 6A: Talo en selva
 ```
-Talo (full body, centered) standing proudly in jungle.
-Binoculars visible, happy expression, teacher-like pose.
-Around Talo: Hints of all 5 animals watching.
-Text "Aprende con Talo" in gold, bottom.
+Talo full body, standing proudly in center of jungle.
+Binoculars visible, happy teacher-like expression, confident pose.
+Around Talo: Hints of all 5 animals watching in admiration.
+Text "Aprende con Talo" in gold, bottom area.
 Background: Lush jungle, inviting, educational mood.
+Style: Pixar character as guide/teacher.
+Resolution: 1080x1920.
 ```
 
 ---
 
-## PROMPTS KLING 2.5 (Videos - Selecciona según necesites)
+## PROMPTS SEEDANCE 2 (Videos)
 
-### Hook Video - Talo Saltando (10s)
+### Reel 1B: Talo Saltando (10s)
 ```
-PROMPT: "Generate 10-second animation:
-Talo jumping excitedly in jungle. 
-- 0-3s: Bouncing in place, getting higher
-- 3-7s: Points toward jungle, eyes wide with wonder
-- 7-10s: Does spinning jump of joy
-Binoculars on neck bounce with motion.
-Particles: Yellow sparkles around Talo.
-Background animals peek out.
-Audio sync: Match song's opening energy.
-Pixar style, energetic, adventurous."
+Talo character jumping excitedly in jungle setting.
+Animation: Bouncing in place, getting higher each bounce. Halfway through,
+points toward jungle with eyes wide open in wonder. Ends with spinning jump of joy.
+Motion details: Binoculars on neck bounce with movement. Yellow sparkles 
+float around Talo throughout. Background shows jungle animals peeking out.
+Style: Pixar animation, energetic, adventurous mood.
+Duration: 10 seconds. Resolution: 1080x1920. Audio: sync to song opening energy.
 ```
 
-### Abeja Volando (10s)
+### Reel 1C: Selva y Binoculares (8s)
 ```
-PROMPT: "Generate 10-second animation:
-Giant ABEJA flying across screen.
-- 0-2s: Enters from left, yellow/black stripes clear
-- 2-5s: Flying pattern (figure-8 or swooping)
-- 5-8s: RED 'A' glows behind/around bee
-- 8-10s: Bee lands on flower, triumphant
-Motion: Smooth, flight-like, happy.
-Particles: Golden/yellow sparkles following flight.
-Audio sync: Match 'A A A' repetition in song.
-Style: Cute, friendly bee character."
+Jungle foliage in focus with thick vines and layered vegetation.
+Binoculares (emerald green with golden rings) visible in right half of frame.
+Emerges from shadow, then catches light with shine effect.
+Animation: Vines rustle gently. First animal (bee) comes into focus in background.
+Binoculares pan slightly to reveal more jungle and animals.
+Lighting: Golden jungle light, warm tones. Particles: small sparkles around binoculars.
+Style: Adventure exploration atmosphere.
+Duration: 8 seconds. Resolution: 1080x1920.
 ```
 
-### Elefante Trompa (8s)
+### Reel 2B: Talo Levantando Binoculares (10s)
 ```
-PROMPT: "Generate 8-second animation:
-Elefante in jungle, trunk movements.
-- 0-2s: Trunk sprays water playfully
-- 2-5s: Trunk curls, shows flexibility
-- 5-8s: ORANGE 'E' glows behind elephant
-Water droplets reflect light.
-Warm jungle lighting.
-Audio sync: Match 'E E E' section.
-Style: Wise, friendly elephant, playful."
-```
-
-### Iguana Quieta (8s)
-```
-PROMPT: "Generate 8-second animation:
-Iguana on branch, peaceful, serene.
-- 0-4s: Iguana still, one eye visible, observant
-- 4-6s: Slight head turn (curiosity)
-- 6-8s: YELLOW 'I' glows (peaceful, not dramatic)
-Sunlight rays, quiet atmosphere.
-Audio sync: Match 'I I I' section.
-Style: Calm, wise, serene."
+Talo character lifting binoculars from neck to eyes SLOWLY.
+Animation progression: Arms bent, hands holding binoculars lift upward smoothly.
+Head tilts back slightly as binoculars reach eye level. Eyes focused forward, 
+determined explorer expression. Body shows anticipation (slight lean forward).
+Background: Jungle thick and mysterious with hints of animals (bee faint outline top-left,
+elephant ear top-right, iguana on branch barely visible).
+Lighting: Golden jungle light, binoculars catch light with shine.
+Duration: 10 seconds. Resolution: 1080x1920. Style: Focus, preparation, excitement.
 ```
 
-### Oso Durmiendo (8s)
+### Reel 2C: POV Binoculares (8s)
 ```
-PROMPT: "Generate 8-second animation:
-Oso curled up in cave, sleeping peacefully.
-- 0-3s: Oso sleeping, zzz clouds float
-- 3-6s: Slight snore/breathing movement
-- 6-8s: BLUE 'O' glows softly (calm)
-Cave entrance, warm cozy light.
-Gentle mood.
-Audio sync: Match 'O O O' section.
-Style: Peaceful, cozy, restful."
+Split binocular view: Two circles showing left and right perspective.
+Each circle approximately 40% of frame width, positioned LEFT and RIGHT.
+Center gap shows Talo's eyes (small, visible, excited).
+LEFT CIRCLE: Giant ABEJA (bee) with yellow/black stripes, CLEAR and large.
+RED "A" glows brightly BEHIND bee. Bee appears flying toward viewer.
+Motion lines suggest dynamic movement.
+RIGHT CIRCLE: Different jungle angle showing vines, flowers, misty background.
+Letter "A" floats visible in distance, glowing. Same jungle, different composition.
+Text overlay bottom: "¡La A está aquí!" in RED/YELLOW, glowing.
+Duration: 8 seconds. Resolution: 1080x1920. Style: Interactive, gamified discovery.
 ```
 
-### Urraca Cantando (10s)
+### Reel 3B: Abeja Volando (10s)
 ```
-PROMPT: "Generate 10-second animation:
-Urraca (magpie) singing joyfully at dawn.
-- 0-3s: Urraca perched, beak closed (prepare)
-- 3-7s: Beak OPEN, singing (musical notes ♪ around)
-- 7-10s: PURPLE 'U' glows brightly (celebration!)
-Iridescent plumage, black/white/blue.
-Sunrise/dawn lighting in background.
-Musical note animations floating around.
-Audio sync: Match 'U U U' and culmination.
-Style: Celebratory, joyful, beautiful bird."
+Giant ABEJA (bee) with vibrant yellow and black stripes flying across jungle.
+Animation: Enters from left side, flies in smooth figure-8 or swooping pattern.
+Mid-flight shows wings in motion (transparent, slight blur). RED "A" glows 
+brightly behind/around bee as it flies. At 8-second mark, bee lands on flower
+triumphantly (wings fold, satisfied expression).
+Motion: Smooth, flight-like, happy and energetic.
+Particles: Golden/yellow sparkles follow entire flight path.
+Background: Jungle foliage, warm lighting. Style: Cute, friendly bee character.
+Duration: 10 seconds. Resolution: 1080x1920. Audio sync: Match "A A A" repetition.
+```
+
+### Reel 3C: Elefante Trompa (8s)
+```
+Elefante in jungle setting, taking up center of frame.
+Animation: Trunk sprays water playfully for 2 seconds. Then trunk curls and flexes,
+showing flexibility and grace (2-5s). At 5-second mark, ORANGE "E" glows brightly
+behind elephant. Water droplets reflect light artfully, catching light effects.
+Setting: Jungle watering hole with trees and vines. Warm golden lighting creates
+inviting atmosphere. Wise, friendly elephant with kind expression.
+Mood: Playful and majestic. Style: Pixar elephant character, animation.
+Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "E E E" section.
+```
+
+### Reel 4B: Iguana Quieta (8s)
+```
+Iguana positioned on thick jungle branch, peaceful and serene.
+Animation: Iguana remains very still, one eye visible and observant (0-4s).
+Slight head turn showing curiosity (4-6s). At 6-second mark, YELLOW "I" glows
+softly behind iguana (not dramatic, calm glow). Sunlight rays break through canopy
+creating quiet, tranquil atmosphere. Scales detailed, textured. One eye blinks slowly.
+Mood: Calm, wise, observant. Peaceful energy. Style: Realistic Pixar iguana.
+Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "I I I" section.
+```
+
+### Reel 4C: Oso Durmiendo (8s)
+```
+Oso (bear) curled up sleeping peacefully in cave entrance.
+Animation: Oso sleeping, with zzz clouds floating from nose gently (0-3s).
+Slight breathing movement visible in chest (3-6s). At 6-second mark, BLUE "O"
+glows softly (calm, gentle glow, not bright). Cave entrance shows warm cozy light
+from outside. Interior cave is dark, creating contrast. Oso looks comfortable, content.
+Mood: Peaceful, cozy, restful, gentle. Style: Pixar sleeping bear character.
+Particles: Soft sleep clouds (zzz), gentle light sparkles.
+Duration: 8 seconds. Resolution: 1080x1920. Audio sync: Match "O O O" section.
+```
+
+### Reel 4D: Urraca Cantando (11s)
+```
+Urraca (magpie) with iridescent black and white plumage with blue/purple highlights.
+Animation: Urraca perched on thin jungle branch (0-3s), beak closed, preparing to sing.
+At 3-second mark, beak OPENS and urraca begins SINGING joyfully (3-7s).
+Musical notes (♪♫) float around head in various colors throughout song section.
+At 7-second mark, PURPLE "U" glows brightly in celebration (7-11s).
+Background: Dawn/sunrise lighting with pink/orange hues, creating magical atmosphere.
+Mood: Celebratory, joyful, beautiful. Song-like energy. Style: Pixar songbird character.
+Duration: 11 seconds. Resolution: 1080x1920. Audio sync: Match "U U U" and culmination.
+```
+
+### Reel 5B: Montaje Todos Animales (12s)
+```
+Rapid montage of all 5 animals in quick succession, jungle setting.
+Animation: Quick cuts (2-3 seconds each) showing:
+- Abeja flying fast (2s), - Elefante trunk spray (2s), - Iguana on branch (2s),
+- Oso briefly (2s), - Urraca singing triumphantly (2s), - All 5 together (2s).
+Quick transitions between animals, building energy. Each animal appears distinct
+and recognizable. Background stays jungle-themed throughout. Warm, vibrant colors.
+Particles: Light effects, sparkles between transitions.
+Mood: Building excitement, anticipation, discovery. Style: Fast-paced Pixar montage.
+Duration: 12 seconds. Resolution: 1080x1920. Audio sync: Build to "todas" moment.
+```
+
+### Reel 5C: Todas las Vocales (10s)
+```
+All 5 vowel letters (A E I O U) glowing brightly on screen together.
+Animation: Letters appear one by one with glow effect (0-6s):
+- A glows RED, - E glows ORANGE, - I glows YELLOW, 
+- O glows BLUE, - U glows PURPLE.
+Each letter grows slightly when appearing. At 6-second mark, all 5 surround
+a bright central light. Letters pulse in celebration rhythm (6-10s).
+Jungle backdrop slightly visible, bokeh effect. Confetti-like sparkles float.
+Mood: Victory, accomplishment, celebration, brightness. Style: Celebratory glow effects.
+Duration: 10 seconds. Resolution: 1080x1920. Audio sync: Match vocal climax moment.
 ```
 
 ---
@@ -219,37 +285,69 @@ Style: Celebratory, joyful, beautiful bird."
 
 ---
 
+## WORKFLOW PARA PRODUCCIÓN
+
+### Paso 1: Generar Frames (Nano Banana 2)
+- Usa los 6 prompts de Nano Banana 2 arriba
+- Genera 1 imagen por cada sección "A" de los 6 reels
+- Total: 6 imágenes
+
+### Paso 2: Generar Videos (Seedance 2)
+- Usa los prompts de Seedance 2 arriba
+- Genera 1-3 videos por reel (según especificación)
+- Total: ~20-25 segundos de videos por reel (se trimean a 30s total)
+- Duraciones exactas: Ver secciones B, C, D en cada reel
+
+### Paso 3: Compilar en CapCut
+- Importa frames (imágenes) en CapCut
+- Importa videos (clips Seedance 2) en CapCut
+- Arma timeline según orden de secciones (A→B→C→D)
+- Agrega transiciones suaves entre clips
+- Ajusta duración de cada clip para llegar exacto a 30s
+- Sincroniza audio de fondo (canción)
+- Exporta como MP4 (1080x1920 vertical)
+
+### Paso 4: Publicar en Instagram
+- Sube Reel a Instagram
+- Agrega captions con hashtags
+- Publica Stories (templates arriba)
+- Publica Carousel (4 slides)
+
+---
+
 ## HASHTAGS
 
 ```
 #LaSelvaYLasVocales #ElMundoDeTalo #Vocales 
 #AprenderJugando #CanciónEducativa #MúsicaInfantil
-#DesarrolloInfantil #ContenidoEducativo
+#DesarrolloInfantil #ContenidoEducativo #AnimalesDelJungle
 ```
 
 ---
 
 ## CHECKLIST PRE-PUBLICACIÓN
 
-- [ ] Todos los clips Kling 2.5 generados
-- [ ] Composiciones Remotion creadas
-- [ ] Audios sincronizados
-- [ ] Renderización sin errores
+- [ ] Todos los frames Nano Banana 2 generados (6 imágenes)
+- [ ] Todos los videos Seedance 2 generados (~20 clips)
+- [ ] Videos trimados a duraciones exactas
+- [ ] Timeline en CapCut armada y sincronizada
+- [ ] Transiciones añadidas
+- [ ] Audio sincronizado
+- [ ] Exportado como MP4 (1080x1920)
 - [ ] Captions/textos finalizados
 - [ ] Stories preparadas
 - [ ] Carousel creada
-- [ ] Horarios confirmados
+- [ ] Horario de publicación confirmado
 
 ---
 
 ## PRÓXIMOS PASOS
 
-1. Lee ANALISIS-CANCION.md
-2. Genera clips con Kling 2.5 (usa prompts arriba)
-3. Crea composiciones Remotion para cada reel
-4. Renderiza 6 MP4s
-5. Publica en Instagram según schedule
+1. **Hoy:** Genera frames con Nano Banana 2 (6 imágenes, aprox. 30 min)
+2. **Hoy/Mañana:** Genera videos con Seedance 2 (20+ clips, aprox. 1-2 horas)
+3. **Mañana:** Compila todo en CapCut (aprox. 1-2 horas por reel)
+4. **Semana próxima:** Publica en Instagram (6 reels + stories + carousel)
 
 ---
 
-**¿Listo para generar los clips?** Usa los prompts arriba como guía para Kling 2.5.
+**¿Listo para generar los frames?** Empieza con los 6 prompts de Nano Banana 2 arriba.
