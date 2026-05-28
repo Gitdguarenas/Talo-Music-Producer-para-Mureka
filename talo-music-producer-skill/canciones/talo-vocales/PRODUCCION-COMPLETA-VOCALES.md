@@ -69,7 +69,35 @@ LISTO PARA OBSERVAR; Insignia: ●6; Plano medio de @imgTalo con binoculares en 
 postura de explorador, cuerpo inclinado hacia adelante; Ojos atentos; Flecha punteada 
 larga hacia la profundidad de la selva; Subtítulo: Listo para descubrir
 
-[COMPLETA FRAMES 7-12]
+
+ENFOQUE PROFUNDO; Insignia: ●7; Plano close-up de los binoculares en los ojos de @imgTalo; 
+Reflejo en los cristales mostrando la selva profunda; Expresión concentrada; Luz dorada 
+suave; Flecha punteada hacia adentro; Subtítulo: Observa atentamente
+
+
+SELVA SE ABRE; Insignia: ●8; Plano general de la selva ante @imgTalo; Dosel denso pero 
+con camino visible; Rayos de luz golden atravesando; Sense of passage y movimiento; 
+Flecha punteada hacia adelante-arriba; Subtítulo: La selva se abre
+
+
+ANTICIPACIÓN CRECIENTE; Insignia: ●9; Plano medio de @imgTalo bajando levemente los 
+binoculares, boca abierta en sorpresa silenciosa; Ojos grandes; Algo ha visto; Luz que 
+enfatiza la expresión; Flecha punteada de reacción; Subtítulo: ¡Vio algo!
+
+
+PRIMER MOVIMIENTO; Insignia: ●10; Plano de @imgTalo dando el primer paso adelante con 
+confianza; Pié delantero en movimiento; Binoculares bajados pero listos; Vegetación se 
+mueve suavemente; Flecha punteada del movimiento; Subtítulo: Da el primer paso
+
+
+PRESENCIA COMPLETA; Insignia: ●11; Plano general mostrando @imgTalo en el contexto completo 
+de la selva; Personaje pequeño pero central; Selva enorme alrededor; Contraste de escala; 
+Luz dorada envolviéndolo; Flecha punteada orbital; Subtítulo: En su elemento
+
+
+PUERTA ABIERTA; Insignia: ●12; Plano de @imgTalo llegando a un claro pequeño; Luz más 
+brillante adelante; Sensación de transición; Binoculares listos en manos; Expresión de 
+disposición; Flecha punteada hacia el claro; Subtítulo: El camino avanza
 ```
 
 **Seedance 2:**
@@ -144,7 +172,35 @@ CLARO MÁGICO; Insignia: ●6; Plano general amplio de claro en la selva; Rayos 
 @imgTalo pequeño en el centro; Jungle grande alrededor; Energía de aventura completa; 
 Flecha punteada hacia el centro; Subtítulo: ¡La aventura comienza!
 
-[COMPLETA FRAMES 7-12]
+
+RITMO DEL VIAJE; Insignia: ●7; Plano medio de @imgTalo caminando dinámicamente; Binoculares 
+moviéndose con el cuerpo; Hojas ondulando al paso; Energía kinética visible; Luz filtrándose; 
+Flecha punteada de movimiento diagonal; Subtítulo: Energía en movimiento
+
+
+VISTA EXPANSIVA; Insignia: ●8; Plano general desde punto de vista de @imgTalo mirando hacia 
+adelante; Múltiples capas de vegetación; Profundidad de campo enfatizando distancia; Rayos 
+de luz penetrando; Flecha punteada hacia la profundidad; Subtítulo: Visión clara
+
+
+BÚSQUEDA ACTIVA; Insignia: ●9; Plano detalle de @imgTalo ajustando binoculares; Movimiento 
+preciso de manos; Concentración en los ojos; Luz refleja en lentes; Expresión de enfoque; 
+Flecha punteada pequeña hacia los binoculares; Subtítulo: Afina la búsqueda
+
+
+PRIMER PRESAGIO; Insignia: ●10; Plano general de claro donde algo brilla subtilmente; 
+@imgTalo en primer plano con expresión de alerta; Destello de color en distancia; Misterio 
+construyéndose; Flecha punteada hacia el destello; Subtítulo: ¿Eso que veo?
+
+
+DECISIÓN TOMADA; Insignia: ●11; Plano medio de @imgTalo bajando los binoculares, expresión 
+de determinación; Cuerpo tenso de anticipación; Dirección clara hacia adelante; Luz 
+preparándolo para la acción; Flecha punteada hacia adelante; Subtítulo: Voy a mirar
+
+
+ENTRADA AL MISTERIO; Insignia: ●12; Plano general de @imgTalo acercándose al borde del claro; 
+Transición de luz y sombra; Vegetación se abre revelando espacio; Sentido de umbral cruzado; 
+Anticipación máxima; Flecha punteada hacia el interior del claro; Subtítulo: Se acerca
 ```
 
 **Seedance 2:**
@@ -216,7 +272,36 @@ CELEBRACIÓN; Insignia: ●6; Plano medio de @imgTalo brazos levantados en triun
 gigante; Abeja en su hombro; Ambos celebrando; "A" aún brillando al fondo; Pura alegría; 
 Flecha punteada hacia arriba; Subtítulo: ¡La encontramos ya!
 
-[COMPLETA FRAMES 7-12]
+
+DETALLES MÁGICOS; Insignia: ●7; Plano close-up de la Abeja con detalles: ojos brillantes, 
+alas translúcidas con luz solar, movimiento delicado; Flores cercanas; Partículas de luz 
+dorada flotando; Flecha punteada muy sutil; Subtítulo: Tan hermosa
+
+
+LETTER PULSA; Insignia: ●8; Plano de letra "A" roja pulsando con ritmo; Ondas de luz 
+emanando del centro; Abeja volando alrededor con movimientos circulares suaves; Fondo 
+desenfocado en colores cálidos; Flecha punteada pulsante; Subtítulo: Magia pura
+
+
+CONEXIÓN ESPECIAL; Insignia: ●9; Plano medio de @imgTalo mirando directamente a la Abeja; 
+Expresión de asombro y conexión; Abeja girando hacia el personaje; Reconocimiento mutuo; 
+Luz dorada envolviéndolos a ambos; Flecha punteada de encuentro; Subtítulo: Nos vemos
+
+
+ACERCAMIENTO LÚDICO; Insignia: ●10; Plano de Abeja acercándose volando hacia @imgTalo; 
+Trayectoria curva y playful; Alas aleteando rápidamente; @imgTalo sonriendo abiertamente; 
+Anticipación de contacto; Flecha punteada del acercamiento; Subtítulo: Viene hacia mí
+
+
+MOMENTO DE CONTACTO; Insignia: ●11; Plano detalle de Abeja tocando el hombro de @imgTalo; 
+Expresión de asombro en cara del personaje; Abeja posa delicadamente; Luz dorada reflejada 
+en ambos; Intimidad del momento; Flecha punteada de toque suave; Subtítulo: Nos tocamos
+
+
+VICTORIA COMPARTIDA; Insignia: ●12; Plano general mostrando @imgTalo con Abeja en hombro; 
+Letra "A" brillando detrás arriba; Ambos mirando hacia adelante con alegría; Flores 
+vibrantes alrededor; Sensación de logro compartido; Flecha punteada hacia el futuro; 
+Subtítulo: Primera aventura
 ```
 
 **Seedance 2:**
@@ -290,7 +375,38 @@ ENCUENTRO ALEGRE; Insignia: ●6; Plano general de @imgTalo saludando al Elefant
 mirando hacia abajo amistosamente; "E" aún brillando; Ambos celebrando; Luz cálida; 
 Atmósfera joyful; Flecha punteada de conexión; Subtítulo: Nos encontramos
 
-[COMPLETA FRAMES 7-12]
+
+MAJESTUOSIDAD REVELADA; Insignia: ●7; Plano general mostrando la escala completa del 
+Elefante; @imgTalo pequeño comparado con el animal; Elegancia natural; Luz enfatizando 
+tamaño; Agua reflectante abajo; Flecha punteada de proporción; Subtítulo: Tan grande
+
+
+TROMPA EN MOVIMIENTO; Insignia: ●8; Plano close-up de la trompa del Elefante levantándose; 
+Movimiento fluido y grácil; Agua formando arco; Luz solar en cada gota; Expresión del 
+Elefante serena pero juguetona; Flecha punteada del movimiento; Subtítulo: Gracia
+
+
+LETRA RESPLANDECIENTE; Insignia: ●9; Plano de letra "E" en su apogeo de brillo; Color 
+naranja intenso con reflejos dorados; Aura de luz emanando; Elefante aún jugando cerca; 
+Partículas de agua brillando en contra de la luz; Flecha punteada radial; Subtítulo: Gloria
+
+
+RECONOCIMIENTO MUTUO; Insignia: ●10; Plano medio de @imgTalo y Elefante mirándose 
+directamente; Conexión emocional clara; Trompa bajada amistosamente; Expresión de ambos 
+mostrando alegría y reconocimiento; Luz dorada uniforme; Flecha punteada de conexión; 
+Subtítulo: Amigos
+
+
+CELEBRACIÓN ACUÁTICA; Insignia: ●11; Plano de Elefante moviéndose cerca del agua con @imgTalo 
+saltando en alegría; Salpicaduras de agua creando arco iris en la luz; Movimiento dinámico; 
+Energía pura de celebración; Letra "E" reflejada en el agua; Flecha punteada de movimiento; 
+Subtítulo: ¡Juntos!
+
+
+MOMENTO PACÍFICO; Insignia: ●12; Plano general mostrando @imgTalo y Elefante en armonía; 
+Letra "E" brillando suavemente arriba; Agua tranquila; Selva de fondo; Atmósfera de paz y 
+logro; Ambos mirando hacia la cámara con satisfacción; Flecha punteada hacia adelante; 
+Subtítulo: Segunda encontrada
 ```
 
 **Seedance 2:**
@@ -361,7 +477,36 @@ CRUZANDO PIEDRAS; Insignia: ●6; Plano medio de @imgTalo cruzando arroyo en pie
 Un pie arriba, balanceándose; Expresión determinada y lúdica; Selva continúa adelante; 
 Nuevos animales en distancia; Flecha punteada diagonal; Subtítulo: Avanza con ritmo
 
-[COMPLETA FRAMES 7-12]
+
+LETRAS ORBITANDO; Insignia: ●7; Plano general mostrando @imgTalo con letras "A" y "E" 
+orbitando elegantemente alrededor; Movimiento circular suave; Luz dorada reflejada en 
+ambas letras; Posición del personaje central; Flecha punteada orbital; Subtítulo: Tesoros
+
+
+SOMBRAS Y SUSURROS; Insignia: ●8; Plano de árboles con penumbra creando siluetas; Ojos 
+de Iguana brillando en sombra; Movimiento sutil indicando presencia de animales; @imgTalo 
+en camino adelante; Misterio y anticipación; Flecha punteada de presencias; Subtítulo: Presencias
+
+
+AGUA REFLEJANTE; Insignia: ●9; Plano close-up de agua del arroyo mostrando reflejos 
+claros de cielo y árboles; Peces nativos nadando elegantemente; @imgTalo aproximándose; 
+Luz solar creando patrones; Sensación de pureza; Flecha punteada del flujo; Subtítulo: Espejo
+
+
+BALANCE EN MOVIMIENTO; Insignia: ●10; Plano detalle de los pies de @imgTalo en piedras; 
+Movimiento dinámico de balance; Cada piedra clara y estable; Agua fluyendo alrededor; 
+Determinación visible en postura; Flecha punteada del movimiento; Subtítulo: Cuidado
+
+
+SELVA ABIERTA; Insignia: ●11; Plano general mostrando @imgTalo habiendo cruzado; Claro 
+más abierto revelándose; Más luz llegando; Nuevas oportunidades de descubrimiento; 
+Energía de progreso; Flecha punteada hacia adelante; Subtítulo: Progreso
+
+
+TRANSICIÓN LUMINOSA; Insignia: ●12; Plano de @imgTalo en el borde entre agua y tierra; 
+Luz cambiando de azul-dorada a amarilla-cálida; Momento de pausa reflexiva; Dos letras 
+flotando aún cerca; Posibilidades infinitas adelante; Flecha punteada hacia la siguiente 
+aventura; Subtítulo: Sigue el viaje
 ```
 
 **Seedance 2:**
@@ -525,7 +670,35 @@ Iguana, señalando quietamente pero con emoción; Celebración susurrada; Iguana
 abajo a Talo calmadamente; "I" aún brillando; Ambos juntos en paz; Luz dorada suave; 
 Flecha punteada de conexión; Subtítulo: Nos encontramos
 
-[COMPLETA FRAMES 7-12]
+
+QUIETUD SAGRADA; Insignia: ●7; Plano general del espacio entre @imgTalo e Iguana; Silencio 
+visual palpable; Hojas apenas moviéndose; Luz solar filtrada creando patrón; Comunión 
+silenciosa entre dos seres; Sensación de respeto mutuo; Flecha punteada minimal; Subtítulo: Paz
+
+
+ESCAMAS AL DETALLE; Insignia: ●8; Plano macro de escamas de Iguana; Textura perfecta; 
+Luz solar creando iridiscencia; Colores verdes y azules naturales; Detalles anatómicos 
+precisos; Belleza en naturaleza; Flecha punteada muy sutil; Subtítulo: Perfección
+
+
+LETRA EN ARMONÍA; Insignia: ●9; Plano de letra "I" amarilla posicionada naturalmente sobre 
+la rama junto a Iguana; No intrusa sino armónica; Luz compartida; Ambos elementos en balance 
+perfecto; Simetría visual; Flecha punteada de equilibrio; Subtítulo: Armonía
+
+
+RECONOCIMIENTO PROFUNDO; Insignia: ●10; Plano medio de @imgTalo y Iguana viéndose; Conexión 
+emocional clara pero no dramatizada; Subtileza en expresiones; Luz dorada uniforme; Momento 
+contemplativo; Comprensión mutua sin palabras; Flecha punteada de comprensión; Subtítulo: Entendimiento
+
+
+MEDITACIÓN COMPARTIDA; Insignia: ●11; Plano general mostrando rama con Iguana, espacio vacío, 
+y @imgTalo abajo; Distancia física pero proximidad espiritual; Luz solar conectando ambos puntos; 
+Composición simétrica; Serenidad profunda; Flecha punteada vertical; Subtítulo: Unidos
+
+
+MOMENTO ETERNO; Insignia: ●12; Plano general del bosque con rama, Iguana y Talo; Congelado 
+en tiempo; Tercera letra encontrada resplandeciendo; Naturaleza como testigo; Luz dorada 
+envolviendo escena; Sensación de logro espiritual; Flecha punteada circular; Subtítulo: Tres encontradas
 ```
 
 **Seedance 2:**
@@ -603,7 +776,40 @@ los labios (gesto Shhh); Sonriendo gentilmente al oso durmiente; Postura de punt
 Risa silenciosa en expresión; "O" aún brillando dentro de cueva detrás de oso; Escena entera 
 respira paz; Flecha punteada de cuidado; Subtítulo: Dejalo dormir
 
-[COMPLETA FRAMES 7-12]
+
+SANTUARIO CÁLIDO; Insignia: ●7; Plano general de interior de cueva mostrando calidez; Luz 
+ámbar difusa desde entrada iluminando el espacio sagrado; Oso curled perfectly en su cama 
+natural; Protección inherente del lugar; Sensación de hogar seguro; Flecha punteada suave; 
+Subtítulo: Casa
+
+
+SUEÑOS PACÍFICOS; Insignia: ●8; Plano close-up de Oso con párpados ligeros moviéndose; 
+Sueños en progreso; Nubes "zzz" multiplicándose; Expresión de perfecta paz; Pequeña sonrisa 
+en rostro; Inocencia dorida; Flecha punteada de sueño; Subtítulo: Sueña
+
+
+PROFUNDIDAD DEL REPOSO; Insignia: ●9; Plano de Oso completamente envuelto en su propia 
+comodidad; Cuerpo redondeado como forma protectora; Cueva como extensión de sí mismo; 
+@imgTalo observando con reverencia; Intimidad del momento; Flecha punteada interna; 
+Subtítulo: Descanso profundo
+
+
+PROTECCIÓN INSTINTIVA; Insignia: ●10; Plano mostrando entrada de cueva como puerta natural; 
+@imgTalo guardando secreto desde afuera; Oso durmiente completamente seguro adentro; 
+Enredaderas como cortina protectora; Naturalmente guardado; Flecha punteada de protección; 
+Subtítulo: Guardián
+
+
+MAGIA AZUL; Insignia: ●11; Plano de letra "O" azul en su punto más luminoso; Luz azul 
+irradiando sobre cara dormida de Oso; Combinación perfecta de color y luz; Magia sutil; 
+Calidez del azul paradójico; Partículas flotando lentamente; Flecha punteada radiante; 
+Subtítulo: Encanto
+
+
+CUSTODIA DEL SUEÑO; Insignia: ●12; Plano general final mostrando @imgTalo en entrada, Oso 
+durmiendo adentro, letra "O" brillando; Composición perfecta de guardia, dormidor y magia; 
+Cuarta letra completada; Sensación de sagrada responsabilidad compartida; Flecha punteada 
+de protección mutua; Subtítulo: Cuatro encontradas
 ```
 
 **Seedance 2:**
@@ -681,7 +887,37 @@ Los 4 animales visibles, letras brillando; Talo en centro; Silueta de Urraca ape
 visible en rama distante; Una más por encontrar; Energía de anticipación; Flecha punteada 
 hacia la rama; Subtítulo: ¡Una más!
 
-[COMPLETA FRAMES 7-12]
+
+ÓRBITAS PERFECTAS; Insignia: ●7; Plano medio mostrando 4 letras en movimiento orbital; 
+Cada letra en posición diferente de su órbita; Ritmo visual establecido; @imgTalo observando 
+con admiración; Luz reflejada en cada letra; Flecha punteada orbital completa; Subtítulo: Movimiento
+
+
+CÍRCULO DE VIDA; Insignia: ●8; Plano general mostrando todos los 4 animales en relación 
+espacial alrededor de @imgTalo; Composición radial; Cada animal en elemento natural; Luz 
+dorada conectando todos; Sentido de comunidad; Flecha punteada circular; Subtítulo: Juntos
+
+
+PUNTO DE TRANSICIÓN; Insignia: ●9; Plano de @imgTalo entre anochecer y amanecer; Luz 
+cambiando de tono; Momento mágico de transición; Cielo multicolor; Animales durmiendo o 
+descansando; @imgTalo vigilante; Flecha punteada del cambio; Subtítulo: Umbral
+
+
+LLAMA DE ANTICIPACIÓN; Insignia: ●10; Plano medio de @imgTalo levantando lentamente los 
+binoculares; Movimiento medido; Concentración total; Las 4 letras flotando cercanas; Energía 
+acumulándose; Luz preparando para revelación; Flecha punteada ascendente lenta; Subtítulo: Momento
+
+
+HORIZONTE DESPLEGÁNDOSE; Insignia: ●11; Plano general amplio mostrando el horizonte 
+completo de la selva; Capas de luz: oscuridad, dorado, rosa, amarillo; @imgTalo pequeño 
+pero central; Todos los elementos en alineación perfecta; Grandiosidad épica; Flecha 
+punteada hacia infinidad; Subtítulo: Grandeza
+
+
+PRESAGIO FINAL; Insignia: ●12; Plano de rama distante donde Urraca espera; Silueta clara 
+pero aún misteriosa; Luz del amanecer/atardecer conectando rama con @imgTalo; Distancia 
+siendo cerrada; Destino aproximándose; Expectativa máxima; Flecha punteada de conexión; 
+Subtítulo: Te espero
 ```
 
 **Seedance 2:**
@@ -847,7 +1083,40 @@ escuchando canción de Urraca; Todas las 5 letras (A E I O U) flotando alrededor
 Urraca; Luz de amanecer; Alegría pura; Todas las vocales encontradas; Colores mágicos; 
 Flecha punteada circular abrazo; Subtítulo: ¡Encontradas!
 
-[COMPLETA FRAMES 7-12]
+
+IRIDISCENCIA DIVINA; Insignia: ●7; Plano close-up de plumas de Urraca; Reflejos cambiantes 
+de azul, púrpura, verde y negro; Luz solar creando arco iris; Estructura natural perfecta; 
+Belleza casi sobrenatural; Detalle macro hipnotizante; Flecha punteada de luz; 
+Subtítulo: Divino
+
+
+NOTAS MATERIALIZADAS; Insignia: ●8; Plano de notas musicales ♪♫ flotando tangiblemente; 
+Cada nota tiene color y luz; Trazando espiral en aire; @imgTalo elevando con los sonidos; 
+Sinergia de vista y sonido; Magia pura; Flecha punteada musical; Subtítulo: Visible
+
+
+COMMUNIÓN CÓSMICA; Insignia: ●9; Plano general mostrando @imgTalo, Urraca, letra "U", y 
+notas todas en armonía; Composición simétrica; Energía fluyendo entre todos los elementos; 
+Cielo amanecer como telón de fondo; Sentido de propósito cósmico; Flecha punteada de unidad; 
+Subtítulo: Unidad
+
+
+RESPIRACIÓN DEL UNIVERSO; Insignia: ●10; Plano de luz del amanecer en expansión progresiva; 
+Urraca cantando como catalizador; Todas las 5 letras brillando con intensidad creciente; 
+@imgTalo receptáculo de la magia; Momento de plenitud absoluta; Flecha punteada expansiva; 
+Subtítulo: Plenitud
+
+
+TRANSFORMACIÓN INTERIOR; Insignia: ●11; Plano de @imgTalo con ojos aún cerrados pero luz 
+interior brillando; Cara transfigurada por emoción; Conexión espiritual completa; Urraca 
+cantando en apogeo; Las 5 letras en órbita perfecta; Ascensión espiritual visible; Flecha 
+punteada interior; Subtítulo: Metamorfosis
+
+
+CONCLUSIÓN PERFECTA; Insignia: ●12; Plano general final de escena completa: rama con 
+Urraca, luz dorada, @imgTalo en tierra, todas las 5 letras brillando máximo, notas 
+musicales dispersas, atmósfera de realización total; Quinta vocal encontrada; Misión 
+cumplida; Energía cósmica visible; Flecha punteada de eternidad; Subtítulo: Perfección
 ```
 
 **Seedance 2:**
@@ -928,7 +1197,41 @@ triunfo; Letras A E I O U organizadas arriba como título; Texto: "¡Con Talo la
 en oro en la base; Como el poster final/thumbnail del video; Todos mirando hacia la cámara 
 con alegría; Luz dorada suprema; Flecha punteada hacia el frente; Subtítulo: Fin
 
-[COMPLETA FRAMES 7-12]
+
+ENERGÍA RADIANTE; Insignia: ●7; Plano general mostrando energía visible emanando del grupo; 
+Luz expandiéndose en ondas; Todos los 5 animales con energía individual visible; @imgTalo 
+como punto focal de convergencia; Magia pura en forma de partículas; Flecha punteada 
+radial explosiva; Subtítulo: Poder
+
+
+DANZA DE COLORES; Insignia: ●8; Plano de las 5 letras en movimiento ordenado; Cada una 
+orbitando a velocidad diferente; Espiral de color: rojo, naranja, amarillo, azul, púrpura; 
+Hipnotizante; Geometría sagrada visible; Flecha punteada de órbitas múltiples; 
+Subtítulo: Armonía
+
+
+REUNIÓN DE ALMAS; Insignia: ●9; Plano mostrando conexión entre @imgTalo y cada animal; 
+Líneas invisibles de luz conectando todos los puntos; Red de amor y amistad; Composición 
+de mandala; Profunda significancia emocional; Flecha punteada de conexión; Subtítulo: Conectados
+
+
+MONTAÑA DE JOY; Insignia: ●10; Plano general mostrando todos los elementos en punto 
+de máxima expresión; Energía pico; Luz en máxima intensidad; Confeti en todas direcciones; 
+Sonrisas y celebración visceral; Momento de apogeo total; Flecha punteada vertical arriba; 
+Subtítulo: Cumbre
+
+
+TESTIMONIO ETERNO; Insignia: ●11; Plano mostrando escena congelada en momento perfecto; 
+Expresiones capturadas perfectamente; Luz que sugiere eternidad; Todos los elementos en 
+armonía perfecta; Sensación de historia siendo escrita; Legado visual; Flecha punteada 
+circular eterna; Subtítulo: Legado
+
+
+SALUDO FINAL; Insignia: ●12; Plano de @imgTalo y todos los animales mirando directamente 
+a cámara/espectador; Brazos extendidos en bienvenida; Sonrisas cálidas; Invitación a 
+compartir alegría; Letras A E I O U formando corona brillante; Texto dorado brillante: 
+"¡Con Talo las hallé!" dominando base; Sensación de conclusión y nuevo comienzo; 
+Flecha punteada hacia el espectador; Subtítulo: ¡Gracias!
 ```
 
 **Seedance 2:**
