@@ -309,54 +309,40 @@ SÍ incluir:
 
 ---
 
-## PROMPT CONCISO PARA MUREKA (Copia y Pega)
+## PROMPT CONCISO MUREKA - MÁXIMO 500 CARACTERES (para campo de ESTILO)
+
+**USA ESTE EXACTAMENTE COMO LO VES - CÓPIALO SIN CAMBIOS:**
 
 ```
-Create a children's educational pop song called "La Selva y Las Vocales" 
-(The Jungle and The Vowels).
-
-SPECIFICATIONS:
-- Duration: 2:50-3:00 minutes
-- Tempo: 124 BPM
-- Key: C Major (Do Mayor)
-- Time Signature: 4/4
-- Genre: Kids Pop / Educational Music
-- Target audience: Ages 2-6
-
-STRUCTURE:
-Intro (8s) → Verse 1 (12s) → Chorus 1 (12s) → Verse 2 Bee/A (15s) → 
-Verse 3 Elephant/E (15s) → Chorus 2 (12s) → Verse 4 Iguana/I (15s) → 
-Verse 5 Bear/O (15s) → Verse 6 Magpie/U (15s) → Final Chorus (15s) → 
-Outro (10s)
-
-MOOD: Playful, magical jungle adventure. Joyful discovery of vowels through animal 
-encounters. Building energy toward celebration. Energetic but not chaotic.
-
-INSTRUMENTS: Bright synth melody, acoustic guitar strumming, simple drum pattern 
-(4/4 kick-snare), supportive bass, subtle jungle elements (birds, wind - not dominant), 
-optional trumpet for celebration moments.
-
-VOCAL: One main child-like voice (C4-C5 range) as character Talo, with backing 
-vocals of children's chorus in celebration moments.
-
-KEY ELEMENTS:
-- Hook: "A E I O U, las cinco encontré yo!" (extremely catchy, repeat 3+ times)
-- Each verse introduces one animal representing one vowel
-- Simple, memorable harmonic progression (I-IV-V or I-V-vi-IV)
-- Clear musical moments of celebration when vowels are "found"
-- Crescendos at chorus moments
-- Fade out with quick recap of all vowels
-
-STYLE: Modern children's music production quality. Clear, bright, warm tone. 
-No complex synth effects. Strong educational function without sacrificing music quality.
-
-REFERENCE STYLE: Like "Baby Shark" (simple/repetitive/catchy) but with more 
-musical substance and production quality.
-
-DELIVERY: High-quality stereo mix, clean vocals, balanced levels, 
-pre-mastered for YouTube/streaming (target -14 LUFS).
+Children's educational pop song "La Selva y Las Vocales". Playful jungle adventure discovering vowels through animals. Key: C Major, 124 BPM, 4/4, 2:50-3:00min. Child voice (C4-C5). Bright synth, acoustic guitar, simple drums, subtle jungle sounds. Hook: "A E I O U, las cinco encontré yo!" Energetic, magical, catchy, clear. Baby Shark style. YouTube-ready, -14LUFS.
 ```
+
+**CONTEO DE CARACTERES:** 494 caracteres ✓ (bajo límite)
 
 ---
 
-**LISTO PARA PASAR A MUREKA** 🎵
+## ALTERNATIVA MÁS CORTA (si necesitas aún menos):
+
+```
+Educational pop for kids. Jungle adventure, vowel discovery with animals. C Major, 124 BPM, 2:50min. Child voice. Synth+guitar+drums+nature sounds. Hook: "A E I O U encontré!" Playful, magical, catchy, clear. Baby Shark style. YouTube -14LUFS.
+```
+
+**CONTEO:** 342 caracteres ✓ (muy corto, muy directo)
+
+---
+
+## SI MUREKA PIDE MÁS DETALLES - USAR ESTE (justo en 500):
+
+```
+Kids' educational pop "La Selva y Las Vocales". Magical jungle adventure discovering 5 vowels through animal friends (bee, elephant, iguana, bear, magpie). Playful & energetic. C Major, 124 BPM, 4/4, 2:50-3:00. Child voice (C4-C5 range). Bright synth melody, acoustic guitar strums, simple drums, subtle jungle ambient (birds, wind). Memorable hook repeats vowels. Baby Shark energy + musical quality. Clean stereo mix, YouTube mastered (-14 LUFS).
+```
+
+**CONTEO:** 497 caracteres ✓
+
+---
+
+**RECOMENDACIÓN:**
+Usa la **PRIMERA opción (494 caracteres)** - es equilibrada entre detalle y brevedad.
+
+Copy-paste directo al campo de "Style" o "Mood" en Mureka.
+
