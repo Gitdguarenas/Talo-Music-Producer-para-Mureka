@@ -18,16 +18,26 @@ Contraste visual: gris izq, colores cálidos dcha.
 
 ### PROMPT ANIMACIÓN - KLING 2.5:
 ```
-Duración: 10 segundos. Formato: 9:16 vertical.
+Duración: 10 segundos. Formato: 9:16 vertical (SPLIT SCREEN).
 
-[0-2s] Niño (LEFT) mira letras confundido - expresión preocupada
-[2-4s] Transición suave: TALO aparece en RIGHT (brillo, luz)
-[4-6s] Niño (RIGHT) comienza a sonreír viendo TALO
-[6-8s] TALO canta/enseña - niño sigue entusiasmado
-[8-10s] Ambos sonríen - luz cálida envuelve RIGHT
+LADO IZQUIERDO (LEFT) - Niño SIN solución:
+[0-2s] Niño mira letras desordenadas - fruncido, expresión preocupada
+[2-4s] Levanta mano confundido - ¿Por qué no funciona?
+[4-6s] Mira hacia abajo - desánimo visible
+[6-8s] Intenta de nuevo - frustración en la cara
+[8-10s] Se rinde - pone cabeza en manos (triste)
 
-Solo niño y TALO se mueven. Textos fijos.
-Efecto: Luz brilla cuando TALO aparece.
+LADO DERECHO (RIGHT) - Niño CON TALO:
+[0-2s] Pantalla gris (sin acción aún)
+[2-4s] TALO aparece con brillo - luz mágica entra
+[4-6s] Niño abre ojos - ¡sorpresa! sonríe
+[6-8s] TALO canta/se mueve - niño sigue movimiento, baila
+[8-10s] Ambos saltando de alegría - brazos arriba, sonrisas grandes
+
+EFECTO TRANSICIÓN:
+- Mitad LEFT: colores grises/apagados
+- Mitad RIGHT: colores brillantes/cálidos
+- Contraste visual CLARO entre frustración y alegría
 ```
 
 **Caption:**
@@ -99,8 +109,8 @@ Descubre el método 👆
 
 ### PROMPT IMAGEN INICIAL - NANO BANANA 2:
 ```
-Mitad izquierda: Niño frustrado, sin sonreír, sin interés.
-Mitad derecha: Niño FELIZ, sonriendo, cantando CON TALO.
+Mitad izquierda: Niño frustrado, sin sonreír, sin interés, en silla.
+Mitad derecha: Niño FELIZ, sonriendo, cantando CON TALO en posición activa.
 Texto superior: "MIRÁ LA DIFERENCIA"
 Texto inferior (banner): "👆 LOS RESULTADOS HABLAN" (fijo)
 Ropa/ambiente similar (mismo niño, diferente actitud).
@@ -108,16 +118,27 @@ Ropa/ambiente similar (mismo niño, diferente actitud).
 
 ### PROMPT ANIMACIÓN - KLING 2.5:
 ```
-Duración: 10 segundos. Formato: 9:16 vertical.
+Duración: 10 segundos. Formato: 9:16 vertical (SPLIT SCREEN).
 
-[0-2s] Niño LEFT: sentado triste, sin movimiento
-[2-4s] Transición visual de izquierda a derecha
-[4-6s] Niño RIGHT: comienza a moverse - sonríe
-[6-8s] TALO aparece RIGHT - bailan juntos
-[8-10s] Niño RIGHT: saltando de alegría con TALO
+LADO IZQUIERDO (LEFT) - ANTES (sin TALO):
+[0-2s] Niño sentado - poca energía, expresión plana
+[2-4s] Mira pantalla aburrido - bosteza
+[4-6s] Intenta leer letras - confusión visible
+[6-8s] Se mueve lentamente hacia atrás - poco interés
+[8-10s] Cuerpo relajado, desinteresado - mira hacia otro lado
 
-Solo niño y TALO se mueven. Textos fijos.
-Efecto: Color se anima izq a dcha.
+LADO DERECHO (RIGHT) - DESPUÉS (CON TALO):
+[0-2s] Niño de pie - energía inicial
+[2-4s] Ve a TALO aparecer - ojos se abren, sorpresa
+[4-6s] Levanta brazos - comienza a sonreír
+[6-8s] Baila con TALO - movimiento rítmico, alegría visible
+[8-10s] Salta alto con TALO - brazos arriba, sonrisa máxima, celebración
+
+EFECTO TRANSICIÓN:
+- LEFT: colores apagados, movimiento lento/mínimo
+- RIGHT: colores brillantes, movimiento dinámico
+- Velocidad: LEFT lento, RIGHT rápido (contraste dramático)
+- Energía: LEFT cero → RIGHT explosión de alegría
 ```
 
 **Caption:**
