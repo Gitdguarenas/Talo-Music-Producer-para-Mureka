@@ -1,11 +1,11 @@
-# TALO Y LA OSCURIDAD — Producción de Video (~2:45 min)
+# TALO Y LA OSCURIDAD — Producción de Video (~1:30 min)
 
 Guía para generar los clips del video musical completo.
 
 **Herramientas:**
 - **Nano Banana 2** → genera cada GRID (12 frames, layout 4x3)
 - **Seedance 2** → anima cada GRID y genera el CLIP
-- **CapCut** → ensambla todos los clips + audio = video final ~2:45 min
+- **CapCut** → ensambla todos los clips + audio = video final ~1:30 min
 
 ---
 
@@ -13,15 +13,15 @@ Guía para generar los clips del video musical completo.
 
 | # | Sección de la canción | Duración |
 |---|---|---|
-| Clip 1 | Intro ("Cierro los ojos, la noche llega") | ~5s |
-| Clip 2 | Verso 1 — Curiosidad y primeros ruidos | ~25s |
-| Clip 3 | Coro 1 — "No estoy solo aquí" | ~20s |
-| Clip 4 | Verso 2+3 — Pico de miedo + Silencio | ~35s |
-| Clip 5 | Verso 4 — Rubí, Tuco y Nuti llegan | ~20s |
-| Clip 6 | Bridge — Respiramos juntos | ~15s |
-| Clip 7 | Verso 5 + Coro Final — La oscuridad es un abrazo | ~40s |
-| Clip 8 | Outro — Lullaby y sueño | ~15s |
-| **TOTAL** | | **~175s ≈ 2:55 min** |
+| Clip 1 | Intro ("La noche es oscura, ¿qué ves, Talo?") | ~3s |
+| Clip 2 | Verse 1 — Miedo inicial (sombra, ruidos) | ~12s |
+| Clip 3 | Verse 2 — Confusión (sonidos extraños, ojos brillantes) | ~10s |
+| Clip 4 | Chorus — Valentía ("Soy valiente, tengo curiosidad") | ~10s |
+| Clip 5 | Verse 3 — Búho llega y revela la verdad | ~12s |
+| Clip 6 | Verse 4 — Búho enseña (el mundo se ve especial) | ~12s |
+| Clip 7 | Verse 5 — Talo entiende (ya no tengo miedo) | ~12s |
+| Clip 8 | Chorus Final + Outro — Duermo seguro con Búho | ~15s |
+| **TOTAL** | | **~86s ≈ 1:26 min** |
 
 ---
 
@@ -29,478 +29,478 @@ Guía para generar los clips del video musical completo.
 
 Cada GRID = cuadrícula de 12 frames.
 Formato: 16:9 landscape, fondo off-white, bordes negros finos.
-Personaje constante: @imgTalo. Amigos: @imgRubi, @imgTuco, @imgNuti.
+Personaje constante: @imgTalo. Personaje clave: Búho (no Rubí, Tuco, Nuti en esta canción).
 
 ---
 
-### GRID 1 — Intro ("Cierro los ojos, la noche llega") (~5s)
+### GRID 1 — Intro ("La noche es oscura, ¿qué ves, Talo?") (~3s)
 
 **Nano Banana 2:**
 ```
-HABITACIÓN CÁLIDA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano general de habitación acogedora de Talo; @imgTalo sentado en su cama con expresión soñolienta, luz de linterna cálida junto a la cama; Ventana oscura al fondo mostrando luna suave; Almohada mullida y manta colorida; Flecha punteada descendente; Subtítulo: La noche llega
+NOCHE COMIENZA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano general de @imgTalo acercándose a ventana de habitación; Noche oscura afuera; Luna grande y brillante; Expresión de curiosidad; Luz suave de luna entrando; Flecha punteada hacia la ventana; Subtítulo: La noche es oscura
 
 
-MOMENTO TRANQUILO; Insignia: ●2; Plano medio de @imgTalo bostezando; Boca abierta en bostezo, brazos estirados hacia arriba; Luz cálida de linterna iluminando la cara; Ventana con luna visible de fondo; Flecha punteada ascendente con bostezo; Subtítulo: Qué sueño tengo
+MIRANDO AFUERA; Insignia: ●2; Plano medio de @imgTalo en ventana mirando la noche; Ojos abiertos de curiosidad; Noche oscura pero hermosa de fondo; Luz de luna en cara de Talo; Flecha punteada hacia afuera; Subtítulo: ¿Qué ves?
 
 
-CERRANDO LOS OJOS; Insignia: ●3; Plano medio cercano de @imgTalo con ojos a medio cerrar; Expresión soñolienta y pacífica; Luz ámbar suave; Linterna comenzando a apagarse sutilmente; Flecha punteada descendente suave; Subtítulo: Se cierran solos
+LUNA Y ÁRBOL; Insignia: ●3; Plano de ventana mostrando luna, árbol y noche; Árbol moviéndose suavemente en viento; Sombras largas; Misterio pero no miedo; Flecha punteada hacia la luna; Subtítulo: Una noche nueva
 
 
-RECOSTÁNDOSE; Insignia: ●4; Plano medio de @imgTalo recostando la cabeza en la almohada; Manta subiendo hacia el pecho; Expresión relajada; Luz de luna entrando suave por la ventana; Flecha punteada lateral descendente; Subtítulo: A dormir
+TALO CURIOSO; Insignia: ●4; Plano medio cercano de @imgTalo con expresión de asombro; Mano en vidrio de ventana; Curiosidad pura; Luz lunar suave; Flecha punteada de asombro; Subtítulo: Parece diferente
 
 
-OJOS CERRADOS; Insignia: ●5; Plano medio cercano de cara de @imgTalo con ojos completamente cerrados; Expresión de paz total; Respiración suave visible en pecho; Fondo oscuro cálido; Flecha punteada muy suave; Subtítulo: Cierro los ojos
+VENTANA COMO PUERTA; Insignia: ●5; Plano de @imgTalo en ventana; Vidrio reflejando luna; Noche como invitación; Silencio visual; Flecha punteada hacia afuera; Subtítulo: El mundo nocturno
 
 
-HABITACIÓN SE OSCURECE; Insignia: ●6; Plano general de habitación ahora más oscura; Linterna apagada; @imgTalo dormitando en cama; Luna crea luz azul suave en la ventana; Sombras largas y suaves; Flecha punteada hacia la oscuridad; Subtítulo: La oscuridad llega
+HABITACIÓN OSCURA; Insignia: ●6; Plano general mostrando @imgTalo en ventana; Habitación oscura detrás; Noche fuera; Transición entre dos mundos; Flecha punteada desde interior a exterior; Subtítulo: ¿Qué pasa afuera?
 
 
-LUZ LUNAR; Insignia: ●7; Plano detalle de ventana con luna grande y brillante; Luz plateada entrando por la ventana; Cortinas moviéndose muy suave; Sombras largas de los objetos del cuarto; Flecha punteada hacia adentro de la habitación; Subtítulo: Solo la luna
+OJOS ABIERTOS; Insignia: ●7; Plano close-up de los ojos de @imgTalo; Reflejos de luna en los ojos; Curiosidad y algo de inquietud; Flecha punteada de atención; Subtítulo: Observo
 
 
-TALO DURMIENDO; Insignia: ●8; Plano general de @imgTalo completamente dormido; Manta sobre el cuerpo; Habitación en tonos azul-plata de luna; Silencio visual; Paz absoluta; Flecha punteada muy sutil orbital; Subtítulo: Duerme tranquilo
+ÁRBOL NOCTURNO; Insignia: ●8; Plano de árbol afuera moviéndose en viento; Ramas visibles contra cielo; Luna detrás; Sombras que se mueven; Flecha punteada del movimiento; Subtítulo: Se mueve
 
 
-SOMBRAS SUAVES; Insignia: ●9; Plano de la pared de la habitación con sombras suaves de objetos (árbol afuera); Formas reconocibles pero no amenazantes; Luz lunar crea patrones; Silencio visual; Fondo cálido aún; Flecha punteada hacia las sombras; Subtítulo: Todo está quieto
+PRIMER MISTERIO; Insignia: ●9; Plano mostrando @imgTalo y la vista afuera; Primer signo de que algo sucede; Calma pero con expectativa; Flecha punteada hacia abajo; Subtítulo: Algo pasa
 
 
-CALMA NOCTURNA; Insignia: ●10; Plano de @imgTalo dormido en plano más cercano; Cara relajada con suave sonrisa; Respiración visible y lenta; Colores azul-ámbar suaves; Flecha punteada de respiración; Subtítulo: Respira tranquilo
+TALO SE ALERTA; Insignia: ●10; Plano medio de @imgTalo en ventana; Cuerpo se tensa levemente; Curiosidad volviéndose alerta; Primer signo de inquietud; Flecha punteada hacia adentro; Subtítulo: ¿Oigo algo?
 
 
-VENTANA Y LUNA; Insignia: ●11; Plano de ventana mostrando cielo nocturno con luna y estrellas; Luz plateada hermosa; Árbol visible afuera moviéndose levemente; Noche acogedora, no amenazante; Flecha punteada hacia las estrellas; Subtítulo: La noche es bonita
+ESCUCHANDO; Insignia: ●11; Plano medio cercano de @imgTalo con oído hacia la ventana; Expresión concentrada; Líneas de sonido visual suaves; Flecha punteada del sonido; Subtítulo: Sonidos
 
 
-PAZ INICIAL; Insignia: ●12; Plano general de habitación en paz total; @imgTalo dormido, luna brillando, silencio; Todo es acogedor y cálido pese a la oscuridad; Atmósfera de inicio de cuento; Flecha punteada hacia el espectador; Subtítulo: La historia comienza
+NOCHE MISTERIOSA; Insignia: ●12; Plano general final de intro; @imgTalo en ventana; Noche afuera; Luna; Árbol; Silencio preñado de historia; Flecha punteada hacia adelante; Subtítulo: La historia comienza
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Lullaby opening video showing a character peacefully preparing for sleep in a cozy bedroom; the atmosphere is warm, safe, and dreamy, establishing the nighttime world.
+Scene: One continuous shot — Opening video showing a character drawn to the window on a dark night, observing the mysterious outdoor world with curiosity and growing alertness.
 
 Character: Use @imgTalo as the character we follow throughout the scene, maintaining its appearance and scale exactly as it appears in the reference.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: sitting sleepily → yawning with stretch → eyes slowly closing → head lowering to pillow → falling into peaceful sleep. All movements are slow, gentle, and natural.
+Character Motion: Use the grid reference to follow the movement sequence exactly: approaching window with curiosity → gazing out at the night → eyes widening with alertness → tilting head to listen → tensing slightly. All movements are slow and exploratory.
 
-The scene begins with Talo sitting in bed in a warmly lit bedroom.
+The scene begins with Talo approaching the window on a dark night.
 
-Direction: Medium shot opening of character sitting up in bed, warm lantern light casting amber glow. Camera slowly pulls back as the character yawns and stretches. Medium close-up of the face as eyes begin to close, emphasizing the peaceful expression. Camera lowers and pulls back slightly as the character lies down, capturing the cozy bedroom arrangement. As the lantern dims and moonlight takes over, camera holds a gentle wide shot of the room in soft blue-silver tones, with the character sleeping peacefully in center. A slow, subtle push-in on the sleeping character's face as the final frame.
+Direction: Medium shot of character walking slowly toward the window. Camera follows, then holds as character gazes out. Close-up of the face reflected in window glass, showing the shift from curiosity to alertness. Camera pans subtly to show the view through the window — moon, tree, dark landscape. Return to character listening intently. Pull back to wide shot showing character at window with night landscape visible.
 
-Overall Tone: Soft, tender, lullaby-like. Movements are minimal and slow. Warm then cool-blue colors. Cozy and intimate. The emotional equivalent of a bedtime hug.
+Overall Tone: Mysterious, drawing the viewer in. Movements are slow and deliberate. Colors are cool blue-silver from moonlight. The feeling of standing at the threshold between the known (indoor) and the mysterious (outdoor night).
 
-SoundFx: Base ambience of a quiet, peaceful bedroom at night — distant crickets, very gentle breeze. Specific sounds: soft yawn, sheets rustling gently as character settles, light breathing slowing down. Optional music: soft piano and gentle wind tones, very low. Rhythm is slow and dreamlike. End with silence and the subtle sound of peaceful breathing.
+SoundFx: Base ambience of a quiet night — distant wind, crickets far away. Specific sounds: character's footsteps on floor, gentle hand touching window glass, wind through trees outside, the first distant crunch sound hinting at what's to come. Optional music: soft, mysterious theme beginning. Rhythm is slow and building anticipation. End with a subtle sound from outside (wind, crunch).
 ```
 
 ---
 
-### GRID 2 — Verso 1 — "¿Qué es ese ruido? ¿Dónde estoy yo?" (~25s)
+### GRID 2 — Verse 1 ("¡Ahí hay una sombra! ¿Qué es esa forma?") (~12s)
 
 **Nano Banana 2:**
 ```
-OJOS QUE ABREN; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio cercano de @imgTalo con ojos abriéndose de golpe; Expresión de sorpresa y curiosidad; Habitación oscura de fondo; Luz lunar azul-plateada; Flecha punteada hacia arriba; Subtítulo: ¿Qué fue eso?
+SOMBRA APARECE; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano de pared de habitación; Sombra grande del árbol apareciendo en la pared; Luz lunar proyectando; @imgTalo señalando; Expresión de sorpresa; Flecha punteada hacia la sombra; Subtítulo: ¡Ahí hay una sombra!
 
 
-MIRADA ALREDEDOR; Insignia: ●2; Plano medio de @imgTalo sentándose en cama mirando alrededor; Ojos moviéndose de izquierda a derecha; Habitación oscura reconocible; Sombras en paredes; Expresión de confusión curiosa; Flecha punteada lateral; Subtítulo: ¿Dónde estoy?
+SOMBRA GRANDE; Insignia: ●2; Plano close-up de sombra en la pared; Forma de árbol pero poco reconocible; Misteriosa; @imgTalo pequeño señalando; Líneas de miedo visual; Flecha punteada hacia arriba; Subtítulo: ¿Qué es esa forma?
 
 
-ESCUCHANDO; Insignia: ●3; Plano medio cercano de @imgTalo con pata en oreja escuchando; Expresión de concentración intensa; Líneas de sonido ondulantes alrededor (representación visual); Habitación silenciosa pero misteriosa; Flecha punteada hacia el sonido; Subtítulo: ¿Qué es ese ruido?
+TALO ASUSTADO; Insignia: ●3; Plano medio de @imgTalo retrocediendo; Expresión de miedo creciente; Brazos levantados defensivamente; Habitación oscura; Flecha punteada hacia atrás; Subtítulo: ¡Qué miedo!
 
 
-SOMBRA EN LA PARED; Insignia: ●4; Plano general de pared de habitación con sombra grande de ramas de árbol; Luz lunar proyectando la sombra; @imgTalo pequeño en cama mirando la pared; Sombra se mueve suavemente; Flecha punteada hacia la sombra; Subtítulo: ¿Qué es eso?
+RUIDO EN VENTANA; Insignia: ●4; Plano de ventana con curtinas moviéndose; Sonido visual de crujido (líneas de impacto); @imgTalo en cama o esquina cubierto; Pánico creciente; Flecha punteada del sonido; Subtítulo: ¡Crujidos en la ventana!
 
 
-TALO SEÑALA; Insignia: ●5; Plano medio de @imgTalo señalando la sombra con dedo extendido; Expresión de confusión-preocupación; Ojos muy abiertos; Habitación azul-gris; Flecha punteada desde Talo hacia la sombra; Subtítulo: ¡Esa sombra!
+SOMBRA SE MUEVE; Insignia: ●5; Plano de sombra en pared moviéndose con viento; Forma cambio; @imgTalo observando con terror; Imaginación convirtiendo sombra en algo amenazante; Flecha punteada de movimiento; Subtítulo: ¡Se mueve!
 
 
-VENTANA MISTERIOSA; Insignia: ●6; Plano de ventana con cortinas moviéndose por viento; Árbol visible afuera moviéndose; Crujido visual representado como líneas cortas; @imgTalo mirando hacia la ventana desde la cama; Flecha punteada hacia la ventana; Subtítulo: La ventana cruje
+¿HAY UN MONSTRUO?; Insignia: ●6; Plano medio de @imgTalo con expresión de terror puro; Burbuja de pensamiento mostrando silueta de "monstruo" imaginado; Habitación muy oscura; Flecha punteada hacia la burbuja; Subtítulo: ¿Hay un monstruo?
 
 
-CURIOSIDAD CRECE; Insignia: ●7; Plano medio cercano de @imgTalo con expresión entre curiosidad y leve preocupación; Mano apoyada en mejilla pensando; Habitación oscura de fondo; Tonos azul-gris; Flecha punteada de interrogación; Subtítulo: ¿Qué será?
+TALO ENCOGIDO; Insignia: ●7; Plano general de @imgTalo acurrucado en esquina o cama; Pequeño y asustado; Sombra amenazante en pared; Habitación en tonos fríos azul-negro; Flecha punteada protectora; Subtítulo: Tengo miedo
 
 
-TODO ESTÁ NEGRO; Insignia: ●8; Plano general de habitación vista desde perspectiva de @imgTalo; Oscuridad con contornos apenas reconocibles de muebles; Forma de cama, ventana y objetos visibles pero oscuros; @imgTalo pequeño en centro; Flecha punteada mirando alrededor; Subtítulo: Todo está negro
+LÍNEAS DE TERROR; Insignia: ●8; Plano close-up de cara de @imgTalo; Ojos muy abiertos; Efecto visual de líneas de estrés; Habitación oscura atrás; Flecha punteada de pánico; Subtítulo: ¿Hay algo aquí?
 
 
-PREOCUPACIÓN INICIAL; Insignia: ●9; Plano medio de @imgTalo con expresión más preocupada; Manta subida hasta el pecho; Ojos grandes y abiertos; Tonos más fríos, azul más oscuro; Primeros signos de miedo leve; Flecha punteada defensiva; Subtítulo: No me gusta esto
+SOMBRA GIGANTE; Insignia: ●9; Plano mostrando sombra en pared mucho más grande que @imgTalo; Perspectiva de Talo donde la sombra parece gigante; Miedo visual amplificado; Flecha punteada del tamaño; Subtítulo: ¡Tan grande!
 
 
-TALO SE ENCOGE; Insignia: ●10; Plano medio de @imgTalo encogiendo levemente los hombros; Brazos cercanos al cuerpo; Postura defensiva pero no de pánico; Habitación oscura; Sombra en la pared aún visible; Flecha punteada hacia adentro del cuerpo; Subtítulo: ¿Y si...?
+ESCUCHANDO RUIDOS; Insignia: ●10; Plano medio de @imgTalo con pata en oído; Ruidos visuales alrededor (líneas de sonido ondulantes); Expresión de concentración en miedo; Flecha punteada de sonido; Subtítulo: ¿Qué oigo?
 
 
-OJOS EN LA OSCURIDAD; Insignia: ●11; Plano close-up de los ojos de @imgTalo; Ojos grandes, avellana-ámbar brillando en la oscuridad; Expresión de miedo creciente pero controlado; Habitación oscura de fondo; Flecha punteada de expresión; Subtítulo: Tengo miedo
+PREGUNTA SIN RESPUESTA; Insignia: ●11; Plano medio de @imgTalo confundido y asustado; Signos de interrogación visuales alrededor; Múltiples amenazas imaginadas; Habitación oscura; Flecha punteada de confusión; Subtítulo: ¿Qué está pasando?
 
 
-PAUSA DE PREOCUPACIÓN; Insignia: ●12; Plano general de @imgTalo en cama, quieto, mirando hacia la sombra; Silencio visual; Habitación azul-gris; Sombra en la pared; Primer momento de miedo real establecido; Flecha punteada hacia la sombra; Subtítulo: ¿Quién está aquí?
+VERSO 1 TERMINA; Insignia: ●12; Plano general de @imgTalo asustado en habitación oscura; Sombra amenazante; Miedo establecido; Un momento de pausa antes del siguiente verso; Flecha punteada hacia adelante; Subtítulo: Tengo mucho miedo
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Mystery awakening video showing a character waking up in a dark bedroom and beginning to notice unfamiliar shadows and sounds; the mood builds from peaceful sleep to growing curiosity and early worry.
+Scene: One continuous shot — Escalating fear video showing a character discovering mysterious shadows and sounds in the dark bedroom, imagination running wild with worry.
 
 Character: Use @imgTalo as the character we follow throughout the scene, maintaining its appearance and scale exactly as it appears in the reference.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: eyes snapping open in surprise → looking around the dark room → raising hand to ear listening → pointing at shadow on wall → pulling blanket closer with worry. Movements transition from startled to curious to concerned.
+Character Motion: Use the grid reference to follow the movement sequence exactly: pointing at shadow in alarm → retreating in fear → covering ears at sounds → hugging self protectively → looking around in panic. Movements escalate from alert to genuinely frightened.
 
-The scene begins with Talo asleep, then waking suddenly in the dark bedroom.
+The scene begins with Talo noticing the shadow on the wall.
 
-Direction: Close-up of Talo's face as eyes open abruptly, camera capturing the shift from sleep to alert. Camera pulls back to medium shot as the character sits up and scans the room, eyes moving side to side. A slow pan reveals the shadow on the bedroom wall caused by tree branches outside — camera holds on this shadow as it moves slightly. Return to character as they point at the shadow, camera in medium shot emphasizing the gesture. As worry builds, camera gradually tightens to close-up of the character's widening eyes, then pulls back to show the character small in the dark room with the shadow looming.
+Direction: Medium shot of character pointing at wall with alarm. Camera pulls back as character retreats. Show the shadow on wall growing larger as wind moves the tree. Quick cuts between character's terrified face and the shadow on wall. Medium close-up of character covering ears as crunch sounds are heard. Camera tilts slightly to show character's unbalanced sense of danger. Pull back to show character small in the dark room with the large shadow looming. The shadow should feel genuinely big and mysterious from Talo's perspective.
 
-Overall Tone: Mystery building. Starts with alertness, moves to curiosity, ends with genuine worry. Colors are cool blue-gray. Shadows are large but not monstrous — the fear comes from the unknown, not from danger. Movements feel natural and childlike.
+Overall Tone: Fear escalating. Movements shift from alert to truly frightened. Colors are cold blue-black. Shadows are large and threatening from the character's fearful perception. The mood is tense and genuinely scary (but not traumatic for young viewers).
 
-SoundFx: Base ambience of a quiet bedroom with distant wind. Specific sounds: bedsheets rustling as character sits up, gentle wind sounds outside the window, subtle creaking sound (the tree moving), sound waves visualized. Character's breathing becomes slightly quicker. Optional music: low, quiet piano with subtle tension. Rhythm is slow and building. End with a moment of silence, holding on the character's worried face.
+SoundFx: Base ambience of wind outside getting stronger. Specific sounds: crunch sound (clear and startling), wind howling, window creaking, character's panicked breathing. Sound effects emphasizing the danger from Talo's perspective (sounds are bigger and scarier than reality). Optional music: tense, worried minor-key theme. Rhythm is staccato and building panic. End on highest point of fear before Verse 2.
 ```
 
 ---
 
-### GRID 3 — Coro 1 — "No estoy solo aquí, mis amigos son" (~20s)
+### GRID 3 — Verse 2 ("¡Qué sonido extraño! ¿Quién está ahí?") (~10s)
 
 **Nano Banana 2:**
 ```
-PAUSA INTERIOR; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio cercano de @imgTalo cerrando los ojos un momento; Expresión que cambia de miedo a algo más suave; Luz ámbar cálida comenzando a aparecer en los bordes del frame; Habitación aún oscura pero menos fría; Flecha punteada hacia adentro; Subtítulo: Recuerdo algo
+MÁS RUIDOS; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo; Múltiples líneas de sonido visuales alrededor (ruidos superpuestos); Expresión de confusión y miedo mezclados; Habitación muy oscura; Flecha punteada de caos sonoro; Subtítulo: ¡Qué sonido extraño!
 
 
-PENSANDO EN LOS AMIGOS; Insignia: ●2; Plano medio de @imgTalo con pequeña burbuja de pensamiento; Siluetas suaves de @imgRubi, @imgTuco, @imgNuti flotando en la burbuja; Expresión de Talo más tranquila; Luz ámbar en aumento; Flecha punteada hacia la burbuja; Subtítulo: Mis amigos
+OJOS BRILLANTES; Insignia: ●2; Plano de oscuridad con dos puntos de luz (ojos brillantes) apareciendo en la sombra; @imgTalo mirando hacia esos ojos; Terror creciente; Imaginación convirtiendo luces en ojos de "monstruo"; Flecha punteada hacia los ojos; Subtítulo: ¡Ojos brillantes!
 
 
-RUBÍ EN EL PENSAMIENTO; Insignia: ●3; Plano detalle de la burbuja de pensamiento mostrando a @imgRubi sonriendo; Naranja cálido de Rubí contrasta con el azul de la habitación; Expresión protectora de Rubí; Luz dorada en la burbuja; Flecha punteada hacia @imgRubi; Subtítulo: Rubí siempre está
+¿QUIÉN ESTÁ AHÍ?; Insignia: ●3; Plano medio de @imgTalo temblando; Pregunta visual en frame "¿Quién está ahí?"; Sombra con "ojos" al fondo amenazante; Habitación azul-negro; Flecha punteada de interrogación; Subtítulo: ¿Quién está ahí?
 
 
-CALMA NACIENDO; Insignia: ●4; Plano medio de @imgTalo con expresión más tranquila; Mano en el pecho sintiendo el corazón; Luz ámbar más presente en el cuarto; Habitación menos fría; Flecha punteada del corazón; Subtítulo: Estoy protegido
+IMAGINACIÓN DESCONTROLADA; Insignia: ●4; Plano mostrando burbuja de pensamiento con escenas de peligro imaginado; @imgTalo afuera de la burbuja asustado; Múltiples peligros imaginados; Flecha punteada hacia la burbuja; Subtítulo: ¿Me van a atacar?
 
 
-RESPIRACIÓN CONSCIENTE; Insignia: ●5; Plano medio cercano de @imgTalo respirando profundo deliberadamente; Pecho sube y baja; Expresión de concentración en calmarse; Ojos medio cerrados; Flecha punteada de respiración; Subtítulo: Respiro profundo
+TALO PARALIZADO; Insignia: ●5; Plano general de @imgTalo en cama o esquina; Cuerpo congelado de miedo; Sombra gigante visible; Ojos imaginarios brillando; Habitación del horror visual; Flecha punteada muy tensa; Subtítulo: No puedo moverme
 
 
-NO ESTOY SOLO; Insignia: ●6; Plano general de @imgTalo en cama con rayos de luz ámbar entrando desde todos los bordes; Representación visual de "sentir a los amigos"; Habitación más cálida; Talo menos pequeño en el frame; Flecha punteada expansiva; Subtítulo: No estoy solo
+CONFUSIÓN MÁXIMA; Insignia: ●6; Plano close-up de cara de @imgTalo; Expresión de puro pánico y confusión; Líneas de estrés visual; Ojos buscando a todos lados; Flecha punteada caótica; Subtítulo: ¿Qué está pasando?
 
 
-MANTA AL PECHO; Insignia: ●7; Plano medio de @imgTalo apretando la manta contra el pecho; Gesto de búsqueda de confort; Expresión más serena; Ojos más tranquilos; Habitación azul-ámbar equilibrado; Flecha punteada de confort; Subtítulo: Me siento mejor
+SONIDOS MULTIPLICADOS; Insignia: ●7; Plano general; Múltiples líneas de sonido visual desde diferentes direcciones; @imgTalo en centro confundido; Ataques sensoriales de miedo; Flecha punteada desde todos lados; Subtítulo: Sonidos por todas partes
 
 
-RECORDANDO SEGURIDAD; Insignia: ●8; Plano medio cercano de cara de @imgTalo con expresión de "recuerdo que estoy seguro"; Respiración visible y más lenta; Luz ámbar cálida dominando la cara; Sombra de fondo menos amenazante; Flecha punteada suave; Subtítulo: La oscuridad es segura
+VERSE 2 PICO; Insignia: ●8; Plano de @imgTalo cubierto; Sombra enorme; Ojos brillantes; Todo peligro imaginado; Pico máximo de confusión y miedo; Flecha punteada hacia abajo; Subtítulo: ¡Tengo mucho miedo!
 
 
-INTENTO DE DORMIR; Insignia: ●9; Plano medio de @imgTalo recostándose de nuevo; Cabeza bajando hacia la almohada; Ojos a medio cerrar; Expresión de esperanza; Habitación en azul-ámbar suave; Flecha punteada descendente; Subtítulo: Puedo descansar
+LUZ DE MIEDO; Insignia: ●9; Plano mostrando los "ojos brillantes" más claros; @imgTalo retrocediendo; Confusión visual del qué es real vs imaginado; Flecha punteada de retroceso; Subtítulo: Están aquí
 
 
-CALMA FRÁGIL; Insignia: ●10; Plano general de @imgTalo acostado en la cama; Aparente tranquilidad; Habitación en tonos cálidos de equilibrio; Luna aún visible por ventana pero amigable; Sombra de fondo presente pero no aterradora; Flecha punteada lateral suave; Subtítulo: Intento dormir
+BEFORE CHORUS; Insignia: ●10; Plano general final de verso; @imgTalo asustado; Habitación oscura; Sombra; Ojos; Todo en su punto más tenso; Pausa visual antes del cambio; Flecha punteada muy sutil; Subtítulo: Espero
 
 
-MIRADA A LA VENTANA; Insignia: ●11; Plano medio de @imgTalo mirando hacia la ventana desde la almohada; Expresión de calma intentada; Luna y árboles visibles; Breve momento de serenidad; Flecha punteada hacia la ventana con menos miedo; Subtítulo: La noche espera
+DARKNESS COMPLETE; Insignia: ●11; Plano de habitación en casi total oscuridad; Solo siluetas; @imgTalo como bulto asustado; Flecha punteada mínima; Subtítulo: Oscuridad
 
 
-ANTES DEL SIGUIENTE RUIDO; Insignia: ●12; Plano general de @imgTalo casi dormido nuevamente; Habitación en paz relativa; Sombras presentes pero no dominantes; Calma temporal establecida; Presagio de que algo más viene; Flecha punteada muy suave; Subtítulo: Por ahora, bien
+MIEDO ESTABLECIDO; Insignia: ●12; Plano final de verso 2; Imagen de máximo miedo visual; Presagio de cambio; Un momento antes de encontrar valentía; Flecha punteada hacia adelante; Subtítulo: ¿Qué hago?
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Inner calm video showing a character finding brief comfort by remembering their friends while lying alone in the dark bedroom; the emotional transition from fear to temporary peace is the heart of this clip.
+Scene: One continuous shot — Deepening confusion and fear video showing a character encountering mysterious glowing eyes in the darkness and imagining attack scenarios.
 
 Character: Use @imgTalo as the character we follow throughout the scene, maintaining its appearance and scale exactly as it appears in the reference.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: eyes closing to remember → thought bubble with friends appears → hand on chest feeling heartbeat slow → deliberate deep breath → lying back down with temporary calm. Movements are introspective and slow.
+Character Motion: Use the grid reference to follow the movement sequence exactly: hearing multiple sounds with alarm → spotting glowing eyes → covering face in fear → trembling with panic → looking around frantically. Movements become more desperate and erratic.
 
-The scene begins with Talo in bed, pausing from fear and remembering something comforting.
+The scene begins with Talo hearing strange sounds multiplying.
 
-Direction: Close-up of character's face as eyes close, expression shifting. Soft zoom-out as a thought bubble visualizes the friends (Rubí, Tuco, Nuti) in warm light. Camera holds on character's face as peace begins to return — the warm amber light gradually increases in the frame to represent the feeling of not being alone. Medium shot as the character places a hand on their chest and takes a deliberate deep breath. Camera slowly pulls back as the character lies back down, the room looking slightly warmer and less threatening. Final wide shot of character attempting to sleep in relative calm.
+Direction: Medium shot of character's face as various sounds are heard — camera shakes slightly with each sound to convey disorientation. Cut to point-of-view shot of glowing eyes appearing in the darkness (use two bright points of light). Return to character backing away in fear. Quick cut of character covering face. Camera pull-back to show character small and frightened in the dark space with the glowing eyes prominent. The overall effect should feel genuinely scary from a child's perspective without being traumatic.
 
-Overall Tone: Introspective and tender. The internal experience of finding comfort in memory. Colors shift from cold blue to warm amber. Movements are minimal and internal. Emotional but quiet. Like a breath of relief.
+Overall Tone: Escalating to maximum fear. Movements are panicked and erratic. Colors remain cold and dark with only the mysterious glowing eyes providing light. The mood is one of confusion, danger, and isolation.
 
-SoundFx: Base ambience shifting from cold room sounds to slightly warmer tone. Specific sounds: slow deep breath taken deliberately, soft heartbeat slowing down, sheets rustling as character settles. Friends in thought bubble accompanied by warm, gentle tone. Optional music: soft piano chords, warm and gentle. Rhythm is slow and calming. End with near-silence and gentle breathing.
+SoundFx: Base ambience of wind and ominous quiet. Specific sounds: multiple strange sounds (creak, crack, whistle) overlapping, character's rapid breathing, whimper of fear, mysterious sounds that could be explained by nature but feel dangerous. Optional music: very tense, discordant minor key theme building. Rhythm is chaotic and unsettling. End on peak fear, holding the tension.
 ```
 
 ---
 
-### GRID 4 — Verso 2+3 — Pico de miedo + Silencio (~35s)
+### GRID 4 — Chorus ("Soy valiente, tengo curiosidad, la oscuridad no da miedo") (~10s)
 
 **Nano Banana 2:**
 ```
-CRUNCH REPENTINO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo levantándose de golpe en la cama; Expresión de shock puro; Efecto visual de ¡CRUNCH! cerca de la ventana (líneas de impacto cartoon); Habitación con tonos azul frío más duros; Flecha punteada explosiva; Subtítulo: ¡CRUNCH!
+PAUSA INTERNA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo respirando profundo; Expresión cambiando; Decidiendo ser valiente; Luz ámbar cálida comenzando a entrar; Flecha punteada hacia adentro; Subtítulo: Soy valiente
 
 
-SHOCK MÁXIMO; Insignia: ●2; Plano medio cercano de @imgTalo con ojos completamente abiertos y boca en O de sorpresa; Cuerpo rígido de susto; Manta en el aire de la reacción; Luz azul fría dura; Flecha punteada de susto hacia arriba; Subtítulo: ¡Qué fue eso!
+CORAJE CRECIENDO; Insignia: ●2; Plano medio de @imgTalo levantando cabeza; Expresión de determinación; Miedo retrocediendo; Luz más cálida; Hombros más rectos; Flecha punteada ascendente; Subtítulo: Tengo curiosidad
 
 
-CORAZÓN ACELERADO; Insignia: ●3; Plano medio de @imgTalo con pata en el pecho; Efecto visual de corazón latiendo rápido (líneas de pulso alrededor); Expresión de pánico creciente; Habitación más oscura y fría; Flecha punteada de pulso; Subtítulo: Mi corazón corre
+SOMBRA VISTA DIFERENTE; Insignia: ●3; Plano de sombra en pared ahora vista sin miedo; @imgTalo mirando con curiosidad en lugar de terror; ¿Es realmente tan peligrosa?; Luz más normal; Flecha punteada de descubrimiento; Subtítulo: ¿Qué es realmente?
 
 
-¿HABRÁ MONSTRUO?; Insignia: ●4; Plano medio de @imgTalo mirando hacia la ventana con expresión de terror imaginando; Burbuja de pensamiento con silueta de monstruo imaginado (cartoon, no aterrador real); Niño imaginando lo peor; Habitación oscura de fondo; Flecha punteada hacia la burbuja; Subtítulo: ¿Habrá monstruo?
+OJOS BRILLANTES REEXAMINADOS; Insignia: ●4; Plano de los "ojos brillantes"; Pero ahora @imgTalo mirando con curiosidad, no miedo; Quizás hay explicación; Luz cálida en cara de Talo; Flecha punteada de cuestionamiento; Subtítulo: ¿Qué eres tú?
 
 
-ESCONDIDO BAJO LA MANTA; Insignia: ●5; Plano general de @imgTalo completamente cubierto bajo la manta; Solo un pequeño bulto en la cama; Habitación azul-gris muy oscura; Sombra gigante en la pared; Máxima vulnerabilidad visual; Flecha punteada escondida bajo la manta; Subtítulo: Me escondo
+CORAJE EN ACCIÓN; Insignia: ●5; Plano medio de @imgTalo de pie; Postura más fuerte; Expresión de valentía; Decidido a no dejarse controlar por el miedo; Luz ámbar presente; Flecha punteada hacia adelante; Subtítulo: La oscuridad no da miedo
 
 
-OJOS DESDE LA MANTA; Insignia: ●6; Plano medio de @imgTalo asomando solo los ojos sobre el borde de la manta; Ojos muy abiertos de terror; Mirada fija hacia la sombra; Habitación oscura; Frame más tenso de todos; Flecha punteada hacia la sombra; Subtítulo: Tengo mucho miedo
+MIRADA DIRECTA; Insignia: ●6; Plano close-up de cara de @imgTalo; Expresión seria pero valiente; Ojos enfocados; Decidido; Luz reflejada en ojos mostrando esperanza; Flecha punteada de resolución; Subtítulo: Investigaré
 
 
-GRITO SILENCIOSO; Insignia: ●7; Plano medio de @imgTalo con boca abierta en grito hacia arriba; Brazos levantados en desesperación; ¡OSCURIDAD, OSCURIDAD! como texto visual en el frame; Habitación azul-negro en su punto más oscuro; Flecha punteada hacia arriba en desesperación; Subtítulo: ¡No puedo ver nada!
+RECITACIÓN DEL CORO; Insignia: ●7; Plano medio de @imgTalo; Diciendo el coro con confianza; Postura de valentía; Habitación menos oscura ahora que no tiene miedo; Flecha punteada de poder; Subtítulo: Soy valiente
 
 
-BUSCANDO A LOS AMIGOS; Insignia: ●8; Plano medio de @imgTalo mirando hacia la puerta de la habitación con expresión de súplica; Brazos extendidos hacia la puerta; Habitación muy oscura; Puerta cerrada de fondo; Flecha punteada hacia la puerta; Subtítulo: ¿Dónde están mis amigos?
+TRANSFORMACIÓN VISIBLE; Insignia: ●8; Plano general mostrando @imgTalo transformado; De asustado a valiente; Luz más presente; Sombra aún visible pero no amenazante; Flecha punteada de cambio; Subtítulo: He cambiado
 
 
-EL SILENCIO; Insignia: ●9; Plano general de @imgTalo completamente inmóvil en la cama; Expresión vulnerable y real; Sin efectos de sonido visual; Sin movimiento; Habitación casi completamente negra excepto tenue luz de luna; Frame más quieto de todos; Flecha punteada muy sutil; Subtítulo: (silencio)
+CURIOSIDAD REEMPLAZA MIEDO; Insignia: ●9; Plano medio de @imgTalo; Ahora mirando alrededor con interés en lugar de miedo; Expresión abierta; Quiere aprender; Flecha punteada exploradora; Subtítulo: Quiero saber
 
 
-RESPIRACIÓN EN EL SILENCIO; Insignia: ●10; Plano close-up de cara de @imgTalo en silencio; Una lágrima o signo de esfuerzo contenido; Cara vulnerable y honesta; Habituación oscura; Este momento valida el miedo; Flecha punteada muy pequeña; Subtítulo: El miedo es real
+CONFIANZA ESTABLECIDA; Insignia: ●10; Plano de @imgTalo completamente transformado; Valiente; Curioso; Listo para investigar; Luz ámbar equilibrada; Flecha punteada hacia adelante; Subtítulo: Estoy listo
 
 
-VALIDACIÓN VISUAL; Insignia: ●11; Plano medio de @imgTalo sentado inmóvil; El miedo es grande y real; Sin minimización; Habitación oscura como escenario del sentimiento; Presencia de la emoción completa en el frame; Flecha punteada interior muy suave; Subtítulo: Está bien sentirlo
+CHORUS FINAL LÍNEA; Insignia: ●11; Plano medio de @imgTalo; Repitiendo la última línea del coro con certeza; Mano sobre el pecho; Valentía real; Flecha punteada del corazón; Subtítulo: La oscuridad no da miedo
 
 
-ESPERA TENSA; Insignia: ●12; Plano general de @imgTalo inmóvil en la cama; Todo silencioso; Habitación azul-negro; Sombra en la pared detenida; Momento de mayor tensión emocional antes del cambio; Algo está por llegar; Flecha punteada hacia la puerta; Subtítulo: Algo va a cambiar
+CHORUS TERMINA; Insignia: ●12; Plano general de @imgTalo en habitación; Completamente transformado de miedo a valor; Sombra presente pero no amenazante; Momento de pausa antes de Búho; Flecha punteada hacia adelante; Subtítulo: Esperando
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Peak fear video showing a character reaching maximum fear after a sudden loud sound, then holding in absolute silence; the emotional range goes from explosive panic to profound, validating stillness.
+Scene: One continuous shot — Transformation video showing a character shifting from fear to courage and curiosity as they recite an empowering chorus about bravery.
 
 Character: Use @imgTalo as the character we follow throughout the scene, maintaining its appearance and scale exactly as it appears in the reference.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: startled bolt upright → hands clutching chest → hiding under blanket → peering out with terror → arms raised in desperate cry → complete stillness. Movements escalate dramatically then stop completely.
+Character Motion: Use the grid reference to follow the movement sequence exactly: taking a deep breath for courage → standing taller → looking at the shadow with curiosity instead of fear → standing with hands on hips or chest in confident pose → repeating the chorus with conviction. Movements shift from defensive to open and confident.
 
-The scene begins with Talo nearly asleep, then shocked awake by a sudden crunch sound.
+The scene begins with Talo in a moment of internal decision to be brave.
 
-Direction: Wide shot of sleeping character, then sudden sharp cut to medium close-up as the character bolts upright with a startled expression — camera stays close to capture the shock. Pull back to medium shot as the character hides under blanket, camera holding on the lump under sheets. As eyes peer out over the blanket edge, camera holds in medium close-up on the fearful eyes. Wide shot of character with arms raised in despair, the dark room maximally shadowed and cold. Then — complete halt. Camera stops all movement. Holds absolutely still on the character's paralyzed, vulnerable expression. This stillness lasts visually to represent the 2-second silence in the song.
+Direction: Close-up of character's face as they take a centering breath, expression shifting. Camera pulls back as they stand up straighter. Medium shot as they now look at the shadow with curious expression — camera subtly reframes the shadow to look less threatening. Character's hand moves to chest — a gesture of determination. Wider shot showing the character now dominant in their own space. Camera holds on a confident pose as the chorus is repeated.
 
-Overall Tone: The most intense and honest clip. Escalates to panic, then drops to profound silence. The silence is not empty — it is validating. Colors are the coldest and darkest of the video. Movements go from explosive to completely still. Emotional truth above all — the fear is real and treated with respect.
+Overall Tone: Empowering and brave. Movements shift from defensive/fearful to confident and open. Colors shift from cold blue-black to warmer tones, reflecting the internal shift. The mood is one of finding inner strength.
 
-SoundFx: Base ambience of an ominous quiet. Specific sounds: CRUNCH (soft but startling, not monstrous), sheets flying as character bolts up, fast heartbeat sounds, desperate breathing. Then — 2 seconds of COMPLETE SILENCE (no ambient, no music, no sound). The silence is the most important sound element in the video. Optional music: stop completely at the silence. Rhythm is chaotic then absolutely still. End on held silence.
+SoundFx: Base ambience of a normal night (wind and crickets). Specific sounds: character's deep breath, footsteps as character stands, the chorus sung or spoken with conviction and strength. Sounds that felt scary now lose their threat as the character reframes them. Optional music: shifts from minor to major key, empowering theme. Rhythm becomes steady and confident. End with character fully in power.
 ```
 
 ---
 
-### GRID 5 — Verso 4 — "Rubí viene aquí, con Tuco y Nuti" (~20s)
+### GRID 5 — Verse 3 ("Tranquilo, Talo, soy yo. Esa sombra es un árbol...") (~12s)
 
 **Nano Banana 2:**
 ```
-LUZ CÁLIDA EN LA PUERTA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano general de habitación oscura con luz ámbar cálida comenzando a entrar bajo la puerta; @imgTalo mirando hacia la puerta con expresión de esperanza tímida; Habitación todavía oscura pero borde de calidez visible; Flecha punteada hacia la puerta; Subtítulo: ¿Qué es esa luz?
+BÚHO APARECE; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano general de ventana; Búho grande y sabio volando hacia la ventana; Expresión gentil y tranquilizadora; Luz dorada suave alrededor de Búho; @imgTalo en cama mirando; Flecha punteada de Búho hacia Talo; Subtítulo: Tranquilo, Talo
 
 
-PUERTA SE ABRE; Insignia: ●2; Plano de puerta de habitación abriéndose; Luz ámbar-dorada inundando el umbral; Silueta de @imgRubi visible en el marco de la puerta; @imgTalo en cama reaccionando con alivio y sorpresa; Flecha punteada desde la puerta hacia Talo; Subtítulo: ¡Rubí!
+BÚHO ENTRA; Insignia: ●2; Plano medio de Búho entrando por la ventana; Alas extendidas; Expresión sabía y amorosa; Ojos grandes brillan con bondad; @imgTalo con expresión de alivio inicial; Flecha punteada del vuelo; Subtítulo: Soy yo
 
 
-RUBÍ ENTRA; Insignia: ●3; Plano general de @imgRubi entrando a la habitación caminando hacia @imgTalo; Naranja brillante y cálido de Rubí ilumina el cuarto; Expresión protectora y amorosa de Rubí; @imgTalo con expresión de alivio enorme; Luz ámbar-naranja creciendo; Flecha punteada de @imgRubi hacia @imgTalo; Subtítulo: No estás solo
+EXPLICACIÓN COMIENZA; Insignia: ●3; Plano medio de Búho posado en rama o mueble; Señalando o explicando hacia la sombra en la pared; @imgTalo escuchando; Expresión de Búho es maestra y gentil; Flecha punteada hacia la sombra; Subtítulo: Esa sombra es un árbol
 
 
-TUCO LLEGA VOLANDO; Insignia: ●4; Plano de @imgTuco volando por la ventana abierta; Alas desplegadas, pico colorido brillando; Expresión alegre y protectora; @imgTalo mirando con asombro; Luz ámbar-dorada aumenta; Flecha punteada de vuelo desde ventana; Subtítulo: ¡Tuco también!
+SOMBRA REVELADA; Insignia: ●4; Plano de sombra en la pared; Pero AHORA visible con líneas que la identifican como árbol; Forma clara de rama, tronco; @imgTalo de fondo comprendiendo; Flecha punteada sobre la sombra etiquetándola; Subtítulo: El árbol se mueve
 
 
-NUTI CORRE; Insignia: ●5; Plano general de @imgNuti corriendo hacia la cama; Expresión de "aquí estoy, todo bien"; Cola moviéndose de entusiasmo; Habitación ahora mucho más cálida; Los tres amigos convergiendo hacia @imgTalo; Flecha punteada hacia Talo; Subtítulo: ¡Y Nuti!
+VIENTO EXPLICADO; Insignia: ●5; Plano de ventana con viento moviéndose las cortinas; Búho señalando hacia el viento; @imgTalo asintiendo; Comprensión creciendo; Sonido visual de viento suave; Flecha punteada del viento; Subtítulo: Ese ruido es el viento
 
 
-LOS TRES AMIGOS; Insignia: ●6; Plano general de @imgTalo en cama con @imgRubi a un lado, @imgTuco posado en la cabecera, @imgNuti sentada al pie; Los cuatro juntos; Habitación transformada de fría a cálida; Luz ámbar-dorada llena el cuarto; Flecha punteada circular del grupo; Subtítulo: ¡Estamos contigo!
+BÚHO SABIO; Insignia: ●6; Plano close-up de cara de Búho; Expresión de sabiduría; Ojos grandes mirando a Talo con bondad; Luz dorada; Explicación hecha con amor; Flecha punteada de sabiduría; Subtítulo: Soy yo quien brilla
 
 
-ABRAZO O CONTACTO; Insignia: ●7; Plano medio de @imgTalo y @imgRubi con pata de Rubí sobre el hombro de Talo; Gesto protector y cálido; Expresión de Talo aliviándose visiblemente; @imgTuco y @imgNuti de fondo sonriendo; Flecha punteada de conexión entre Rubi y Talo; Subtítulo: Aquí estamos
+TALO ENTIENDE; Insignia: ●7; Plano medio de @imgTalo; Expresión cambiando a comprensión; Alivio visible; Miedo desapareciendo; Luz más cálida; Flecha punteada de comprensión; Subtítulo: ¡Ahora entiendo!
 
 
-TALO SE RELAJA; Insignia: ●8; Plano medio cercano de cara de @imgTalo; Tensión abandonando la expresión; Cejas que bajan; Respiración más lenta visible; Ojos más suaves; Color verde de Talo retornando a su normalidad (menos tenso); Flecha punteada de alivio; Subtítulo: Gracias
+BÚHO Y TALO JUNTOS; Insignia: ●8; Plano general mostrando Búho y @imgTalo en la habitación; Búho como amigo y maestro; @imgTalo como estudiante aliviado; Luz ámbar-dorada; Flecha punteada de conexión; Subtítulo: Eres mi amigo
 
 
-AMIGOS RODEAN; Insignia: ●9; Plano general de los cuatro personajes; @imgTalo en centro-cama, amigos alrededor en sus posiciones naturales; Habitación calida y acogedora; Sombra en pared presente pero ya no aterradora desde esta perspectiva; Flecha punteada circular de protección; Subtítulo: No estás solo
+VERDAD REVELADA COMPLETA; Insignia: ●9; Plano mostrando sombra (ahora claramente árbol), viento (visualizado), Búho (ojos brillantes identificados), y @imgTalo; Todo etiquetado con verdad; Flecha punteada hacia cada elemento; Subtítulo: Todo explicado
 
 
-MIRADA DE GRATITUD; Insignia: ●10; Plano medio de @imgTalo mirando a @imgRubi con expresión de gratitud profunda; Conexión emocional clara entre ambos; Rubí sonriendo con calidez; Luz ámbar suave; Flecha punteada de conexión; Subtítulo: Gracias, Rubí
+HABITACIÓN TRANSFORMADA; Insignia: ●10; Plano general de habitación; Antes oscura y amenazante, AHORA simplemente oscura pero segura; Búho presente como protector; @imgTalo tranquilo; Luz ámbar suave; Flecha punteada hacia adelante; Subtítulo: La verdad libera
 
 
-GRUPO EN PAZ; Insignia: ●11; Plano general de los cuatro; Todos en la habitación ahora cálida; Sombra en pared vista desde la nueva perspectiva (ya no amenazante); Luna visible por ventana como elemento amigable; Flecha punteada hacia la ventana con menos miedo; Subtítulo: La noche se siente diferente
+BÚHO ENSEÑA MÁS; Insignia: ●11; Plano medio de Búho con alas extendidas; Enseñanza continúa; @imgTalo escuchando con atención; Expresión de Búho paciente y sabia; Flecha punteada de enseñanza; Subtítulo: Aprende
 
 
-EQUIPO COMPLETO; Insignia: ●12; Plano general final de los cuatro personajes juntos en la habitación; Luz ámbar-dorada dominante; Talo pequeño pero ya no solo; Amigos como escudo de amor; Habitación transformada del miedo a la seguridad; Flecha punteada hacia afuera, hacia el espectador; Subtítulo: Juntos siempre
+TRANSICIÓN A VERSO 4; Insignia: ●12; Plano de Búho y @imgTalo; Puerta abierta a más comprensión; Momento de pausa; Siguiente lección aproximándose; Flecha punteada hacia adelante; Subtítulo: Escúchame
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Rescue and reunion video showing the arrival of three friends who appear just when the character needs them most; the emotional transformation from isolated fear to surrounded safety is immediate and warm.
+Scene: One continuous shot — Revelation video showing a wise owl arriving and gently explaining the mysteries of the dark night to a frightened character, transforming fear into understanding.
 
-Character: Use @imgTalo as the main character in bed. Use @imgRubi entering through the door, @imgTuco flying in through the window, and @imgNuti running in to complete the group.
+Character: Use @imgTalo as the main character. Create/reference a Búho (owl) character — large, wise, gentle expression, golden light around it.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: Talo looking toward the door with fragile hope → Rubí enters confidently and warmly → Tuco flies in through window → Nuti runs to the bed → all three surrounding Talo → Talo visibly relaxing with relief. Friends move with purpose and warmth; Talo transitions from tense to releasing.
+Character Motion: Use the grid reference to follow the movement sequence exactly: Talo sitting fearfully → Búho arriving through the window → Búho pointing at/explaining the shadow → pointing at the window for the wind → Talo's expression shifting from fear to understanding → nodding in recognition. Búho's movements are gentle and teaching; Talo's shift from defensive to receptive.
 
-The scene begins with warm amber light appearing under the door of Talo's dark bedroom.
+The scene begins with Talo still fearful, then Búho appearing.
 
-Direction: Wide shot of dark bedroom with a thin line of warm amber light appearing under the door — camera holds to let the contrast build. Door opens in medium shot, backlit by warm light with Rubí silhouetted. Camera follows Rubí walking to the bed, the room warming visibly as she approaches. Quick cut to window as Tuco flies in, camera catching the wings spread. Medium shot of Nuti running in from the door. Wide shot showing all four together, the room noticeably warmer than it was. Camera softens and pulls back to a gentle wide establishing shot of the group together — safe and complete.
+Direction: Medium shot of character in fear. Wide shot of owl entering through window with spread wings, backlit by moonlight making it appear as a wise, protective figure. Cut to Búho landing and gesturing toward the shadow on the wall — use visual effects or pointing to help "reveal" that it's a tree. Pan to the window showing wind moving the curtains. Return to character's face as understanding dawns. Medium two-shot of both characters — the owl appears large and protective, the child appears smaller but comforted. End with the owl as the calm center of the frame, wisdom personified.
 
-Overall Tone: Warm, emotionally relieving, loving. The emotional opposite of the previous clip. Colors transform from cold blue-black to warm amber-gold as friends arrive. Movements are purposeful and tender. The feeling of "you're not alone" made visual.
+Overall Tone: Reassuring, gentle, teaching. The emotional shift is from fear to relief to understanding. Colors warm with golden light representing the owl's presence. Movements are slow and deliberate — teaching moments. The mood is one of an elder or mentor providing comfort and wisdom.
 
-SoundFx: Base ambience begins cold and quiet, then shifts immediately with door opening. Specific sounds: door opening slowly, Rubí's footsteps on wood floor, Tuco's wings fluttering, Nuti's quick light footsteps, soft voices of greeting and comfort. Talo's breathing slowing and deepening with relief. Optional music: warm, gentle theme emerging as friends arrive. Rhythm is tender and building gently. End with a warm, still moment of all four together.
+SoundFx: Base ambience of a calm night. Specific sounds: soft owl wing flutters, gentle owl voice speaking (warm and reassuring), wind sounds now identified as natural, Talo's breathing slowing with relief, soft wood creaks as owl lands. Optional music: warm, wise, gentle theme. Rhythm is slow and calming. End with a moment of peaceful understanding.
 ```
 
 ---
 
-### GRID 6 — Bridge — "Respira con nosotros, el aire es fresco" (~15s)
+### GRID 6 — Verse 4 ("Lo que viste no es peligro, es la noche diferente...") (~12s)
 
 **Nano Banana 2:**
 ```
-RUBÍ GUÍA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgRubi con pata en el pecho de @imgTalo guiando la respiración; Expresión de Rubí concentrada y amorosa; @imgTalo mirando a Rubí con atención y confianza; Habitación ámbar cálida; Flecha punteada del pecho de Talo hacia arriba y abajo (respiración); Subtítulo: Respira conmigo
+ENSEÑANZA CONTINÚA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de Búho con alas semiextendidas; Expresión de maestro; Explicando conceptos; @imgTalo escuchando atentamente; Habitación ámbar-cálida; Flecha punteada de enseñanza; Subtítulo: Lo que viste no es peligro
 
 
-TODOS RESPIRAN; Insignia: ●2; Plano general de los cuatro personajes respirando sincronizados; Pecho de todos visible subiendo y bajando; Ondas de aire visual flotan desde cada personaje; Ritmo común establecido; Flecha punteada de onda de respiración; Subtítulo: Todos juntos
+NOCHE ESPECIAL; Insignia: ●2; Plano de la noche afuera mostrando árbol, luna, estrellas; Búho señalando; "Es la noche diferente" representado visualmente; @imgTalo mirando con asombro; Flecha punteada hacia la noche; Subtítulo: Es la noche diferente
 
 
-TALO RESPIRA PROFUNDO; Insignia: ●3; Plano medio cercano de @imgTalo inhalando profundamente; Pecho expandiéndose visible; Ojos cerrados en concentración; Expresión de esfuerzo consciente por calmarse; Flecha punteada ascendente de inhalar; Subtítulo: Inhalo despacio
+PERSPECTIVA NUEVA; Insignia: ●3; Plano mostrando @imgTalo viendo la noche con ojos nuevos; Antes amenazante, ahora hermosa; Expresión de descubrimiento; Luz ámbar-plateada; Flecha punteada de transformación; Subtítulo: Veo diferente
 
 
-ONDA DE CALMA; Insignia: ●4; Plano medio de @imgTalo exhalando; Efecto visual de onda de aire saliendo suave; Cuerpo visiblemente más relajado; Hombros bajando con la exhalación; Flecha punteada descendente y expansiva; Subtítulo: Y exhalo
+BUSHO MAESTRO; Insignia: ●4; Plano close-up de Búho; Ojos sabios mirando a Talo; Expresión de "esto es lo que quería enseñarte"; Luz dorada alrededor; Flecha punteada de sabiduría; Subtítulo: Aprende a mirar
 
 
-BRISA POR LA VENTANA; Insignia: ●5; Plano de ventana con cortinas moviéndose en brisa suave; Árbol afuera visible moviéndose gentilmente; Luna brillando amigable; Aire fresco visual entrando; Sensación de naturaleza acogedora; Flecha punteada desde ventana hacia adentro; Subtítulo: El aire es fresco
+EL MUNDO SE VE ESPECIAL; Insignia: ●5; Plano general de habitación y ventana; Noche vista como bella y especial, no aterradora; @imgTalo en centro; Búho en fondo; Luz mágica; Flecha punteada expansiva; Subtítulo: El mundo se ve especial
 
 
-TUCO RESPIRA TAMBIÉN; Insignia: ●6; Plano detalle de @imgTuco en su posición posado; Pico cerrado, respiración visible en el cuerpo; Parte del grupo sincronizado; Expresión tranquila; Plumas en reposo; Flecha punteada de respiración suave; Subtítulo: Con nosotros
+DETALLE DE LA NOCHE; Insignia: ●6; Plano de detalles nocturnos: luna brillante, árbol con forma clara, estrellas, sombras como patrones; Todos bellos y no amenazantes; Flecha punteada de belleza; Subtítulo: Tan hermosa
 
 
-NUTI EN PAZ; Insignia: ●7; Plano detalle de @imgNuti sentada tranquila; Cuerpo relajado; Respiración lenta visible; Parte del círculo de calma del grupo; Expresión serena; Flecha punteada de calma; Subtítulo: Todos estamos aquí
+TALO ASIMILA; Insignia: ●7; Plano medio de @imgTalo; Expresión de procesamiento y aceptación; Miedo completamente disuelto; Curiosidad creciendo; Mano en el pecho; Flecha punteada de comprensión; Subtítulo: Entiendo
 
 
-OJOS DE TALO SE ABLANDAN; Insignia: ●8; Plano close-up de cara de @imgTalo; Ojos más suaves y menos tensos; Cejas relajadas; Respiración visible en la expresión; Calma llegando genuinamente; Flecha punteada de alivio; Subtítulo: Me siento mejor
+BÚHO ORGULLOSO; Insignia: ●8; Plano de Búho con expresión de alegría; Estudiante está aprendiendo; Misión de enseñanza progresando; Luz dorada; Flecha punteada de satisfacción; Subtítulo: Bien, Talo
 
 
-CUATRO EN RITMO; Insignia: ●9; Plano general de los cuatro personajes en ritmo compartido; Sincronía visual de la respiración; Habitación ámbar cálida; Luz suave y acogedora; Silencio lleno de paz; Flecha punteada circular del grupo; Subtítulo: Estamos en paz
+TRANSFORMACIÓN COMPLETA DE PERSPECTIVA; Insignia: ●9; Plano de mismo frame de escena de Verse 1 pero AHORA sin miedo; La sombra, el árbol, todo reconocible y bello; @imgTalo sonriendo; Búho protector; Flecha punteada de liberación; Subtítulo: Todo cambió
 
 
-CERRAR LOS OJOS; Insignia: ●10; Plano medio cercano de @imgTalo cerrando los ojos suavemente; Esta vez con confianza, no con miedo; Expresión de paz genuina; Amigos visibles de fondo; Flecha punteada descendente suave; Subtítulo: Cierro los ojos
+NUEVO ENTENDIMIENTO; Insignia: ●10; Plano mostrando @imgTalo y Búho; Conexión maestro-estudiante establecida; Talo ya no asustado; Buscando aprender más; Luz ámbar; Flecha punteada de apertura; Subtítulo: Quiero aprender
 
 
-HABITACIÓN ACOGEDORA; Insignia: ●11; Plano general de habitación transformada; Luz ámbar-dorada suave; Cuatro personajes en sus lugares; Noche visible pero amigable; Aire fresco y cálido al mismo tiempo; Flecha punteada expansiva; Subtítulo: Estamos seguros
+BELLEZA NOCTURNA; Insignia: ●11; Plano de la noche por ventana; Completamente bella ahora; Árbol, luna, estrellas en armonía; @imgTalo en foreground mirando con asombro; Flecha punteada hacia el cielo; Subtítulo: Qué hermoso
 
 
-SILENCIO PLENO; Insignia: ●12; Plano general de los cuatro en silencio y calma; Respiración sincronizada visible como única acción; La habitación respira con ellos; Luna brillante por ventana amigable; Paz total antes del siguiente verso; Flecha punteada de paz; Subtítulo: Listos para dormir
+VERSO 4 TERMINA; Insignia: ●12; Plano general de habitación; Talo y Búho; Enseñanza completada; Momento de pausa antes de Verse 5; Luz cálida; Flecha punteada hacia adelante; Subtítulo: Lista la siguiente lección
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Guided breathing video showing a group of four friends breathing together in peaceful synchrony; the moment is meditative, tender, and represents the emotional turning point from fear to safety.
+Scene: One continuous shot — Teaching video where a wise owl guides a character toward understanding that the night, rather than being dangerous, is actually beautiful and special when viewed with the right perspective.
 
-Character: Use @imgTalo as the main character. Use @imgRubi beside Talo guiding the breathing, @imgTuco perched and breathing calmly, @imgNuti seated and in peaceful rhythm.
+Character: Use @imgTalo as the student. Use Búho as the wise teacher, gesturing and explaining with patience and love.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: Rubí placing paw on Talo's chest → all four synchronizing breaths → Talo inhaling visibly → slow exhale with body relaxing → eyes closing with trust. All movements are slow, rhythmic, and intentional.
+Character Motion: Use the grid reference to follow the movement sequence exactly: Talo listening intently → looking at the window with fresh perspective → eyes widening with wonder → moving closer to the window → looking back at Búho with gratitude and understanding → finally seeing the beauty of the night. Movements are receptive and open.
 
-The scene begins with Rubí guiding Talo's breathing in the warm bedroom.
+The scene begins with Búho continuing the teaching while Talo listens.
 
-Direction: Medium shot of Rubí with her paw on Talo's chest, establishing the breathing guidance. Camera slowly pulls back to show all four friends in their positions, the breathing synchrony becoming the visual rhythm of the clip. Gentle push-in to Talo's face as eyes close with growing peace — this should feel like the resolution moment. Camera holds wide to show the full group in calm rhythm. The window with breeze and friendly moon can be shown briefly. Final shot is a serene wide of all four in absolute peace together.
+Direction: Medium shot of owl explaining, gestures emphasizing points. Camera slowly pans to show the window — the night is framed as beautiful, not scary. Camera returns to Talo's face as understanding and wonder spread. Medium two-shot of both, with composition emphasizing the owl's wisdom and Talo's receptiveness. Pull back to wide shot showing the transformed room — same as before but now imbued with beauty because Talo now understands. The lighting should shift subtly to show golden warmth rather than cold blue shadows.
 
-Overall Tone: The most peaceful and meditative clip. Slow, rhythmic, healing energy. Warm amber light throughout. Movements reduced to the rhythm of breathing only. The emotional equivalent of finally exhaling after holding your breath.
+Overall Tone: Enlightened and warm. Movements are gentle and transformative. Colors are golden and warm throughout. The mood is one of the specific joy that comes from learning and gaining new perspective.
 
-SoundFx: Guided breathing sounds — deliberate inhale, slow exhale, in peaceful rhythm. Gentle breeze through the window. Very subtle, warm ambient sounds. All four characters' breath sounds barely audible but present. Optional music: extremely soft, single piano note or warm sustained tone. No beat or rhythm — only warmth. Rhythm matches breathing pace. End with profound, safe silence.
+SoundFx: Base ambience of beautiful night sounds — crickets, gentle wind, distant owl calls. Specific sounds: Búho's gentle teaching voice (warm and patient), Talo's breathing deepening with understanding, soft sighs of relief and wonder, window glass reflecting light subtly. Optional music: theme becoming more beautiful and uplifting, building confidence and joy. Rhythm is gentle and building. End with a moment of peaceful understanding and shared wisdom.
 ```
 
 ---
 
-### GRID 7 — Verso 5 + Coro Final — "La oscuridad no duele, es como un abrazo" (~40s)
+### GRID 7 — Verse 5 ("¡Ahora entiendo, Búho! Era el viento nada más...") (~12s)
 
 **Nano Banana 2:**
 ```
-NUEVA MIRADA; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo abriendo los ojos; Esta vez mirada diferente, de descubrimiento en lugar de miedo; Misma habitación oscura pero ahora vista como acogedora; Expresión de asombro positivo; Flecha punteada hacia afuera con curiosidad; Subtítulo: La oscuridad no duele
+EPIFANÍA DE TALO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo con expresión de "¡Ajá!"; Comprensión total; Cara iluminada; Brazos levantados con alegría; Luz ámbar dorada; Flecha punteada de descubrimiento; Subtítulo: ¡Ahora entiendo!
 
 
-LA SOMBRA DEL ÁRBOL VISTA DIFERENTE; Insignia: ●2; Plano de sombra en la pared del árbol; Ahora la sombra es hermosa, como un dibujo natural; @imgTalo señalando la sombra con expresión de descubrimiento, no de miedo; @imgRubi asintiendo; Flecha punteada hacia la sombra con curiosidad; Subtítulo: ¡Es el árbol!
+VALENTIÍA VERDADERA; Insignia: ●2; Plano medio de @imgTalo de pie; Postura completamente cambiada de verse 1; Confiado; Fuerte; Feliz; Expresión de "no necesito tener miedo"; Flecha punteada hacia arriba; Subtítulo: Era el viento nada más
 
 
-ÁRBOL HERMOSO; Insignia: ●3; Plano de ventana mostrando árbol afuera en la noche; Árbol con luz de luna es hermoso y gracioso; Ramas moviéndose como una danza; @imgTalo y amigos mirando hacia la ventana con admiración; Flecha punteada hacia el árbol; Subtítulo: Baila en la noche
+EL ÁRBOL REVELADO; Insignia: ●3; Plano de árbol afuera por ventana; Visible completamente en luna; Hermoso; Inofensivo; Claramente árbol; @imgTalo en frame reconociendo; Flecha punteada hacia el árbol; Subtítulo: ¡Ese árbol!
 
 
-OSCURIDAD COMO ABRAZO; Insignia: ●4; Plano medio de @imgTalo con brazos levemente abiertos; Gesto de aceptar, de recibir; Oscuridad alrededor como manta cálida visual; Luz ámbar-dorada envolviendo a Talo; Amigos cerca; Flecha punteada expansiva hacia afuera; Subtítulo: Es como un abrazo
+SOMBRA TRANSFORMADA; Insignia: ●4; Plano de sombra en pared; Pero AHORA claramente identificada como árbol, no amenaza; @imgTalo señalando sin miedo; Reconocimiento y sonrisa; Flecha punteada etiquetando la sombra; Subtítulo: Solo una sombra
 
 
-AMIGOS DUERMEN; Insignia: ●5; Plano general de @imgRubi acurrucándose y cerrando los ojos; @imgTuco acomodando la cabeza bajo las alas; @imgNuti curvándose en posición de sueño; Todos uno a uno durmiendo; @imgTalo observando con ternura; Flecha punteada de sueño; Subtítulo: Mis amigos duermen
+SIN MIEDO; Insignia: ●5; Plano medio de @imgTalo con expresión completamente liberada; Miedo completamente desaparecido; Cara radiante; Cuerpo relajado; Verdadera valentía; Flecha punteada de libertad; Subtítulo: ¡Sin miedo!
 
 
-TALO DUERME TAMBIÉN; Insignia: ●6; Plano medio de @imgTalo recostándose por última vez; Esta vez con confianza y paz; Expresión de quien ha aprendido algo; Sonrisa suave; Manta encima cómoda; Flecha punteada descendente de paz; Subtítulo: Yo duermo también
+MONSTRUO REVELADO FALSO; Insignia: ●6; Plano mostrando lo que antes imaginó como monstruo; AHORA claramente reconocible como algo inofensivo (árbol, búho, viento); Imaginación revelada; @imgTalo sonriendo; Flecha punteada de verdad; Subtítulo: Nada peligroso
 
 
-LUNA AMIGA; Insignia: ●7; Plano de la ventana con luna grande y brillante; Ahora la luna se siente como una amiga que vigila; Árbol visible y hermoso; Luz plateada acogedora; Estrellas visibles; Flecha punteada hacia la luna; Subtítulo: La luna nos cuida
+BÚHO NODA; Insignia: ●7; Plano de Búho asintiendo con expresión de orgullo; Estudiante ha aprendido la lección; Misión completada; Luz dorada alrededor de Búho; Flecha punteada de aprobación; Subtítulo: Lo hiciste bien
 
 
-CUATRO DURMIENDO; Insignia: ●8; Plano general de los cuatro personajes durmiendo; @imgTalo en la cama, @imgRubi acurrucada cerca, @imgTuco posado tranquilo, @imgNuti dormida; Habitación ámbar-plata perfecta; Absolutamente en paz; Flecha punteada orbital suave; Subtítulo: Todos en paz
+TALO TRANSFORMADO COMPLETAMENTE; Insignia: ●8; Plano general mostrando @imgTalo; No es el mismo de Verse 1; Completamente diferente; Bravo; Curioso; Sabio; Luz ámbar cálida; Flecha punteada de transformación; Subtítulo: He crecido
 
 
-RESPIRACIÓN COMPARTIDA; Insignia: ●9; Plano medio de @imgTalo y @imgRubi durmiendo; Respiración sincronizada visible suave; Caras en paz; Manta abrigando; Luz suave de luna; Profundidad del sueño visible; Flecha punteada de respiración suave; Subtítulo: Juntos soñamos
+ABRAZO EMOCIONAL; Insignia: ●9; Plano de @imgTalo y Búho juntos; Gesto de conexión; Maestro y estudiante; Amor y respeto mutuos; Luz dorada; Flecha punteada de conexión; Subtítulo: Gracias, Búho
 
 
-NOCHE HERMOSA; Insignia: ●10; Plano de habitación completa en su versión más hermosa; Mezcla de ámbar y plateado de luna; Los cuatro amigos dormidos; Ventana con luna y árbol como cuadro; Atmósfera de cuento de hadas; Flecha punteada hacia el espectador; Subtítulo: La noche es segura
+HABITUACIÓN TRANSFORMADA; Insignia: ●10; Plano general de habitación; La MISMA habitación de Verse 1; Pero AHORA segura, acogedora, bella; Diferencia puramente en la perspectiva; Flecha punteada de transformación; Subtítulo: Casa segura
 
 
-ESTRELLA EN LA VENTANA; Insignia: ●11; Plano close-up de ventana con estrella brillante destacada; Luna y árbol de fondo; Luz suave entrando; Silencio visual de noche; Magia simple de la oscuridad nocturna; Flecha punteada hacia la estrella; Subtítulo: Las estrellas brillan
+NOCHE HERMOSA CONFIRMADA; Insignia: ●11; Plano de ventana con noche; Completamente bella y mágica; @imgTalo mirando con admiración; Búho en hombro o cerca de forma protectora; Flecha punteada hacia el cielo; Subtítulo: Belleza pura
 
 
-TODOS SEGUROS; Insignia: ●12; Plano general final de todos durmiendo; Composición de cuento; Habitación perfectamente acogedora; Los cuatro amigos en sus lugares; Luna vigila por la ventana; Frame de final de historia; Flecha punteada hacia afuera al espectador; Subtítulo: Seguros y felices
+VERSO 5 FINAL; Insignia: ●12; Plano de @imgTalo y Búho; Lección aprendida; Transformación completada; Valentía ganada a través del entendimiento; Momento de paz antes del Chorus Final; Flecha punteada hacia adelante; Subtítulo: Estoy listo
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Transformation and sleep video showing a character reframing their view of the dark bedroom from threatening to beautiful, then all four friends drifting to sleep together; the emotional arc completes here.
+Scene: One continuous shot — Victory video showing a character experiencing a complete emotional and perspective shift, moving from fear to genuine understanding, courage, and joy through the guidance of a wise friend.
 
-Character: Use @imgTalo as the main character. Use @imgRubi, @imgTuco, and @imgNuti in their sleeping positions around the bedroom.
+Character: Use @imgTalo as the main character. Use Búho as the wise friend standing with Talo now, equal partners in understanding.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: Talo opening eyes with wonder instead of fear → pointing at shadow with curiosity and awe → arms open in acceptance → watching friends fall asleep one by one → lying down with peace and confidence → sleeping with a small smile. Movements transition from awakened wonder to peaceful final rest.
+Character Motion: Use the grid reference to follow the movement sequence exactly: Talo having the epiphany moment with expression of "Aha!" → standing tall with true confidence → pointing at the tree with recognition → laughing or smiling with genuine relief → embracing the relationship with Búho → looking out at the night with wonder and appreciation. Movements are joyful, confident, and open.
 
-The scene begins with Talo's eyes opening to look at the dark bedroom with new eyes.
+The scene begins with Talo's moment of epiphany and complete understanding.
 
-Direction: Medium close-up of Talo's face opening eyes — the expression is different this time, curiosity replacing fear. Camera follows Talo's gaze to the shadow on the wall — now shown as beautiful, like a natural artwork. Pan to the window showing the tree moving gracefully in moonlight. Return to Talo and friends as they begin to settle into sleep one by one — camera shows each friend finding rest. Final wide shot of all four sleeping together in the perfectly lit room (amber lantern glow plus silver moonlight), camera holds then slowly, gently pulls back as the scene settles into perfect peace.
+Direction: Close-up of Talo's face as the moment of understanding hits — a powerful emotional moment. Camera pulls back to show Talo standing fully upright, transformed. Pan to show the tree outside, now clearly visible and beautiful. Return to Talo and Búho together — camera frames them as equals now, not teacher and student but friends. Wide shot of the room and window — same space but completely transformed by perspective change. The visual should show clearly that nothing in the environment actually changed — only Talo's understanding.
 
-Overall Tone: Transformation and resolution. The most beautiful and warm version of the bedroom we've seen. Colors are the richest and warmest amber-gold with soft silver accents. Movements from wonder to peaceful rest. The emotional payoff of the entire song. Like the last pages of a beloved bedtime story.
+Overall Tone: Joyful, triumphant, peaceful. The emotional payoff of the journey from fear to understanding. Movements are open and confident. Colors are warm golden-amber throughout. The mood is one of genuine transformation and growth.
 
-SoundFx: Base ambience of a perfect, safe night — crickets gentle and distant, soft wind, complete safety. Specific sounds: Talo's breath of wonder, friends settling to sleep (each with their natural sounds: wing tucking, tail curling, quiet settling). Soft night sounds through window. Optional music: gentle, warm lullaby theme emerging fully — soft and comforting. Rhythm slows to match sleep. End with very soft, warm silence of deep sleep.
+SoundFx: Base ambience of beautiful night sounds. Specific sounds: Talo's laugh or gasp of understanding and joy, the tree sounds now recognized (wind, leaves), Búho's soft approving hoots, Talo's confident breathing. Optional music: triumphant but peaceful, major key theme emerging fully. Rhythm becomes steady and confident. End on a moment of achieved peace and understanding.
 ```
 
 ---
 
-### GRID 8 — Outro — "Duermo seguro, mañana despierto fuerte" (~15s)
+### GRID 8 — Chorus Final + Outro ("Soy valiente, tengo curiosidad... Duermo seguro") (~15s)
 
 **Nano Banana 2:**
 ```
-SUEÑO PROFUNDO; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano general de los cuatro personajes en sueño profundo; @imgTalo en cama con sonrisa suave, @imgRubi acurrucada, @imgTuco con cabeza bajo ala, @imgNuti curvada; Perfecta paz; Luna brillando; Flecha punteada de sueño muy suave; Subtítulo: Duermo seguro
+CORO CON PODER; Insignia: ●1; Formato 16:9, cuadrícula 12 frames, fondo off-white, bordes negros finos; Plano medio de @imgTalo con Búho; Recitando el coro con confianza verdadera; Expresión segura; Brazos con poder; Luz ámbar-dorada; Flecha punteada de poder; Subtítulo: Soy valiente
 
 
-CLOSE TALO DORMIDO; Insignia: ●2; Plano close-up de cara de @imgTalo durmiendo; Expresión de paz absoluta; Sonrisa muy suave; Espiral dorada de la frente brillando tenuemente con luz de luna; Respiración visible y lenta; Flecha punteada de respiración; Subtítulo: En paz
+CURIOSIDAD ESTABLECIDA; Insignia: ●2; Plano de @imgTalo mirando la noche con curiosidad genuina; No miedo, sino interés; Búho a su lado; Luz cálida; Flecha punteada exploradora; Subtítulo: Tengo curiosidad
 
 
-LUNA VIGILA; Insignia: ●3; Plano de ventana con luna en su punto más sereno; Árbol quieto y hermoso afuera; Estrellas brillando; Luz plateada suave en la habitación; Naturaleza como protectora; Flecha punteada hacia la luna; Subtítulo: La luna me cuida
+OSCURIDAD SIN MIEDO; Insignia: ●3; Plano mostrando @imgTalo en habitación oscura; Pero sin miedo; Con comprensión; Con Búho; Seguridad verdadera; Flecha punteada de seguridad; Subtítulo: La oscuridad no da miedo
 
 
-RUBÍ ACURRUCADA; Insignia: ●4; Plano detalle de @imgRubi durmiendo acurrucada; Cuerpo naranja redondeado y tranquilo; Cola anillada envuelta alrededor; Cara con expresión de sueño pacífico; Bigotes quietos; Flecha punteada de sueño suave; Subtítulo: Rubí sueña
+COSAS ESPECIALES VISIBLES; Insignia: ●4; Plano de ventana mostrando noche; Árbol, luna, estrellas; Todos visibles y especiales; @imgTalo apuntando con asombro; Búho nodando; Flecha punteada de descubrimiento; Subtítulo: Veo cosas especiales
 
 
-TUCO EN REPOSO; Insignia: ●5; Plano detalle de @imgTuco posado con cabeza bajo las alas; Plumas negras y amarillas en reposo; Postura natural de sueño de tucán; Pico colorido quieto; Expresión de paz; Flecha punteada muy suave; Subtítulo: Tuco descansa
+CON MI AMIGO BÚHO; Insignia: ●5; Plano de @imgTalo y Búho juntos; Amistad verdadera; Protección; Enseñanza; Amor; Luz dorada; Flecha punteada de conexión; Subtítulo: Con mi amigo Búho
 
 
-NUTI DORMIDA; Insignia: ●6; Plano detalle de @imgNuti en posición de sueño; Cuerpo marrón redondeado; Cola larga curvada alrededor; Bigotes de nutria quietos; Expresión de sueño profundo; Flecha punteada suavísima; Subtítulo: Nuti sueña también
+LA NOCHE ES HERMOSA; Insignia: ●6; Plano de noche por ventana; Completamente hermosa; Mágica; Invitadora; @imgTalo mirando con admiración; Búho presente; Flecha punteada hacia el cielo; Subtítulo: La noche es hermosa
 
 
-HABITACIÓN SOÑADA; Insignia: ●7; Plano general de habitación en su versión más hermosa y serena; Los cuatro en sus lugares perfectos; Luz ámbar-plata perfecta; Ventana con luna; Ambiente de cuento de hadas; Flecha punteada muy amplia y suave; Subtítulo: Seguros los cuatro
+PREPARÁNDOSE PARA DORMIR; Insignia: ●7; Plano de @imgTalo y Búho; Moviendo hacia la cama; Expresión de paz; Cansancio feliz; Lección aprendida; Luz ámbar suave; Flecha punteada hacia la cama; Subtítulo: Hora de dormir
 
 
-ZOOM OUT SUAVE; Insignia: ●8; Plano más alejado de la habitación; Comenzando a ver desde afuera; Los cuatro amigos pequeños pero visibles en la calidez; Ventana brillante; Noche serena afuera; Flecha punteada alejándose; Subtítulo: Todo está bien
+SEGURIDAD VERDADERA; Insignia: ●8; Plano de @imgTalo en cama; Manta encima; Búho cerca como guardián; Expresión de paz absoluta; Miedo completamente disuelto; Luz suave; Flecha punteada de seguridad; Subtítulo: Duermo seguro
 
 
-EXTERIOR DE NOCHE; Insignia: ●9; Plano exterior de la habitación vista desde afuera; Ventana brillando cálidamente en la noche; Árbol tranquilo; Luna y estrellas; Mundo en paz; Flecha punteada hacia las estrellas; Subtítulo: La noche es segura
+OJOS CERRÁNDOSE; Insignia: ●9; Plano close-up de cara de @imgTalo; Ojos cerrándose con paz; Sonrisa suave; Espiral dorada brillando sutilmente; Respiración visible y lenta; Flecha punteada de sueño; Subtítulo: Cierro los ojos
 
 
-CIELO ESTRELLADO; Insignia: ●10; Plano del cielo nocturno lleno de estrellas; Luna grande y amigable; Alguna nube suave; Belleza de la noche revelada; Colores azul-plateado hermoso; Flecha punteada hacia las estrellas; Subtítulo: Mañana despierto
+BÚHO VIGILA; Insignia: ●10; Plano de Búho posado en rama o mueble cerca; Ojos abiertos; Vigilante pero tranquilo; Guardián protector; Luz dorada; Flecha punteada de vigilancia; Subtítulo: Búho me cuida
 
 
-ESTRELLA ESPECIAL; Insignia: ●11; Plano close-up de una estrella brillante; Destellos suaves; Como una promesa de mañana; Azul y plateado; Simple y hermoso; Flecha punteada hacia la estrella; Subtítulo: Fuerte y feliz
+LUNA A TRAVÉS DE VENTANA; Insignia: ●11; Plano de ventana con luna; Hermosa; Pacífica; Protectora; Árbol visible; Noche segura; Flecha punteada hacia la luna; Subtítulo: Luna vigilante
 
 
-FADE FINAL; Insignia: ●12; Plano de cielo estrellado comenzando a suavizarse; Fade muy gradual a negro; Luna aún presente; Fin del cuento; Habitación en paz eterna de fondo suave; Flecha punteada muy suave desapareciendo; Subtítulo: Fin
+SUEÑO PROFUNDO; Insignia: ●12; Plano general de habitación; @imgTalo durmiendo profundamente; Búho vigilante; Luna por ventana; Árbol tranquilo; Paz completa; Flecha punteada muy suave; Subtítulo: Fin
 ```
 
 **Seedance 2:**
 ```
-Scene: One continuous shot — Lullaby ending video showing four friends deeply asleep in a cozy bedroom, then slowly pulling back to reveal the beautiful night outside; the visual equivalent of closing a beloved storybook.
+Scene: One continuous shot — Final lullaby video showing a character falling asleep safely with a wise friend watching over them, the journey from fear to peace completely resolved.
 
-Character: Use @imgTalo sleeping peacefully in bed. Use @imgRubi, @imgTuco, and @imgNuti each in their natural sleeping positions around the room.
+Character: Use @imgTalo as the sleeping character. Use Búho as the protective guardian watching over the sleep.
 
-Character Motion: Use the grid reference to follow the movement sequence exactly: all four in deep sleep → close on Talo's peaceful sleeping face → slow pull back revealing the room → continuing pull back to window → revealing the night sky and stars. All motion is camera motion only — characters are sleeping and do not move except for gentle breathing.
+Character Motion: Use the grid reference to follow the movement sequence exactly: reciting the chorus with confidence → moving to bed → settling under covers → eyes closing peacefully → falling into deep sleep. Búho's motion: settling into watchful position → keeping eyes open protectively. All motion is slow and lullaby-like.
 
-The scene begins with all four friends in deep, peaceful sleep.
+The scene begins with the chorus recited in confidence and power, then transitions to bedtime preparations.
 
-Direction: Opening wide shot of the complete bedroom scene — all four sleeping, room in perfect amber-silver light balance. Slow push-in to Talo's face, close-up capturing the peaceful expression and the faintly glowing golden spiral on the forehead in moonlight. Slow pull back through the room, showing each sleeping friend. Camera continues to pull back past the window, then cuts to an exterior view of the glowing bedroom window in the quiet night. Final shots are the night sky — tree, moon, stars — in their most beautiful nighttime form, before a very slow, gentle fade to black.
+Direction: Medium shot of character and owl as the chorus is repeated — the confidence is visually clear. Camera follows as they move toward bed. Medium shot of character getting into bed, settling under covers. Close-up of face as eyes close slowly — this is a peaceful, trusting sleep, not an exhausted collapse. Camera pulls back to show the full room: character sleeping peacefully, owl on watch nearby, moon through window. The framing should show safety and protection.
 
-Overall Tone: Tender, final, lullaby-complete. The slowest and most serene clip. Colors are the softest mix of amber and silver. Camera movement is extremely slow and gentle. The feeling of a trusted adult turning off the light after a bedtime story. Complete safety and peace.
+Overall Tone: Peaceful, resolved, loving. The emotional conclusion to the entire journey. Movements are slow and gentle. Colors are soft amber and silver from moonlight. The mood is one of earned peace, safety from understanding, and the comfort of trusted companionship.
 
-SoundFx: The softest possible ambience — barely perceptible night sounds (crickets very distant, a leaf settling). Specific sounds: gentle breathing of all four characters, extremely subtle. Optional music: lullaby theme at its softest, fading very gradually. Rhythm is almost imperceptible — just warmth. End with complete, beautiful, safe silence as the final fade completes.
+SoundFx: Base ambience of a peaceful, safe night. Specific sounds: soft footsteps as they move to bed, sheets settling, slow breathing deepening into sleep, owl's occasional gentle hoot (reassuring), soft wind outside (now recognized as beautiful, not threatening), the lullaby music from the song if appropriate. Optional music: gentle, warm lullaby concluding the song. Rhythm is slow, matching breathing and heartbeat. End with complete, beautiful, safe silence of deep sleep.
 ```
 
 ---
@@ -529,19 +529,4 @@ Una vez tengas los 8 clips y el audio:
 4. Importa `oscuridad.mp3` y sincroniza con el inicio
 5. Exporta como MP4 (1920x1080, 30fps)
 
-**Resultado:** Video musical completo de ~2:45 minutos listo.
-
----
-
-## PALETA DE COLOR PROGRESIVA
-
-| Grid | Sección | Tonos dominantes | Emoción visual |
-|------|---------|-----------------|----------------|
-| 1 | Intro | Ámbar → azul-plata suave | Calma nocturna |
-| 2 | Verso 1 | Azul-gris nocturno | Curiosidad e inquietud |
-| 3 | Coro 1 | Azul + ámbar emergente | Memoria de seguridad |
-| 4 | Verso 2+3 | Azul-negro frío + silencio | Miedo máximo y validación |
-| 5 | Verso 4 | Ámbar-naranja entrando | Llegada de los amigos |
-| 6 | Bridge | Ámbar-dorado suave | Respiración y calma |
-| 7 | Verso 5+Coro | Ámbar-dorado + plata luna | Abrazo de la oscuridad |
-| 8 | Outro | Plata-ámbar → fade negro | Sueño profundo |
+**Resultado:** Video musical completo de ~1:30 minutos listo.
