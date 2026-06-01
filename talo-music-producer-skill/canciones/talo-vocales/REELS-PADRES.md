@@ -1,573 +1,590 @@
-# REELS PADRES — Educacional + TALO es la Solución
+# REELS PADRES — v5 (Enfoque Empatía + Juego + Aventura)
 
-**Reels educacionales para padres sobre aprendizaje con TALO**
-**TALO es presentado como la solución que funciona**
+**Hook principal:** "Tu hijo no necesita presión. Necesita juego, música y repetición."
+**Tono:** Emocional, esperanzador, nunca culpabilizador
+**Estructura:** 3-4 clips de 5 segundos c/u
 
 ---
 
-## REEL 1: "¿POR QUÉ APRENDER VOCALES?" (20 segundos)
+## ESTILO VISUAL BASE (todos los reels)
 
-### PROMPT IMAGEN INICIAL:
+**Paleta:**
+- Mundo SIN TALO: grises cálidos, tonos apagados, leve desánimo
+- Mundo CON TALO: verde, dorado, azul suave — como acuarela que invade
+- Transición: El color NO aparece de golpe. Se expande suave, como tinta en agua
+
+**Ilustración:**
+- Acuarela infantil tipo libro clásico europeo
+- Líneas claras, textura de papel antiguo
+- Sin contraste duro, colores armoniosos
+- Expresiones tiernas, nunca dramáticas
+
+**Talo:**
+- Siempre aparece desde un lateral, con luz cálida
+- Nunca impone — invita con empatía
+- Su presencia = el color empieza a crecer
+
+---
+
+## REEL 1: "¿TU HIJO SE FRUSTRA AL APRENDER?" (4 clips = 20 seg)
+
+### CLIP 1/4: "EL HOOK EMOCIONAL" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-Split screen: LEFT = frustración (sin TALO),
-RIGHT = éxito con TALO enseñando
-TALO visible como la diferencia
+Imagen vertical 9:16. Ilustración acuarela infantil estilo libro clásico europeo.
+
+Niño pequeño (3-6 años) sentado frente a letras de madera esparcidas.
+Expresión de frustración LEVE, sin dramatismo. No llora, solo se detiene.
+Ambiente apagado: grises cálidos, luz tenue.
+Sin personajes de Talo aún.
+
+Texto superior: "¿Tu hijo se frustra al aprender?"
+Banner inferior fijo: "🎵 Con Talo, aprender es una aventura"
+
+Estilo: Acuarela suave, textura papel antiguo, líneas claras.
+Sin bordes duros. Composición limpia con espacio para texto.
 ```
 
-### PROMPT ANIMACIÓN KLING 2.5:
+**PROMPT VIDEO - KLING 2.5:**
 ```
-Duration: 20 seconds. Format: 9:16 vertical.
-**SHOW TALO AS THE SOLUTION**
+Duración: 5 segundos. Formato: 9:16 vertical.
 
-Animation:
-[0-3s] LEFT: Child struggling, frustrated, letters scattered
-[3-6s] LEFT: Parent concerned, child overwhelmed (problem established)
-[6-9s] TRANSITION: TALO appears with bright colors, magical entry
-[9-12s] RIGHT: TALO teaching child - child's face lights up
-[12-15s] Child and TALO together - organized, happy learning
-[15-18s] Parent smiling - TALO solved the problem
-[18-20s] Text: "Con TALO, las vocales son fáciles"
+[0-1s] Niño mirando letras — quieto, leve expresión de "no sé"
+[1-2s] Niño intenta agarrar una letra — la deja caer suave
+[2-3s] Niño mira hacia abajo — pausa de desánimo
+[3-4s] Levanta la mirada — como buscando algo diferente
+[4-5s] Silencio visual — niño sentado, sin moverse (HOLD)
 
-Make clear:
-- TALO is presented as THE SOLUTION
-- Without TALO: confusion and struggle
-- With TALO: joy and success
-- TALO changes everything
+Movimiento: Mínimo, lento, contemplativo.
+Efecto: Colores grises suaves, luz apagada. Ningún efecto extra.
+Textos fijos durante todo el clip.
+```
 
-Show TALO prominently 40% of time on right side
-TALO is the transformative element
-TALO makes learning work
+---
 
-Color: LEFT dull, RIGHT bright WITH TALO
-Mood: TALO is the answer
-Final: Parent + child + TALO happy, hold 2s
+### CLIP 2/4: "TALO APARECE" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Misma escena. Niño aún con letras.
+Desde el lateral derecho: TALO aparece a mitad de frame.
+TALO sonríe con empatía, mira al niño, no al espectador.
+En la mano de TALO: letra "A" que comienza a brillar suave.
+El color empieza a invadir desde donde está TALO (como acuarela, no flash).
+
+Texto: "No necesita presión."
+Banner inferior fijo: "🎵 Con Talo, aprender es una aventura"
+
+Estilo: La mitad donde está TALO tiene colores cálidos (verde, dorado).
+La mitad del niño todavía gris — transición natural en progreso.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO entra suave desde lateral derecho — movimiento gentil
+[1-2s] TALO mira al niño con expresión amable
+[2-3s] TALO toca la letra "A" — la letra se ilumina suave
+[3-4s] El color empieza a expandirse desde TALO hacia el niño (lento, suave)
+[4-5s] TALO sostiene la "A" brillante hacia el niño (HOLD)
+
+Movimiento: Gentil, invitador, lento.
+Efecto: Color se expande como acuarela desde TALO. Letra "A" tiene glow suave.
+Textos fijos.
+```
+
+---
+
+### CLIP 3/4: "LA TRANSFORMACIÓN" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+El color ya invadió toda la escena (verde, dorado, azul suave).
+Niño levanta la mirada hacia TALO — expresión de curiosidad/sorpresa.
+Notas musicales flotan suaves alrededor.
+La letra "A" está en el aire, brilla, con pequeñas estrellas.
+TALO y niño uno junto al otro.
+
+Texto: "Necesita juego, música y repetición."
+Banner inferior fijo: "🎵 Con Talo, aprender es una aventura"
+
+Estilo: Toda la imagen en colores cálidos ahora. Mágica pero simple.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] Niño levanta la mirada — sorpresa suave al ver a TALO
+[1-2s] TALO canta/hace sonido "Aaaaaa" — boca se mueve
+[2-3s] Niño comienza a sonreír — expresión de "quiero más"
+[3-4s] Niño imita a TALO — abre la boca
+[4-5s] Ambos sonriendo, notas musicales flotan (HOLD)
+
+Movimiento: Suave, descubrimiento, natural.
+Efecto: Notas musicales flotan. Color completamente cálido.
+Textos fijos.
+```
+
+---
+
+### CLIP 4/4: "LA PROMESA" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+TALO y niño en center frame, mundo de colores alrededor.
+Nuti, Tuco y Rubí aparecen suaves en fondo.
+Letras A-E-I-O-U flotando organizadas y brillantes.
+Expresión de ambos: alegría tranquila, no explosiva.
+
+Texto: "Aprender también puede sentirse como jugar."
+Banner inferior fijo: "🎵 Ver episodio: Las Vocales con Talo"
+
+Estilo: Cálido, mágico, invitador. Todo es color ahora.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] Nuti, Tuco, Rubí aparecen suaves en fondo
+[1-2s] Las vocales A-E-I-O-U flotan organizadas alrededor
+[2-3s] TALO y niño miran las vocales juntos
+[3-4s] Niño aplaude suave — alegría tranquila
+[4-5s] TALO mira a cámara, sonríe — invitación final (HOLD)
+
+Movimiento: Suave, mágico, calmado.
+Efecto: Vocales flotan, luz dorada final, confetti muy suave.
+Textos fijos.
 ```
 
 **Caption:**
 ```
-¿Sabías esto? 🧠
-Las VOCALES son la BASE para leer y escribir.
+¿Tu hijo se frustra al aprender? 🍃
 
-Pero aprender es DIFÍCIL...
-Excepto CON TALO ✨
+A veces no necesita repetir más.
+Necesita jugar distinto.
 
-"La Selva y Las Vocales" (Con TALO):
-✅ Tu hijo aprende 3x más rápido
-✅ Le encanta cantar con TALO
-✅ Retiene las vocales para siempre
+Con canciones, personajes y pequeñas aventuras,
+las letras empiezan a tener sentido.
 
-¿Por qué luchar solo?
-TALO ya resolvió el problema.
+Talo y sus amigos descubren las vocales
+a través de sonidos, agua, viento y música.
 
-#ConTalo #TaloVocales #SolucionEducativa
+Aprender también puede sentirse como jugar.
+
+🎵 Ver episodio completo en YouTube
+Link en bio 👆
+
+#TaloVocales #AprenderJugando #ConTalo
 ```
 
 ---
 
-## REEL 2: "MÚSICA + TALO = ÉXITO" (25 segundos)
+## REEL 2: "LAS VOCALES NO SE MEMORIZAN, SE DESCUBREN" (3 clips = 15 seg)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "EL HOOK" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-Brain illustration con notas musicales Y TALO como figura central
-TALO es parte de la solución científica
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Letra "A" grande, escondida entre hojas verdes de selva.
+TALO con una lupa pequeña buscando en la selva.
+Expresión curiosa, aventurera.
+Luz cálida que entra por las hojas.
+
+Texto superior: "Las vocales no se memorizan."
+Texto medio: "Se descubren."
+Banner inferior fijo: "🎵 Las Vocales con Talo"
+
+Estilo: Selva acuarela, verdes y dorados, luz filtrada. Magia suave.
 ```
 
-### PROMPT ANIMACIÓN KLING 2.5:
+**PROMPT VIDEO - KLING 2.5:**
 ```
-Duration: 25 seconds. Format: 9:16 vertical.
-**TALO IS PART OF THE SCIENCE**
+Duración: 5 segundos. Formato: 9:16 vertical.
 
-Animation:
-[0-4s] Brain illustration appears, regions labeled
-[4-8s] MEMORIA region lights up - TALO appears teaching (TALO activates memory)
-[8-12s] LENGUAJE region lights up - TALO singing (TALO develops language)
-[12-15s] MOTRICIDAD lights up - TALO dancing with child (TALO improves motor)
-[15-18s] EMOCIONES lights up - TALO making child smile (TALO regulates emotion)
-[18-22s] All regions glow together - TALO in center of brain activation
-[22-25s] Child happy learning with TALO - proof of science
+[0-1s] TALO camina lentamente con lupa — busca
+[1-2s] TALO mira entre las hojas — curioso
+[2-3s] TALO ve algo — ojos se abren
+[3-4s] TALO apunta suave con la lupa hacia la letra "A"
+[4-5s] La letra "A" comienza a brillar entre las hojas (HOLD)
 
-The message:
-- Music is powerful (shown through TALO)
-- TALO uses music scientifically
-- TALO activates multiple brain regions
-- TALO is the proof that science works
+Movimiento: Explorador, lento, curioso.
+Efecto: Luz se concentra donde está la "A". Muy sutil.
+Textos fijos.
+```
 
-Show TALO as the instrument of brain activation
-TALO represents the methodology
-Brain regions light up BECAUSE OF TALO
+---
 
-Visual: TALO visible in each brain region activation
-Mood: Scientific + proven by TALO
-Color: Brain glows, TALO glows at center
-Final: TALO + child = brain activation success, hold 2s
+### CLIP 2/3: "EL DESCUBRIMIENTO" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+TALO encuentra la "A" — la sostiene con alegría tranquila.
+Nuti aparece en río de fondo saltando — "¡Aaaa!" visible como onda sonora.
+La letra "A" brilla, tiene pequeñas notas musicales.
+Ambiente selva colorida.
+
+Texto: "Cada vocal tiene su sonido en la naturaleza."
+Banner inferior fijo: "🎵 Las Vocales con Talo"
+
+Estilo: Cálido, descubrimiento, natural.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta la "A" encontrada — alegría tranquila
+[1-2s] Nuti salta en el río de fondo
+[2-3s] Onda sonora "Aaaa" flota desde Nuti hacia TALO
+[3-4s] TALO abre la boca — escucha/repite
+[4-5s] Ambos — TALO y Nuti — con la vocal (HOLD)
+
+Movimiento: Descubrimiento suave, conexión entre personajes.
+Efecto: Onda sonora visual, letra brilla, agua chispea.
+Textos fijos.
+```
+
+---
+
+### CLIP 3/3: "LA INVITACIÓN" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+TALO de frente, mirando a cámara.
+Las 5 vocales A-E-I-O-U flotando alrededor de TALO.
+Cada vocal con su color suave y distinto.
+Expresión de TALO: invitando, cálido.
+
+Texto: "Nuevo viaje sonoro."
+Banner inferior fijo: "🎵 Ver episodio completo en YouTube"
+
+Estilo: Cálido, invitador, mágico.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] Las 5 vocales aparecen flotando alrededor de TALO
+[1-2s] TALO abre brazos — bienvenida
+[2-3s] Vocales orbitan suave alrededor
+[3-4s] TALO mira a cámara y sonríe
+[4-5s] TALO con brazos abiertos, vocales flotando (HOLD)
+
+Movimiento: Suave, orbital, invitador.
+Efecto: Vocales brillan en colores distintos, orbitan.
+Textos fijos.
 ```
 
 **Caption:**
 ```
-CIENTÍFICAMENTE COMPROBADO 🧠🎵
+Las vocales no se memorizan.
+Se descubren. 🍃
 
-La música activates múltiples áreas del cerebro.
-PERO necesitas la MÚSICA CORRECTA.
+La A vive en el agua.
+La E en las ramas.
+La I en las alturas.
+La O en el viento.
+La U en el río.
 
-🎵 "La Selva y Las Vocales" CON TALO:
-✅ MEMORIA: TALO canta (60% más retención)
-✅ LENGUAJE: TALO enseña (producción vocal)
-✅ MOTRICIDAD: TALO baila (movimiento con ritmo)
-✅ EMOCIONES: TALO sonríe (expresión segura)
+Cada sonido tiene una aventura.
 
-No es cualquier canción.
-Es TALO + Música Educativa Profesional.
+¿Ya encontraste la tuya?
 
-Resultado: Tu hijo APRENDE VOCALES en 2-3 semanas.
+🎵 Las Vocales con Talo
+Link en bio 👆
 
-¿Por qué esperar 3 meses con métodos viejos?
-TALO es el futuro de la educación infantil.
-
-#CienciaConTalo #DesarrolloInfantil #TaloVocales
+#LasVocales #TaloVocales #DescubreConTalo
 ```
 
 ---
 
-## REEL 3: "¿A QUÉ EDAD ENSEÑAR VOCALES?" (20 segundos)
+## REEL 3: "CUANDO APRENDER PARECE DIFÍCIL..." (3 clips = 15 seg)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "EL PROBLEMA REAL" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-Timeline edades 2-6 años
-TALO aparece en la edad ideal (3-4) como la solución
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Papá o mamá intentando enseñar letras en mesa.
+Niño mira hacia otro lado — sin interés, no enfadado.
+Ambiente: hogar cálido pero frustrante.
+Colores apagados, grises suaves.
+
+Texto superior: "Cuando aprender parece difícil…"
+Banner inferior fijo: "🎵 Hazlo canción. Hazlo juego."
+
+Estilo: Familiar, reconocible. No dramático. Real.
 ```
 
-### PROMPT ANIMACIÓN KLING 2.5:
+**PROMPT VIDEO - KLING 2.5:**
 ```
-Duration: 20 seconds. Format: 9:16 vertical.
-**TALO APPEARS AT IDEAL AGE WINDOW**
+Duración: 5 segundos. Formato: 9:16 vertical.
 
-Animation:
-[0-3s] Timeline appears ages 2→3→4→5→6
-[3-6s] Age 2-3: TALO preparing, ready to teach
-[6-9s] Age 3-4: ⭐ TALO SHINES HERE - golden glow, TALO is perfect timing
-[9-12s] Age 3-4 expands: TALO teaching (showing why it's ideal)
-[12-15s] Age 4-5: TALO reinforces learning
-[15-18s] Age 5-6: TALO prepares for reading
-[18-20s] Arrow to 3-4: "¡EMPIEZA YA CON TALO, NO ESPERES!"
+[0-1s] Papá/mamá señala letras en mesa
+[1-2s] Niño mira hacia otro lado — distrae
+[2-3s] Papá/mamá vuelve a intentar — señala letra
+[3-4s] Niño bosteza suave o mira ventana
+[4-5s] Papá/mamá pausa — momento de duda (HOLD)
 
-TALO integrated into timeline:
-- TALO appears at each age appropriate stage
-- TALO at 3-4 is the champion option
-- TALO makes the most of the ideal window
-- TALO optimizes development
+Movimiento: Real, cotidiano, sin exagerar.
+Efecto: Colores apagados, luz natural de hogar.
+Textos fijos.
+```
 
-Show TALO at ideal moment prominently
-TALO represents the solution
-Starting with TALO now = best results
+---
 
-Visual: TALO glows at 3-4 window
-Mood: TALO's timing is perfect
-Color: Golden at ideal age (with TALO)
-Final: Urgent message to start with TALO now, hold 2s
+### CLIP 2/3: "EL CAMBIO" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Misma mesa. TALO aparece en la escena.
+TALO toca una letra — se convierte en personaje pequeño, salta.
+La letra "A" se transforma: tiene ojos, brilla, hace sonido visual.
+El niño gira la cabeza — ¡algo cambió!
+Color empieza a invadir desde la letra.
+
+Texto: "Hazlo canción. Hazlo personaje."
+Banner inferior fijo: "🎵 Hazlo canción. Hazlo juego."
+
+Estilo: Transición del gris al color, magia suave.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO aparece — toca la letra "A" suavemente
+[1-2s] La letra se ilumina — comienza a moverse
+[2-3s] Niño gira la cabeza — "¿qué fue eso?"
+[3-4s] Niño se acerca curioso — interés despertado
+[4-5s] Niño y TALO frente a la letra brillante (HOLD)
+
+Movimiento: Sorpresa suave, curiosidad, cambio de actitud.
+Efecto: Letra brilla, color entra, niño reacciona.
+Textos fijos.
+```
+
+---
+
+### CLIP 3/3: "LA PROMESA" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Talo, niño, Nuti, Tuco, Rubí todos juntos.
+Letras A-E-I-O-U convertidas en personajes/elementos (vocales con vida).
+Notas musicales, hojas, pequeños animales.
+Mundo colorido, alegre, tranquilo.
+
+Texto: "Talo enseña con música, juego y emoción."
+Banner inferior fijo: "🎵 Ver episodio en YouTube"
+
+Estilo: Celebración tranquila. Todo el mundo de TALO reunido.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] Todos los personajes aparecen suave
+[1-2s] Vocales flotan como personajes con vida
+[2-3s] Niño ríe — se divierte con los personajes
+[3-4s] TALO levanta la "A" — la familia de vocales brilla
+[4-5s] Todos juntos, niño en centro, feliz (HOLD)
+
+Movimiento: Suave, mágico, celebración tranquila.
+Efecto: Vocales vuelan, colores brillan, música visual.
+Textos fijos.
 ```
 
 **Caption:**
 ```
-DESARROLLO + TALO 👶📈
+Cuando aprender parece difícil… 💭
 
-🎵 2-3 AÑOS: Reconocer sonidos
-🎵 3-4 AÑOS: ⭐ **MOMENTO IDEAL PARA TALO**
-    - TALO aprovecha máximo potencial
-    - TALO con música = retención garantizada
-    - TALO en esta edad = resultados en 2-3 semanas
+A veces no falta esfuerzo.
+Falta una historia.
+Un sonido.
+Un personaje que lo haga real.
 
-🎵 4-5 AÑOS: TALO refuerza y consolida
-🎵 5-6 AÑOS: TALO prepara para leer
+Talo enseña con música, juego y emoción.
+Porque aprender también puede sentirse como jugar.
 
-"La Selva y Las Vocales con TALO" diseñado para edades 2-6.
+🎵 Ver episodio completo en YouTube
+Link en bio 👆
 
-¿Tu hijo está en edad ideal?
-❌ DON'T WAIT - Empieza CON TALO AHORA
-✅ Máximo 2-3 semanas para resultados
-
-#TaloYEdad #EducacionTemprana #ConTalo
+#TaloVocales #AprenderConMusica #CanalInfantil
 ```
 
 ---
 
-## REEL 4: "¿NECESITA AYUDA? TALO TIENE LA SOLUCIÓN" (20 segundos)
+## REEL 4: "UNA CANCIÓN PUEDE ENSEÑAR MÁS QUE UNA ORDEN" (3 clips = 15 seg)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "LA AFIRMACIÓN" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-Checklist de problemas (lado izquierdo)
-TALO como solución (lado derecho)
-Contraste claro: problema → TALO = solución
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Texto grande y elegante en pantalla: "Una canción puede enseñar más que una orden."
+Fondo suave con notas musicales flotantes.
+Sin personajes aún — la frase es el protagonista.
+Colores suaves: azul, dorado, crema.
+
+Texto: "Una canción puede enseñar más que una orden."
+Banner inferior fijo: "🎵 Con Talo, aprenden cantando"
+
+Estilo: Tipografía clara, fondo de acuarela suave. Frase poderosa.
 ```
 
-### PROMPT ANIMACIÓN KLING 2.5:
+**PROMPT VIDEO - KLING 2.5:**
 ```
-Duration: 20 seconds. Format: 9:16 vertical.
-**TALO IS THE ANSWER TO EACH PROBLEM**
+Duración: 5 segundos. Formato: 9:16 vertical.
 
-Animation:
-[0-3s] PROBLEMA section: Checklist appears with issues
-[3-6s] Issues display (confunde vocales, se aburre, no retiene)
-[6-9s] Count: "Si marcaste 2+" - parent realizes
-[9-12s] SOLUTION appears: TALO jumps on screen colorful and bright
-[12-15s] TALO shows: "❌ Confunde vocales" → "✅ CON TALO: APRENDE PERFECTO"
-[15-18s] TALO demonstrates solving each problem
-[18-20s] Parent relieved - TALO found the answer
+[0-1s] Frase aparece letra por letra — suave
+[1-2s] Notas musicales flotan alrededor de la frase
+[2-3s] El fondo se ilumina suave
+[3-4s] La frase pulsa levemente — como respiración
+[4-5s] Frase completa, notas flotan (HOLD)
 
-Structure:
-- Problems clearly shown
-- TALO appears as direct solution to each
-- TALO's presence turns ❌ into ✅
-- TALO is the differentiator
+Movimiento: Tipografía animada suave. Solo las notas se mueven.
+Efecto: Notas musicales flotan, luz dorada suave.
+Textos fijos.
+```
 
-Visual: TALO bright and energetic
-Show TALO solving each issue
-TALO = transformation
+---
 
-Mood: TALO provides relief and hope
-Color: Problem section dull, TALO section vibrant
-Final: Relieved parent with TALO, hold 2s
+### CLIP 2/3: "TALO LO DEMUESTRA" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+TALO cantando con boca abierta, expresión feliz.
+Niño escucha — ojos grandes, interesado.
+La vocal "A" flota entre ambos como puente.
+Notas musicales visibles entre TALO y el niño.
+
+Texto: "Con Talo, las vocales son una aventura sonora."
+Banner inferior fijo: "🎵 Con Talo, aprenden cantando"
+
+Estilo: Conexión entre personaje y niño. Música como puente visual.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO canta — boca se mueve
+[1-2s] Notas musicales salen de TALO hacia el niño
+[2-3s] Niño abre la boca — empieza a imitar
+[3-4s] Ambos cantan — conexión visible
+[4-5s] La vocal "A" brilla entre ambos (HOLD)
+
+Movimiento: Canto, imitación, conexión.
+Efecto: Notas vuelan de TALO al niño. Vocal brilla.
+Textos fijos.
+```
+
+---
+
+### CLIP 3/3: "LA INVITACIÓN FINAL" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+Imagen vertical 9:16. Ilustración acuarela infantil.
+
+Mini portada del episodio:
+TALO con todos los amigos (Nuti, Tuco, Rubí) en selva.
+Las 5 vocales A-E-I-O-U flotando visibles.
+Logo o título: "Las Vocales con Talo".
+Expresión de todos: invitación, alegría tranquila.
+
+Texto: "Ver episodio completo."
+Banner inferior fijo: "🎵 Disponible en YouTube - Link en bio"
+
+Estilo: Portada de episodio. Limpia, clara, invitadora.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] Portada del episodio aparece
+[1-2s] TALO y amigos hacen pequeño movimiento de saludo
+[2-3s] Las vocales flotan y brillan
+[3-4s] TALO mira a cámara — sonrisa directa
+[4-5s] Freeze en portada del episodio (HOLD)
+
+Movimiento: Suave, saludo, invitación.
+Efecto: Vocales brillan, luz dorada, invitación clara.
+Textos fijos.
 ```
 
 **Caption:**
 ```
-⚠️ CHECKLIST: ¿Tu hijo tiene estos problemas?
+Una canción puede enseñar más que una orden. 🎵
 
-❌ Confunde las vocales
-❌ Dice "A" pero pronuncia "E"
-❌ Se aburre con métodos antiguos
-❌ No retiene las letras
-❌ Hermano menor aprende más rápido
-❌ Tiene 4+ años y aún no domina
+No porque la orden esté mal.
+Sino porque la canción llega diferente.
 
-Si marcaste 2+: TU HIJO NECESITA TALO.
+Llega con emoción.
+Con ritmo.
+Con personajes que el niño ama.
 
-✅ TALO ES LA SOLUCIÓN:
-✅ TALO enseña diferente (con música)
-✅ TALO hace aprender divertido
-✅ TALO garantiza retención
-✅ TALO = Resultados en SEMANAS
+Con Talo, las vocales son una aventura sonora.
+A-E-I-O-U, cada una descubierta en la naturaleza.
 
-No es falta de inteligencia.
-Es que necesitaba a TALO.
+🎵 Ver episodio completo
+Link en bio 👆
 
-El 95% de padres que usaron TALO reportan:
-"Mi hijo aprendió las vocales en 2-3 semanas"
-
-¿Esperas más? Empieza CON TALO hoy.
-
-#TaloEsLaSolucion #ParentingSmartDecision
+#MusicaInfantil #TaloVocales #AprenderCantando
 ```
 
 ---
 
-## REEL 5: "MÉTODO VIEJO vs TALO" (25 segundos)
-
-### PROMPT IMAGEN INICIAL:
-```
-Split: LEFT flashcards aburridas (método viejo)
-RIGHT TALO enseñando divertido (método nuevo)
-TALO gana claramente
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 25 seconds. Format: 9:16 vertical.
-**TALO WINS THE COMPARISON**
-
-Animation:
-[0-3s] LEFT: Boring flashcards, child bored
-[3-6s] RIGHT: TALO appears with colors - child excited by TALO
-[6-10s] LEFT comparison items appear: "❌ Pasivo", "❌ Aburrido", etc.
-[10-14s] RIGHT comparison: "✅ TALO Activo", "✅ TALO Divertido", etc.
-[14-18s] Score: LEFT gets poor score, RIGHT (TALO) gets 10/10
-[18-22s] Parent chooses TALO side (obviously)
-[22-25s] TALO celebrates victory - winner announced
-
-Clear victor:
-- TALO is superior in every way
-- Traditional methods = fail
-- TALO = success
-- Parent's choice is obvious: TALO
-
-Visual: TALO side has glow, excitement
-LEFT side is dull and fails
-RIGHT side (TALO) is bright and wins
-Score shows TALO dominance
-
-Mood: TALO is clearly the better choice
-Color: LEFT gray/dull, RIGHT bright/golden
-Final: TALO as champion, hold 2s
-```
-
-**Caption:**
-```
-COMPARACIÓN HONESTA: ¿Cuál FUNCIONA?
-
-📊 MÉTODO VIEJO (Flashcards):
-❌ Pasivo (solo mira)
-❌ Aburrido (se duerme)
-❌ Retención 3 días (olvida todo)
-❌ Sin contexto
-❌ 0% diversión
-⏱️ Resultados: 2-3 MESES (si hay suerte)
-💰 Costo: Tu paciencia y dinero
-
-📊 "LA SELVA Y LAS VOCALES" CON TALO:
-✅ TALO hace activo (canta, baila)
-✅ TALO hace divertido (quiere repetir)
-✅ TALO = retención 100% (música = memoria)
-✅ TALO + contexto (animales, selva, aventura)
-✅ 100% diversión garantizado
-⏱️ Resultados: 2-3 SEMANAS (comprobado)
-💰 Costo: Una inversión que vale oro
-
-¿Por qué elegir lo que NO FUNCIONA?
-TALO es la opción científica y práctica.
-
-#TaloVsFlashcards #EducacionIneligente #ConTaloGanas
-```
-
----
-
-## REEL 6: "TESTIMONIO: 'MI HIJO CAMBIÓ CON TALO'" (20 segundos)
-
-### PROMPT IMAGEN INICIAL:
-```
-Madre hablando genuinamente,
-TALO visible de fondo (enseñando al niño feliz)
-TALO es parte de la solución mostrada
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 20 seconds. Format: 9:16 vertical.
-**TALO IS VISIBLE IN THE SUCCESS STORY**
-
-Animation:
-[0-3s] Parent speaks to camera (lip-sync)
-[3-6s] FLASHBACK: Child BEFORE struggling (without TALO)
-[6-9s] Parent continues: "Entonces descubrí TALO..."
-[9-12s] TALO APPEARS - bright entry on screen
-[12-15s] Child with TALO learning - TALO teaching, child happy
-[15-18s] Parent testimonial: "¡En 2 semanas aprendió todo CON TALO!"
-[18-20s] Final: Family happy with TALO visible (proof)
-
-Structure:
-- Before: No TALO = struggle
-- Solution: TALO arrives
-- After: With TALO = success
-- Message: TALO made the difference
-
-Show TALO prominently in success story
-TALO is credited for the transformation
-TALO is the hero
-
-Visual: TALO bright and teaching
-Mood: Authentic, relatable, TALO-focused success
-Color: BEFORE dull, AFTER bright with TALO
-Final: Family + TALO celebrating, hold 2s
-```
-
-**Caption:**
-```
-"ANTES DE TALO, MI HIJO ESTABA PERDIDO" 😔
-
-Mamá Jessica (4.7★ verified):
-
-"3 años y aún no reconocía las vocales.
-Probamos todo... y nada funcionaba.
-
-Entonces descubrimos TALO...
-
-¡NO LO PUEDO CREER!"
-
-EN SOLO 2 SEMANAS CON TALO:
-✅ Reconoce todas las vocales perfectamente
-✅ Las canta sin parar (¡en el auto!)
-✅ Quiere aprender MÁS
-✅ Más confianza en sí mismo
-
-¿La magia? No es magia. Es TALO.
-TALO enseña diferente.
-TALO hace aprender divertido.
-TALO FUNCIONA.
-
-— Jessica M., Mamá de Lucía
-
-¿Tu historia será similar?
-Descubre por qué 50,000+ familias confían en TALO.
-
-#HistoriasTaloReales #TransformacionConTalo
-```
-
----
-
-## REEL 7: "GUÍA: MAXIMIZAR APRENDIZAJE CON TALO" (25 segundos)
-
-### PROMPT IMAGEN INICIAL:
-```
-Padre e hijo aprendiendo juntos CON TALO visible
-TALO como herramienta central en el proceso
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 25 seconds. Format: 9:16 vertical.
-**TALO IS THE TEACHING TOOL - Optimize its use**
-
-Animation:
-[0-4s] Title: "5 CONSEJOS: Optimiza TALO"
-[4-8s] Tip 1: "CANTA CON TALO" - parent+child+TALO singing
-[8-11s] Tip 2: "Usa TALO 3-5x/semana" - calendar with TALO sessions
-[11-14s] Tip 3: "Celebra con TALO" - TALO rejoices with child
-[14-17s] Tip 4: "Crea ritual con TALO" - TALO bedtime song
-[17-20s] Tip 5: "TALO mantiene paciencia" - TALO encouraging child
-[20-25s] All tips together: Family + TALO = successful learning
-
-Message:
-- TALO is the centerpiece
-- These tips maximize TALO's effectiveness
-- TALO works best when used correctly
-- TALO is the solution to follow
-
-Show TALO in each tip demonstration
-TALO is the teaching tool being optimized
-Make clear how to get best from TALO
-
-Visual: TALO visible and helpful in each tip
-Mood: Practical, TALO-focused parenting guide
-Color: Warm, supportive, TALO-centric
-Final: Happy family learning with TALO, hold 2s
-```
-
-**Caption:**
-```
-🎯 GUÍA: MÁXIMIZA TALO para ÉXITO MÁXIMO
-
-1️⃣ CANTA CON TALO
-No dejes a TALO solo. Canten JUNTOS.
-Conexión parent-child x TALO = resultados triplicados.
-
-2️⃣ TALO 3-5 VECES/SEMANA
-Consistencia > intensidad.
-15 minutos de TALO 5 veces > 2 horas una vez.
-
-3️⃣ CELEBRA CADA PROGRESO CON TALO
-¿Pronunció bien una vocal? TALO lo celebra.
-Tu hijo verá: "Aprender CON TALO es logro"
-
-4️⃣ CREA RITUALES CON TALO
-Desayuno: TALO canción (5 min)
-Dormir: TALO lullaby (5 min)
-Estructura = aprendizaje consistente
-
-5️⃣ TALO ENSEÑA PACIENCIA
-Cada niño aprende a ritmo diferente.
-Con TALO, el proceso es tan divertido que
-los ritmos diferentes no importan.
-
-Implementa ESTOS 5 consejos + TALO
-Garantizado: Éxito en 2-3 semanas.
-
-#TaloParaPadres #EducacionConTalo #PadresInteligentes
-```
-
----
-
-## REEL 8: "EMPIEZA CON TALO AHORA" (20 segundos)
-
-### PROMPT IMAGEN INICIAL:
-```
-TALO protagonista, sonriendo, invitador
-Niño feliz aprendiendo con TALO
-Padre con el último "empuja": "¿Listo para TALO?"
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 20 seconds. Format: 9:16 vertical.
-**TALO IS THE CALL-TO-ACTION**
-
-Animation:
-[0-3s] Problem reminder: "Tu hijo aún confunde vocales"
-[3-6s] TALO appears bright and inviting
-[6-9s] Benefits flash: "✅ Divertido | ✅ Rápido | ✅ CON TALO FUNCIONA"
-[9-12s] TALO points (inviting) - "¿Listo para aprender conmigo?"
-[12-15s] CTA button appears: "DESCARGA TALO AHORA"
-[15-18s] Special offer: "40% OFF - Primeros 100 (Esta semana)"
-[18-20s] TALO celebrated final button pulse with child learning visible
-
-TALO is the solution offered
-TALO makes the invitation
-TALO is the reason to act
-
-Visual: TALO bright and inviting
-Button pulses with TALO approval
-Background child = proof that TALO works
-Mood: Urgent, opportunistic, TALO-positive
-Color: Bright and energetic (TALO's presence)
-Final: TALO welcoming, button ready, hold 2s
-```
-
-**Caption:**
-```
-¿TU HIJO AÚNCONFUNDE LAS VOCALES?
-
-El tiempo no espera. Otros niños ya están aprendiendo CON TALO.
-
-Cada semana que esperas = 1 semana atrás que está.
-
-🎵 "LA SELVA Y LAS VOCALES" CON TALO:
-✅ Creado por expertos (educadores + músicos)
-✅ Comprobado con 50,000+ niños
-✅ Resultados en 2-4 semanas GARANTIZADO
-✅ 100% divertido (0% aburrimiento)
-
-NO ES MAGIA. ES TALO + CIENCIA.
-
-👇 DESCARGA TALO AHORA 👇
-[Link]
-
-🎉 OFERTA ESPECIAL:
-Primeros 100 descargas: 40% OFF
-(Válida esta semana)
-
-Dale a tu hijo la herramienta que MERECE.
-Dale TALO.
-
-#DescargataloAhora #EducaciondeCalidad #ConTaloGanas
-```
-
----
-
-## ESPECIFICACIONES FINALES
-
-**TALO en REELS PADRES:**
-- TALO aparece como la solución en CADA reel
-- TALO es visible 30-40% of time (cuando es apropiado)
-- TALO es presentado como el diferenciador
-- TALO es creditado con resultados
-- TALO es invitación + esperanza
-
-**Formato:** 9:16 vertical  
-**Duración:** 20-25 segundos  
-**Tono:** Profesional pero inspirador  
-**Mensaje:** TALO es la solución educativa moderna
-
----
-
-## DIFERENCIAS FINALES
-
-| Aspecto | PROMOCIÓN | PADRES |
-|---------|-----------|--------|
-| **TALO visible** | 70-85% (protagonista) | 30-40% (solución) |
-| **Audiencia** | 2-6 años | 25-55 años |
-| **Focus** | TALO's adventure | TALO's benefits |
-| **Tone** | Divertido | Informativo |
-| **CTA** | "Canta con TALO" | "Descarga TALO" |
-
-**En ambos:**
-- ✅ TALO es claramente el personaje principal
-- ✅ TALO es lo que genera resultados
-- ✅ TALO es la razón de éxito
-- ✅ TALO es el héroe de la historia
+## RESUMEN TÉCNICO (v5)
+
+**Por cada clip:**
+1. **Imagen (Nano Banana 2)** — acuarela infantil estilo libro clásico europeo, 9:16
+2. **Video (Kling 2.5)** — 5 segundos, solo personajes se mueven, textos fijos
+
+**Estructura de clips:**
+- REEL 1: 4 clips × 5s = 20s
+- REEL 2: 3 clips × 5s = 15s
+- REEL 3: 3 clips × 5s = 15s
+- REEL 4: 3 clips × 5s = 15s
+
+**Principios visuales clave:**
+- ✅ Color entra como acuarela, nunca como flash
+- ✅ TALO no impone, invita
+- ✅ Niño reacciona con curiosidad suave, no explosión
+- ✅ Tonos apagados (antes) → cálidos (con TALO)
+- ✅ Vocales tienen vida — no son solo letras
+- ✅ Textos fijos en toda la duración del clip
+
+**Hooks utilizados:**
+- "¿Tu hijo se frustra al aprender?" (empatía específica)
+- "Las vocales no se memorizan. Se descubren." (concepto diferente)
+- "Cuando aprender parece difícil…" (validación de la experiencia)
+- "Una canción puede enseñar más que una orden." (afirmación poderosa)

@@ -1,435 +1,594 @@
-# REELS PROMOCIÓN — La Selva y Las Vocales
+# REELS PROMOCIÓN — La Selva y Las Vocales (v4 - Clips de 5 seg)
 
-**Reels virales con TALO como protagonista**
-**Talo es el personaje principal - los animales son lo que descubre**
+**Reels en clips cortos (5 segundos c/u) que se unen en post-producción**
+**3-4 clips por reel = 3-4 imágenes Nano Banana 2 + 3-4 videos Kling 2.5**
 
 ---
 
-## REEL 1: "TALO BUSCA LA A" (15 segundos)
+## REEL 1: "¡TALO BUSCA LA A!" (3 clips = 15 seg total)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "¿QUÉ BUSCA?" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO (pequeño personaje mouse-like) en primer plano con binoculares,
-expresión emocionada, en selva colorida,
-abeja visible pero TALO es el foco,
-Bluey-style, bright colors
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**TALO IS THE PROTAGONIST - Center the camera on TALO throughout**
-
-Animation:
-[0-3s] TALO (close-up) raises binoculars slowly, excited face visible, eyes searching
-[3-6s] TALO's body language animated - turning head searching, curiosity visible
-[6-9s] TALO spots something - points excitedly, "¡Ahí está!" expression
-[9-12s] TALO jumps with joy - arms raised, big smile on TALO's face, shouting "¡A! ¡A! ¡A!"
-[12-15s] TALO celebrates spinning - arms up, trophy pose, glowing text around TALO
-
-Visual focus:
-- TALO occupies 70% of screen at all times
-- Keep TALO's face clearly visible for emotions
-- Bee is only shown near TALO (supporting detail)
-- TALO is always the center of action
-
-Effects:
-- Sparkles/glow around TALO when celebrating
-- Light on TALO's excited face
-- Text "¡A!" appears near TALO, not replacing
-
-Music sync: TALO's jump and celebration on beat
-Mood: TALO's discovery journey and joy
-Final frame: TALO victorious, 1s hold
+TALO (70% pantalla) levantando binoculares lentamente.
+Expresión curiosa, emocionada.
+Selva colorida de fondo (verde, naranja).
+Texto superior: "¿QUÉ BUSCA TALO?"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Sin abeja visible aún.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡TALO BUSCA LA A! 🐝✨
-Descubre todas las vocales CON TALO
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO (desde @imggenerada) levanta binoculares MUY lentamente
+[1-2s] TALO gira cabeza mirando alrededor - curiosidad visible
+[2-3s] TALO abre ojos más - ve algo
+[3-4s] TALO levanta un brazo lentamente - apunta
+[4-5s] TALO con binoculares en ojos - expresión intrigante (HOLD)
+
+Movimiento: Lento, deliberado, curioso.
+Efecto: Luz dorada suave.
+```
+
+---
+
+### CLIP 2/3: "¡AHÍ ESTÁ!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (70% pantalla) apuntando emocionado.
+Abeja pequeña visible en el fondo (arriba/lado).
+Binoculares bajados en una mano.
+Expresión de sorpresa/alegría.
+Texto superior: "¡AHORA VE LA A!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Colores brillantes, luz en TALO.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO baja binoculares rápido - sorpresa!
+[1-2s] TALO abre ojos GRANDES - boca abierta
+[2-3s] TALO apunta emocionado hacia arriba
+[3-4s] TALO salta ligeramente - "¡Ahí está!" expresión
+[4-5s] TALO con brazos abiertos - celebración inicial (HOLD)
+
+Movimiento: Dinámico, emocionado, rápido.
+Efecto: Sparkles alrededor de TALO.
+```
+
+---
+
+### CLIP 3/3: "¡TALO GANÓ!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (85% pantalla) en pose de victoria - brazos ARRIBA.
+Sonrisa enorme, ojos brillantes.
+Abeja pequeña visible en fondo celebrando.
+Confetti suave alrededor.
+Texto superior: "¡ENCONTRÓ LA A!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz cálida dorada, celebración visual.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO salta alto - brazos empiezan a subir
+[1-2s] TALO en aire - brazos TOTALMENTE ARRIBA, sonrisa grande
+[2-3s] TALO baja, gira 180° - celebra girando
+[3-4s] TALO vuelve a saltar - brazos nuevamente arriba
+[4-5s] TALO en pose final victoriosa - brazos en aire (HOLD)
+
+Movimiento: Dinámico, saltarín, celebrador.
+Efecto: Confetti cae, sparkles, luz dorada.
+```
+
+**Caption Final:**
+```
+¿QUÉ BUSCA TALO? 🔍✨
+¡ENCONTRÓ LA A! 🐝
+Descubre todas las vocales en La Selva y Las Vocales 🎵
+#TaloVocales #LaSelvaYLasVocales
+```
+
+---
+
+## REEL 2: "¡TALO ENCUENTRA LA E!" (3 clips = 15 seg total)
+
+### CLIP 1/3: "¿QUIÉN ES GRANDE?" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (70% pantalla) bajando binoculares con expresión sorprendida.
+Elefante GRANDE visible en fondo (pero de lejos, pequeño en frame).
+Selva verde de fondo.
+Texto superior: "¿QUIÉN ESTÁ AHÍ?"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz mágica en descubrimiento.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO baja binoculares rápidamente
+[1-2s] TALO abre ojos en sorpresa - boca abierta
+[2-3s] TALO levanta binoculares nuevamente - mira más de cerca
+[3-4s] TALO baja binoculares - asombro evidente
+[4-5s] TALO levanta un brazo señalando (HOLD)
+
+Movimiento: Sorprendido, rápido, intrigado.
+Efecto: Luz brilla en face de TALO.
+```
+
+---
+
+### CLIP 2/3: "¡ES ENORME!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (60% pantalla) apuntando hacia ARRIBA/LADO.
+Elefante MUCHO más visible ahora (mayor parte de frame).
+TALO con expresión de maravilla.
+Texto superior: "¡MIRA EL TAMAÑO!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Colores cálidos, luz dramática.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta ambos brazos - ¡wow!
+[1-2s] TALO gira cabeza mirando arriba/alrededor
+[2-3s] TALO aplaude emocionado - movimiento rítmico
+[3-4s] TALO salta pequeño salto - alegría
+[4-5s] TALO con manos en cadera admirando (HOLD)
+
+Movimiento: Maravillado, admirador, alegre.
+Efecto: Sparkles, luz dorada.
+```
+
+---
+
+### CLIP 3/3: "¡E DE ELEFANTE!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (70% pantalla) en pose de victoria/celebración.
+Elefante visible pero secundario (background).
+Brazos arriba de TALO.
+Texto superior: "¡LA E!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Confetti, luz cálida.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta brazos lentamente - realización
+[1-2s] TALO salta - brazos ARRIBA
+[2-3s] TALO gira celebrando - movimiento feliz
+[3-4s] TALO vuelve a saltar
+[4-5s] TALO en pose final victoriosa (HOLD)
+
+Movimiento: Celebrador, saltarín, alegre.
+Efecto: Confetti cae lentamente, sparkles.
+```
+
+**Caption Final:**
+```
+¡TALO ENCONTRÓ LA E! 🐘✨
+Descubre todas las vocales 🎵
 La Selva y Las Vocales
-#TaloVocales #VocalA #CancionesParaNiños
-```
-
----
-
-## REEL 2: "TALO ENCUENTRA LA E" (15 segundos)
-
-### PROMPT IMAGEN INICIAL:
-```
-TALO en primer plano, sorprendido/emocionado señalando,
-elefante grande detrás pero TALO es el foco,
-selva colorida, TALO es protagonista claro
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**TALO IS THE STAR - Keep camera focused on TALO's reactions**
-
-Animation:
-[0-3s] TALO (center) lowers binoculars quickly, surprised happy expression
-[3-6s] TALO points excitedly at something, body leans forward with wonder
-[6-9s] TALO's eyes go wide - mouth opens in amazement at what TALO sees
-[9-12s] TALO claps hands excitedly - rhythmic clapping visible, big smile
-[12-15s] TALO jumps celebrating - arms raised high, "¡E! ¡E! ¡E!" shout
-
-Visual hierarchy:
-- TALO: 75% screen (main subject)
-- Elephant: background element TALO discovered
-- TALO's emotional journey is the story
-
-Motion:
-- TALO's expressions are big and clear
-- TALO's body language shows excitement
-- TALO is always in camera center
-- Elephant is just what TALO found
-
-Color: Bright around TALO, warm tones
-Music sync: TALO's clapping and jump on beat
-Mood: TALO's wonder and joy
-Final frame: TALO celebrating, hold 1s
-```
-
-**Caption:**
-```
-¡TALO ENCUENTRA LA E! 🐘✨
-¡Mira lo que descubrió!
-Aprende las vocales CON TALO
 #TaloVocales #VocalE
 ```
 
 ---
 
-## REEL 3: "TALO Y LA I" (15 segundos)
+## REEL 3: "¡TALO Y LA I!" (3 clips = 15 seg total)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "EXPLORADOR" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO mirando cuidadosamente con binoculares, expresión concentrada,
-iguana en rama pero TALO llena la pantalla,
-TALO es claramente el protagonista
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**FOCUS ON TALO - TALO is the adventure hero**
-
-Animation:
-[0-4s] TALO (main focus) searches carefully with binoculars, serious explorer face
-[4-7s] TALO spots something - eyes widen, points silently (exploring moment)
-[7-9s] TALO gives thumbs up gesture - confident discovery expression
-[9-12s] TALO's face lights up - "¡I! ¡I! ¡I!" exclamation from TALO
-[12-15s] TALO celebrates - quiet celebration pose (respectful of sleeping animal)
-
-TALO is the character:
-- TALO's explorer journey matters
-- TALO's emotions drive the story
-- Iguana is what TALO finds
-- TALO's reactions are the focus
-
-Keep TALO in frame 100% of reel
-Show TALO's face clearly for emotion
-All action is TALO's action
-
-Visual: TALO 80% screen, iguana 20%
-Mood: TALO's respectful exploration
-Color: Warm, golden light on TALO
-Final: TALO's satisfied explorer face, hold 1s
+TALO (70% pantalla) con binoculares, expresión seria/concentrada.
+Rama con iguana pequeña (lejana, no evidente).
+Selva natural, luz filtrada.
+Texto superior: "TALO EXPLORA"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Colores naturales, luz suave.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡TALO Y LA I! 🦎✨
-¡TALO es un explorador increíble!
-Descubre la selva CON TALO
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO con binoculares en ojos - busca cuidadosamente
+[1-2s] TALO baja binoculares - concentración
+[2-3s] TALO levanta binoculares nuevamente
+[3-4s] TALO señala silenciosamente - descubrimiento
+[4-5s] TALO da thumbs up - "¡lo ví!" expresión (HOLD)
+
+Movimiento: Cuidadoso, explorador, concentrado.
+Efecto: Luz suave, natural.
+```
+
+---
+
+### CLIP 2/3: "¡ESTÁ AQUÍ!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (70% pantalla) apuntando hacia rama/iguana.
+Iguana más visible ahora (rama con iguana).
+Expresión de descubrimiento.
+Texto superior: "¡ENCONTRÉ!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz brilla en el descubrimiento.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO baja binoculares - ojos grandes
+[1-2s] TALO levanta dedo señalando
+[2-3s] TALO abre boca en sorpresa
+[3-4s] TALO levanta ambos brazos - "¡lo vi!"
+[4-5s] TALO sonríe ampliamente con expresión de orgullo (HOLD)
+
+Movimiento: Sorprendido, excitado, orgulloso.
+Efecto: Luz brilla, sparkles.
+```
+
+---
+
+### CLIP 3/3: "¡I DE IGUANA!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (75% pantalla) en pose de celebración moderada (respeto por animal).
+Iguana visible en rama.
+Brazos de TALO levantados.
+Texto superior: "¡LA I!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz cálida, naturaleza.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta brazos lentamente - realización
+[1-2s] TALO salta pequeño - celebración contenida
+[2-3s] TALO gira - movimiento cuidadoso (respeta animal)
+[3-4s] TALO aplaude - admiración
+[4-5s] TALO con brazos abiertos, sonriendo (HOLD)
+
+Movimiento: Celebrador pero respetuoso, controlado.
+Efecto: Luz dorada, sparkles sutiles.
+```
+
+**Caption Final:**
+```
+¡TALO ENCONTRÓ LA I! 🦎✨
+¡Qué explorador increíble!
+Descubre todas las vocales 🎵
 #TaloVocales #VocalI
 ```
 
 ---
 
-## REEL 4: "TALO Y EL GRAN OSO" (15 segundos)
+## REEL 4: "¡TALO ENCUENTRA MÁS!" (4 clips = 20 seg total)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/4: "¿CUÁNTAS HAY?" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO (pequeño, centro) caminando en puntillas cuidadosamente,
-expresión "shhh" en su cara, oso durmiendo atrás,
-TALO es claramente el personaje principal y protagonista
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**TALO IS THE HERO - Watch TALO's adventure unfold**
-
-Animation:
-[0-3s] TALO (center, close-up) puts finger to lips - "shhh" expression, tiptoeing motion
-[3-6s] TALO walks slowly, exaggerated careful steps, worried/excited expression
-[6-9s] TALO stops, watches carefully - curiosity on TALO's face visible
-[9-12s] TALO whispers "¡O!" - excitement barely contained on TALO's face
-[12-15s] TALO waves gently, gives relieved smile - mission accomplished by TALO
-
-This is TALO's story:
-- TALO is the adventurer
-- TALO's caution and discovery matter
-- Bear is the obstacle/surprise
-- TALO's reactions tell the story
-
-Keep TALO prominent 80% of time
-Show TALO's facial expressions clearly
-TALO's actions are the focus
-
-Mood: TALO's funny, careful adventure
-Effects: Soft glow on TALO as hero
-Color: Warm light on TALO's face
-Final: TALO's relieved face, satisfied, hold 1s
+TALO (70% pantalla) mirando alrededor con binoculares.
+Múltiples siluetas de animales (suave, lejano).
+Expresión curiosa.
+Texto superior: "¿CUÁNTAS ENCONTRÓ?"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Selva mágica.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡TALO Y EL GRAN OSO! 🐻✨
-¡Shhh! Talo no quiere despertarlo 🤫
-Aprende CON TALO sin hacer ruido
-#TaloVocales #VocalO
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta binoculares - busca
+[1-2s] TALO gira cabeza a izquierda lentamente
+[2-3s] TALO gira cabeza a derecha
+[3-4s] TALO baja binoculares - asombro
+[4-5s] TALO mira hacia arriba pensando (HOLD)
+
+Movimiento: Exploratorio, girando, pensador.
+Efecto: Luz mágica suave.
 ```
 
 ---
 
-## REEL 5: "TALO ENCUENTRA LA ÚLTIMA" (15 segundos)
+### CLIP 2/4: "¡AHORA VE MÁS!" (5 segundos)
 
-### PROMPT IMAGEN INICIAL:
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO (centro, protagonista claro) con expresión de emoción máxima,
-brazo levantado en victoria, urraca en rama,
-TALO es la estrella de esta canción
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**TALO IS THE CHAMPION - Celebrate TALO's victory**
-
-Animation:
-[0-2s] TALO (center) lowers binoculars - excited, triumphant expression
-[2-5s] TALO's eyes light up - this is the final one! Expression of realization
-[5-8s] TALO raises arms prepared to celebrate - building excitement
-[8-11s] TALO jumps high - maximum celebration pose, "¡U! ¡U! ¡U!" from TALO
-[11-15s] TALO spins celebrating - arms raised, big smile, TALO accomplished mission
-
-TALO's victory moment:
-- This is TALO's triumph
-- TALO found all 5 vocales
-- TALO is the hero of the story
-- Urraca is just the final discovery
-
-Focus: TALO 85% of screen
-Energy: Maximum celebration of TALO
-Mood: TALO's ultimate victory
-Color: Golden light on victorious TALO
-Sparkles: Around celebrating TALO
-Final: TALO triumphant, arms raised, hold 1s
+TALO (65% pantalla) apuntando a la izquierda.
+Más animales visibles ahora (varias siluetas).
+Expresión emocionada.
+Texto superior: "¡Y OTRA MÁS!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Colores brillantes.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡TALO ENCONTRÓ LA U! 🐦✨
-¡TALO ES EL CAMPEÓN! 🏆
-¡LAS 5 VOCALES CON TALO!
-#TaloVocales #VocalU #CampeonTalo
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO señala a la izquierda - ¡mira!
+[1-2s] TALO levanta brazo - apunta emocionado
+[2-3s] TALO gira hacia derecha
+[3-4s] TALO apunta a la derecha también
+[4-5s] TALO abre brazos ampliamente - "¡hay más!" (HOLD)
+
+Movimiento: Excitado, dinámico, apuntador.
+Efecto: Sparkles alrededor.
 ```
 
 ---
 
-## REEL 6: "TALO GANÓ - TODAS LAS 5" (30 segundos)
+### CLIP 3/4: "¡Y OTRA MÁS!" (5 segundos)
 
-### PROMPT IMAGEN INICIAL:
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO en centro de pantalla con binoculares en alto (pose victoriosa),
-los 5 animales alrededor pero TALO es la ESTRELLA central,
-expresión de victoria y alegría en TALO
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 30 seconds. Format: 9:16 vertical.
-**TALO IS THE CHAMPION OF THIS VIDEO - Keep focus on TALO**
-
-Animation:
-[0-3s] TALO (large, center) raises binoculars triumphantly - TALO's smile huge
-[3-6s] Quick flash: TALO found A (TALO pointing at bee)
-[6-9s] Quick flash: TALO found E (TALO with elephant)
-[9-12s] Quick flash: TALO found I (TALO with iguana)
-[12-15s] Quick flash: TALO found O (TALO with bear)
-[15-18s] Quick flash: TALO found U (TALO with urraca)
-[18-24s] TALO (center) spins with all animals around - TALO is the hero
-[24-30s] TALO jumps celebrating - "¡A-E-I-O-U!" shout from TALO, confetti around TALO
-
-This is TALO's achievement:
-- TALO's journey was the story
-- TALO found all 5 vocales
-- Animals appeared through TALO's exploration
-- TALO is the CHAMPION
-
-Visual hierarchy:
-- TALO: 60% (center, main character)
-- All 5 animals: 40% (TALO's discoveries)
-- TALO is always visible and prominent
-
-Confetti falls around TALO
-TALO's celebration is the finale
-Sparkles around victorious TALO
-
-Music sync: TALO's jumps on beat
-Mood: TALO is the hero
-Color: Golden light on TALO
-Final: TALO victorious, hold 2s
+TALO (70% pantalla) girando con brazos levantados.
+Animales alrededor (múltiples, visibles).
+Expresión de máximo descubrimiento.
+Texto superior: "¡Y OTRA!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz dorada, magia.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡TALO LO LOGRÓ! 🎉🏆
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta ambos brazos
+[1-2s] TALO gira 180° lentamente - brazos arriba
+[2-3s] TALO vuelve a girar en dirección opuesta
+[3-4s] TALO levanta brazos aún más alto
+[4-5s] TALO en pose de "¡estoy rodeado!" (HOLD)
+
+Movimiento: Girando, levantando brazos, centrándose.
+Efecto: Confetti suave, sparkles.
+```
+
+---
+
+### CLIP 4/4: "¡LAS ENCONTRÓ TODAS!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (80% pantalla) en pose triunfal - brazos MUY ARRIBA.
+Todos los animales visibles alrededor (pequeños).
+Sonrisa máxima, ojos brillantes.
+Texto superior: "¡5 VOCALES!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Confetti, luz explosiva.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO salta alto - brazos ARRIBA
+[1-2s] TALO en aire, gira - celebración máxima
+[2-3s] TALO cae gracefully, salta de nuevo
+[3-4s] TALO con brazos en pose de victoria
+[4-5s] TALO sostiene pose triunfal - mirada a cámara (HOLD)
+
+Movimiento: Saltarín, girando, celebrador.
+Efecto: Confetti cae, sparkles brillantes, luz dorada.
+```
+
+**Caption Final:**
+```
+¿CUÁNTAS ENCONTRÓ TALO? 🤔✨
+¡TODAS! A-E-I-O-U 🎉
+Descubre La Selva y Las Vocales 🎵
+#TaloVocales #DesafiaTalo
+```
+
+---
+
+## REEL 5: "¡TALO GANÓ!" (2 clips = 10 seg total)
+
+### CLIP 1/2: "REALIZÓ LA VICTORIA" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (75% pantalla) levantando lentamente los brazos.
+Fondo: Selva con todos los animales (pequeños, bonito).
+Expresión concentrada → realización.
+Texto superior: "¡LO LOGRÓ!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz cálida, esperanza.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO levanta brazos MUY lentamente
+[1-2s] TALO continúa levantando - realización en face
+[2-3s] TALO levanta completamente los brazos
+[3-4s] TALO abre boca - ¡lo hizo!
+[4-5s] TALO mantiene brazos arriba sonriendo (HOLD)
+
+Movimiento: Lento, deliberado, realización.
+Efecto: Luz crece, sparkles.
+```
+
+---
+
+### CLIP 2/2: "¡CELEBRACIÓN FINAL!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (85% pantalla) en pose de victoria suprema.
+Brazos totalmente arriba, sonrisa enorme.
+Confetti en aire, luz explosiva.
+Texto superior: "¡CAMPEÓN!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Celebración visual máxima.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO salta alto - brazos ARRIBA
+[1-2s] TALO en aire, gira 360°
+[2-3s] TALO cae, salta de nuevo
+[3-4s] TALO con brazos en aire, gira
+[4-5s] TALO en pose final triunfal, brazos arriba (HOLD)
+
+Movimiento: Saltarín, girando, explosivo.
+Efecto: Confetti masivo, sparkles, luz dorada brillante.
+```
+
+**Caption Final:**
+```
+¡LO HIZO! 🏆✨
 A-E-I-O-U
-¡TALO descubrió TODAS las vocales!
-¿Eres tan valiente como TALO?
-#TaloVocales #CampeonTalo #TodasLasVocales
+Descubre La Selva y Las Vocales 🎵
+Link en Bio
+#TaloVocales #Campeón
 ```
 
 ---
 
-## REEL 7: "ANTES VS DESPUÉS CON TALO" (20 segundos)
+## REEL 6: "¡CANTA CON TALO!" (3 clips = 15 seg total)
 
-### PROMPT IMAGEN INICIAL:
+### CLIP 1/3: "TALO PREPARA LA VOZ" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-Split screen: 
-LEFT = niño confundido (sin TALO aún)
-RIGHT = niño feliz aprendiendo CON TALO (TALO es la solución)
-Mensaje claro: TALO hace la diferencia
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 20 seconds. Format: 9:16 vertical.
-**TALO IS THE SOLUTION - Show TALO making the difference**
-
-Animation:
-[0-5s] LEFT side: Child confused without TALO, frustrated expressions
-[5-8s] RIGHT side: TALO appears with bright colors, transforms the mood
-[8-12s] Child with TALO dancing/singing - TALO is teaching, TALO's presence helps
-[12-15s] Colors change: LEFT stays dull, RIGHT is vibrant with TALO
-[15-18s] TEXT: "CON TALO, TODO ES DIFERENTE"
-[18-20s] Child happy with TALO - TALO is the hero of learning
-
-The message:
-- Without TALO: confusión
-- With TALO: alegría
-- TALO changes everything
-
-Show TALO's positive impact
-TALO is the transformative element
-TALO makes learning fun
-
-Visual: LEFT 40% dull, RIGHT 60% bright with TALO
-Mood: TALO's magic transforms learning
-Color: Dull without TALO, bright with TALO
-Final: Child + TALO happy together, hold 2s
+TALO (70% pantalla) con boca abierta preparándose.
+Animales observando desde alrededor.
+Notas musicales suaves flotantes.
+Texto superior: "¿CANTAS CON TALO?"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz cálida, ritmo visible.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-ANTES: Confundido con las vocales 😕
-DESPUÉS: ¡Aprendiendo CON TALO! 🎵😄
+Duración: 5 segundos. Formato: 9:16 vertical.
 
-TALO hace aprender divertido ✨
-¿Listo para aprender CON TALO?
-#TaloVocales #AntesyDespuesTalo
+[0-1s] TALO abre boca lentamente - preparación
+[1-2s] TALO levanta cabeza - comienza a cantar
+[2-3s] TALO con expresión feliz cantando
+[3-4s] TALO mueve cuerpo ligeramente al ritmo
+[4-5s] TALO canta con brazos en posición (HOLD)
+
+Movimiento: Preparación, canto, ritmo.
+Efecto: Notas musicales flotan, luz cálida.
 ```
 
 ---
 
-## REEL 8: "¡CANTA CON TALO!" (15 segundos)
+### CLIP 2/3: "¡CANTA CON ENERGÍA!" (5 segundos)
 
-### PROMPT IMAGEN INICIAL:
+**PROMPT IMAGEN - NANO BANANA 2:**
 ```
-TALO (PROTAGONISTA CENTER) cantando con boca abierta feliz,
-los animales alrededor, notas musicales flotando,
-TALO es la ESTRELLA que invita al viewer
-```
-
-### PROMPT ANIMACIÓN KLING 2.5:
-```
-Duration: 15 seconds. Format: 9:16 vertical.
-**TALO IS YOUR GUIDE - TALO invites YOU to sing**
-
-Animation:
-[0-3s] TALO (center, big) sings - mouth animated, happy expression
-[3-6s] TALO points at camera - inviting YOU directly, big smile
-[6-9s] Musical notes float - TALO is singing the vocales
-[9-12s] TALO waves hand inviting - "¡Canta conmigo!" gesture
-[12-15s] TALO and animals singing together - TALO is the leader
-
-TALO's role:
-- TALO is your guide/teacher
-- TALO invites YOU personally
-- TALO makes it fun
-- TALO is the star singing teacher
-
-Keep TALO prominent
-Show TALO's infectious joy
-TALO directly engages viewer
-TALO's enthusiasm is contagious
-
-Visual: TALO 70% screen
-Effects: Glow around singing TALO
-Music sync: Singing on vocal line
-Mood: TALO's joy is infectious
-Color: Bright, warm around TALO
-Final: TALO inviting smile, hold 1s
+TALO (70% pantalla) cantando con ENERGÍA.
+Cuerpo en movimiento, expresión feliz.
+Animales bailando con TALO.
+Notas musicales alrededor.
+Texto superior: "¡TODOS CANTAN!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Colores brillantes, música visible.
 ```
 
-**Caption:**
+**PROMPT VIDEO - KLING 2.5:**
 ```
-¡CANTA CON TALO! 🎤🎵
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO se mueve al ritmo - canta
+[1-2s] TALO levanta un brazo - energía creciente
+[2-3s] TALO levanta ambos brazos - canta con todo
+[3-4s] TALO gira al ritmo - cuerpo entero
+[4-5s] TALO en pose de canto final (HOLD)
+
+Movimiento: Rítmico, energético, danzador.
+Efecto: Notas musicales, luz brillante.
+```
+
+---
+
+### CLIP 3/3: "¡INVITA AL VIEWER!" (5 segundos)
+
+**PROMPT IMAGEN - NANO BANANA 2:**
+```
+TALO (70% pantalla) mirando a la cámara, brazos abiertos invitando.
+Expresión de "¡ven, canta conmigo!"
+Animales alrededor sonriendo.
+Texto superior: "¡TÚ TAMBIÉN!"
+Texto inferior (banner): "🎵 DESCUBRE LAS 5 VOCALES" (fijo)
+Luz cálida, invitación clara.
+```
+
+**PROMPT VIDEO - KLING 2.5:**
+```
+Duración: 5 segundos. Formato: 9:16 vertical.
+
+[0-1s] TALO canta mirando a cámara
+[1-2s] TALO levanta brazos invitando - ¡ven!
+[2-3s] TALO abre brazos ampliamente
+[3-4s] TALO apunta a cámara - es para ti
+[4-5s] TALO con brazos abiertos, sonriendo hacia cámara (HOLD)
+
+Movimiento: Invitador, abierto, directo a cámara.
+Efecto: Luz dorada, notas musicales.
+```
+
+**Caption Final:**
+```
+¿CANTAS CON TALO? 🎤🎵
 A-E-I-O-U
-¡TALO te invita a cantar!
-🏷️ TAG a un amiguito para que cante CON TALO
-#TaloVocales #CantaConTalo #DesafioTalo
+La Selva y Las Vocales - Próximamente
+#TaloVocales #CantaConTalo
 ```
 
 ---
 
-## ESPECIFICACIONES TÉCNICAS
+## RESUMEN TÉCNICO
 
-**Formato:** 9:16 vertical  
-**Duración:** 15-30 segundos  
-**Codec:** H.264 HD  
+**Por cada reel:**
+- 3-4 imágenes (Nano Banana 2) - una por clip
+- 3-4 videos (Kling 2.5) - 5 segundos cada uno
+- Se unen en post-producción con transiciones suaves
 
-**TALO REQUIREMENTS:**
-- TALO must be 70-85% visible in frame
-- TALO's expressions must be CLEAR
-- TALO's emotions drive the story
-- TALO is the PROTAGONIST always
-- Animals are secondary discoveries
-- Everything revolves around TALO's journey
+**Total por reel:** 3-4 imágenes + 3-4 videos = clip final de 15-20 segundos
 
-**Camera focus:**
-- Close-ups of TALO's face for emotions
-- TALO always in center frame
-- TALO's actions are the main focus
-- Use depth: TALO in foreground, animals in background
+**Ventajas:**
+- ✅ Clips cortos (5s) = más fácil para Kling
+- ✅ Prompts simples y específicos por clip
+- ✅ Control total en post-producción
+- ✅ Transiciones customizables
+- ✅ Fácil de reuscar si falla un clip
 
 ---
 
-## POSTING STRATEGY
-
-**Secuencia (con TALO como protagonista):**
-1. Reel 1: TALO busca la A
-2. Reel 2: TALO encuentra la E
-3. Reel 3: TALO y la I
-4. Reel 4: TALO y el oso
-5. Reel 5: TALO y la U (victoria)
-6. Reel 6: TALO GANÓ todas
-7. Reel 7: TALO transforma (antes/después)
-8. Reel 8: CANTA CON TALO
-
-**Hashtags (TALO focused):**
-#TaloVocales #CancionasTalo #CampeonTalo #ConTalo #TaloMusic
+**Prompts listos para generar. ¿Empezamos con este formato?**
