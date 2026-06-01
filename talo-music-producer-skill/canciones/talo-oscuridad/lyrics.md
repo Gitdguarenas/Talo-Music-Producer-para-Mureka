@@ -1,6 +1,6 @@
 # Talo y la Oscuridad — LYRICS FINALES PARA MUREKA
 
-**Duración:** 2:45 | **Emoción:** Miedo | **Validación:** Explícita | **Amigos:** Rubí, Tuco, Nuti
+**Duración:** ~1:30 | **Emoción:** Miedo → Valentía | **Personaje clave:** Búho | **Resolución:** Entendimiento
 
 ---
 
@@ -9,27 +9,25 @@
 | Campo | Valor |
 |---|---|
 | Título | Talo y la Oscuridad |
-| Duración Objetivo | 2:45 |
-| Emoción | Miedo |
+| Duración Objetivo | ~1:30 |
+| Emoción | Miedo → Valentía → Comprensión |
 | Edad Target | 2–6 años |
-| Lección | Validación de miedo + Seguridad + Presencia de amigos |
-| Personajes | Talo, Rubí, Tuco, Nuti |
-| BPM Range | 70–110 |
-| Trigger de Lección | Dormir solo, oscuridad, sonidos extraños |
+| Lección | El miedo a la oscuridad se vence con curiosidad y conocimiento |
+| Personajes | Talo, Búho |
+| BPM Range | 85–90 |
+| Trigger de Lección | Dormir solo, oscuridad, sombras, sonidos nocturnos |
 
 ---
 
 ## STYLE PROMPT (para Mureka)
 
 ```
-[Mysterious but safe atmosphere. Starting at 70 BPM very calm, building to 110 BPM 
-fear peak, returning to 70 BPM safety. Soft piano intro, delicate wind sounds 
-(no harsh), warm glockenspiel. Warm female vocal, no aggression, no scary tones—
-validating and safe throughout. 2-second absolute silence at fear peak. Gentle 
-breathing sounds in bridge (audible but not intrusive). Soft nature sounds 
-(crickets, wind) for atmosphere—never threatening. Build back slowly with warmth. 
-Final chorus is protective and cozy. Bluey-style emotional soundtrack—intimate, 
-safe, protective. Clean organic mix, no autotune, no scary sound effects.]
+[Mysterious but brave atmosphere. 85 BPM building curiosity and courage. 
+Soft piano intro, gentle wind sounds, warm glockenspiel. Child-friendly 
+vocal — curious, brave, not scary. Chorus is empowering and repetitive. 
+Búho's verses are calm, gentle, wise. Final section is peaceful and 
+resolved. Bluey-style emotional soundtrack — safe, warm, educational. 
+No scary sounds, no autotune, no aggressive tones.]
 ```
 
 ---
@@ -37,243 +35,131 @@ safe, protective. Clean organic mix, no autotune, no scary sound effects.]
 ## LYRICS — METATAGS VÁLIDOS ÚNICAMENTE
 
 ```
-[Intro - soft piano and wind, 70 BPM, mysterious but safe]
-Cierro los ojos,
-la noche llega.
+[Intro]
+[Estrofa]
+La noche es oscura,
+¿qué ves, Talo?
 
-[Verse 1 - Gentle curiosity, 75 BPM]
-¿Qué es ese ruido?
-¿Dónde estoy yo?
-Oscuro, oscuro,
-¿quién está aquí?
+[Verse 1 - 85 BPM, Talo scared]
+¡Ahí hay una sombra!
+¿Qué es esa forma?
+Escucho un ruido raro,
+¡crujidos en la ventana!
+¿Hay un monstruo?
+¿Hay algo aquí?
 
-La ventana crujen,
-¿qué será eso?
-Abre mis ojos,
-todo está negro.
+[Verse 2 - 90 BPM, Talo confused]
+¡Qué sonido extraño!
+¿Quién está ahí?
+Veo ojos brillantes,
+¿me van a atacar?
 
-[Chorus - IDÉNTICO SIEMPRE, Protective]
-No estoy solo aquí,
-mis amigos son.
-La oscuridad es segura,
-puedo descansar.
+[Chorus - IDÉNTICO SIEMPRE, brave + curious energy]
+Soy valiente, tengo curiosidad,
+la oscuridad no da miedo.
+Soy valiente, tengo curiosidad,
+la oscuridad no da miedo.
 
-Respiro profundo,
-estoy protegido.
-Intento dormir,
-sin miedo voy.
+[Verse 3 - Búho arrives and reveals truth, 85 BPM, Búho gentle]
+Tranquilo, Talo, soy yo.
+Esa sombra es un árbol,
+ese ruido es el viento,
+esos ojos brillantes soy yo.
 
-[Verse 2 - Fear increases, 100 BPM]
-Un ruido fuerte,
-¡crunch! ¿Qué fue eso?
-Mi corazón corre,
-tengo mucho miedo.
+[Verse 4 - Búho explains, 85 BPM, Búho teaching]
+Lo que viste no es peligro,
+es la noche diferente.
+El mundo se ve especial,
+cuando aprendes a mirar.
 
-¿Habrá monstruo aquí?
-¿Me perseguirá?
-Siento que no puedo,
-¡quiero gritar!
+[Verse 5 - Talo understands, 85 BPM, Talo brave]
+¡Ahora entiendo, Búho!
+Era el viento nada más,
+¡ese árbol no es monstruo!
+¡Soy valiente, no tengo miedo!
 
 [Chorus - EXACTAMENTE IGUAL]
-No estoy solo aquí,
-mis amigos son.
-La oscuridad es segura,
-puedo descansar.
+Soy valiente, tengo curiosidad,
+la oscuridad no da miedo.
+Soy valiente, tengo curiosidad,
+la oscuridad no da miedo.
 
-Respiro profundo,
-estoy protegido.
-Intento dormir,
-sin miedo voy.
-
-[Verse 3 - Peak fear, 110 BPM]
-¡Oscuridad, oscuridad!
-¡No puedo ver nada!
-¡Dónde están mis amigos?
-¡Tengo miedo!
-
-[Silence - 2 seconds absolute]
-
-[Spoken - whispered, warm, protective, 70 BPM]
-Está bien, Talo.
-La oscuridad no es mala.
-Tu miedo es real.
-Estás seguro aquí.
-
-[Verse 4 - Intervención, amigos llegan, protective, 75 BPM]
-Rubí viene aquí,
-con Tuco y Nuti.
-¡No estás solo, Talo!
-Estamos contigo.
-
-[Bridge - Safety affirmation, soft sounds, 70 BPM]
-Respira con nosotros,
-el aire es fresco.
-Cierra los ojos,
-estamos aquí.
-
-[Verse 5 - Transformación, safety, 75 BPM]
-La oscuridad no duele,
-es como un abrazo.
-Mis amigos duermen,
-yo duermo también.
-
-[Final Chorus - EXACTAMENTE IGUAL, PROTECTIVE, cozy, 70 BPM]
-No estoy solo aquí,
-mis amigos son.
-La oscuridad es segura,
-puedo descansar.
-
-Respiro profundo,
-estoy protegido.
-Intento dormir,
-sin miedo voy.
-
-[Outro - Gentle fade, lullaby, 70 BPM]
-Duermo seguro,
-mis amigos aquí.
-Mañana despierto,
-fuerte y feliz.
+[Outro - Peaceful resolution, 85 BPM]
+Veo cosas especiales,
+con mi amigo Búho.
+La noche es hermosa,
+duermo seguro.
 ```
+
+---
+
+## ESTRUCTURA NARRATIVA
+
+| Sección | Tiempo | Narrativa |
+|---|---|---|
+| Intro | 0–3s | Talo se acerca a la ventana de noche |
+| Verse 1 | 3–15s | Miedo: sombra, ruidos, imaginación de monstruo |
+| Verse 2 | 15–25s | Confusión: sonidos extraños, ojos brillantes |
+| Chorus | 25–35s | Valentía: decide ser curioso en vez de asustado |
+| Verse 3 | 35–47s | Búho llega y revela la verdad (árbol, viento, sus ojos) |
+| Verse 4 | 47–59s | Búho enseña: la noche es diferente, no peligrosa |
+| Verse 5 | 59–71s | Talo entiende completamente, ya no tiene miedo |
+| Chorus | 71–81s | Repetición del coro con confianza verdadera |
+| Outro | 81–90s | Paz, belleza nocturna, duerme seguro con Búho |
 
 ---
 
 ## PRODUCTION NOTES
 
-**Visual Storyboard:**
-1. **Intro (0-5 seg):** Talo en cama, mira alrededor en penumbra, cierra ojos
-2. **Verso 1 (5-30 seg):** Sonidos ambientales suaves, Talo abre ojos asustado, mira ventana
-3. **Verse 2 (30-50 seg):** Ruido fuerte (crunch, viento), Talo asustado, pone mano en pecho
-4. **Verse 3 Peak (50-65 seg):** Silencio absoluto, Talo paralizado de miedo, cara vulnerable
-5. **Pausa (65-67 seg):** SOLO SILENCIO — Talo respira, cara de validación
-6. **Spoken (67-77 seg):** Voz adulta gentil (NO papá/mamá) valida miedo
-7. **Verso 4 (77-95 seg):** Amigos aparecen suavemente (Rubí panda roja, Tuco tucán, Nuti nutria) alrededor de Talo
-8. **Bridge (95-110 seg):** Talo y amigos respirando juntos, sonidos cómodos
-9. **Verso 5 (110-130 seg):** Oscuridad se transforma en "abrazo cálido", Talo sonríe, ojos cerrándose
-10. **Coro Final (130-150 seg):** Todos duermen juntos (Talo + amigos amigablemente), confianza restaurada
-11. **Outro (150-165 seg):** Fade suave como lullaby, Talo durmiendo profundamente
+**Visual Storyboard (alineado con GRIDS.md):**
+1. **Intro (0–3s):** Talo se acerca a ventana de noche, curiosidad inicial
+2. **Verse 1 (3–15s):** Sombra de árbol en pared, ruidos, miedo crescendo
+3. **Verse 2 (15–25s):** Sonidos superpuestos, ojos brillantes, confusión máxima
+4. **Chorus (25–35s):** Pausa interna → valentía → postura de fuerza
+5. **Verse 3 (35–47s):** Búho entra por ventana, explica: árbol, viento, sus ojos
+6. **Verse 4 (47–59s):** Búho enseña la noche como algo hermoso y especial
+7. **Verse 5 (59–71s):** Epifanía de Talo, comprensión total, alegría
+8. **Chorus (71–81s):** Talo y Búho juntos, coro con verdadera confianza
+9. **Outro (81–90s):** Talo en cama, Búho como guardián, duerme tranquilo
 
-**Audio Cues:**
-- Viento suave, crickets en Intro
-- Crunch suave (NO asustador) en Verso 2
-- Silencio absoluto 2 segundos (validación del miedo)
-- Piano muy suave durante spoken
-- Respiración audible (Talo + amigos) en Bridge
-- Sonidos de sueño (respiración profunda) en Verso 5
-- Lullaby suave fade en Outro
-
-**Emotional Beats (CRÍTICO):**
-- Verso 3 NO MINIMIZA ("No tengas miedo" ❌ / "¡Tengo miedo!" ✅)
-- Silencio valida el sentimiento ("El miedo es REAL")
-- Spoken explícitamente valida ("Tu miedo es real. Estás seguro.")
-- Verso 4 muestra presencia de amigos (NO adultos, NO papá/mamá)
-- Bridge guía respiración + presencia de amigos simultáneamente
-- Verso 5 transforma oscuridad en "abrazo" (reframing positivo, no negación)
-
----
-
-## NEGATIVE GUIDANCE (¿QUÉ NO HACER?)
-
-❌ **NO agregar voces de papá o mamá en ningún punto**
-❌ **NO sonidos aterradores (zombies, monstruos que atacan)**
-❌ **NO minimizar el miedo ("No tengas miedo", "Es solo un sonido")**
-❌ **NO hacer que Verso 4 sea "mamá me protege" (es "amigos están aquí")**
-❌ **NO pausas antes de Verso 2 (pausa solo DESPUÉS de Verso 3)**
-❌ **NO cambiar el coro en ninguna repetición (IDÉNTICO siempre)**
-❌ **NO alta nota aguda (refuerza miedo)**
-❌ **NO borrar el silencio de 2 segundos (es validación)**
-❌ **NO rimas forzadas**
-❌ **NO narrativa confusa**
-❌ **NO final "mamá viene a dormir contigo"**
+**Personaje Búho:**
+- Llega en Verse 3 como revelador de la verdad
+- Sus "ojos brillantes" eran los que asustaban a Talo
+- Rol: maestro-amigo, no papá/mamá
+- Aparece en 3 de los 8 GRIDs (Verse 3, Verse 4, Verse 5 en adelante)
 
 ---
 
 ## CHECKLIST PREVIO A MUREKA
 
-- [x] Intro: Mysterious pero safe, piano suave, hook clara
-- [x] Verso 1-2-3: 3-4 líneas cada uno, curiosidad → miedo → pico
-- [x] Coro: 4 líneas, IDÉNTICO todas las veces, aparece 3 veces
-- [x] Bridge: 5-10 seg, respiración + presencia de amigos
-- [x] Outro: 3 líneas, lullaby suave, preparación para dormir
-- [x] Duración total: 2:45 minutos
-- [x] Validación emocional: Verso 3 + Silencio + Spoken
-- [x] Leitmotif: Miedo ascendente → Pausa → Calma descendente (dormido)
-- [x] Amigos: Rubí, Tuco, Nuti (NO papá/mamá)
-- [x] Resolución: Verso 5 + Coro Final = duerme seguro con amigos
-- [x] Metatags válidos: [Intro], [Verse], [Chorus], [Bridge], [Spoken], [Silence]
-- [x] Sin metatags de acción en lyrics
-- [x] Sin metatags para sonidos específicos en lyrics (van en Production Notes)
+- [x] Intro: Mysterious pero seguro, hook clara ("La noche es oscura, ¿qué ves, Talo?")
+- [x] Verse 1–2: Miedo escalonado → confusión
+- [x] Chorus: IDÉNTICO siempre, empoderador, "Soy valiente, tengo curiosidad"
+- [x] Verse 3: Búho llega y revela la verdad (árbol, viento, ojos = Búho)
+- [x] Verse 4: Búho enseña nueva perspectiva de la noche
+- [x] Verse 5: Talo transforma miedo en valentía y comprensión
+- [x] Outro: 4 líneas, resolución pacífica, duerme seguro
+- [x] Duración total: ~1:30 minutos
+- [x] Personaje clave: Búho (NO Rubí, Tuco, Nuti — esa es la canción del Enojo)
+- [x] Lección: curiosidad + conocimiento > miedo
+- [x] Metatags válidos: [Intro], [Estrofa], [Verse], [Chorus], [Outro]
+- [x] Sin metatags de acción o sonidos específicos en lyrics
 
 ---
 
-## INTEGRACIÓN CON ESTRUCTURA INFANTIL
+## NEGATIVE GUIDANCE (¿QUÉ NO HACER?)
 
-**Según ESTRUCTURA-CANCION-INFANTIL-GUIA.md:**
-
-1. ✅ **Introducción (8-16 seg):** Piano suave + Wind, hook "Cierro los ojos, la noche llega"
-2. ✅ **Verso 1 (Acción clara, 3-4 líneas):** "¿Qué es ese ruido? ¿Dónde estoy yo?"
-3. ✅ **Coro (Pegajoso, 4 líneas, IDÉNTICO):** "No estoy solo aquí, mis amigos son"
-4. ✅ **Verso 2 (Verso Repetidor + Variador):** "Un ruido fuerte" (estructura) + "¡crunch!" (elemento)
-5. ✅ **Bridge (Cambio ritmo + Sorpresa):** Silencio + Spoken + respiración guiada
-6. ✅ **Verse 5 (Resolución):** "La oscuridad no duele, es como un abrazo"
-7. ✅ **Outro (Cierre + Baja intensidad):** "Duermo seguro, mis amigos aquí"
-8. ✅ **Movimiento:** Cerrar ojos (Intro) → Abrir asustado (Verso 1) → Corazón corre (Verso 2) → Paralizado (Verso 3) → Respira (Bridge) → Duerme (Verso 5)
+❌ **NO agregar Rubí, Tuco, Nuti** (esos son personajes de otras canciones)
+❌ **NO hacer que papá/mamá resuelvan el problema**
+❌ **NO usar BPM de 70–110** (esta canción se mantiene en 85–90 BPM)
+❌ **NO silencio de 2 segundos** (eso es en la versión con validación de miedo pasivo)
+❌ **NO spoken word** (Búho habla dentro de los versos, no en sección aparte)
+❌ **NO cambiar el coro** (IDÉNTICO en las 2 repeticiones)
+❌ **NO sonidos aterradores reales** (los sonidos de miedo son de la imaginación de Talo)
+❌ **NO hacer que la solución sea "no tengas miedo"** (la solución es entender QUÉ son las cosas)
 
 ---
 
-## COMPARACIÓN: PATRONES LULI PAMPÍN
-
-| Patrón | Aplicación | Validación |
-|---|---|---|
-| Verso Repetidor + Variador | "Un ruido fuerte" (estructura) + "¡crunch!" vs sonidos naturales | ✅ |
-| Onomatopeyas (0-10 seg) | "Crunch" en Verso 2 (asustadora pero validada) | ✅ |
-| Repetición de palabras | "Oscuro, oscuro" x2, "No estoy solo" x3 | ✅ |
-| Diálogo/Interacción | Preguntas en Verso 1, Spoken de validación | ✅ |
-| Rimas AABB | ojos/aquí, ruido/frío, etc. | ✅ |
-| Vocabulario simple | oscuridad, miedo, amigos, dormir, seguro | ✅ |
-| Narrativa completa | Setup → Curiosidad → Miedo → Validación → Seguridad | ✅ |
-| Menos verso, más coro | Coro 38% de la canción | ✅ |
-| Exageración amable | Ruido es "crunch" suave, no aterrador | ✅ |
-| Rhythmo Bouncy | "Respiro profundo" es calmante/meditativo | ✅ |
-
----
-
-## DIFERENCIADORES: MIEDO vs ENOJO
-
-**Talo y el Color del Enojo:**
-- Emoción ACTIVA (explosión)
-- Movimiento: saltar → levantar → caer
-- Solución: intentar de nuevo
-- Coro: "construyen mejor"
-
-**Talo y la Oscuridad:**
-- Emoción PASIVA (parálisis)
-- Movimiento: cerrar → abrir asustado → paralizado → dormir
-- Solución: descansar seguro
-- Coro: "puedo descansar"
-
----
-
-## NOTAS FINALES
-
-**Esta es la versión final lista para:**
-1. Pasar a Mureka con Style Prompt + Lyrics separados
-2. Ser usada como base para futuras canciones de miedo
-3. Ser documentada en el feedback-learning-loop.md tras publicación
-
-**Próximas acciones:**
-- [ ] Subir a Mureka (después de "Talo y el Color del Enojo")
-- [ ] Esperar audio generado
-- [ ] Configurar YouTube (lanzar después de retención data del Enojo)
-- [ ] Monitorear retención primeros 3-7 días
-- [ ] Documentar resultados en ANALISIS-ESTADISTICAS-VIDEOS.md
-
-**Personalizaciones por edad:**
-- **2-3 años:** Reducir length de versos, más repetición de "estoy seguro"
-- **4-5 años:** Mantener estructura, agregar más narrativa en Verso 2
-- **5-6 años:** Mantener estructura, explicar más sobre "qué es esa oscuridad"
-
----
-
-**Fecha de creación:** 2026-05-19
-**Última revisión:** 2026-05-19
+**Fecha de creación:** 2026-06-01
+**Última revisión:** 2026-06-01
 **Estado:** LISTA PARA PRODUCCIÓN
