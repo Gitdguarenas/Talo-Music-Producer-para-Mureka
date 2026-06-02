@@ -12,41 +12,61 @@ Guía para generar los clips del video musical completo.
 ## ⚠️ ESTILO VISUAL GLOBAL — COPIAR AL INICIO DE CADA PROMPT DE NANO BANANA 2
 
 ```
-ESTILO: ilustración 2D cartoon infantil. Líneas suaves y redondeadas. Colores planos sin degradados complejos. Estilo libro infantil / Bluey.
+STYLE: 3D Pixar cartoon style, smooth 3D render, soft volumetric lighting, TaloInsta universe
+FORMAT: 16:9, grid 4×3 (12 frames), off-white background, thin black borders
 
-PALETA FIJA (usar en todos los frames):
-- Habitación interior: azul muy oscuro, casi negro
-- Luz lunar: plateada/blanca suave proyectada desde ventana
-- Talo: camaleón verde pequeño, ojos grandes expresivos, cuerpo redondeado
-- Búho: pájaro marrón cálido, grande, ojos redondos sabios (aparece desde GRID 5)
-- Ventana: rectángulo con exterior azul-medianoche, luna blanca brillante
-- Sombra de árbol: forma oscura en la pared interior
+SCENARIO: Talo's cozy circular wooden bedroom inside the Great Tree at night.
+Round window on the back wall shows the night sky OUTSIDE: large white moon, tree branches.
+Room interior is dark wood, natural furniture, lit only by moonlight from the window.
+The outdoor elements (moon, tree) are ONLY visible through the window — never inside the room.
 
-REGLAS OBLIGATORIAS:
-- SOLO UN Talo por frame — nunca duplicar al personaje
-- SOLO UN Búho por frame cuando aparece — nunca duplicar
-- Talo siempre DENTRO de la habitación (nunca afuera de la ventana)
-- Luna y árbol siempre AFUERA, visibles únicamente por la ventana
-- Búho NO emite luz propia — sus ojos solo reflejan la luna
+TALO DESCRIPTOR (copy exactly, replace [COLOR] per grid):
+Talo the chameleon, 3D cartoon children's character, 5 years old, bipedal stance,
+[COLOR] scaly-velvety body with lighter belly, large expressive hazel-amber eyes with white sclera,
+distinctive golden yellow spiral marking on center of forehead,
+small blue circular dot patterns on back and sides, long curled spiral tail with small blue stripe details,
+3-fingered hands and 3-toed feet, 90cm tall child proportions, soft rounded scales texture,
+3D Pixar cartoon style, smooth 3D render, soft volumetric lighting, TaloInsta universe
 
-Formato: 16:9, cuadrícula 4×3 (12 frames), fondo off-white, bordes negros finos.
+BÚHO DESCRIPTOR (copy exactly, only in GRIDs 5–8):
+Búho the wise owl, 3D cartoon children's character, large wise elder, warm brown and cream-white
+feathered round body, very large round amber eyes with white sclera, soft curved beak,
+fluffy round head, gentle wise calm expression, feathered wings at sides,
+soft plush texture, 3D Pixar cartoon style, smooth 3D render, soft volumetric lighting, TaloInsta universe
+
+TALO COLOR ARC (use the correct color for each GRID):
+- GRID 1 — bright medium-green (neutral, curious)
+- GRID 2 — blue-green (slight unease)
+- GRID 3 — blue (growing concern)
+- GRID 4 — shifting from blue-violet to green-blue (brave transformation)
+- GRID 5 — returning to green-blue (relief, understanding beginning)
+- GRID 6 — returning to bright medium-green (understanding complete)
+- GRID 7 — shifting to yellow-green (joy and relief)
+- GRID 8 — bright medium-green (peace, calm, sleeping)
+
+RULES — apply to every frame:
+- ONLY ONE Talo per frame — never duplicate the character
+- ONLY ONE Búho per frame when present — never duplicate
+- Talo always INSIDE the room (never outside looking in through window)
+- Moon and tree branches always OUTSIDE, visible only through the round window
+- Búho does NOT emit any glow — his eyes only reflect existing moonlight
 ```
 
 ---
 
 ## ESTRUCTURA DE CLIPS
 
-| # | Sección | Duración |
-|---|---|---|
-| Clip 1 | Intro — Talo se acerca a la ventana | ~3s |
-| Clip 2 | Verso 1 — Aparece la sombra del árbol | ~12s |
-| Clip 3 | Verso 2 — Sonidos extraños y ojos en la oscuridad | ~10s |
-| Clip 4 | Coro — Talo decide ser valiente | ~10s |
-| Clip 5 | Verso 3 — Búho llega y revela la verdad | ~12s |
-| Clip 6 | Verso 4 — La noche es especial | ~12s |
-| Clip 7 | Verso 5 — Talo entiende todo | ~12s |
-| Clip 8 | Coro Final + Outro — Talo duerme seguro | ~15s |
-| **TOTAL** | | **~86s ≈ 1:26 min** |
+| # | Sección | Duración | Color Talo |
+|---|---|---|---|
+| Clip 1 | Intro — Talo se acerca a la ventana | ~3s | bright medium-green |
+| Clip 2 | Verso 1 — Aparece la sombra del árbol | ~12s | blue-green |
+| Clip 3 | Verso 2 — Sonidos extraños y ojos en la oscuridad | ~10s | blue |
+| Clip 4 | Coro — Talo decide ser valiente | ~10s | blue-violet → green-blue |
+| Clip 5 | Verso 3 — Búho llega y revela la verdad | ~12s | returning to green-blue |
+| Clip 6 | Verso 4 — La noche es especial | ~12s | returning to bright medium-green |
+| Clip 7 | Verso 5 — Talo entiende todo | ~12s | shifting to yellow-green |
+| Clip 8 | Coro Final + Outro — Talo duerme seguro | ~15s | bright medium-green |
+| **TOTAL** | | **~86s ≈ 1:26 min** | |
 
 ---
 
@@ -55,384 +75,386 @@ Formato: 16:9, cuadrícula 4×3 (12 frames), fondo off-white, bordes negros fino
 ---
 
 ### GRID 1 — Intro (~3s)
-**Escena:** Talo dentro de su habitación nocturna camina hacia la ventana y mira afuera con curiosidad.
+**Talo color:** bright medium-green | **Escena:** Talo dentro de su habitación nocturna camina hacia la ventana y mira afuera con curiosidad.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: bright medium-green]
 
-Escena de esta secuencia: habitación oscura de noche. Talo se acerca a la ventana. Luna y árbol visibles afuera por la ventana.
+Scene sequence: dark cozy wooden bedroom at night. Talo walks toward the round window. Moon and tree visible outside through the window.
 
-Frame 1: Talo de pie centro-izquierda DENTRO. Ventana al fondo-derecha con luz lunar. Habitación oscura. Expresión Talo: tranquilo, neutral.
+Frame 1: Wide shot of dark wooden bedroom. Talo standing center-left INSIDE, facing the round window in the back wall. Window glows softly with moonlight. Talo expression: calm, neutral.
 
-Frame 2: Talo da un paso hacia la ventana. Centro de la habitación. Luz lunar llega hasta su cara. Expresión Talo: curioso.
+Frame 2: Talo takes a step toward the window. Moonlight reaching his face slightly. Talo expression: curious.
 
-Frame 3: Talo a mitad de camino de la ventana. Luz lunar plateada en su cara. Expresión Talo: atento.
+Frame 3: Talo halfway to the window. Moonlight on his face. Talo expression: attentive, wondering.
 
-Frame 4: Talo frente a la ventana, de frente al vidrio. Por la ventana: luna redonda blanca en cielo azul oscuro AFUERA. Árbol con ramas AFUERA. Expresión Talo: asombrado.
+Frame 4: Talo standing in front of the round window, facing the glass. Through the window OUTSIDE: large white moon in dark blue sky, tree branches. Talo expression: amazed.
 
-Frame 5: Vista lateral. Talo DENTRO frente a ventana. Mano tocando el vidrio. Luna AFUERA visible. Expresión Talo: curioso.
+Frame 5: Side view. Talo INSIDE at the window, one hand touching the glass. Moon visible OUTSIDE. Talo expression: curious and gentle.
 
-Frame 6: Close-up cara de Talo. Luz lunar plateada reflejada en cara. Ojos grandes mirando afuera. Expresión Talo: maravillado.
+Frame 6: Close-up of Talo's face. Silver moonlight reflecting on his scales. Large expressive eyes looking outward. Talo expression: wonder, gentle curiosity.
 
-Frame 7: Vista desde atrás de Talo. Talo DENTRO de espaldas frente a ventana. Por la ventana: luna grande AFUERA, árbol AFUERA con ramas. Interior oscuro alrededor.
+Frame 7: View from behind Talo. Talo INSIDE with back to camera, standing at round window. Through the window: large moon OUTSIDE in sky, tree branches OUTSIDE. Dark room interior around him.
 
-Frame 8: Primer plano de la ventana. Luna AFUERA arriba-centro. Árbol AFUERA derecha. Talo reflejado muy pequeño en el vidrio. Solo la ventana y el exterior.
+Frame 8: Close-up of the round window only — no characters. Moon OUTSIDE upper center, tree branches OUTSIDE right side. No characters in this frame.
 
-Frame 9: Plano general habitación. Talo pequeño izquierda DENTRO de espaldas. Ventana derecha con luna AFUERA. Oscuridad en la habitación alrededor.
+Frame 9: Wide shot. Small Talo figure in foreground left INSIDE, back to camera. Round window in background with moon OUTSIDE. Darkness of bedroom around him.
 
-Frame 10: Talo de perfil en la ventana. Cabeza inclinada escuchando sonidos del exterior. Expresión Talo: concentrado.
+Frame 10: Talo in profile at the window. Head slightly tilted, listening. Talo expression: concentrated.
 
-Frame 11: Close-up ojos de Talo. Reflejos de luz lunar en los ojos. Solo los ojos y la luz. Expresión Talo: curioso.
+Frame 11: Close-up of Talo's hazel-amber eyes. Moonlight reflections in his eyes. Talo expression: curious.
 
-Frame 12: Plano general estable. Talo DENTRO en la ventana. Habitación oscura alrededor. Luna AFUERA visible por la ventana. Composición clara y centrada.
+Frame 12: Stable wide shot. Talo INSIDE at the window. Dark wooden bedroom around him. Moon clearly visible OUTSIDE through round window. Clean composed final frame.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 3-second clip.
-IMPORTANT: Ignore all dotted arrows in the grid. Use only composition as layout reference.
-@imgTalo is always INSIDE the bedroom. Never place Talo outside.
-Scene: Talo slowly walks toward a bedroom window at night and looks out with gentle curiosity.
-Lighting: Moonlight from outside the window only. Room is dark; window is the sole light source. No glow effects.
-Motion: Talo walks slowly toward window → reaches the glass → looks out. Calm, slow movement.
-Camera: Wide dark bedroom shot → follow Talo walking → settle on Talo at window looking out.
-Tone: Peaceful curiosity. Deep blue-black room, silver moonlight through window.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 3-second clip.
+IMPORTANT: Ignore all dotted arrows in the grid. Use only visual composition as layout reference.
+Talo (bright medium-green chameleon, golden spiral on forehead) always INSIDE the bedroom.
+Scene: Talo slowly walks toward a round window in his dark cozy wooden bedroom at night, reaches it, and looks out with quiet curiosity.
+Lighting: Natural moonlight from outside the round window only. No glow effects. Room is dark; window is the sole light source.
+Motion: Talo walks slowly toward window → reaches the glass → looks out gently. Calm, soft movement.
+Camera: Wide shot of dark bedroom → gentle zoom in following Talo walking → settle on Talo at window looking out.
+Tone: Peaceful curiosity. Deep blue-black room, silver moonlight from round window, 3s.
 ```
 
 ---
 
 ### GRID 2 — Verso 1 (~12s)
-**Escena:** Talo dentro ve una sombra de árbol en la pared de su habitación y reacciona con sorpresa e inquietud creciente.
+**Talo color:** blue-green (slight unease) | **Escena:** Talo ve una sombra de árbol en la pared de su habitación y reacciona con sorpresa e inquietud creciente.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: blue-green]
 
-Escena de esta secuencia: habitación oscura. Talo DENTRO. Sombra de ramas de árbol proyectada en la pared interior (causada por la luna AFUERA que ilumina el árbol AFUERA). Talo la ve y reacciona.
+Scene sequence: dark wooden bedroom. Talo INSIDE. Tree shadow projected on the interior wall (cast by moonlight from outside through the round window). Talo notices it and reacts.
 
-Frame 1: Talo centro de la habitación DENTRO. Pared a su derecha sin sombra aún. Habitación oscura normal. Expresión Talo: tranquilo.
+Frame 1: Talo standing center of bedroom INSIDE. Wall on his right: no shadow yet. Normal dark room. Talo expression: calm.
 
-Frame 2: Sombra de ramas de árbol aparece en la pared interior derecha. Talo izquierda mirando la sombra. Expresión Talo: sorprendido.
+Frame 2: Tree branch shadow appears on the right interior wall (projected by moonlight from outside). Talo left side looking at the shadow. Talo expression: surprised.
 
-Frame 3: Talo señala la sombra en la pared con un dedo extendido. Sombra claramente visible en pared. Expresión Talo: alarmado.
+Frame 3: Talo pointing at the wall shadow with one finger extended. Shadow clearly visible on wall. Talo expression: alarmed.
 
-Frame 4: Talo da un paso atrás alejándose de la sombra. Sombra en pared derecha. Expresión Talo: inquieto.
+Frame 4: Talo takes a step backward away from the shadow. Shadow on right wall. Talo expression: uneasy.
 
-Frame 5: Primer plano de la sombra en la pared interior. Forma de ramas de árbol, oscura y difusa. Sin personajes en este frame, solo la sombra en la pared.
+Frame 5: Close-up of the shadow on the interior wall only — no characters. Tree branch shapes, dark and slightly diffuse. Just the shadow pattern on the wooden wall.
 
-Frame 6: Talo mirando la sombra desde lejos. Cuerpo tenso, brazos pegados al cuerpo. Expresión Talo: preocupado.
+Frame 6: Talo watching the shadow from a distance. Body tense, arms close to body. Talo expression: worried.
 
-Frame 7: Close-up cara de Talo. Ojos muy abiertos. Expresión Talo: muy sorprendido.
+Frame 7: Close-up of Talo's face. Very wide eyes. Talo expression: startled and confused.
 
-Frame 8: Plano general. Talo izquierda DENTRO. Sombra de árbol en pared derecha. Ventana al fondo centro con luna AFUERA y árbol AFUERA. Habitación oscura.
+Frame 8: Wide shot. Talo left INSIDE. Tree branch shadow on right wall. Round window at back with moon OUTSIDE and tree OUTSIDE. Dark bedroom.
 
-Frame 9: Talo agachado levemente. Cuerpo encogido. Expresión Talo: asustado pero mirando.
+Frame 9: Talo slightly crouching. Body hunched. Talo expression: scared but still watching.
 
-Frame 10: Vista de la ventana únicamente. Árbol AFUERA con ramas. Luna AFUERA detrás del árbol. La luna proyecta la sombra del árbol hacia dentro. Sin personajes en este frame.
+Frame 10: Close-up of round window only — no characters. Tree OUTSIDE with branches. Moon OUTSIDE behind the tree. Moonlight rays projecting inward. No characters in this frame.
 
-Frame 11: Talo mirando la sombra. Mano en la boca. Expresión Talo: confundido e inquieto.
+Frame 11: Talo watching shadow. One hand near his mouth. Talo expression: confused and uneasy.
 
-Frame 12: Plano general final. Talo centro DENTRO. Sombra en pared. Ventana con luna AFUERA al fondo. Habitación oscura. Composición clara.
+Frame 12: Wide shot final. Talo center INSIDE. Shadow on wall. Round window with moon OUTSIDE in background. Dark bedroom. Clear composed frame.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 12-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 12-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-@imgTalo is always INSIDE the bedroom.
-Scene: A tree shadow (cast by moonlight from outside through the window) appears on the interior wall. Talo notices it and reacts with growing surprise and unease.
+Talo (blue-green chameleon, golden spiral on forehead) always INSIDE the bedroom.
+Scene: A tree shadow (cast by moonlight through the round window from outside) appears on the interior wooden wall. Talo notices it and reacts with growing surprise and unease.
 Lighting: Moonlight from outside projects the tree shadow onto the interior wall. No glow effects. Only natural lunar light.
-Motion: Talo standing still → shadow appears on wall → Talo points at shadow → steps back in surprise → looks around confused. Slow, cautious movements.
-Camera: Wide bedroom shot → zoom to shadow on wall → back to Talo's face → wide shot showing both Talo and shadow on wall.
-Tone: Growing concern and confusion. Deep dark blues, silver shadow on wall, moonlight from window.
+Motion: Talo standing still → shadow appears on wall → Talo points at shadow → steps back in surprise → looks around confused. Slow and cautious movements.
+Camera: Wide bedroom shot → gentle zoom to shadow on wall → cut back to Talo's face → wide shot showing both Talo and shadow on wall.
+Tone: Growing concern and confusion. Deep dark blues, silver shadow on wooden wall, 12s.
 ```
 
 ---
 
 ### GRID 3 — Verso 2 (~10s)
-**Escena:** Talo dentro escucha sonidos y ve dos puntos brillantes (ojos de Búho, aún no identificado) en la oscuridad de la habitación.
+**Talo color:** blue (growing concern) | **Escena:** Talo escucha sonidos extraños y ve dos puntos brillantes (ojos de Búho, sin identificar aún) en la oscuridad de la habitación.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: blue]
 
-Escena de esta secuencia: habitación muy oscura. Talo DENTRO. Dos puntos de luz amarilla pequeños visibles en la oscuridad (son los ojos del búho, pero Talo no lo sabe aún). Sin figura de búho visible, solo los dos puntos. Talo reacciona con confusión máxima.
+Scene sequence: very dark wooden bedroom. Talo INSIDE. Two small glowing yellow-amber points visible in the darkness (owl eyes — not yet identified, no owl body visible). Talo reacts with maximum confusion.
 
-Frame 1: Talo centro-izquierda DENTRO. Habitación en oscuridad casi total. Cabeza girada escuchando. Expresión Talo: alerta, escuchando.
+Frame 1: Talo center-left INSIDE. Room in near-total darkness. Head turned, listening carefully. Talo expression: alert, listening.
 
-Frame 2: Dos puntos brillantes amarillos en la oscuridad, esquina superior-derecha. Solo dos puntos, sin figura visible. Talo izquierda mirando hacia ellos. Expresión Talo: alarmado.
+Frame 2: Two small glowing amber points in the darkness, upper-right area of room. Only two points, no figure visible. Talo left side looking toward them. Talo expression: alarmed.
 
-Frame 3: Close-up cara de Talo. Ojos muy abiertos mirando hacia los puntos. Expresión Talo: muy sorprendido.
+Frame 3: Close-up of Talo's face. Very wide eyes staring toward the glowing points. Talo expression: startled.
 
-Frame 4: Talo retrocede hacia la pared izquierda. Los dos puntos visibles en la oscuridad derecha. Expresión Talo: confundido y tenso.
+Frame 4: Talo backing toward the left wall. Two glowing points still visible in the right darkness. Talo expression: confused and tense.
 
-Frame 5: Plano general. Talo izquierda pequeño DENTRO. Dos puntos brillantes derecha en oscuridad. Habitación muy oscura entre ellos.
+Frame 5: Wide shot. Small Talo figure left INSIDE. Two small bright amber points right in darkness. Very dark room between them.
 
-Frame 6: Primer plano de los dos puntos de luz únicamente. Sin figura visible. Solo dos círculos brillantes en fondo azul-negro oscuro.
+Frame 6: Close-up of just the two glowing points — no characters, no figure. Only two small amber-yellow circles on deep blue-black background.
 
-Frame 7: Talo con manos en la cara. Expresión Talo: máxima confusión. Oscuridad total alrededor.
+Frame 7: Talo with both hands on his face. Talo expression: maximum confusion. Complete darkness around him.
 
-Frame 8: Talo mirando hacia los puntos. Sombra de árbol aún visible en pared. Dos puntos de luz visibles. Expresión Talo: abrumado.
+Frame 8: Talo looking toward the points. Tree branch shadow still visible on wall. Two amber points visible. Talo expression: overwhelmed.
 
-Frame 9: Vista lateral de Talo. Cuerpo encogido, hombros levantados. Expresión Talo: muy inquieto.
+Frame 9: Side view of Talo. Body hunched, shoulders raised. Talo expression: very uneasy.
 
-Frame 10: Plano: dos puntos de luz más prominentes. Talo de fondo izquierda pequeño. Oscuridad dominante entre ellos.
+Frame 10: The two glowing points more prominent in frame. Talo in background left, small. Darkness dominant between them.
 
-Frame 11: Close-up cara de Talo. Expresión Talo: confusión total. Tenue reflejo de los puntos de luz en su cara.
+Frame 11: Close-up of Talo's face. Talo expression: total confusion. Faint amber reflection from the points barely visible on his face.
 
-Frame 12: Plano final. Talo izquierda DENTRO. Dos puntos de luz derecha. Sombra de árbol en pared. Habitación oscura. Momento de máxima incertidumbre.
+Frame 12: Final wide frame. Talo left INSIDE. Two amber points right. Tree branch shadow on wall. Dark bedroom. Peak of uncertainty.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 10-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 10-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-@imgTalo is always INSIDE the bedroom.
-Scene: Talo hears strange sounds. Two small glowing points (owl eyes, not yet identified — no owl body visible) appear in the darkness of the room. Talo becomes increasingly confused and tense.
-Lighting: Room is very dark. Only light: faint moonlight from window and two small yellow-white points in the darkness. No magical glow — just two small reflective points, like eyes in the dark.
-Motion: Talo listening carefully → noticing the two points → stepping back in confusion → looking around trying to understand. Slow and cautious.
-Camera: Medium shot Talo listening → reveal of two glowing points in darkness → cut to Talo's face → wide shot showing both.
-Tone: Peak confusion and unease. Near-black room, two small points of light in darkness.
+Talo (blue chameleon, golden spiral on forehead) always INSIDE the bedroom.
+Scene: Talo hears strange sounds. Two small glowing amber points (owl eyes, not yet identified — no owl body visible, just two dots) appear in the darkness. Talo becomes increasingly confused and tense.
+Lighting: Room is very dark. Only light: faint moonlight from round window and two small amber-yellow points in the darkness. No magical glow — just two small reflective points like eyes in the dark.
+Motion: Talo listening carefully → noticing the two amber points → backing away in confusion → looking around trying to understand. Slow and cautious.
+Camera: Medium shot of Talo listening → slow reveal of two glowing points in darkness → cut to Talo's face → wide shot showing both.
+Tone: Peak confusion and unease. Near-black room, two small points of amber light, 10s.
 ```
 
 ---
 
 ### GRID 4 — Coro (~10s)
-**Escena:** Talo dentro toma un momento, respira profundo y decide ser valiente. Transformación visible de inquieto a confiado.
+**Talo color:** shifting from blue-violet to green-blue | **Escena:** Talo respira profundo y decide ser valiente. Transformación visible de inquieto a confiado.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: shifting from blue-violet to green-blue]
 
-Escena de esta secuencia: habitación oscura. Solo Talo DENTRO. Talo transforma su postura de encogida/inquieta a erguida/valiente. Sin otros personajes en ningún frame de este grid.
+Scene sequence: dark wooden bedroom. Only Talo INSIDE. Talo transforms his posture from hunched/worried to upright/brave. No other characters in any frame of this grid.
 
-Frame 1: Talo DENTRO centro. Cabeza baja, cuerpo encogido (postura inquieta heredada del verso anterior). Expresión Talo: indeciso.
+Frame 1: Talo INSIDE center. Head low, body hunched (worried posture). Talo expression: uncertain, hesitating.
 
-Frame 2: Talo cierra los ojos. Postura aún encogida pero cambiando. Expresión Talo: concentrado, respirando.
+Frame 2: Talo closes his eyes. Posture still hunched but beginning to change. Talo expression: concentrating, breathing deeply.
 
-Frame 3: Talo abre los ojos. Postura comenzando a cambiar. Expresión Talo: decisión tomando forma.
+Frame 3: Talo opens his eyes. Posture beginning to shift. Color shifting from blue-violet toward green-blue. Talo expression: decision forming.
 
-Frame 4: Talo comienza a enderezarse. Hombros subiendo. Cabeza levantándose. Expresión Talo: determinado.
+Frame 4: Talo beginning to straighten up. Shoulders rising. Head lifting. Talo expression: determined.
 
-Frame 5: Talo de pie, espalda recta. Pecho hacia afuera. Expresión Talo: valiente.
+Frame 5: Talo standing upright, back straight. Chest forward. Green-blue color. Talo expression: brave.
 
-Frame 6: Close-up cara de Talo. Expresión Talo: seguro y valiente. Ojos enfocados al frente.
+Frame 6: Close-up of Talo's face. Talo expression: secure and brave. Eyes focused forward. Green-blue scales in moonlight.
 
-Frame 7: Talo con mano en el pecho. Postura fuerte y abierta. Expresión Talo: confiado.
+Frame 7: Talo with one hand on his chest. Open strong posture. Talo expression: confident.
 
-Frame 8: Talo de frente mirando hacia la oscuridad sin retroceder. No hay miedo en su postura. Expresión Talo: resuelto.
+Frame 8: Talo facing forward into the darkness without stepping back. No fear in posture. Green-blue color. Talo expression: resolved.
 
-Frame 9: Plano general. Talo centro DENTRO erguido. Sombra visible en pared pero Talo la mira sin temor. Luna AFUERA por ventana.
+Frame 9: Wide shot. Talo center INSIDE standing upright. Tree shadow visible on wall but Talo is not afraid of it. Round window with moon OUTSIDE in background.
 
-Frame 10: Talo con un brazo levantado en gesto de valentía. Cuerpo abierto. Expresión Talo: empoderado.
+Frame 10: Talo with one arm raised in a gesture of bravery. Open body language. Talo expression: empowered.
 
-Frame 11: Close-up cara de Talo. Expresión Talo: tranquilo y valiente. Luz lunar suave en cara.
+Frame 11: Close-up of Talo's face. Talo expression: calm and brave. Soft moonlight on his green-blue scales.
 
-Frame 12: Plano general final. Talo DENTRO centro. Postura completamente erguida y confiada. Oscuridad alrededor pero Talo seguro y sereno.
+Frame 12: Final wide shot. Talo INSIDE center. Fully upright confident posture. Darkness around him but Talo is calm and secure.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 10-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 10-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-Only @imgTalo in the scene. Always INSIDE the bedroom.
+Only Talo in the scene (color shifting from blue-violet to green-blue). Always INSIDE the bedroom.
 Scene: Talo goes through a personal transformation — from tense and confused to calm and brave. He takes a deep breath and decides to face the darkness with curiosity.
-Lighting: Natural moonlight from window only. No lighting changes — only Talo's posture and expression transform.
-Motion: Talo hunched and worried → takes a visible deep breath → slowly straightens up → stands tall with confidence → hand to chest. Deliberate, empowering movements.
-Camera: Medium shot throughout. Close-up on face during the breath moment. Pull back to show full confident posture.
-Tone: Empowering. Colors remain night blues; Talo's posture and expression carry the emotional shift.
+Lighting: Natural moonlight from round window only. No lighting changes — only Talo's posture, expression, and color transform.
+Motion: Talo hunched and worried → takes a visible deep breath → slowly straightens up → stands tall with confidence → hand to chest. Deliberate, empowering movements. Color gradually shifts from blue-violet to green-blue during the clip.
+Camera: Medium shot throughout. Close-up on face during the breath moment. Pull back to show full confident upright posture.
+Tone: Empowering transformation. Night blues; Talo's posture, expression, and color shift carry the emotional change, 10s.
 ```
 
 ---
 
 ### GRID 5 — Verso 3 (~12s)
-**Escena:** Búho llega volando desde afuera, entra por la ventana, y empieza a explicarle a Talo qué son la sombra y los sonidos.
+**Talo color:** returning to green-blue | **Escena:** Búho llega volando desde afuera, entra por la ventana, y explica que la sombra es el árbol y los sonidos son el viento.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: green-blue]
+[INCLUDE BÚHO DESCRIPTOR from ESTILO VISUAL GLOBAL]
 
-Escena de esta secuencia: habitación oscura. Talo DENTRO. Búho (pájaro marrón grande, ojos redondos sabios) llega desde AFUERA, entra por la ventana, y explica. UN SOLO Talo en cada frame. UN SOLO Búho en cada frame. Nunca ambos duplicados.
+Scene sequence: dark wooden bedroom. Talo INSIDE. Búho arrives from OUTSIDE, enters through the round window, and explains. ONE Talo per frame. ONE Búho per frame. Never both duplicated.
 
-Frame 1: Talo centro-izquierda DENTRO. Ventana derecha: Búho silueta AFUERA volando hacia la ventana, visible contra la luna. Expresión Talo: sorprendido. Búho aún afuera.
+Frame 1: Talo center-left INSIDE. Round window right: Búho silhouette OUTSIDE flying toward the window, visible against the moon behind him. Talo expression: surprised. Búho still outside.
 
-Frame 2: Búho en el borde exterior de la ventana. Alas extendidas. Talo DENTRO izquierda mirando. Búho en la ventana (entre afuera y adentro). Expresión Talo: sorprendido. Expresión Búho: amistoso.
+Frame 2: Búho at the outer edge of the round window. Wings spread. Talo INSIDE left watching. Búho between outside and inside. Talo expression: surprised. Búho expression: friendly.
 
-Frame 3: Búho DENTRO posado en el alféizar de la ventana. Talo DENTRO izquierda mirando a Búho. Expresión Talo: curioso. Expresión Búho: sabio y tranquilo. Luz lunar reflejada en ojos de Búho, sin glow propio.
+Frame 3: Búho INSIDE, perched on the window ledge. Talo INSIDE left looking at Búho. Talo expression: curious. Búho expression: wise and calm. Moonlight reflected in Búho's amber eyes, no glow of his own.
 
-Frame 4: Búho DENTRO señala con ala hacia la sombra en la pared. Talo DENTRO mira hacia donde señala Búho. Expresión Talo: atento. Expresión Búho: explicando.
+Frame 4: Búho INSIDE points with one wing toward the tree branch shadow on the wall. Talo INSIDE looks where Búho points. Talo expression: attentive. Búho expression: explaining gently.
 
-Frame 5: Primer plano de la sombra en la pared interior. Forma claramente reconocible de ramas de árbol. Sin personajes en este frame, solo la sombra.
+Frame 5: Close-up of the tree branch shadow on the interior wall only — no characters. Shape clearly recognizable as tree branches. Just the shadow on the warm wooden wall.
 
-Frame 6: Búho DENTRO señala con ala hacia la ventana. Por la ventana visible: árbol AFUERA. Talo DENTRO mira la conexión entre sombra y árbol. Expresión Talo: descubriendo. Expresión Búho: enseñando.
+Frame 6: Búho INSIDE points with one wing toward the round window. Through the window: tree branches OUTSIDE visible. Talo INSIDE sees the connection. Talo expression: discovering. Búho expression: teaching.
 
-Frame 7: Close-up cara de Talo. Expresión Talo: comprensión comenzando. Ojos abiertos de "¡ajá!".
+Frame 7: Close-up of Talo's face. Talo expression: understanding beginning. Wide eyes of "aha!". Color returning to green-blue.
 
-Frame 8: Plano general. Búho derecha DENTRO. Talo izquierda DENTRO. Sombra en pared al fondo. UN Búho, UN Talo, sin duplicados.
+Frame 8: Wide shot. Búho right INSIDE. Talo left INSIDE. Both looking at the shadow on the wall. ONE Búho, ONE Talo. No duplicates.
 
-Frame 9: Búho DENTRO señala hacia la ventana mostrando árbol AFUERA moviéndose con el viento. Talo DENTRO asiente. Expresión Talo: entendiendo. Expresión Búho: explicando.
+Frame 9: Búho INSIDE points toward the round window showing tree branches OUTSIDE moving with wind. Talo INSIDE nodding. Talo expression: understanding. Búho expression: explaining.
 
-Frame 10: Vista de la ventana desde DENTRO. Árbol AFUERA visible. Luna AFUERA detrás del árbol. La luna proyecta la sombra del árbol hacia adentro. Sin personajes en este frame.
+Frame 10: Close-up of round window only — no characters. Tree OUTSIDE with branches. Moon OUTSIDE behind the tree. Moonlight projecting the tree shadow inward.
 
-Frame 11: Close-up cara de Búho DENTRO. Ojos grandes sabios. Expresión Búho: amable y paciente. Luz lunar reflejada en ojos, sin glow propio.
+Frame 11: Close-up of Búho's face INSIDE. Very large round amber eyes, wise and kind. Búho expression: patient and gentle. Moonlight reflected in eyes — no glow of his own.
 
-Frame 12: Plano general final. Búho y Talo juntos DENTRO. Sombra en pared. Árbol visible por ventana AFUERA. UN Búho, UN Talo. Todo coherente.
+Frame 12: Wide shot final. Búho and Talo together INSIDE. Shadow on wall. Tree visible through round window OUTSIDE. ONE Búho, ONE Talo. Everything coherent.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 12-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 12-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-@imgTalo always INSIDE. Búho (wise brown owl, large round eyes) arrives from OUTSIDE through the window and ends up INSIDE.
-Scene: Búho flies in from outside, lands inside, and gently explains that the shadow is a tree and the sounds are wind.
-Lighting: Moonlight from outside only. Búho does NOT emit any glow — his eyes only reflect existing moonlight. No magical lighting on the owl.
-Motion: Búho arriving at window from outside → landing inside → gesturing toward the wall shadow → gesturing toward the window/tree outside → Talo's expression shifting to understanding. Búho's movements slow and gentle.
-Camera: Wide shot of Búho arriving at window → medium two-shot of Búho and Talo inside → follow gestures showing shadow then tree → Talo's face as understanding dawns.
-Tone: Warm and reassuring. Deep night blues, warm brown owl, growing relief on Talo's face.
+Talo (green-blue chameleon, golden spiral on forehead) always INSIDE the bedroom.
+Búho (large wise brown and cream owl, very large round amber eyes) arrives from OUTSIDE through the round window and ends up INSIDE.
+Scene: Búho flies in from outside, lands inside, and gently explains that the shadow is the tree and the sounds are wind.
+Lighting: Moonlight from outside only. Búho does NOT emit any glow — his amber eyes only reflect existing moonlight.
+Motion: Búho arriving at round window from outside → landing inside on ledge → gesturing toward the wall shadow → gesturing toward the window showing the tree outside → Talo's expression shifting to understanding. Búho's movements slow and gentle.
+Camera: Wide shot showing Búho arriving at window → medium two-shot of Búho and Talo inside → follow Búho's gestures showing shadow then tree → close on Talo's face as understanding dawns, 12s.
 ```
 
 ---
 
 ### GRID 6 — Verso 4 (~12s)
-**Escena:** Búho y Talo dentro. Búho enseña que la noche es hermosa. Talo mira afuera por la ventana con asombro y descubrimiento.
+**Talo color:** returning to bright medium-green | **Escena:** Búho y Talo dentro. Búho enseña que la noche es hermosa. Talo mira afuera con asombro y descubrimiento.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: returning to bright medium-green]
+[INCLUDE BÚHO DESCRIPTOR from ESTILO VISUAL GLOBAL]
 
-Escena de esta secuencia: habitación oscura. Búho y Talo ambos DENTRO. Búho enseña. Talo descubre que la noche afuera es hermosa. UN SOLO Talo. UN SOLO Búho. Luna, árbol y estrellas siempre AFUERA por la ventana.
+Scene sequence: dark wooden bedroom. Búho and Talo both INSIDE. Búho teaches. Talo discovers the beauty of the night looking through the round window. ONE Talo. ONE Búho. Moon, tree, stars always OUTSIDE through window.
 
-Frame 1: Búho derecha DENTRO. Talo izquierda DENTRO. Búho con ala señalando hacia la ventana. Expresión Búho: enseñando. Expresión Talo: escuchando atento.
+Frame 1: Búho right INSIDE. Talo left INSIDE. Búho with one wing gesturing toward the round window. Búho expression: teaching. Talo expression: listening attentively.
 
-Frame 2: Talo mirando por la ventana. Por la ventana AFUERA: luna, árbol, estrellas pequeñas en cielo azul oscuro. Búho de fondo DENTRO. Expresión Talo: asombrado.
+Frame 2: Talo looking through the round window. Through window OUTSIDE: moon, tree branches, small stars in dark blue sky. Búho in background INSIDE. Talo expression: amazed.
 
-Frame 3: Primer plano de la ventana desde DENTRO. Exterior nocturno AFUERA: luna blanca, árbol con ramas, estrellas. Sin personajes en este frame, solo la ventana y el exterior.
+Frame 3: Close-up of round window only — no characters. Exterior OUTSIDE: white moon, tree branches, small stars in deep blue night sky. Beautiful. No characters in this frame.
 
-Frame 4: Close-up cara de Talo. Luz lunar reflejada en su cara. Expresión Talo: descubrimiento y maravilla.
+Frame 4: Close-up of Talo's face. Moonlight reflected on his bright-green scales. Talo expression: discovery and wonder.
 
-Frame 5: Talo acercándose a la ventana. Mano en el vidrio. Mirando AFUERA con asombro. Búho de fondo DENTRO. Expresión Talo: fascinado.
+Frame 5: Talo moving closer to the round window. One hand on the glass. Looking OUTSIDE with awe. Búho in background INSIDE. Talo expression: fascinated.
 
-Frame 6: Vista lateral. Talo y Búho juntos DENTRO mirando por la ventana AFUERA. Ambos de perfil. Luna AFUERA visible. UN Talo izquierda, UN Búho derecha.
+Frame 6: Side view. Talo and Búho together INSIDE looking through the round window toward OUTSIDE. Both in profile. Moon OUTSIDE visible. ONE Talo left, ONE Búho right.
 
-Frame 7: Vista desde la perspectiva de Talo mirando por la ventana. Luna grande AFUERA. Árbol AFUERA con forma clara. Cielo azul nocturno. Sin personajes en este frame.
+Frame 7: View from Talo's perspective looking through the round window. Large moon OUTSIDE, tree branches OUTSIDE with clear shape, deep blue night sky. No characters in this frame.
 
-Frame 8: Close-up cara de Búho DENTRO. Expresión Búho: satisfecho y sabio. Ojos reflejan la luna. Sin glow propio.
+Frame 8: Close-up of Búho's face INSIDE. Búho expression: satisfied and wise. Eyes reflect the moon. No glow of his own.
 
-Frame 9: Talo sonríe mirando AFUERA por la ventana. Expresión Talo: genuinamente maravillado. Inquietud completamente desaparecida.
+Frame 9: Talo smiling looking OUTSIDE through the window. Talo expression: genuinely amazed. All unease completely gone.
 
-Frame 10: Plano general. Talo y Búho DENTRO lado a lado. Ventana al fondo con exterior bonito AFUERA. Sombra en pared visible pero sin generar inquietud.
+Frame 10: Wide shot. Talo and Búho INSIDE side by side. Round window in background with beautiful night OUTSIDE. Tree branch shadow on wall but no longer concerning.
 
-Frame 11: Talo señala algo AFUERA por la ventana. Expresión Talo: emocionado. Búho asiente. Expresión Búho: orgulloso. UN Talo, UN Búho.
+Frame 11: Talo pointing at something OUTSIDE through the window. Talo expression: excited and delighted. Búho nodding. Búho expression: proud. ONE Talo, ONE Búho.
 
-Frame 12: Plano general final. Talo y Búho DENTRO. Ventana mostrando noche AFUERA hermosa. Atmósfera de comprensión y paz.
+Frame 12: Final wide shot. Talo and Búho INSIDE. Round window showing beautiful night OUTSIDE. Atmosphere of understanding and peace.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 12-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 12-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-Both @imgTalo and Búho always INSIDE. Outdoor night (moon, tree, stars) only visible through the window.
-Scene: Búho teaches Talo that the night is actually beautiful. Talo looks at the night outside with fresh, wonder-filled eyes.
-Lighting: Moonlight from outside. No glow from Búho. Warm, gentle lunar illumination.
-Motion: Búho gesturing toward window → Talo moving to look through window → Talo's expression shifting to wonder → both looking out together. Búho slow and wise; Talo increasingly open and curious.
-Camera: Medium two-shot inside → follow Talo to window → close on Talo's wonder-filled face → wide shot of both looking out at the beautiful night.
-Tone: Warm discovery. Night blues with growing warmth as Talo's perspective shifts.
+Both Talo (bright medium-green chameleon) and Búho (large wise brown owl) always INSIDE. Outdoor night only visible through the round window.
+Scene: Búho teaches Talo that the night is actually beautiful. Talo looks at the night outside with fresh wonder-filled eyes.
+Lighting: Moonlight from outside only. No glow from Búho. Warm gentle lunar illumination.
+Motion: Búho gesturing toward window → Talo moving to look through round window → Talo's expression shifting to wonder and delight → both looking out together. Búho slow and wise; Talo increasingly open and joyful.
+Camera: Medium two-shot inside → follow Talo as he moves to window → close on Talo's wonder-filled face → wide shot of both looking out at the beautiful night, 12s.
 ```
 
 ---
 
 ### GRID 7 — Verso 5 (~12s)
-**Escena:** Talo tiene la epifanía completa. Entiende todo: la sombra era el árbol, los sonidos eran el viento, los puntos eran los ojos de Búho. Alegría y alivio total.
+**Talo color:** shifting to yellow-green | **Escena:** Talo tiene la epifanía completa. Entiende todo. Alegría y alivio total.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: shifting to yellow-green]
+[INCLUDE BÚHO DESCRIPTOR from ESTILO VISUAL GLOBAL]
 
-Escena de esta secuencia: habitación oscura. Talo y Búho ambos DENTRO. Talo tiene momento de comprensión total y alegría. UN SOLO Talo. UN SOLO Búho. Nunca duplicados.
+Scene sequence: dark wooden bedroom. Talo and Búho both INSIDE. Talo has complete moment of understanding and joy. ONE Talo. ONE Búho. Never duplicated.
 
-Frame 1: Close-up cara de Talo. Expresión Talo: "¡lo entendí!" — ojos brillantes, sonrisa grande, el momento exacto de la epifanía.
+Frame 1: Close-up of Talo's face. Talo expression: "I understand!" — bright eyes, big smile, the exact moment of epiphany. Color shifting to yellow-green.
 
-Frame 2: Talo levanta brazos en gesto de júbilo. Cuerpo completamente relajado y abierto. Expresión Talo: feliz y aliviado.
+Frame 2: Talo raises both arms in a gesture of joy. Body completely relaxed and open. Talo expression: happy and relieved. Yellow-green color.
 
-Frame 3: Talo señala la sombra en la pared con gesto relajado, sin inquietud. Expresión Talo: reconociendo sin miedo, sonriendo. Búho de fondo DENTRO.
+Frame 3: Talo pointing at the wall shadow with a relaxed gesture — no fear at all. Talo expression: recognizing without worry, smiling. Búho in background INSIDE.
 
-Frame 4: Primer plano de la sombra en pared. Ramas de árbol claramente identificables. Talo la señala desde el borde del frame. Sin inquietud, solo reconocimiento.
+Frame 4: Close-up of shadow on wall. Tree branch shapes clearly identifiable. Talo's hand pointing from frame edge. No tension in the gesture.
 
-Frame 5: Talo señala el árbol AFUERA por la ventana. Expresión Talo: reconocimiento claro. Conectando la sombra con el árbol real.
+Frame 5: Talo pointing at the tree OUTSIDE through the round window. Talo expression: clear recognition. Connecting the shadow to the real tree outside.
 
-Frame 6: Plano general. Talo izquierda DENTRO feliz. Búho derecha DENTRO. Sombra en pared. Árbol AFUERA por ventana. Todo conectado visualmente. UN Talo, UN Búho.
+Frame 6: Wide shot. Talo left INSIDE happy. Búho right INSIDE. Shadow on wall. Tree OUTSIDE through round window. Everything visually connected. ONE Talo, ONE Búho.
 
-Frame 7: Close-up cara de Búho DENTRO. Expresión Búho: orgullo y alegría de maestro. Ojos reflejan luna. Sin glow.
+Frame 7: Close-up of Búho's face INSIDE. Búho expression: pride and joy of a teacher. Eyes reflect moon. No glow of his own.
 
-Frame 8: Talo y Búho se miran. Expresión ambos: conexión cálida. Alegría compartida. UN Talo izquierda, UN Búho derecha.
+Frame 8: Talo and Búho facing each other. Warm connection between them. Shared joy. ONE Talo left, ONE Búho right.
 
-Frame 9: Close-up cara de Talo. Expresión Talo: completamente tranquilo y feliz. Diferente al Talo inquieto del inicio.
+Frame 9: Close-up of Talo's face. Talo expression: completely calm and happy. Yellow-green color. Completely different from the worried Talo at the start.
 
-Frame 10: Plano general. Misma habitación oscura. Talo DENTRO de pie confiado. Sin inquietud. Búho presente. Luna AFUERA por ventana. Todo en orden.
+Frame 10: Wide shot. Same dark wooden bedroom. Talo INSIDE standing confident. No worry. Búho present. Moon OUTSIDE through round window.
 
-Frame 11: Talo y Búho mirando juntos AFUERA por la ventana. Expresión ambos: admiración serena.
+Frame 11: Talo and Búho looking together through the round window. Both in profile. Serene admiration. ONE Talo, ONE Búho.
 
-Frame 12: Plano final. Talo y Búho DENTRO. Habitación oscura pero acogedora. Ventana con luna AFUERA. Paz completa.
+Frame 12: Final wide shot. Talo and Búho INSIDE. Dark cozy wooden bedroom. Round window with moon OUTSIDE. Complete peace.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 12-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 12-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-Both @imgTalo and Búho always INSIDE.
-Scene: Talo has the complete moment of understanding — the shadow was a tree, the sounds were wind, the glowing points were Búho's eyes. Pure joy and relief.
-Lighting: Natural moonlight only. No glow from Búho.
+Both Talo (shifting to yellow-green chameleon) and Búho (large wise brown owl) always INSIDE.
+Scene: Talo has the complete moment of understanding — the shadow was the tree, the sounds were wind, the glowing points were Búho's eyes. Pure joy and relief.
+Lighting: Natural moonlight only. No glow from Búho. Talo's color shifts to yellow-green reflecting his inner joy.
 Motion: Talo's face lighting up with understanding → arms raised in joy → pointing at shadow confidently (not in fear) → pointing at tree outside with recognition → turning to Búho in gratitude. Open, joyful, free movements.
-Camera: Close-up on Talo's face for the epiphany → pull back as he raises arms → follow gestures to shadow and window → settle on Talo and Búho together.
-Tone: Joyful triumph and relief. The emotional payoff of the whole journey.
+Camera: Close-up on Talo's face for the epiphany → pull back as he raises arms → follow gestures to shadow and window → settle on Talo and Búho together, 12s.
 ```
 
 ---
 
 ### GRID 8 — Coro Final + Outro (~15s)
-**Escena:** Talo recita el coro con confianza, se mete en cama, Búho lo cuida. Talo duerme tranquilo. Luna afuera vigila.
+**Talo color:** bright medium-green | **Escena:** Talo recita el coro con confianza, se mete en cama, Búho lo cuida. Talo duerme en paz.
 
 **Nano Banana 2:**
 ```
-[COPIAR ESTILO VISUAL GLOBAL AQUÍ]
+[COPY ESTILO VISUAL GLOBAL HERE — replace [COLOR] with: bright medium-green]
+[INCLUDE BÚHO DESCRIPTOR from ESTILO VISUAL GLOBAL]
 
-Escena de esta secuencia: habitación oscura acogedora. Talo y Búho DENTRO. Talo se prepara para dormir y se queda dormido. Búho vigila. UN SOLO Talo. UN SOLO Búho. Luna y árbol siempre AFUERA por la ventana.
+Scene sequence: dark cozy wooden bedroom. Talo and Búho INSIDE. Talo prepares for sleep and falls asleep. Búho watches over. ONE Talo. ONE Búho. Moon and tree always OUTSIDE through round window.
 
-Frame 1: Talo de pie centro DENTRO. Postura valiente. Mano en pecho. Expresión Talo: seguro y sereno. Búho derecha DENTRO.
+Frame 1: Talo standing center INSIDE. Brave confident posture. Hand on chest. Talo expression: secure and serene. Búho right INSIDE nearby.
 
-Frame 2: Talo mirando hacia la oscuridad sin miedo. Expresión Talo: tranquilo y valiente. Búho de fondo DENTRO.
+Frame 2: Talo looking toward the dark room without fear. Talo expression: calm and brave. Búho in background INSIDE.
 
-Frame 3: Talo bosteza. Boca abierta en bostezo. Cuerpo más relajado. Expresión Talo: cansancio feliz. Búho observando.
+Frame 3: Talo yawning. Mouth open in a big yawn. Body more relaxed. Talo expression: happy tiredness. Búho watching.
 
-Frame 4: Talo caminando hacia la cama (fondo de la habitación). Vista de espaldas. Búho DENTRO observando. Luna AFUERA por ventana.
+Frame 4: Talo walking toward the bed (toward background of room). View from behind. Búho INSIDE watching. Moon OUTSIDE through round window.
 
-Frame 5: Talo subiéndose a la cama. Manta visible. Expresión Talo: tranquilo. Búho posado en mueble/repisa DENTRO cercano.
+Frame 5: Talo climbing into the small wooden bed. Blanket visible. Talo expression: calm and at peace. Búho perched on furniture INSIDE nearby.
 
-Frame 6: Talo acostado en cama, manta hasta el pecho. Expresión Talo: paz. Búho posado DENTRO vigilando a corta distancia.
+Frame 6: Talo lying in bed, blanket up to his chest. Talo expression: peaceful. Búho perched INSIDE at close distance, watching over.
 
-Frame 7: Close-up cara de Talo acostado. Ojos entrecerrados. Expresión Talo: somnoliento y feliz.
+Frame 7: Close-up of Talo's face lying in bed. Eyes half-closed. Talo expression: drowsy and happy.
 
-Frame 8: Close-up cara de Búho DENTRO. Ojos abiertos vigilando. Expresión Búho: protector y tranquilo. Luz lunar reflejada en ojos. Sin glow propio.
+Frame 8: Close-up of Búho's face INSIDE. Eyes open, watching protectively. Búho expression: calm guardian. Moonlight reflected in his amber eyes. No glow of his own.
 
-Frame 9: Close-up cara de Talo. Ojos cerrados. Expresión Talo: dormido en paz. Sonrisa suave.
+Frame 9: Close-up of Talo's face in bed. Eyes closed. Talo expression: sleeping peacefully. Soft gentle smile.
 
-Frame 10: Primer plano de la ventana únicamente. Luna AFUERA en el cielo. Árbol AFUERA tranquilo. Sin personajes en este frame.
+Frame 10: Close-up of round window only — no characters. Moon OUTSIDE in night sky. Tree branches OUTSIDE still and quiet. No characters in this frame.
 
-Frame 11: Plano general. Talo dormido en cama izquierda DENTRO. Búho vigilando derecha DENTRO. Ventana al fondo con luna AFUERA. UN Talo, UN Búho.
+Frame 11: Wide shot. Talo sleeping in bed left INSIDE. Búho watching right INSIDE. Round window in background with moon OUTSIDE. ONE Talo, ONE Búho.
 
-Frame 12: Plano final amplio. Habitación oscura y acogedora. Talo dormido en cama DENTRO. Búho presente DENTRO. Luna AFUERA por ventana. Paz completa. Composición final del video.
+Frame 12: Final wide shot. Dark cozy wooden bedroom. Talo sleeping in bed INSIDE. Búho present INSIDE. Round window with moon OUTSIDE. Complete and absolute peace. Final frame of the video.
 ```
 
 **Seedance 2:**
 ```
-Animate as one continuous 15-second clip.
+3D Pixar cartoon animation style, TaloInsta universe. One continuous 15-second clip.
 IMPORTANT: Ignore all dotted arrows in the grid.
-Both @imgTalo and Búho always INSIDE. Moon and tree always OUTSIDE visible only through window.
-Scene: Talo stands confidently reciting the chorus, then prepares for bed. Búho watches over as Talo falls peacefully asleep.
-Lighting: Gentle moonlight from window only. Búho does NOT emit any glow. Room is dim and peaceful.
-Motion: Talo standing confidently → yawning → walking to bed → getting under covers → eyes closing slowly → Búho settling into watchful position. All motion very slow and gentle.
-Camera: Medium shot confident Talo → follow as he walks to bed → close on face as eyes close → pull back to wide shot showing peaceful room with Búho watching and moon outside.
+Both Talo (bright medium-green chameleon) and Búho (large wise brown owl) always INSIDE. Moon and tree always OUTSIDE through round window.
+Scene: Talo stands confidently, then prepares for bed. Búho watches over as Talo falls peacefully asleep.
+Lighting: Gentle moonlight from round window only. Búho does NOT emit any glow. Room is dim and peaceful.
+Motion: Talo standing confidently → yawning → walking to bed → getting under covers → eyes closing slowly → Búho settling into watchful perched position. All motion very slow and gentle.
+Camera: Medium shot of confident Talo → follow as he walks to bed → close on face as eyes close → pull back to wide shot showing peaceful room with Búho watching and moon outside, 15s.
 Tone: Peaceful resolution. Warm, safe, and still. The emotional conclusion of the entire journey.
 ```
 
