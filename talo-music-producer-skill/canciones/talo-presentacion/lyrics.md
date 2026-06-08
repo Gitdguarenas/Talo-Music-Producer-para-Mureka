@@ -26,44 +26,18 @@
 
 ---
 
-## STYLE PROMPT (para Mureka) — ENERGÉTICO & CÁLIDO
+## STYLE PROMPT (para Mureka)
 
 ```
-Children's pop narrative song at 110-115 BPM in C Major, 4/4 time. 
-Energetic, playful groove (NOT slow). Warm but BOUNCY, like Oscar but with more tempo.
+Children's pop at 110-115 BPM in C Major, 4/4. Energetic, bouncy groove (NOT slow). Warm like Oscar but with MORE TEMPO.
 
-INSTRUMENTATION (bright & lively):
-- Acoustic guitar: upbeat strumming pattern (steady, energetic)
-- Bright piano/bells: prominent, cheerful, ADDS LIFT
-- Light Latin-inspired percussion: bongos + light shakers + claves (RHYTHMIC, NOT dense)
-- Simple, bouncy bass line: follows groove, energetic pulse
-- Ukulele accents: tropical warmth, quick rhythmic hits
+INSTRUMENTATION: Upbeat acoustic guitar, bright piano/bells, light Latin percussion (bongos, shakers), bouncy bass, ukulele accents.
 
-VOCAL PERFORMANCE:
-Warm female lead vocal, ENTHUSIASTIC & NARRATIVE (energetic, NOT slow).
-The voice tells Talo's story with ENERGY and JOY.
-- Clear diction (essential for children to understand)
-- Narrative flow: "Él es Talo..." (BRIGHT introduction, NOT drawn out)
-- Action verbs PUNCHY: "pinta", "salta", "canta", "baila" (quick, energetic delivery)
-- Natural pacing but FASTER than Oscar — keeps momentum UP
-- Light reverb for warmth, NOT echo
+VOCALS: Warm female, enthusiastic & narrative. Clear diction. Action verbs PUNCHY: "pinta, salta, canta, baila" (quick delivery). Light reverb. NO auto-tune.
 
-DYNAMICS PROGRESSION (ENERGIZED):
-- Intro: 80% energy — bright, energetic start (NOT gentle)
-- Verses: 85-90% — actions delivered with enthusiasm & movement
-- CORO "¡Talo, Talo!": 95% — PEAK, energetic, celebratory, PUNCHY repetition
-- Final CORO: 98% — maximum celebration
-- Outro: 75% — warm closure (quick & sweet)
+DYNAMICS: Intro 80% → Verses 85-90% → CORO "¡Talo, Talo!" 95% (PEAK) → Final CORO 98% → Outro 75%.
 
-INSTRUMENTATION CHARACTER:
-- Percussion is PRESENT & RHYTHMIC (backbone of energy, NOT overwhelming)
-- NO heavy bass drops or intensity — just BOUNCE & ENERGY
-- Overall BRIGHT & CHEERFUL, playground energy, ready to MOVE & PLAY
-
-NO AUTO-TUNE. Natural vibrato. Light reverb for warmth.
-Tempo is QUICK (110-115 BPM) but NOT frantic — playful, bouncy, FUN, child-friendly.
-
-TONE: "This is Talo! He's HERE, he's FUN, he's READY to PLAY. Pure energy, warmth, JOY."
+TONE: Energetic, playful, bright, cheerful. Playground ready-to-move energy. "Talo is HERE, FUN, READY to PLAY."
 ```
 
 ---
