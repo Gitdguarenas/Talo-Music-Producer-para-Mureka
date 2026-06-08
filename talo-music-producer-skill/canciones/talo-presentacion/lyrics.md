@@ -12,56 +12,57 @@
 | Campo | Valor |
 |---|---|
 | Título YouTube | Talo — ¡SOY TALO, EL CAMALEÓN! \| Video Oficial 🦎🌈✨ |
-| Duración Objetivo | ~1:40 min |
-| Tipo | Presentación conversacional (diálogo Talo ↔ niño) |
+| Duración Objetivo | ~1:35 min |
+| Tipo | Presentación narrativa estilo Oscar (acciones, amigos, hook pegajoso) |
 | Edad Target | 2–7 años |
-| Lección | Talo y el niño son amigos. Talo es especial pero el niño también. Conexión emocional. |
-| Personajes | Talo (protagonista que dialoga) |
-| BPM | 95-100 BPM (energía sostenida, no marcial) |
+| Lección | Conocer a Talo, lo que hace, su mundo, sus amigos, su superpoder |
+| Personajes | Talo (protagonista), Nuti, Tuco, Rubí (amigos breves) |
+| BPM | 95-100 BPM (energía constante) |
 | Tonalidad | Do Mayor (sin modulaciones) |
 | Compás | 4/4 |
-| Estructura | Intro (pregunta) → V1 (diálogo) → E1 → V2 (diálogo) → E2 → V3 (diálogo) → Bridge CLÍMAX → E final → Outro (promesa) |
+| Estructura | Intro → V1 (acciones) → V2 (superpoder colores) → V3 (descripción) → V4 (más colores) → Hook repetido → V5 (amigos) → V6 (cierre) → Hook final → Outro |
 | Escenarios | Selva luminosa, montaña, río, árbol grande, sombra |
 | Identificación | "¡Es igual a ti!" — Talo hace cosas normales que los niños hacen |
 
 ---
 
-## STYLE PROMPT (para Mureka) — CONVERSACIONAL
+## STYLE PROMPT (para Mureka) — ESTILO OSCAR
 
 ```
-Children's pop song at 95-100 BPM in C Major, 4/4 time. Conversational groove (NOT march-like). 
-Warm, friendly vibe — like Talo is having a one-on-one conversation with the child.
+Children's pop narrative song at 95-100 BPM in C Major, 4/4 time. 
+Warm, playful groove similar to "Oscar le gusta bailar" style.
+Upbeat but not frantic. Storytelling vibe.
 
 INSTRUMENTATION:
-- Gentle acoustic guitar as foundation
-- Soft piano/bells for warmth and intimacy
-- Light percussion (soft shakers, light bongos) — NOT prominent, NOT dense
-- Simple bass following root notes
-- Optional soft ukulele accents for personality
+- Acoustic guitar as foundation (steady, warm)
+- Bright piano/bells for joy and lightness
+- Light Latin-inspired percussion (bongos, light shakers) — rhythmic but not dense
+- Simple, bouncy bass line
+- Ukulele accents for tropical warmth
 
 VOCAL PERFORMANCE:
-Warm female lead vocal, nurturing & conversational tone. NOT energetic or shouty.
-The voice should feel like a friendly adult talking WITH the child, not AT them.
-- Clear diction (essential for dialogue comprehension)
-- Slight emphasis on questions ("¿Tú te llamas...?") — curious, warm, inviting response
-- Talo's answers are gentle, matter-of-fact ("Yo me llamo Talo")
-- Natural pacing — slower than typical pop, allows reflection time
-- Light reverb for intimacy (not stadium feel)
+Warm female lead vocal, enthusiastic & narrative style (NOT conversational, NOT shouty).
+The voice tells Talo's story as if narrating to a group of children.
+- Clear diction (essential for action comprehension)
+- Narrative flow: "Él es Talo..." (gentle introduction)
+- Action verbs emphasized: "sale a explorar", "puede cambiar"
+- Natural pacing, conversational but describing actions
+- Light reverb for warmth
 
 DYNAMICS PROGRESSION:
-- Intro: 70% energy — question, gentle curiosity
-- Verses 1-2: 75-80% — conversation, shared discovery
-- Estribillo: 85% — warm, inviting, "be my friend?"
-- Verse 3: 80% — building excitement
-- Bridge climax: 100% at ~1:10 — "¡Somos iguales! ¡Quiero ser tu mejor amigo!"
-- Estribillo final: 90% — celebration of friendship
-- Outro: 65% — calm, warm promise ("Mañana volvemos?")
+- Intro: 75% energy — gentle introduction ("Él es Talo...")
+- Verses 1-2: 80% — describing actions (explore, change color)
+- Verses 3-4: 85% — more detail, visual descriptions
+- Hook "Van a jugar": 90% — energetic, inviting, repetitive
+- Verses 5-6: 85% — friends, community, winding down
+- Hook final: 90% — celebration
+- Outro: 70% — warm closure
 
-NO AUTO-TUNE. Natural vibrato. Slight pauses after questions (let child "answer" mentally).
-Jungle sounds only as subtle background texture, never dominant.
+NO AUTO-TUNE. Natural vibrato. Slight warm reverb (like Oscar's style).
+Jungle sounds subtle in background, integrated naturally.
 
-TONE: This is a FRIENDSHIP song, not a superhero showcase. Talo says:
-"I see you. We're the same. I want to be your friend." Everything flows from that truth.
+TONE: "This is Talo's world. He plays, he explores, he changes color. Come play with him."
+Similar energy & warmth to Oscar, but celebrating Talo.
 ```
 
 ---
@@ -69,64 +70,65 @@ TONE: This is a FRIENDSHIP song, not a superhero showcase. Talo says:
 ## LYRICS — VERSIÓN CONVERSACIONAL & PARTICIPATIVA (~1:40 min)
 
 ```
-[INTRO — Talo pregunta, invita]
-¿Tú te llamas...? (pausa para responder)
-Yo me llamo Talo.
-¿Eres un camaleón tú?
-Yo sí, soy un camaleón.
+[INTRO]
+Él es Talo, le gusta jugar,
+un camaleón de la selva.
+Pinta, salta, canta también.
 
-[VERSO 1 — Descripción física (diálogo)]
-¿Tú tienes ojos que giran?
-Yo tengo ojos que giran, giran, giran.
-¿Tú tienes una cola enrollada?
-Yo tengo una cola muy larga y enrollada.
+[VERSO 1 — Actividades cotidianas]
+Todos los días sale a explorar
+entre plantas verdes y flores,
+camina con su cola enrollada.
 
-[ESTRIBILLO 1 — Hook directo]
-¡Hola, soy Talo!
-¡El camaleón soy yo!
-¿Quieres ser mi amigo?
-¡Vamos a jugar, tú y yo!
+Con sus ojos que giran, giran,
+y una sonrisa gigante,
+Talo siempre está explorando.
 
-[VERSO 2 — El superpoder (diálogo emocional)]
-¿Tú puedes cambiar de color?
-Yo cambio de color, cambio, cambio.
-¿Tú te pones rojo cuando estás feliz?
-Yo me pongo amarillo cuando estoy feliz.
+[VERSO 3 — Descripción visual + superpoder]
+Cuando está muy emocionado
+¡mira, se pone amarillado!
+Con sus ojos que giran, giran
+y su cola enrollada.
 
-[ESTRIBILLO 2 — Hook con variación]
-¡Hola, soy Talo!
-¡El camaleón soy yo!
-¿Quieres ser mi amigo?
-¡Vamos a jugar, tú y yo!
+[VERSO 4 — Los colores (emociones)]
+Rojo cuando siente emoción,
+verde cuando está en paz,
+azul de curiosidad.
 
-[VERSO 3 — Los colores (participación de colores)]
-¿Tú tienes un color favorito?
-Yo tengo muchos: rojo, azul, verde.
-¿Tú quieres ver cómo cambio?
-¡Mira cómo me transformo ahora!
+Talo puede cambiar, cambiar,
+todos los colores del arco iris,
+¡qué espectacular!
 
-[BRIDGE / CLÍMAX — Momento de máxima energía y conexión]
-¡Somos iguales, tú y yo!
-¡Tenemos poderes dentro!
-¡Tú tienes un corazón que late!
-¡Yo tengo colores que brillan!
-¡Eres especial, eres único, eres tú!
-¡Yo soy Talo y quiero ser tu mejor amigo!
+[ESTRIBILLO — Hook repetido]
+Van a jugar todos en la selva con Talo,
+Van a jugar todos en la selva con Talo,
+¡Va, va, va!
+¡Talo, Talo, Talo!
 
-[ESTRIBILLO FINAL — Hook máximo con energía]
-¡Hola, soy Talo!
-¡El camaleón soy yo!
-¿Quieres ser mi amigo?
-¡Vamos a jugar, tú y yo!
+[VERSO 5 — Los amigos]
+Hay amigos de muchos colores,
+Nuti salta con alegría,
+Tuco vuela muy alto.
 
-¡Talo! ¡Talo! ¡Igual a ti!
-¡Somos amigos, tú y yo!
+Se ríe con Rubí
+y todos juntos bailan
+en el mundo de Talo.
 
-[OUTRO — Cierre cálido, invitación]
-¿Mañana volvemos a jugar?
-Suscríbete, vamos a explorar.
-Soy Talo, tu amigo camaleón.
-¡Nos vemos pronto, mi amigo!
+[VERSO 6 — Cierre tranquilo]
+Se duerme tranquilo en las hojas,
+con los pájaros cantores
+y el viento de la selva.
+
+[ESTRIBILLO FINAL — Hook repetido con energía]
+Van a jugar todos en la selva con Talo,
+Van a jugar todos en la selva con Talo,
+¡Va, va, va!
+¡Talo, Talo, Talo!
+
+[OUTRO]
+Él es Talo, le gusta jugar.
+¡Suscríbete, vamos a explorar!
+En la selva con Talo.
 ```
 
 ---
@@ -287,27 +289,29 @@ No "Suscríbete porque soy cool", sino "¿Mañana volvemos a jugar?"
 
 ---
 
-## 📌 RESUMEN FINAL — VERSIÓN CONVERSACIONAL
+## 📌 RESUMEN FINAL — VERSIÓN ESTILO OSCAR
 
-**Estructura clave (~1:40 min):**
-1. **Intro** (4 comp) — Talo PREGUNTA: "¿Tú te llamas...?" (el niño responde mentalmente)
-2. **Verso 1** (5 comp) — Diálogo: "¿Tú tienes ojos que giran? Yo tengo ojos que giran."
-3. **Estribillo 1** (5 comp) — Hook simple: **"¡Hola, soy Talo! ¿Quieres ser mi amigo?"**
-4. **Verso 2** (5 comp) — Diálogo: "¿Tú puedes cambiar de color? Yo cambio cuando siento emociones."
-5. **Estribillo 2** (5 comp) — Hook repetido (refuerzo)
-6. **Verso 3** (5 comp) — Diálogo: "¿Tú tienes un color favorito? Yo tengo muchos."
-7. **Bridge CLÍMAX** (10 comp) — **PICO 100%** — **"¡Somos iguales, tú y yo! ¡Quiero ser tu mejor amigo!"**
-8. **Estribillo final** (6 comp) — Hook + refrán "¡Igual a ti! ¡Somos amigos!"
-9. **Outro** (5 comp) — "¿Mañana volvemos a jugar?" (promesa, no transacción)
+**Estructura clave (~1:35 min):**
+1. **Intro** — "Él es Talo, le gusta jugar..." (presentación narrativa)
+2. **Verso 1** — Acciones cotidianas (explora, camina, ojos que giran)
+3. **Verso 2** — El superpoder (cambio de color emocional)
+4. **Verso 3** — Descripción visual (emocionado → amarillo, ojos girantes, cola)
+5. **Verso 4** — Colores & emociones (rojo, verde, azul, arco iris)
+6. **Hook repetido** — **"Van a jugar todos en la selva con Talo"** (pegajoso, 3x idéntico)
+7. **Verso 5** — Comunidad (Nuti, Tuco, Rubí bailan juntos)
+8. **Verso 6** — Cierre tranquilo (duerme en las hojas con pájaros)
+9. **Hook final** — Repetición con energía máxima
+10. **Outro** — "Él es Talo, le gusta jugar. ¡Suscríbete!"
 
-**POR QUÉ FUNCIONA ESTE ENFOQUE:**
-- **Participativo desde línea 1** = el niño no es pasivo
-- **Diálogo vs. monólogo** = el niño siente que habla CON Talo, no que lo mira
-- **Preguntas retóricas** = el niño piensa, responde mentalmente, se siente incluido
-- **Identificación emocional** = "Tú también tienes ojos. Yo también tengo miedo. Somos iguales."
-- **Hook corto & repetido** = máxima memorización sin cansar
-- **Bridge emocional verdadero** = "¡Quiero ser tu mejor amigo!" (no showoff, conexión pura)
-- **Outro como promesa** = "¿Mañana volvemos?" en lugar de "Suscríbete" (mucho más poderoso)
+**POR QUÉ FUNCIONA (estilo Oscar):**
+- **Narrativa clara** = el niño ENTIENDE la historia de Talo
+- **Acciones concretas** = memorables, visuales, imitables
+- **Hook pegajoso & repetido** = máxima retención (como Oscar)
+- **Comunidad/amigos** = Talo no está solo, hay comunidad
+- **Estructura musical simple** = fácil de cantar, de seguir
+- **Rimas AABB** = memorización infantil garantizada
+- **Descripción visual** = antiparras, colores, ojos que giran (como Oscar con "patas de rana")
+- **Cierre tranquilo** = el niño se siente cómodo, quiere volver
 
 ---
 
