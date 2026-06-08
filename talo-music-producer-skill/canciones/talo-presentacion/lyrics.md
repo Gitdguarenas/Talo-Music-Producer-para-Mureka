@@ -12,11 +12,11 @@
 | Campo | Valor |
 |---|---|
 | Título YouTube | Talo — ¡SOY TALO, EL CAMALEÓN! \| Video Oficial 🦎🌈✨ |
-| Duración Objetivo | ~1:35 min |
-| Tipo | Presentación narrativa estilo Oscar (acciones, amigos, hook pegajoso) |
+| Duración Objetivo | ~1:00 min |
+| Tipo | Presentación simple (coro pegajoso, versos cortos) |
 | Edad Target | 2–7 años |
-| Lección | Conocer a Talo, lo que hace, su mundo, sus amigos, su superpoder |
-| Personajes | Talo (protagonista), Nuti, Tuco, Rubí (amigos breves) |
+| Lección | Conocer a Talo: lo que hace, su superpoder, su mundo |
+| Personajes | Talo (protagonista únicamente) |
 | BPM | 95-100 BPM (energía constante) |
 | Tonalidad | Do Mayor (sin modulaciones) |
 | Compás | 4/4 |
@@ -67,86 +67,73 @@ Similar energy & warmth to Oscar, but celebrating Talo.
 
 ---
 
-## LYRICS — VERSIÓN CONVERSACIONAL & PARTICIPATIVA (~1:40 min)
+## LYRICS — VERSIÓN SIMPLIFICADA (corta, memorizable, coro claro)
 
 ```
-[INTRO]
-Él es Talo, le gusta jugar,
-un camaleón de la selva.
-Pinta, salta, canta también.
+[INTRO — Presentación corta]
+Él es Talo,
+le gusta jugar.
+Un camaleón
+de la selva.
 
-[VERSO 1 — Actividades cotidianas]
-Todos los días sale a explorar
-entre plantas verdes y flores,
-camina con su cola enrollada.
+[VERSO 1 — Acciones cortas]
+Pinta con colores,
+salta muy alto,
+canta una canción,
+baila sin parar.
 
-Con sus ojos que giran, giran,
-y una sonrisa gigante,
-Talo siempre está explorando.
+[CORO — Hook simple & repetido]
+¡Talo, Talo!
+¡Qué especial!
+¡Talo, Talo!
+¡Puedes cambiar!
 
-[VERSO 3 — Descripción visual + superpoder]
-Cuando está muy emocionado
-¡mira, se pone amarillado!
-Con sus ojos que giran, giran
-y su cola enrollada.
-
-[VERSO 4 — Los colores (emociones)]
+[VERSO 2 — El superpoder (muy corto)]
 Rojo cuando siente emoción,
-verde cuando está en paz,
-azul de curiosidad.
+verde cuando está en paz.
+Azul de curiosidad,
+¡cambio de color!
 
-Talo puede cambiar, cambiar,
-todos los colores del arco iris,
-¡qué espectacular!
+[CORO — Idéntico]
+¡Talo, Talo!
+¡Qué especial!
+¡Talo, Talo!
+¡Puedes cambiar!
 
-[ESTRIBILLO — Hook repetido]
-Van a jugar todos en la selva con Talo,
-Van a jugar todos en la selva con Talo,
-¡Va, va, va!
-¡Talo, Talo, Talo!
+[VERSO 3 — Su mundo (muy corto)]
+En la selva hay luz,
+plantas y flores.
+Talo está aquí,
+listo para jugar.
 
-[VERSO 5 — Los amigos]
-Hay amigos de muchos colores,
-Nuti salta con alegría,
-Tuco vuela muy alto.
+[CORO FINAL — Con energía máxima]
+¡Talo, Talo!
+¡Qué especial!
+¡Talo, Talo!
+¡Puedes cambiar!
 
-Se ríe con Rubí
-y todos juntos bailan
-en el mundo de Talo.
-
-[VERSO 6 — Cierre tranquilo]
-Se duerme tranquilo en las hojas,
-con los pájaros cantores
-y el viento de la selva.
-
-[ESTRIBILLO FINAL — Hook repetido con energía]
-Van a jugar todos en la selva con Talo,
-Van a jugar todos en la selva con Talo,
-¡Va, va, va!
-¡Talo, Talo, Talo!
-
-[OUTRO]
-Él es Talo, le gusta jugar.
-¡Suscríbete, vamos a explorar!
-En la selva con Talo.
+[OUTRO — Cierre simple, cálido]
+Él es Talo.
+En la selva.
+Siempre jugando.
+¡Talo está aquí!
 ```
 
 ---
 
-## 🎼 ANÁLISIS ESTRUCTURAL (versión conversacional)
+## 🎼 ANÁLISIS ESTRUCTURAL (versión simplificada)
 
 | Sección | Compases | Duración | Característica | Energía |
 |---------|----------|----------|---|---|
-| Intro | 4 | 0:08 | Talo PREGUNTA: "¿Tú te llamas...? Yo me llamo Talo" | 70% |
-| Verso 1 | 5 | 0:08 | Diálogo: Características físicas (ojos, cola) | 75% |
-| Estribillo 1 | 5 | 0:10 | Hook simple: "¡Hola, soy Talo! / ¿Quieres ser mi amigo?" | 85% |
-| Verso 2 | 5 | 0:08 | Diálogo: El superpoder (cambio de color, emociones) | 80% |
-| Estribillo 2 | 5 | 0:10 | Hook idéntico (refuerzo) | 90% |
-| Verso 3 | 5 | 0:08 | Diálogo: Colores favoritos, invitación a observar | 85% |
-| **BRIDGE / CLÍMAX** | **10** | **0:20** | **PICO 100%** — "¡Somos iguales, tú y yo!" + "¡Quiero ser tu mejor amigo!" | **100%** |
-| Estribillo final | 6 | 0:12 | Hook + refrán "¡Igual a ti! ¡Somos amigos!" | 95% |
-| Outro | 5 | 0:08 | Cierre cálido: "¿Mañana volvemos a jugar?" + CTA + amistad | 65% |
-| **TOTAL** | **50** | **~1:40** | **CONVERSACIONAL**: Talo dialoga con el niño, no narra. Participativo desde el inicio. | — |
+| Intro | 4 | 0:07 | Presentación: "Él es Talo, le gusta jugar" | 75% |
+| Verso 1 | 4 | 0:07 | Acciones cortas: pintar, saltar, cantar, bailar | 80% |
+| **CORO** | **4** | **0:08** | **Hook pegajoso: "¡Talo, Talo! ¡Qué especial! ¡Puedes cambiar!"** | **90%** |
+| Verso 2 | 4 | 0:07 | El superpoder: colores y emociones | 80% |
+| **CORO** | **4** | **0:08** | Repetición idéntica (refuerzo) | 90% |
+| Verso 3 | 4 | 0:07 | Su mundo: selva, plantas, está aquí | 80% |
+| **CORO FINAL** | **4** | **0:08** | Hook con energía máxima | **95%** |
+| Outro | 4 | 0:06 | Cierre cálido: "Él es Talo. En la selva. Siempre jugando." | 70% |
+| **TOTAL** | **32** | **~1:00** | **SIMPLE**: Coro pegajoso, versos cortos (4 líneas max), memorizable. | — |
 
 ---
 
