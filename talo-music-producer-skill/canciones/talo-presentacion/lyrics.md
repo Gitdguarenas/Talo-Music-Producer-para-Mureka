@@ -12,15 +12,15 @@
 | Campo | Valor |
 |---|---|
 | Título YouTube | Talo — ¡SOY TALO, EL CAMALEÓN! \| Video Oficial 🦎🌈✨ |
-| Duración Objetivo | ~2:12 min |
-| Tipo | Presentación del personaje (marcha lúdica narrativa) |
+| Duración Objetivo | ~1:48 min |
+| Tipo | Presentación del personaje (marcha lúdica, interactiva) |
 | Edad Target | 2–7 años |
-| Lección | Conocer a Talo, sus actividades cotidianas, su superpoder de cambio de color, su mundo |
-| Personajes | Talo (protagonista), Inta/Tuco/Rubí (apariciones breves) |
+| Lección | Conocer a Talo, sus actividades, su superpoder, invitación a participar |
+| Personajes | Talo (protagonista) |
 | BPM | 100 BPM (marcha lúdica, energía constante, pegajosa) |
 | Tonalidad | Do Mayor (sin modulaciones) |
 | Compás | 4/4 |
-| Estructura | Adaptación de "Camino por la Selva" (Luli Pampín): Intro → V1 → E1 → V2 → E2 → Mov → Puente → Efinal → Outro |
+| Estructura | Versión corta de "Camino por la Selva": Intro → V1 → E1 → V2 → E2 → INTERACTIVO → Puente → Efinal → Outro |
 | Escenarios | Selva luminosa, montaña, río, árbol grande, sombra |
 | Identificación | "¡Es igual a ti!" — Talo hace cosas normales que los niños hacen |
 
@@ -49,7 +49,7 @@ feel like Talo is calling the listener as a friend.
 
 ---
 
-## LYRICS — ADAPTACIÓN "CAMINO POR LA SELVA" (marzo lúdico, pegajoso)
+## LYRICS — VERSIÓN CORTA & INTERACTIVA (~1:50 min)
 
 ```
 [INTRO PEGAJOSO - 4 compases / 0:00-0:06]
@@ -58,120 +58,69 @@ feel like Talo is calling the listener as a friend.
 ¡Talo! ¡Talo!
 ¡Ven aquí!
 
-[VERSO 1 — Actividades cotidianas - 8 compases / 0:06-0:24]
+[VERSO 1 — Actividades cotidianas - 6 compases / 0:06-0:18]
 Yo pinto con mis manos, pinto de colores,
-Juego en la montaña, salto, salto, salto,
-Canto una canción y me siento más fuerte,
+Juego en la montaña, ¡salto, salto, salto!
+Canto una canción, me baño, construyo,
 Talo, Talo, el camaleón.
 
-Voy al baño solo, ¡lava, lava, lava!
-Me quito los colores, me siento liviano,
-Construyo una casa con bloques y piedras,
-Talo, Talo, el camaleón.
-
-[ESTRIBILLO 1 — Hook principal - 10 compases / 0:24-0:42]
+[ESTRIBILLO 1 — Hook principal - 6 compases / 0:18-0:30]
 ¡Soy Talo! ¡Soy Talo!
-Tengo cola enrollada y ojos que ven,
-¡Soy Talo! ¡Soy Talo!
-¿Verdad que es genial ser como yo?
+¿Verdad que es genial?
+¡Yo cambio de color!
+¿Tú también quieres ser como yo?
 
-¡Uh, uh! ¡Uh, uh!
-Yo cambio, cambio, cambio de color,
-¡Uh, uh! ¡Uh, uh!
-Puedo ser verde o amarillo, o azul.
-
-[VERSO 2 — Más actividades + el poder - 12 compases / 0:42-1:12]
-Yo subo a los árboles, trepo muy alto,
-Nado en el río, ¡splash, splash, splash!
-Leo un libro grande sentado en la sombra,
-Talo, Talo, el camaleón.
-
-Pero lo mejor que tengo es especial,
-Cambio de color cuando quiero soñar,
-Verde cuando es tiempo de jugar con amigos,
-Azul cuando tengo curiosidad del mundo.
-
+[VERSO 2 — El superpoder - 6 compases / 0:30-0:42]
+Verde cuando juego con amigos,
+Azul cuando tengo curiosidad,
 Amarillo cuando me siento muy fuerte,
-Rojo cuando siento mucha, mucha energía,
-Talo, Talo, el camaleón.
+¡Cambio, cambio, cambio de color!
 
-[ESTRIBILLO 2 — Repetición con energía - 12 compases / 1:12-1:42]
+[ESTRIBILLO 2 — Repetición - 6 compases / 0:42-0:54]
 ¡Soy Talo! ¡Soy Talo!
-Tengo cola enrollada y ojos que ven,
-¡Soy Talo! ¡Soy Talo!
-¿Verdad que es genial ser como yo?
+¿Verdad que es genial?
+¡Yo cambio de color!
+¿Tú también quieres ser como yo?
 
-¡Uh, uh! ¡Uh, uh!
-Yo cambio, cambio, cambio de color,
-¡Uh, uh! ¡Uh, uh!
-Puedo ser verde o amarillo, o azul.
-
-¡Soy Talo! ¡Soy Talo!
-El camaleón que camina y ve,
-¡Soy Talo! ¡Soy Talo!
-Ven, juega conmigo, ¡ven, ven, ven!
-
-[SECCIÓN DE MOVIMIENTO — Invitación corporal - 10 compases / 1:42-2:00]
-¡Camina, camina como Talo!
-¡Salta, salta, salta muy alto!
-¡Pinta, pinta con tus manitas!
-¡Gira, gira como mi cola!
-
-¡Uh, uh, uh! ¡Ah, ah, ah!
-¡Soy Talo! ¡Soy Talo!
-¡Uh, uh, uh! ¡Ah, ah, ah!
+[SECCIÓN INTERACTIVA - 8 compases / 0:54-1:12]
+(PAUSA) ¿Puedes caminar como Talo?
+(PAUSA) ¿Puedes saltar muy alto?
+¡Camina! ¡Salta! ¡Pinta! ¡Gira!
 ¡Igual a ti! ¡Iguaaaal a ti!
 
-[PUENTE / CLÍMAX — Pico de energía - 5 compases / 2:00-2:08]
-¡Por la jungla voy, la jungla es mi hogar!
-¡Cambio de color cada vez que voy a jugar!
-¡Soy verde, soy fuerte, soy valiente también!
-¡Yo soy Talo y quiero ser tu amiguito, ¿ves?!
+[PUENTE / CLÍMAX - 5 compases / 1:12-1:22]
+Soy verde, soy fuerte, soy valiente,
+¡Yo soy Talo y quiero ser tu amiguito!
 
-[ESTRIBILLO FINAL — Repeticiones - 20 compases / 2:08-2:30]
+[ESTRIBILLO FINAL - 8 compases / 1:22-1:36]
 ¡Soy Talo! ¡Soy Talo!
-Tengo cola enrollada y ojos que ven,
-¡Soy Talo! ¡Soy Talo!
-¿Verdad que es genial ser como yo?
+¿Verdad que es genial?
+¡Yo cambio de color!
+¡Ven, juega conmigo, ven aquí!
 
-¡Uh, uh! ¡Uh, uh!
-Yo cambio, cambio, cambio de color,
-¡Uh, uh! ¡Uh, uh!
-Puedo ser verde o amarillo, o azul.
-
-¡Soy Talo! ¡Soy Talo!
-El camaleón que camina y ve,
-¡Soy Talo! ¡Soy Talo!
-¡Ven, juega conmigo, ven, ven, ven!
-
-¡Talo, Talo, Talo!
-¡Igual a ti, igual a ti!
-¡Talo, Talo, Talo!
-¡Ven aquí, ven aquí, ven aquí!
-
-[OUTRO — Cierre suave - 13 compases / 2:30-2:42]
-Soy Talo el camaleón,
-Espero poder ser tu amigo hoy,
-Juntos vamos a jugar,
-En el mundo de Talo, ¡ven a soñar!
+[OUTRO — Cierre - 6 compases / 1:36-1:48]
+En el mundo de Talo,
+¡ven a soñar!
+¡Suscríbete, amiguito!
+¡Ven aquí, ven aquí!
 ```
 
 ---
 
-## 🎼 ANÁLISIS ESTRUCTURAL (basado en "Camino por la Selva")
+## 🎼 ANÁLISIS ESTRUCTURAL (versión corta & interactiva)
 
 | Sección | Compases | Duración | Característica | Energía |
 |---------|----------|----------|---|---|
 | Intro pegajoso | 4 | 0:06 | Hook principal: "¡Talo! ¡Talo! ¡Igual a ti!" | 85% |
-| Verso 1 | 8 | 0:18 | Actividades cotidianas (pintar, jugar, cantar, baño, construir) | 80% |
-| Estribillo 1 | 10 | 0:18 | "¡Soy Talo! ¡Soy Talo!" + cambio de color | 90% |
-| Verso 2 | 12 | 0:30 | Más actividades (trepar, nadar, leer) + explicación de colores/emociones | 85% |
-| Estribillo 2 | 12 | 0:30 | Repetición con variación de cierre ("El camaleón que camina y ve") | 95% |
-| Movimiento | 10 | 0:18 | **PICO DE ENERGÍA: 100%** — Invitaciones corporales (camina, salta, pinta, gira) | 100% |
-| Puente | 5 | 0:08 | Clímax emocional: "Yo soy Talo y quiero ser tu amiguito" | 98% |
-| Estribillo final | 20 | 0:22 | Repeticiones extendidas + refrán "¡Igual a ti!" | 95% |
-| Outro | 13 | 0:12 | Caída progresiva de energía a 68%, cierre cálido | 68% |
-| **TOTAL** | **94** | **~2:12** | Estructura completa de "Camino por la Selva" adaptada a Talo | — |
+| Verso 1 | 6 | 0:12 | Actividades cotidianas (pintar, jugar, cantar, baño, construir) — COMPRIMIDO | 80% |
+| Estribillo 1 | 6 | 0:12 | Hook simple: "¿Verdad que es genial?" + invitación al niño | 90% |
+| Verso 2 | 6 | 0:12 | Colores/emociones (verde→azul→amarillo) — DIRECTO | 85% |
+| Estribillo 2 | 6 | 0:12 | Repetición con refuerzo | 95% |
+| Interactivo | 8 | 0:18 | **PICO: 100%** — Preguntas + invitaciones (¿Puedes caminar? ¿Puedes saltar?) | 100% |
+| Puente | 5 | 0:10 | Clímax: "Yo soy Talo y quiero ser tu amiguito" | 98% |
+| Estribillo final | 8 | 0:14 | Repetición final corta + CTA claro | 95% |
+| Outro | 6 | 0:12 | Caída suave, invitación a suscribirse, 70% energía | 70% |
+| **TOTAL** | **55** | **~1:48** | Versión ágil, interactiva, pegajosa — perfecto para retención infantil | — |
 
 ---
 
@@ -179,63 +128,45 @@ En el mundo de Talo, ¡ven a soñar!
 
 ## ESTRUCTURA NARRATIVA VISUAL
 
-| Sección | Tiempo | Visual | Acción de Talo | Emoción |
-|---|---|---|---|---|
-| Intro pegajoso | 0:00–0:06 | Selva luminosa, fondo dorado | Talo brinca, llama hacia cámara | Alegría, invitación |
-| Verso 1 | 0:06–0:24 | Montaña, río, árbol grande | Talo pintando, jugando, cantando, bañándose, construyendo | Actividades normales |
-| Estribillo 1 | 0:24–0:42 | Talo en primer plano, fondo selva | Talo se empodera, brazos arriba, giro de cola | Poder, orgullo |
-| Verso 2 | 0:42–1:12 | Árbol (trepando), río (nadando), sombra (leyendo) | Talo en diferentes ubicaciones, cambio de color: Verde→Azul→Amarillo→Rojo | Diversidad de emociones |
-| Estribillo 2 | 1:12–1:42 | Talo grande + amigos (Inta, Tuco, Rubí) brevemente | Celebración grupal, movimiento | Comunidad, energía |
-| Movimiento | 1:42–2:00 | **Plano dinámico**: Talo con gestos invitacionales | Camina, salta, pinta (gesto 1-2-3), gira cola | **PICO: 100%**, participación |
-| Puente | 2:00–2:08 | Talo mirando directo a cámara, jungla épica atrás | Afirmación: "Soy Talo y quiero ser tu amiguito" | Conexión emocional |
-| Estribillo final | 2:08–2:30 | Refrán visual: Talo en múltiples planos rápidos (montaje) | Repeticiones: "¡Igual a ti!" — cada repetición en color diferente | Adhesión, identidad |
-| Outro | 2:30–2:42 | Selva suave, luz cálida, desenfoque progresivo | Talo sentado/parado, saludo amigable, onda de despedida | Cierre cálido, 68% energía |
+| Sección | Tiempo | Visual | Acción de Talo |
+|---|---|---|---|
+| Intro | 0:00–0:06 | Selva luminosa | Talo brinca, llama hacia cámara |
+| Verso 1 | 0:06–0:18 | Montaña, río, árbol | Talo pintando, jugando, cantando, construyendo |
+| Estribillo 1 | 0:18–0:30 | Primer plano, mirada a cámara | Talo se empodera, pregunta: "¿Verdad que es genial?" |
+| Verso 2 | 0:30–0:42 | Árbol, río, luz | Cambio de color: Verde → Azul → Amarillo |
+| Estribillo 2 | 0:42–0:54 | Talo grande | Refuerzo del hook |
+| **INTERACTIVO** | **0:54–1:12** | **Talo MIRANDO DIRECTO a cámara** | **Preguntas: "¿Puedes caminar?" "¿Puedes saltar?" — PICO 100%** |
+| Puente | 1:12–1:22 | Talo mirando directo a cámara, jungla atrás | "Yo soy Talo y quiero ser tu amiguito" |
+| Estribillo final | 1:22–1:36 | Montaje rápido: Talo en diferentes colores | Repeticiones pegajosas |
+| Outro | 1:36–1:48 | Selva suave, desenfoque | Talo saluda, "¡Suscríbete!" |
 
 ---
 
-## 🎯 DISEÑO NARRATIVO — "¡Es igual a ti!"
+## 🎯 DISEÑO NARRATIVO — VERSIÓN INTERACTIVA
 
-### Verso 1: Identificación (actividades normales)
-Talo hace lo que TODOS los niños hacen:
-- **Pintar** → Creatividad artística
-- **Jugar** → Diversión, movimiento
-- **Cantar** → Expresión musical
-- **Baño** → Higiene, rutina
-- **Construir** → Creatividad, logros
+### Verso 1: Identificación
+Talo hace cosas NORMALES que todos los niños hacen → "Es igual a ti"
 
-**Objetivo:** Que el niño piense: "Yo también pinto, juego, canto. Talo es como yo."
+### Verso 2: Superpoder
+Talo tiene UN PODER ESPECIAL (cambio de color) → Fascinación
 
-### Verso 2: Fascinación (el poder especial)
-Talo tiene ALGO QUE LOS NIÑOS NO TIENEN pero DESEAN:
-- Cambio de color según emoción
-- Conexión emociones ↔ colores
-  - Verde = juego con amigos
-  - Azul = curiosidad
-  - Amarillo = fuerza
-  - Rojo = energía
+### **SECCIÓN INTERACTIVA (el diferenciador):**
+Talo NO DICE, **PREGUNTA** directamente al niño:
+- "¿Puedes caminar como Talo?"
+- "¿Puedes saltar muy alto?"
+- "¡Camina! ¡Salta! ¡Pinta! ¡Gira!"
 
-**Objetivo:** Que el niño piense: "Talo tiene algo mágico. Quiero seguir viéndolo."
+**Objetivo:** El niño se levanta del sofá y PARTICIPA. No es espectador pasivo.
 
-### Sección de Movimiento: Participación
-Talo INVITA directamente:
-- "¡Camina como Talo!"
-- "¡Salta como Talo!"
-- "¡Pinta con tus manitas!"
-- "¡Gira como mi cola!"
+### Puente: Amistad
+"Yo soy Talo y quiero ser tu amiguito"
 
-**Objetivo:** El niño se levanta del sofá y hace lo que Talo hace. **Engagement físico = retención garantizada.**
+**Objetivo:** Conexión emocional directa.
 
-### Puente/Clímax: Amistad
-Talo no solo se presenta, **quiere ser amigo**:
-"Yo soy Talo y quiero ser tu amiguito, ¿ves?"
+### Outro: CTA claro
+"¡Suscríbete, amiguito! ¡Ven aquí, ven aquí!"
 
-**Objetivo:** Conexión emocional. El niño se siente visto, querido, especial.
-
-### Outro: Invitación al universo
-No es un "¡Suscríbete!" comercial. Es una invitación cálida:
-"En el mundo de Talo, ¡ven a soñar!"
-
-**Objetivo:** El niño quiere entrar en ese mundo. Energía cae suavemente (68%), dejando ganas de más.
+**Objetivo:** El niño quiere más → suscripción.
 
 ---
 
@@ -320,26 +251,26 @@ No es un "¡Suscríbete!" comercial. Es una invitación cálida:
 
 ---
 
-## 📌 RESUMEN FINAL
+## 📌 RESUMEN FINAL — VERSIÓN CORTA & INTERACTIVA
 
-**Estructura clave de esta canción:**
-1. Intro pegajosa que establece el gancho principal (4 compases)
-2. Dos versos de actividades cotidianas vs. superpoder de color
-3. Estribillo repetitivo que refuerza identidad ("¡Soy Talo!")
-4. Sección de movimiento en pico máximo de energía (100%)
-5. Puente que conecta emocionalmente ("quiero ser tu amiguito")
-6. Estribillo final extendido con refrán de identidad ("¡Igual a ti!")
-7. Outro cálido que cae gradualmente a 68% de energía
+**Estructura clave (~1:48 min):**
+1. **Intro pegajosa** (4 comp) — Gancho "¡Talo! ¡Talo! ¡Igual a ti!"
+2. **Verso 1** (6 comp) — Actividades normales (pintar, jugar, cantar, baño, construir)
+3. **Estribillo 1** (6 comp) — Hook simple + pregunta directa al niño: "¿Verdad que es genial?"
+4. **Verso 2** (6 comp) — Colores/emociones (verde→azul→amarillo)
+5. **Estribillo 2** (6 comp) — Refuerzo del hook
+6. **SECCIÓN INTERACTIVA** (8 comp) — **PICO 100%** — Preguntas directas: "¿Puedes caminar? ¿Puedes saltar?" + invitaciones de movimiento
+7. **Puente** (5 comp) — Clímax emocional: "Yo soy Talo y quiero ser tu amiguito"
+8. **Estribillo final** (8 comp) — Repetición corta + CTA claro
+9. **Outro** (6 comp) — Cierre a 70% de energía
 
-**Por qué funciona (basado en "Camino por la Selva"):**
-- Marcha lúdica (BPM 100) mantiene energía constante sin ser frenética
-- Narrativa simple: actividades normales → superpoder especial → participación → amistad
-- Repetición comprobada del hook principal en estribillo
-- Onomatopeyas que invitan participación física
-- Do Mayor sin modulaciones = accesible para niños de 2-7 años
-- Identificación infantil ("Es igual a ti") que genera adhesión emocional
-- Pico de energía claramente marcado que evita monotonía
-- Conclusión cálida que genera ganas de "el siguiente video"
+**Por qué funciona mejor así:**
+- **Corta** (1:48) = atención infantil sostenida, no fatiga
+- **Interactiva** = preguntas directas que obligan al niño a responder/actuar
+- **Pegajosa** = menos texto, más repetición, hook memorizable
+- **Clara** = preguntas simples ("¿Puedes...?" vs. "Tú puedes...")
+- **Participativa** = el niño es PARTE de la canción, no espectador
+- **Ágil** = energía sostenida sin secciones innecesarias
 
 ---
 
