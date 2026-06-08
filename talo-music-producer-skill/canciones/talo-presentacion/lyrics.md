@@ -26,43 +26,44 @@
 
 ---
 
-## STYLE PROMPT (para Mureka) — ESTILO OSCAR
+## STYLE PROMPT (para Mureka) — ENERGÉTICO & CÁLIDO
 
 ```
-Children's pop narrative song at 95-100 BPM in C Major, 4/4 time. 
-Warm, playful groove similar to "Oscar le gusta bailar" style.
-Upbeat but not frantic. Storytelling vibe.
+Children's pop narrative song at 110-115 BPM in C Major, 4/4 time. 
+Energetic, playful groove (NOT slow). Warm but BOUNCY, like Oscar but with more tempo.
 
-INSTRUMENTATION:
-- Acoustic guitar as foundation (steady, warm)
-- Bright piano/bells for joy and lightness
-- Light Latin-inspired percussion (bongos, light shakers) — rhythmic but not dense
-- Simple, bouncy bass line
-- Ukulele accents for tropical warmth
+INSTRUMENTATION (bright & lively):
+- Acoustic guitar: upbeat strumming pattern (steady, energetic)
+- Bright piano/bells: prominent, cheerful, ADDS LIFT
+- Light Latin-inspired percussion: bongos + light shakers + claves (RHYTHMIC, NOT dense)
+- Simple, bouncy bass line: follows groove, energetic pulse
+- Ukulele accents: tropical warmth, quick rhythmic hits
 
 VOCAL PERFORMANCE:
-Warm female lead vocal, enthusiastic & narrative style (NOT conversational, NOT shouty).
-The voice tells Talo's story as if narrating to a group of children.
-- Clear diction (essential for action comprehension)
-- Narrative flow: "Él es Talo..." (gentle introduction)
-- Action verbs emphasized: "sale a explorar", "puede cambiar"
-- Natural pacing, conversational but describing actions
-- Light reverb for warmth
+Warm female lead vocal, ENTHUSIASTIC & NARRATIVE (energetic, NOT slow).
+The voice tells Talo's story with ENERGY and JOY.
+- Clear diction (essential for children to understand)
+- Narrative flow: "Él es Talo..." (BRIGHT introduction, NOT drawn out)
+- Action verbs PUNCHY: "pinta", "salta", "canta", "baila" (quick, energetic delivery)
+- Natural pacing but FASTER than Oscar — keeps momentum UP
+- Light reverb for warmth, NOT echo
 
-DYNAMICS PROGRESSION:
-- Intro: 75% energy — gentle introduction ("Él es Talo...")
-- Verses 1-2: 80% — describing actions (explore, change color)
-- Verses 3-4: 85% — more detail, visual descriptions
-- Hook "Van a jugar": 90% — energetic, inviting, repetitive
-- Verses 5-6: 85% — friends, community, winding down
-- Hook final: 90% — celebration
-- Outro: 70% — warm closure
+DYNAMICS PROGRESSION (ENERGIZED):
+- Intro: 80% energy — bright, energetic start (NOT gentle)
+- Verses: 85-90% — actions delivered with enthusiasm & movement
+- CORO "¡Talo, Talo!": 95% — PEAK, energetic, celebratory, PUNCHY repetition
+- Final CORO: 98% — maximum celebration
+- Outro: 75% — warm closure (quick & sweet)
 
-NO AUTO-TUNE. Natural vibrato. Slight warm reverb (like Oscar's style).
-Jungle sounds subtle in background, integrated naturally.
+INSTRUMENTATION CHARACTER:
+- Percussion is PRESENT & RHYTHMIC (backbone of energy, NOT overwhelming)
+- NO heavy bass drops or intensity — just BOUNCE & ENERGY
+- Overall BRIGHT & CHEERFUL, playground energy, ready to MOVE & PLAY
 
-TONE: "This is Talo's world. He plays, he explores, he changes color. Come play with him."
-Similar energy & warmth to Oscar, but celebrating Talo.
+NO AUTO-TUNE. Natural vibrato. Light reverb for warmth.
+Tempo is QUICK (110-115 BPM) but NOT frantic — playful, bouncy, FUN, child-friendly.
+
+TONE: "This is Talo! He's HERE, he's FUN, he's READY to PLAY. Pure energy, warmth, JOY."
 ```
 
 ---
